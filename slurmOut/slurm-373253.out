@@ -1,0 +1,20 @@
+==========================================
+SLURM_JOB_ID = 373253
+SLURM_NODELIST = gnode14
+SLURM_JOB_GPUS = 
+==========================================
+Traceback (most recent call last):
+  File "allocation_with_freq.py", line 23, in <module>
+    with open(META_DATA_FILE_PATH,'r') as f:
+IOError: [Errno 13] Permission denied: '/home/subbu/pinky/adslot/web_page_meta_dict_adslots_111_dataset_kosarakdat.pkl'
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/kosarak.txt', 'dataset/kosarak.dat', '500', '14000', '12000']
+##############################################
+web_page_to_adv_json_file : ./1619108160331.json
+allocated_adslots_file: ./1619108160337.json
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+Traceback (most recent call last):
+  File "plot_results.py", line 109, in <module>
+    revenue_captured = int(f.readline().strip().split()[-1])
+IndexError: list index out of range

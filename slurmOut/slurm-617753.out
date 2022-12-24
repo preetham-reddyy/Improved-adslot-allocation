@@ -1,0 +1,2324 @@
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 20
+Allocation accuracy new method: 20
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 20
+Allocation accuracy new method: 20
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994448307.txt
+Allocation accuracy: 20
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994452599.txt
+Allocation accuracy: 20
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '20', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994431719.json
+allocated_adslots_file: ./1645994431724.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 8534,9458,4728,3542,5791,11240,5899,9529,7217,9473,6425,1420,7702,11295,5600,3955,5098,11782,12160,11031 /tmp/1645994431728.txt 2 ./1645994431724.json ./1645994431719.json
+AD REPEATABILITY OF OUR NEW METHOD : 20
+0.00864
+
+ALLOCATING WITH OUR OLD METHOD: 20
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 8534,9458,4728,3542,5791,11240,5899,9529,7217,9473,6425,1420,7702,11295,5600,3955,5098,11782,12160,11031 /tmp/1645994440204.txt 2 ./1645994431724.json ./1645994431719.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 20
+0.07793
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 20
+0.8596
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 20
+AD REPEATABILITY OF RANDOM METHOD: 20
+0.75132
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [20], 'oneslot_method': [20]}
+adrepp
+{'VFS_one_method': ['0.8596'], 'VFS_multi_method': ['0.75132'], 'new_method': ['0.00864'], 'oneslot_method': ['0.07793']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 40
+Allocation accuracy new method: 40
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 40
+Allocation accuracy new method: 40
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994483970.txt
+Allocation accuracy: 40
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994491284.txt
+Allocation accuracy: 40
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '40', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994457199.json
+allocated_adslots_file: ./1645994457203.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 11367,12322,5007,10081,12652,9129,3480,7518,10409,11601,8668,9644,8320,8178,1229,11460,1737,3994,1946,4380,10237,9237,4400,6267,1903,1479,2517,4272,6388,6675,11930,9309,9130,1084,11125,9460,12881,9033,8052,4972 /tmp/1645994457207.txt 2 ./1645994457203.json ./1645994457199.json
+AD REPEATABILITY OF OUR NEW METHOD : 40
+0.04293
+
+ALLOCATING WITH OUR OLD METHOD: 40
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 11367,12322,5007,10081,12652,9129,3480,7518,10409,11601,8668,9644,8320,8178,1229,11460,1737,3994,1946,4380,10237,9237,4400,6267,1903,1479,2517,4272,6388,6675,11930,9309,9130,1084,11125,9460,12881,9033,8052,4972 /tmp/1645994470204.txt 2 ./1645994457203.json ./1645994457199.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 40
+0.64279
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 40
+1.51559
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 40
+AD REPEATABILITY OF RANDOM METHOD: 40
+1.72616
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [40], 'oneslot_method': [40]}
+adrepp
+{'VFS_one_method': ['1.51559'], 'VFS_multi_method': ['1.72616'], 'new_method': ['0.04293'], 'oneslot_method': ['0.64279']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 60
+Allocation accuracy new method: 60
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 60
+Allocation accuracy new method: 60
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994527234.txt
+Allocation accuracy: 60
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994535999.txt
+Allocation accuracy: 60
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '60', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994500108.json
+allocated_adslots_file: ./1645994500112.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 6780,4795,5010,6742,7392,12937,3276,10350,3116,12286,8944,1523,5075,11433,2020,2654,4922,5513,10265,6082,8778,7898,9867,4926,7836,9354,10480,11649,9658,1163,5989,2630,9738,3491,7801,5632,2501,11990,6477,4790,6166,8438,5017,12528,5425,9831,3724,7920,3113,3800,5481,2724,7262,2717,6137,2148,12393,11902,8035,8264 /tmp/1645994500116.txt 2 ./1645994500112.json ./1645994500108.json
+AD REPEATABILITY OF OUR NEW METHOD : 60
+0.09454
+
+ALLOCATING WITH OUR OLD METHOD: 60
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 6780,4795,5010,6742,7392,12937,3276,10350,3116,12286,8944,1523,5075,11433,2020,2654,4922,5513,10265,6082,8778,7898,9867,4926,7836,9354,10480,11649,9658,1163,5989,2630,9738,3491,7801,5632,2501,11990,6477,4790,6166,8438,5017,12528,5425,9831,3724,7920,3113,3800,5481,2724,7262,2717,6137,2148,12393,11902,8035,8264 /tmp/1645994513340.txt 2 ./1645994500112.json ./1645994500108.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 60
+0.90491
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 60
+2.03153
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 60
+AD REPEATABILITY OF RANDOM METHOD: 60
+2.07494
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [60], 'oneslot_method': [60]}
+adrepp
+{'VFS_one_method': ['2.03153'], 'VFS_multi_method': ['2.07494'], 'new_method': ['0.09454'], 'oneslot_method': ['0.90491']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 80
+Allocation accuracy new method: 80
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 80
+Allocation accuracy new method: 80
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994582310.txt
+Allocation accuracy: 42
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994592543.txt
+Allocation accuracy: 80
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '80', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994546380.json
+allocated_adslots_file: ./1645994546384.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 3924,8902,1301,4265,10949,9644,7760,6061,5133,11609,2547,11635,6379,4588,1602,9599,3449,1488,10298,10419,10290,9264,1930,1052,12655,11636,8572,11123,4363,2093,4157,10372,1066,4709,6604,7467,7090,12522,4866,8209,10031,1613,1348,6711,8681,10981,2673,5992,6564,2654,8658,2045,5809,11432,5130,7630,7564,1405,12397,2950,6240,9220,6312,3710,8506,12444,3982,2078,4817,9715,7734,5391,11649,7120,10590,9517,3755,11713,10129,8431 /tmp/1645994546387.txt 2 ./1645994546384.json ./1645994546380.json
+AD REPEATABILITY OF OUR NEW METHOD : 80
+0.58865
+
+ALLOCATING WITH OUR OLD METHOD: 80
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 3924,8902,1301,4265,10949,9644,7760,6061,5133,11609,2547,11635,6379,4588,1602,9599,3449,1488,10298,10419,10290,9264,1930,1052,12655,11636,8572,11123,4363,2093,4157,10372,1066,4709,6604,7467,7090,12522,4866,8209,10031,1613,1348,6711,8681,10981,2673,5992,6564,2654,8658,2045,5809,11432,5130,7630,7564,1405,12397,2950,6240,9220,6312,3710,8506,12444,3982,2078,4817,9715,7734,5391,11649,7120,10590,9517,3755,11713,10129,8431 /tmp/1645994564680.txt 2 ./1645994546384.json ./1645994546380.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 80
+1.68911
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 80
+2.32994
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 80
+AD REPEATABILITY OF RANDOM METHOD: 80
+2.86973
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [80], 'oneslot_method': [80]}
+adrepp
+{'VFS_one_method': ['2.32994'], 'VFS_multi_method': ['2.86973'], 'new_method': ['0.58865'], 'oneslot_method': ['1.68911']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 100
+Allocation accuracy new method: 100
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+Allocation accuracy: 57
+Allocation accuracy new method: 57
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994650509.txt
+Allocation accuracy: 37
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994662877.txt
+Allocation accuracy: 100
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '100', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994607140.json
+allocated_adslots_file: ./1645994607146.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 10224,8711,9407,9036,5892,8577,10920,3755,3621,8708,7792,2520,9100,11007,6243,4622,4958,11199,2031,9929,5914,4095,12289,11838,4786,1089,7247,11076,12924,9814,5372,1264,5839,11147,12175,3388,9893,5068,7502,6685,9174,6140,6232,6235,6606,5864,11385,2805,6088,8611,5822,6622,5244,9152,10807,8536,4843,11983,8929,12588,2759,2411,2560,10954,10724,7167,9806,4762,11096,7011,3961,6552,1055,10833,4807,8129,1161,5949,9911,9193,10879,4314,8305,1666,7467,12584,8472,8342,2875,7271,3893,2730,1126,12938,10527,11576,11375,10220,4661,9518 /tmp/1645994607151.txt 2 ./1645994607146.json ./1645994607140.json
+AD REPEATABILITY OF OUR NEW METHOD : 100
+1.3146
+
+ALLOCATING WITH OUR OLD METHOD: 100
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 10224,8711,9407,9036,5892,8577,10920,3755,3621,8708,7792,2520,9100,11007,6243,4622,4958,11199,2031,9929,5914,4095,12289,11838,4786,1089,7247,11076,12924,9814,5372,1264,5839,11147,12175,3388,9893,5068,7502,6685,9174,6140,6232,6235,6606,5864,11385,2805,6088,8611,5822,6622,5244,9152,10807,8536,4843,11983,8929,12588,2759,2411,2560,10954,10724,7167,9806,4762,11096,7011,3961,6552,1055,10833,4807,8129,1161,5949,9911,9193,10879,4314,8305,1666,7467,12584,8472,8342,2875,7271,3893,2730,1126,12938,10527,11576,11375,10220,4661,9518 /tmp/1645994630183.txt 2 ./1645994607146.json ./1645994607140.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 100
+2.0722
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 100
+2.48677
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 100
+AD REPEATABILITY OF RANDOM METHOD: 100
+3.86585
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [100], 'oneslot_method': [57]}
+adrepp
+{'VFS_one_method': ['2.48677'], 'VFS_multi_method': ['3.86585'], 'new_method': ['1.3146'], 'oneslot_method': ['2.0722']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 120
+Allocation accuracy new method: 120
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+Allocation accuracy: 53
+Allocation accuracy new method: 53
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994734407.txt
+Allocation accuracy: 34
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994747869.txt
+Allocation accuracy: 120
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '120', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994684892.json
+allocated_adslots_file: ./1645994684897.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 1375,8970,2558,1047,5865,12208,5979,10047,4012,11023,10695,2747,8973,3942,8461,6688,6017,8191,9261,9949,4106,4808,10589,7234,8408,3610,9896,6193,2332,2906,1994,1188,2634,11822,2492,8622,4150,10252,5558,11822,1258,1057,12606,11310,2533,8667,8485,2306,4336,11199,2983,11629,9766,9457,1130,8154,11588,10114,7834,11487,9921,10918,1077,12060,1642,2075,7897,8788,12492,11431,3377,11445,8489,1194,7345,12103,2192,2730,12875,6406,11725,11453,7269,3194,7825,1840,9507,1854,10430,2259,5555,11945,8624,8530,5547,6641,10994,6241,10266,10551,8677,11037,12339,7983,5816,10056,11894,6832,12469,11562,11592,7564,9934,11390,6217,4229,5244,10617,4529,7290 /tmp/1645994684902.txt 2 ./1645994684897.json ./1645994684892.json
+AD REPEATABILITY OF OUR NEW METHOD : 120
+2.15733
+
+ALLOCATING WITH OUR OLD METHOD: 120
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 1375,8970,2558,1047,5865,12208,5979,10047,4012,11023,10695,2747,8973,3942,8461,6688,6017,8191,9261,9949,4106,4808,10589,7234,8408,3610,9896,6193,2332,2906,1994,1188,2634,11822,2492,8622,4150,10252,5558,11822,1258,1057,12606,11310,2533,8667,8485,2306,4336,11199,2983,11629,9766,9457,1130,8154,11588,10114,7834,11487,9921,10918,1077,12060,1642,2075,7897,8788,12492,11431,3377,11445,8489,1194,7345,12103,2192,2730,12875,6406,11725,11453,7269,3194,7825,1840,9507,1854,10430,2259,5555,11945,8624,8530,5547,6641,10994,6241,10266,10551,8677,11037,12339,7983,5816,10056,11894,6832,12469,11562,11592,7564,9934,11390,6217,4229,5244,10617,4529,7290 /tmp/1645994711756.txt 2 ./1645994684897.json ./1645994684892.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 120
+2.29437
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 120
+2.63494
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 120
+AD REPEATABILITY OF RANDOM METHOD: 120
+4.90466
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [120], 'oneslot_method': [53]}
+adrepp
+{'VFS_one_method': ['2.63494'], 'VFS_multi_method': ['4.90466'], 'new_method': ['2.15733'], 'oneslot_method': ['2.29437']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 140
+Allocation accuracy new method: 140
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+Allocation accuracy: 56
+Allocation accuracy new method: 56
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994821518.txt
+Allocation accuracy: 34
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994834142.txt
+Allocation accuracy: 140
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '140', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994775883.json
+allocated_adslots_file: ./1645994775887.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 9233,4569,2944,3851,2601,1215,1405,2558,5866,4533,12225,6994,2892,2656,2882,8611,10849,1810,10642,3007,4713,3150,3816,6845,1245,3953,12885,10721,4480,10781,5815,12120,11743,6700,6741,5606,3079,9708,9560,4893,4003,1909,7176,10997,6161,11961,12014,12215,1389,11899,3263,7317,3788,3141,7614,7871,11461,1261,2225,2254,2633,8412,7746,1421,8143,1150,9906,5735,2456,2724,7961,7709,6503,11836,4133,2961,4503,1079,9098,8166,4113,7148,5737,5631,4553,10938,2348,7078,3244,6247,7815,11962,2610,7440,3535,3121,11890,7327,9744,4205,11983,9755,5827,2689,4657,9355,1070,10100,9331,4258,8124,8978,2266,8573,9953,12903,4243,9098,12447,12954,5164,1659,11327,3238,3702,11860,2391,8932,6902,7002,4138,10093,12402,2682,12039,5067,9048,7807,6080,10775 /tmp/1645994775891.txt 2 ./1645994775887.json ./1645994775883.json
+AD REPEATABILITY OF OUR NEW METHOD : 140
+1.88301
+
+ALLOCATING WITH OUR OLD METHOD: 140
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 9233,4569,2944,3851,2601,1215,1405,2558,5866,4533,12225,6994,2892,2656,2882,8611,10849,1810,10642,3007,4713,3150,3816,6845,1245,3953,12885,10721,4480,10781,5815,12120,11743,6700,6741,5606,3079,9708,9560,4893,4003,1909,7176,10997,6161,11961,12014,12215,1389,11899,3263,7317,3788,3141,7614,7871,11461,1261,2225,2254,2633,8412,7746,1421,8143,1150,9906,5735,2456,2724,7961,7709,6503,11836,4133,2961,4503,1079,9098,8166,4113,7148,5737,5631,4553,10938,2348,7078,3244,6247,7815,11962,2610,7440,3535,3121,11890,7327,9744,4205,11983,9755,5827,2689,4657,9355,1070,10100,9331,4258,8124,8978,2266,8573,9953,12903,4243,9098,12447,12954,5164,1659,11327,3238,3702,11860,2391,8932,6902,7002,4138,10093,12402,2682,12039,5067,9048,7807,6080,10775 /tmp/1645994801796.txt 2 ./1645994775887.json ./1645994775883.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 140
+2.15853
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 140
+2.62369
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 140
+AD REPEATABILITY OF RANDOM METHOD: 140
+4.83529
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [140], 'oneslot_method': [56]}
+adrepp
+{'VFS_one_method': ['2.62369'], 'VFS_multi_method': ['4.83529'], 'new_method': ['1.88301'], 'oneslot_method': ['2.15853']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 160
+Allocation accuracy new method: 160
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocation failed, tried all things
+allocated with low pages
+allocation failed, tried all things
+Allocation accuracy: 51
+Allocation accuracy new method: 51
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645994918615.txt
+Allocation accuracy: 35
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645994931909.txt
+Allocation accuracy: 160
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '160', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994862769.json
+allocated_adslots_file: ./1645994862774.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 9439,4575,4429,7449,3946,8173,12918,4793,9387,2756,3458,1684,6093,8115,8740,2516,10073,5636,9266,10175,11100,5969,5916,5371,9327,5351,3292,5523,11548,10270,1646,7203,10314,10348,5589,4224,7199,4819,8321,5804,10525,10683,11611,1529,3996,9434,12247,4380,12713,2848,1588,8709,2442,1949,4285,1314,4042,8395,6018,8270,8844,12260,7099,9859,10618,12565,4164,4340,7937,9057,3499,6733,3567,11156,8392,8944,4632,12796,4728,6805,9889,5115,11861,8199,4824,5199,1800,10218,8717,10036,4201,11406,8255,9044,9098,2618,5309,6270,2207,1715,11662,3328,10283,3926,6512,6864,2075,4645,8592,7686,10144,3647,5474,7582,5742,6395,9674,4658,8713,12564,10171,12350,5561,5384,9909,10365,1257,1520,8762,12027,7339,9533,12436,11925,9553,9048,2303,6137,5103,1507,12252,3386,12622,3572,1073,5173,7761,12061,1749,5666,9049,8359,12475,9479,7458,3418,9580,12298,1928,12498 /tmp/1645994862779.txt 2 ./1645994862774.json ./1645994862769.json
+AD REPEATABILITY OF OUR NEW METHOD : 160
+3.01432
+
+ALLOCATING WITH OUR OLD METHOD: 160
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 9439,4575,4429,7449,3946,8173,12918,4793,9387,2756,3458,1684,6093,8115,8740,2516,10073,5636,9266,10175,11100,5969,5916,5371,9327,5351,3292,5523,11548,10270,1646,7203,10314,10348,5589,4224,7199,4819,8321,5804,10525,10683,11611,1529,3996,9434,12247,4380,12713,2848,1588,8709,2442,1949,4285,1314,4042,8395,6018,8270,8844,12260,7099,9859,10618,12565,4164,4340,7937,9057,3499,6733,3567,11156,8392,8944,4632,12796,4728,6805,9889,5115,11861,8199,4824,5199,1800,10218,8717,10036,4201,11406,8255,9044,9098,2618,5309,6270,2207,1715,11662,3328,10283,3926,6512,6864,2075,4645,8592,7686,10144,3647,5474,7582,5742,6395,9674,4658,8713,12564,10171,12350,5561,5384,9909,10365,1257,1520,8762,12027,7339,9533,12436,11925,9553,9048,2303,6137,5103,1507,12252,3386,12622,3572,1073,5173,7761,12061,1749,5666,9049,8359,12475,9479,7458,3418,9580,12298,1928,12498 /tmp/1645994894611.txt 2 ./1645994862774.json ./1645994862769.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 160
+2.23977
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 160
+2.52629
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 160
+AD REPEATABILITY OF RANDOM METHOD: 160
+5.93609
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [160], 'oneslot_method': [51]}
+adrepp
+{'VFS_one_method': ['2.52629'], 'VFS_multi_method': ['5.93609'], 'new_method': ['3.01432'], 'oneslot_method': ['2.23977']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 180
+Allocation accuracy new method: 180
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocation failed, tried all things
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+Allocation accuracy: 53
+Allocation accuracy new method: 53
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645995028728.txt
+Allocation accuracy: 32
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645995041897.txt
+Allocation accuracy: 170
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '180', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645994961728.json
+allocated_adslots_file: ./1645994961732.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 9238,1473,5869,1498,8306,5296,2124,10410,12363,6693,1185,5660,2694,12136,1450,1394,4032,6305,11463,6229,11291,7400,9910,1723,8314,5758,12712,2140,11601,11951,1792,11989,7580,1489,4533,12034,2836,7772,5663,1278,9139,11461,12224,2966,8835,1269,3661,5253,9607,5955,9745,4804,3110,9510,11039,5112,5294,4240,9528,8383,7499,7836,3297,3766,1434,6166,10620,9215,4426,3450,6241,3716,3632,9060,1801,7520,11289,7439,9732,12067,8535,11652,3212,5585,1858,3504,7895,11629,7547,8268,2856,1939,3815,5132,7361,6030,10946,2063,12746,3625,8814,8002,3313,1160,11967,6595,8658,6380,5310,2874,9277,5394,10311,11771,6577,10853,6279,11646,9132,1185,12956,10322,4182,3874,7181,8642,8622,11139,9177,1793,10217,2652,6147,10321,3256,7827,11985,11949,1655,6260,3137,9396,1784,1623,10820,10886,4542,5789,3111,1942,9524,10803,9870,8534,6267,2718,11689,4846,12858,11574,6308,6134,4935,10811,12386,5035,12457,7584,10300,6181,4584,6025,3351,8674,6837,12353,10553,5545,4258,9434 /tmp/1645994961736.txt 2 ./1645994961732.json ./1645994961728.json
+AD REPEATABILITY OF OUR NEW METHOD : 180
+3.33161
+
+ALLOCATING WITH OUR OLD METHOD: 180
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 9238,1473,5869,1498,8306,5296,2124,10410,12363,6693,1185,5660,2694,12136,1450,1394,4032,6305,11463,6229,11291,7400,9910,1723,8314,5758,12712,2140,11601,11951,1792,11989,7580,1489,4533,12034,2836,7772,5663,1278,9139,11461,12224,2966,8835,1269,3661,5253,9607,5955,9745,4804,3110,9510,11039,5112,5294,4240,9528,8383,7499,7836,3297,3766,1434,6166,10620,9215,4426,3450,6241,3716,3632,9060,1801,7520,11289,7439,9732,12067,8535,11652,3212,5585,1858,3504,7895,11629,7547,8268,2856,1939,3815,5132,7361,6030,10946,2063,12746,3625,8814,8002,3313,1160,11967,6595,8658,6380,5310,2874,9277,5394,10311,11771,6577,10853,6279,11646,9132,1185,12956,10322,4182,3874,7181,8642,8622,11139,9177,1793,10217,2652,6147,10321,3256,7827,11985,11949,1655,6260,3137,9396,1784,1623,10820,10886,4542,5789,3111,1942,9524,10803,9870,8534,6267,2718,11689,4846,12858,11574,6308,6134,4935,10811,12386,5035,12457,7584,10300,6181,4584,6025,3351,8674,6837,12353,10553,5545,4258,9434 /tmp/1645995005947.txt 2 ./1645994961732.json ./1645994961728.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 180
+2.39026
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 180
+2.71066
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 180
+AD REPEATABILITY OF RANDOM METHOD: 180
+6.62163
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [180], 'oneslot_method': [53]}
+adrepp
+{'VFS_one_method': ['2.71066'], 'VFS_multi_method': ['6.62163'], 'new_method': ['3.33161'], 'oneslot_method': ['2.39026']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+Allocation accuracy: 200
+Allocation accuracy new method: 200
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocated with low pages
+allocated with low pages
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+allocation failed, tried all things
+Allocation accuracy: 59
+Allocation accuracy new method: 59
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl')
+/tmp/1645995140732.txt
+Allocation accuracy: 33
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl')
+/tmp/1645995151555.txt
+Allocation accuracy: 145
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/kosarak.txt', '200', '7000', '6000']
+##############################################
+web_page_to_adv_json_file : ./1645995071001.json
+allocated_adslots_file: ./1645995071005.json
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_kosaraktxt.pkl 8845,8740,1147,8049,9555,4703,2588,10974,8553,9416,12411,3484,2180,5424,9500,7591,4169,1144,11582,1081,3946,8254,5196,5349,3588,6147,1818,7154,4382,6058,3902,4954,12847,1939,9043,1335,7823,8591,5238,1052,3020,4669,3363,6302,2636,10680,3413,9373,9800,8600,9306,4743,7733,5677,3649,8391,6970,10323,7766,11378,2928,10890,2205,9310,3531,5981,9795,11982,9215,1338,1488,2818,11162,5676,9579,9501,2293,5104,7422,1024,11547,8263,10270,5171,9802,3701,1616,9628,6790,1779,7393,10261,1036,11791,2619,12868,10567,7459,1683,5947,8959,7573,12781,4360,7111,6727,5591,10012,6688,1094,3740,2187,4210,3958,2941,8956,6761,6403,8780,11853,11955,3953,4905,11401,5396,11237,12110,2682,6375,8659,11232,8158,6427,11255,11289,9638,5295,7487,8250,5519,11130,3250,7242,12238,5984,1164,7855,7448,5238,11663,7379,1576,7314,12427,1150,4713,11222,3127,6605,12816,11500,9504,6397,2727,7452,4136,2926,7072,10216,4419,12916,11114,12196,7427,9916,2135,12465,4129,11420,1716,1422,11925,6545,9705,12787,4894,3237,10448,9415,12964,3418,7399,11273,6480,3739,8395,2372,5222,1456,9295 /tmp/1645995071010.txt 2 ./1645995071005.json ./1645995071001.json
+AD REPEATABILITY OF OUR NEW METHOD : 200
+3.65396
+
+ALLOCATING WITH OUR OLD METHOD: 200
+python alloc_fresh.py ../test1/kosarak_minfreq_0.005_maxcs_1_maxor_0.04/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_kosaraktxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_kosaraktxt.pkl 8845,8740,1147,8049,9555,4703,2588,10974,8553,9416,12411,3484,2180,5424,9500,7591,4169,1144,11582,1081,3946,8254,5196,5349,3588,6147,1818,7154,4382,6058,3902,4954,12847,1939,9043,1335,7823,8591,5238,1052,3020,4669,3363,6302,2636,10680,3413,9373,9800,8600,9306,4743,7733,5677,3649,8391,6970,10323,7766,11378,2928,10890,2205,9310,3531,5981,9795,11982,9215,1338,1488,2818,11162,5676,9579,9501,2293,5104,7422,1024,11547,8263,10270,5171,9802,3701,1616,9628,6790,1779,7393,10261,1036,11791,2619,12868,10567,7459,1683,5947,8959,7573,12781,4360,7111,6727,5591,10012,6688,1094,3740,2187,4210,3958,2941,8956,6761,6403,8780,11853,11955,3953,4905,11401,5396,11237,12110,2682,6375,8659,11232,8158,6427,11255,11289,9638,5295,7487,8250,5519,11130,3250,7242,12238,5984,1164,7855,7448,5238,11663,7379,1576,7314,12427,1150,4713,11222,3127,6605,12816,11500,9504,6397,2727,7452,4136,2926,7072,10216,4419,12916,11114,12196,7427,9916,2135,12465,4129,11420,1716,1422,11925,6545,9705,12787,4894,3237,10448,9415,12964,3418,7399,11273,6480,3739,8395,2372,5222,1456,9295 /tmp/1645995112198.txt 2 ./1645995071005.json ./1645995071001.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 200
+2.32905
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 200
+2.67354
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 200
+AD REPEATABILITY OF RANDOM METHOD: 200
+6.87959
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [200], 'oneslot_method': [59]}
+adrepp
+{'VFS_one_method': ['2.67354'], 'VFS_multi_method': ['6.87959'], 'new_method': ['3.65396'], 'oneslot_method': ['2.32905']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}

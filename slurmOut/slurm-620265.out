@@ -1,0 +1,6 @@
+==========================================
+SLURM_JOB_ID = 620265
+SLURM_NODELIST = gnode74
+SLURM_JOB_GPUS = 1
+==========================================
+slurmstepd: error: *** JOB 620265 ON gnode74 CANCELLED AT 2022-03-03T18:08:23 ***

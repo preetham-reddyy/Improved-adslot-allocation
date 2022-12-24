@@ -1,0 +1,965 @@
+==========================================
+SLURM_JOB_ID = 620340
+SLURM_NODELIST = gnode18
+SLURM_JOB_GPUS = 1
+==========================================
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 20
+total views sold: 67286
+Allocation accuracy new method: 20
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 20
+total views sold: 67286
+Allocation accuracy new method: 20
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314403392.txt
+Allocation accuracy: 20
+total views sold: 67286
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314403886.txt
+Allocation accuracy: 20
+total views sold: 67286
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '20', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314396274.json
+allocated_adslots_file: ./1646314396281.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 1750,3525,6505,1440,1975,3893,5586,2198,1825,1194,5446,2862,4917,6834,1128,1893,1226,5651,6305,1133 /tmp/1646314396284.txt 2 ./1646314396281.json ./1646314396274.json
+AD REPEATABILITY OF OUR NEW METHOD : 20
+0.00078
+
+ALLOCATING WITH OUR OLD METHOD: 20
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 1750,3525,6505,1440,1975,3893,5586,2198,1825,1194,5446,2862,4917,6834,1128,1893,1226,5651,6305,1133 /tmp/1646314400073.txt 2 ./1646314396281.json ./1646314396274.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 20
+0.00073
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 20
+0.04299
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 20
+AD REPEATABILITY OF RANDOM METHOD: 20
+0.06316
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [20], 'oneslot_method': [20]}
+adrepp
+{'VFS_one_method': ['0.04299'], 'VFS_multi_method': ['0.06316'], 'new_method': ['0.00078'], 'oneslot_method': ['0.00073']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 40
+total views sold: 188808
+Allocation accuracy new method: 40
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 40
+total views sold: 188808
+Allocation accuracy new method: 40
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314416988.txt
+Allocation accuracy: 40
+total views sold: 188808
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314417621.txt
+Allocation accuracy: 40
+total views sold: 188808
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '40', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314404796.json
+allocated_adslots_file: ./1646314404800.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 5066,5152,6853,6372,6222,5293,5286,3764,4842,3500,5680,4686,2518,3410,4514,4286,3894,5623,5101,6407,6745,4600,5774,4694,4580,1644,3183,1801,6569,2649,4141,4734,2787,6405,4317,4276,5256,3938,5955,6291 /tmp/1646314404804.txt 2 ./1646314404800.json ./1646314404796.json
+AD REPEATABILITY OF OUR NEW METHOD : 40
+0.0004
+
+ALLOCATING WITH OUR OLD METHOD: 40
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5066,5152,6853,6372,6222,5293,5286,3764,4842,3500,5680,4686,2518,3410,4514,4286,3894,5623,5101,6407,6745,4600,5774,4694,4580,1644,3183,1801,6569,2649,4141,4734,2787,6405,4317,4276,5256,3938,5955,6291 /tmp/1646314411421.txt 2 ./1646314404800.json ./1646314404796.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 40
+0.00034
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 40
+0.09752
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 40
+AD REPEATABILITY OF RANDOM METHOD: 40
+0.1073
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [40], 'oneslot_method': [40]}
+adrepp
+{'VFS_one_method': ['0.09752'], 'VFS_multi_method': ['0.1073'], 'new_method': ['0.0004'], 'oneslot_method': ['0.00034']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 60
+total views sold: 265272
+Allocation accuracy new method: 60
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 60
+total views sold: 265272
+Allocation accuracy new method: 60
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314433745.txt
+Allocation accuracy: 60
+total views sold: 265272
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314434538.txt
+Allocation accuracy: 60
+total views sold: 265272
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '60', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314418639.json
+allocated_adslots_file: ./1646314418643.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 3595,1276,3342,2498,2960,2893,6381,6975,6910,6609,6120,1814,1938,2530,5692,3941,6195,4517,3326,3707,5780,3227,4312,5007,2030,6976,4774,2237,6354,4654,6713,3779,6981,6440,5448,3016,3329,3712,4342,2093,6948,5570,4395,3184,5267,4484,5134,5571,5055,6069,3921,3026,1186,5444,2098,5505,3696,4051,5418,4827 /tmp/1646314418647.txt 2 ./1646314418643.json ./1646314418639.json
+AD REPEATABILITY OF OUR NEW METHOD : 60
+0.00091
+
+ALLOCATING WITH OUR OLD METHOD: 60
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 3595,1276,3342,2498,2960,2893,6381,6975,6910,6609,6120,1814,1938,2530,5692,3941,6195,4517,3326,3707,5780,3227,4312,5007,2030,6976,4774,2237,6354,4654,6713,3779,6981,6440,5448,3016,3329,3712,4342,2093,6948,5570,4395,3184,5267,4484,5134,5571,5055,6069,3921,3026,1186,5444,2098,5505,3696,4051,5418,4827 /tmp/1646314426299.txt 2 ./1646314418643.json ./1646314418639.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 60
+0.00482
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 60
+0.18188
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 60
+AD REPEATABILITY OF RANDOM METHOD: 60
+0.20405
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [60], 'oneslot_method': [60]}
+adrepp
+{'VFS_one_method': ['0.18188'], 'VFS_multi_method': ['0.20405'], 'new_method': ['0.00091'], 'oneslot_method': ['0.00482']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 80
+total views sold: 314458
+Allocation accuracy new method: 80
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 80
+total views sold: 314458
+Allocation accuracy new method: 80
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314452168.txt
+Allocation accuracy: 80
+total views sold: 314458
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314453067.txt
+Allocation accuracy: 80
+total views sold: 314458
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '80', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314435755.json
+allocated_adslots_file: ./1646314435760.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 1454,4019,2273,1480,6437,3101,3291,1984,5051,4201,4569,6274,5191,5429,5066,1133,6848,4021,4083,5772,1361,2577,6963,1753,1356,4352,3092,2502,1896,5612,2885,1735,4207,4890,1597,1039,1591,4587,5722,1977,6606,3027,6033,4510,2097,1940,1264,2190,3322,2220,4305,4782,4064,5980,4447,1190,6528,6305,4429,3544,5064,6005,1533,5152,3309,1066,6972,3990,5220,6519,2687,3884,6483,1675,5456,6856,5195,6206,3595,5437 /tmp/1646314435764.txt 2 ./1646314435760.json ./1646314435755.json
+AD REPEATABILITY OF OUR NEW METHOD : 80
+0.00224
+
+ALLOCATING WITH OUR OLD METHOD: 80
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 1454,4019,2273,1480,6437,3101,3291,1984,5051,4201,4569,6274,5191,5429,5066,1133,6848,4021,4083,5772,1361,2577,6963,1753,1356,4352,3092,2502,1896,5612,2885,1735,4207,4890,1597,1039,1591,4587,5722,1977,6606,3027,6033,4510,2097,1940,1264,2190,3322,2220,4305,4782,4064,5980,4447,1190,6528,6305,4429,3544,5064,6005,1533,5152,3309,1066,6972,3990,5220,6519,2687,3884,6483,1675,5456,6856,5195,6206,3595,5437 /tmp/1646314444593.txt 2 ./1646314435760.json ./1646314435755.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 80
+0.01535
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 80
+0.19583
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 80
+AD REPEATABILITY OF RANDOM METHOD: 80
+0.21056
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [80], 'oneslot_method': [80]}
+adrepp
+{'VFS_one_method': ['0.19583'], 'VFS_multi_method': ['0.21056'], 'new_method': ['0.00224'], 'oneslot_method': ['0.01535']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 100
+total views sold: 420029
+Allocation accuracy new method: 100
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 100
+total views sold: 420029
+Allocation accuracy new method: 100
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314474899.txt
+Allocation accuracy: 82
+total views sold: 391645
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314475953.txt
+Allocation accuracy: 100
+total views sold: 420029
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '100', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314454352.json
+allocated_adslots_file: ./1646314454356.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 3550,3965,5391,5706,6331,5255,3874,2126,6482,4301,6795,4964,1142,4572,3073,5499,4414,2157,6314,2100,3895,1078,4687,6675,4599,6818,1945,2826,1587,4357,6213,1489,3583,3458,3472,1237,6078,1401,1082,2358,4116,6570,1287,5380,2015,5888,2408,5790,4828,5905,2533,2614,5631,4804,5541,6317,4761,5719,3173,5703,2080,1292,5407,5565,3016,2227,2293,1009,3930,3734,4241,2008,4501,5188,3457,4279,6101,6783,4745,4336,6602,6765,3370,6970,2764,5673,1349,6995,3711,5362,6529,5165,4203,4266,5125,4466,3280,3724,5183,4503 /tmp/1646314454360.txt 2 ./1646314454356.json ./1646314454352.json
+AD REPEATABILITY OF OUR NEW METHOD : 100
+0.00209
+
+ALLOCATING WITH OUR OLD METHOD: 100
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 3550,3965,5391,5706,6331,5255,3874,2126,6482,4301,6795,4964,1142,4572,3073,5499,4414,2157,6314,2100,3895,1078,4687,6675,4599,6818,1945,2826,1587,4357,6213,1489,3583,3458,3472,1237,6078,1401,1082,2358,4116,6570,1287,5380,2015,5888,2408,5790,4828,5905,2533,2614,5631,4804,5541,6317,4761,5719,3173,5703,2080,1292,5407,5565,3016,2227,2293,1009,3930,3734,4241,2008,4501,5188,3457,4279,6101,6783,4745,4336,6602,6765,3370,6970,2764,5673,1349,6995,3711,5362,6529,5165,4203,4266,5125,4466,3280,3724,5183,4503 /tmp/1646314467078.txt 2 ./1646314454356.json ./1646314454352.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 100
+0.07136
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 100
+0.31842
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 100
+AD REPEATABILITY OF RANDOM METHOD: 100
+0.3829
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [100], 'oneslot_method': [100]}
+adrepp
+{'VFS_one_method': ['0.31842'], 'VFS_multi_method': ['0.3829'], 'new_method': ['0.00209'], 'oneslot_method': ['0.07136']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 120
+total views sold: 477315
+Allocation accuracy new method: 120
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 120
+total views sold: 477315
+Allocation accuracy new method: 120
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314500018.txt
+Allocation accuracy: 78
+total views sold: 388535
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314501098.txt
+Allocation accuracy: 120
+total views sold: 477315
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '120', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314477415.json
+allocated_adslots_file: ./1646314477419.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 6034,2112,3607,1604,3217,3730,3794,6778,2475,5660,3071,2446,2843,5418,2487,6967,2946,5137,5309,3157,3053,4722,5624,5878,1789,3071,4352,5182,1901,5364,6725,2545,4770,4665,6188,3403,6341,6841,1094,3764,5417,6213,3967,3920,3939,5443,4602,1936,2439,2316,1433,6365,4748,3401,1591,2605,3340,1194,5899,4479,2438,3904,4419,2402,2604,6153,5766,3804,3935,1482,4082,2001,5411,6924,6957,5821,6800,2302,3778,1284,2454,6942,4581,3878,5620,1098,1075,3647,2709,4233,4700,4486,2079,2301,6745,5398,2719,5461,4653,6060,1330,3262,2048,2755,5849,6601,1285,5289,3150,2078,2872,4458,4019,6145,1461,2266,4113,2928,5918,5071 /tmp/1646314477423.txt 2 ./1646314477419.json ./1646314477415.json
+AD REPEATABILITY OF OUR NEW METHOD : 120
+0.00301
+
+ALLOCATING WITH OUR OLD METHOD: 120
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 6034,2112,3607,1604,3217,3730,3794,6778,2475,5660,3071,2446,2843,5418,2487,6967,2946,5137,5309,3157,3053,4722,5624,5878,1789,3071,4352,5182,1901,5364,6725,2545,4770,4665,6188,3403,6341,6841,1094,3764,5417,6213,3967,3920,3939,5443,4602,1936,2439,2316,1433,6365,4748,3401,1591,2605,3340,1194,5899,4479,2438,3904,4419,2402,2604,6153,5766,3804,3935,1482,4082,2001,5411,6924,6957,5821,6800,2302,3778,1284,2454,6942,4581,3878,5620,1098,1075,3647,2709,4233,4700,4486,2079,2301,6745,5398,2719,5461,4653,6060,1330,3262,2048,2755,5849,6601,1285,5289,3150,2078,2872,4458,4019,6145,1461,2266,4113,2928,5918,5071 /tmp/1646314490753.txt 2 ./1646314477419.json ./1646314477415.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 120
+0.07486
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 120
+0.29041
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 120
+AD REPEATABILITY OF RANDOM METHOD: 120
+0.33896
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [120], 'oneslot_method': [120]}
+adrepp
+{'VFS_one_method': ['0.29041'], 'VFS_multi_method': ['0.33896'], 'new_method': ['0.00301'], 'oneslot_method': ['0.07486']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 140
+total views sold: 525686
+Allocation accuracy new method: 140
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 140
+total views sold: 525686
+Allocation accuracy new method: 140
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314523851.txt
+Allocation accuracy: 79
+total views sold: 393693
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314524959.txt
+Allocation accuracy: 140
+total views sold: 525686
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '140', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314502693.json
+allocated_adslots_file: ./1646314502698.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 1582,5432,3213,1468,3553,3643,5055,2180,4878,4703,1681,2995,3589,1310,5696,2083,3424,3561,2657,1972,5745,4633,2636,3094,3880,2703,1727,1148,6744,3886,1464,3924,4419,5108,1995,2867,6889,6927,1819,5023,4963,4365,2749,5831,3668,4922,4547,6037,2528,3456,2375,4152,3405,2134,5852,6990,3982,1739,6865,4514,2680,1530,1008,5745,5574,3209,6221,5283,2214,1238,3642,5785,2249,4127,1017,4946,3947,6064,2578,6544,5691,1022,2401,6232,6767,2375,1974,2962,2170,2316,3470,3419,4692,6056,3388,3699,2094,6586,6662,6204,1864,2370,4622,5003,5350,4295,1773,3118,3851,6251,3892,2393,5358,6216,2128,4682,1506,2883,4503,1302,4539,2544,4144,3975,5847,2260,5682,1259,2003,2311,2631,4087,2616,2653,3484,1786,6337,2049,4725,5233 /tmp/1646314502701.txt 2 ./1646314502698.json ./1646314502693.json
+AD REPEATABILITY OF OUR NEW METHOD : 140
+0.00489
+
+ALLOCATING WITH OUR OLD METHOD: 140
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 1582,5432,3213,1468,3553,3643,5055,2180,4878,4703,1681,2995,3589,1310,5696,2083,3424,3561,2657,1972,5745,4633,2636,3094,3880,2703,1727,1148,6744,3886,1464,3924,4419,5108,1995,2867,6889,6927,1819,5023,4963,4365,2749,5831,3668,4922,4547,6037,2528,3456,2375,4152,3405,2134,5852,6990,3982,1739,6865,4514,2680,1530,1008,5745,5574,3209,6221,5283,2214,1238,3642,5785,2249,4127,1017,4946,3947,6064,2578,6544,5691,1022,2401,6232,6767,2375,1974,2962,2170,2316,3470,3419,4692,6056,3388,3699,2094,6586,6662,6204,1864,2370,4622,5003,5350,4295,1773,3118,3851,6251,3892,2393,5358,6216,2128,4682,1506,2883,4503,1302,4539,2544,4144,3975,5847,2260,5682,1259,2003,2311,2631,4087,2616,2653,3484,1786,6337,2049,4725,5233 /tmp/1646314515229.txt 2 ./1646314502698.json ./1646314502693.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 140
+0.07142
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 140
+0.34069
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 140
+AD REPEATABILITY OF RANDOM METHOD: 140
+0.37821
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [140], 'oneslot_method': [140]}
+adrepp
+{'VFS_one_method': ['0.34069'], 'VFS_multi_method': ['0.37821'], 'new_method': ['0.00489'], 'oneslot_method': ['0.07142']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 160
+total views sold: 648656
+Allocation accuracy new method: 160
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 146
+total views sold: 620923
+Allocation accuracy new method: 146
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314551693.txt
+Allocation accuracy: 72
+total views sold: 408576
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314552769.txt
+Allocation accuracy: 160
+total views sold: 648656
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '160', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314526542.json
+allocated_adslots_file: ./1646314526546.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 3398,3422,6938,5019,5694,6591,6576,2733,5223,3073,5026,2329,3010,4830,6656,2038,5248,3571,4590,6763,6236,4824,5596,2200,2227,3137,3449,4066,2809,6155,5049,2782,4535,2455,4248,4368,5210,2627,3006,4551,1211,6258,6185,5804,3527,6971,2215,3118,1494,3479,4021,5201,4321,3462,1423,4556,6088,5823,3857,1388,1848,1162,4948,5890,6377,1806,4896,2018,4073,5214,1190,6523,5307,6139,5630,4930,5318,6324,5620,2359,5300,3197,4605,4849,4378,2692,1252,2837,4616,6471,4782,5003,1131,3141,4559,3457,6823,6172,2200,2404,5509,4172,3988,5564,4426,4391,1867,1039,6026,1393,5796,3916,1250,5106,6284,6190,3280,4804,2486,4325,4589,5707,3349,6513,1725,2148,1853,5695,5671,1947,2991,4317,1709,3563,1306,3970,4885,6603,1115,6546,1657,5920,2326,5528,2364,1187,3924,6691,3139,3502,5087,1024,1560,2397,2401,1441,6943,3617,2871,6962 /tmp/1646314526550.txt 2 ./1646314526546.json ./1646314526542.json
+AD REPEATABILITY OF OUR NEW METHOD : 160
+0.05794
+
+ALLOCATING WITH OUR OLD METHOD: 160
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 3398,3422,6938,5019,5694,6591,6576,2733,5223,3073,5026,2329,3010,4830,6656,2038,5248,3571,4590,6763,6236,4824,5596,2200,2227,3137,3449,4066,2809,6155,5049,2782,4535,2455,4248,4368,5210,2627,3006,4551,1211,6258,6185,5804,3527,6971,2215,3118,1494,3479,4021,5201,4321,3462,1423,4556,6088,5823,3857,1388,1848,1162,4948,5890,6377,1806,4896,2018,4073,5214,1190,6523,5307,6139,5630,4930,5318,6324,5620,2359,5300,3197,4605,4849,4378,2692,1252,2837,4616,6471,4782,5003,1131,3141,4559,3457,6823,6172,2200,2404,5509,4172,3988,5564,4426,4391,1867,1039,6026,1393,5796,3916,1250,5106,6284,6190,3280,4804,2486,4325,4589,5707,3349,6513,1725,2148,1853,5695,5671,1947,2991,4317,1709,3563,1306,3970,4885,6603,1115,6546,1657,5920,2326,5528,2364,1187,3924,6691,3139,3502,5087,1024,1560,2397,2401,1441,6943,3617,2871,6962 /tmp/1646314542334.txt 2 ./1646314526546.json ./1646314526542.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 160
+0.13227
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 160
+0.36737
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 160
+AD REPEATABILITY OF RANDOM METHOD: 160
+0.45028
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [160], 'oneslot_method': [146]}
+adrepp
+{'VFS_one_method': ['0.36737'], 'VFS_multi_method': ['0.45028'], 'new_method': ['0.05794'], 'oneslot_method': ['0.13227']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 180
+total views sold: 686869
+Allocation accuracy new method: 180
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 148
+total views sold: 621104
+Allocation accuracy new method: 148
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314578576.txt
+Allocation accuracy: 74
+total views sold: 412778
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314579635.txt
+Allocation accuracy: 180
+total views sold: 686869
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '180', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314554547.json
+allocated_adslots_file: ./1646314554551.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 5010,6343,2559,4812,2510,3637,2500,4865,3442,1129,1477,1898,5116,1301,4003,3411,6853,6528,1183,6416,3241,1659,5296,4828,6453,4342,2727,5452,4179,2848,6731,5899,4841,3826,1347,1318,4337,6613,3658,1985,5136,5932,2086,6489,3925,6287,5409,3870,4240,4264,2336,3281,1322,4085,2381,1778,6818,2805,3222,5802,4635,2323,2114,2159,5864,1781,6796,4491,2273,5855,2947,5163,3337,2064,6268,6571,3411,5482,5769,5827,1548,3463,3423,1176,3443,6215,6181,3560,6703,6142,2063,1464,3019,4638,5720,2750,2229,3548,1173,3292,1577,3255,1874,3842,5160,3470,1530,2920,2189,5634,6290,1346,1306,6038,2632,4890,4699,2837,2825,3405,3655,1229,2076,3818,1606,5173,5353,1490,4789,1219,5826,5047,5774,3068,4154,3966,3454,6414,5570,1259,4538,4860,2400,1044,3502,1185,1430,4321,2457,6542,5170,2154,4986,4428,4697,1751,1538,3975,5899,3980,1571,4281,4264,1406,4226,2949,1565,6210,5466,4688,4574,2367,6591,6843,2633,6238,2277,4141,4861,1281 /tmp/1646314554555.txt 2 ./1646314554551.json ./1646314554547.json
+AD REPEATABILITY OF OUR NEW METHOD : 180
+0.05874
+
+ALLOCATING WITH OUR OLD METHOD: 180
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5010,6343,2559,4812,2510,3637,2500,4865,3442,1129,1477,1898,5116,1301,4003,3411,6853,6528,1183,6416,3241,1659,5296,4828,6453,4342,2727,5452,4179,2848,6731,5899,4841,3826,1347,1318,4337,6613,3658,1985,5136,5932,2086,6489,3925,6287,5409,3870,4240,4264,2336,3281,1322,4085,2381,1778,6818,2805,3222,5802,4635,2323,2114,2159,5864,1781,6796,4491,2273,5855,2947,5163,3337,2064,6268,6571,3411,5482,5769,5827,1548,3463,3423,1176,3443,6215,6181,3560,6703,6142,2063,1464,3019,4638,5720,2750,2229,3548,1173,3292,1577,3255,1874,3842,5160,3470,1530,2920,2189,5634,6290,1346,1306,6038,2632,4890,4699,2837,2825,3405,3655,1229,2076,3818,1606,5173,5353,1490,4789,1219,5826,5047,5774,3068,4154,3966,3454,6414,5570,1259,4538,4860,2400,1044,3502,1185,1430,4321,2457,6542,5170,2154,4986,4428,4697,1751,1538,3975,5899,3980,1571,4281,4264,1406,4226,2949,1565,6210,5466,4688,4574,2367,6591,6843,2633,6238,2277,4141,4861,1281 /tmp/1646314568683.txt 2 ./1646314554551.json ./1646314554547.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 180
+0.13489
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 180
+0.3213
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 180
+AD REPEATABILITY OF RANDOM METHOD: 180
+0.50311
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [180], 'oneslot_method': [148]}
+adrepp
+{'VFS_one_method': ['0.3213'], 'VFS_multi_method': ['0.50311'], 'new_method': ['0.05874'], 'oneslot_method': ['0.13489']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 200
+total views sold: 769056
+Allocation accuracy new method: 200
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 144
+total views sold: 625313
+Allocation accuracy new method: 144
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314606243.txt
+Allocation accuracy: 71
+total views sold: 416369
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314607366.txt
+Allocation accuracy: 174
+total views sold: 735112
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '200', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314581461.json
+allocated_adslots_file: ./1646314581466.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 5724,3973,2444,3683,5709,1171,3369,2873,2955,1953,5238,5155,2312,5078,1002,4883,1515,2676,6270,3630,5393,6284,6059,6738,1727,3025,4778,3460,3734,4695,6589,1753,3196,5284,2972,6866,1446,5030,4433,3242,2135,1863,6130,1066,5346,5513,1463,2238,3642,2517,1537,6160,3520,3111,3757,5721,1336,3450,1415,6498,3025,3795,6632,3050,2711,2786,6199,5628,2409,2093,6054,5369,1339,2033,3979,6363,5840,6327,1776,2404,2952,3932,2338,5577,2410,2629,1264,4008,1513,4937,3361,5336,1824,4055,3926,6177,2371,2288,4733,2524,6156,2943,6745,6889,3981,1940,1815,1320,5149,5593,5963,2751,4426,1259,2872,6946,3003,1034,4530,4704,6061,1452,6221,5217,4439,1739,1850,2261,6407,5311,6675,1773,3856,2239,6828,3368,6122,1072,5555,4157,1690,2298,6367,4067,1890,4107,4227,5966,6079,5593,2298,1547,1985,2234,6799,5471,5015,6279,4076,1084,2658,1201,1030,3787,6517,1199,1988,1015,3663,6932,1979,4118,5329,4785,4069,3024,5213,6804,5667,2032,6962,5198,4169,4132,5032,5283,4078,2769,4305,5138,1548,3958,3405,1563,3751,4874,5121,1553,4394,2417 /tmp/1646314581471.txt 2 ./1646314581466.json ./1646314581461.json
+AD REPEATABILITY OF OUR NEW METHOD : 200
+0.09515
+
+ALLOCATING WITH OUR OLD METHOD: 200
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5724,3973,2444,3683,5709,1171,3369,2873,2955,1953,5238,5155,2312,5078,1002,4883,1515,2676,6270,3630,5393,6284,6059,6738,1727,3025,4778,3460,3734,4695,6589,1753,3196,5284,2972,6866,1446,5030,4433,3242,2135,1863,6130,1066,5346,5513,1463,2238,3642,2517,1537,6160,3520,3111,3757,5721,1336,3450,1415,6498,3025,3795,6632,3050,2711,2786,6199,5628,2409,2093,6054,5369,1339,2033,3979,6363,5840,6327,1776,2404,2952,3932,2338,5577,2410,2629,1264,4008,1513,4937,3361,5336,1824,4055,3926,6177,2371,2288,4733,2524,6156,2943,6745,6889,3981,1940,1815,1320,5149,5593,5963,2751,4426,1259,2872,6946,3003,1034,4530,4704,6061,1452,6221,5217,4439,1739,1850,2261,6407,5311,6675,1773,3856,2239,6828,3368,6122,1072,5555,4157,1690,2298,6367,4067,1890,4107,4227,5966,6079,5593,2298,1547,1985,2234,6799,5471,5015,6279,4076,1084,2658,1201,1030,3787,6517,1199,1988,1015,3663,6932,1979,4118,5329,4785,4069,3024,5213,6804,5667,2032,6962,5198,4169,4132,5032,5283,4078,2769,4305,5138,1548,3958,3405,1563,3751,4874,5121,1553,4394,2417 /tmp/1646314596805.txt 2 ./1646314581466.json ./1646314581461.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 200
+0.16493
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 200
+0.35333
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 200
+AD REPEATABILITY OF RANDOM METHOD: 200
+0.58084
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [200], 'oneslot_method': [144]}
+adrepp
+{'VFS_one_method': ['0.35333'], 'VFS_multi_method': ['0.58084'], 'new_method': ['0.09515'], 'oneslot_method': ['0.16493']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 220
+total views sold: 881313
+Allocation accuracy new method: 220
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 132
+total views sold: 605621
+Allocation accuracy new method: 132
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314636425.txt
+Allocation accuracy: 69
+total views sold: 415161
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314637514.txt
+Allocation accuracy: 159
+total views sold: 764620
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '220', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314609357.json
+allocated_adslots_file: ./1646314609362.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 4641,5846,5771,2390,5959,2109,2719,4467,5400,1922,4277,6233,3830,5576,2750,4701,2795,3872,6786,4027,2480,4317,3540,3838,5219,5828,3680,4218,5456,5055,6019,1569,2710,2945,6241,5681,6517,1525,3867,6207,3585,1258,4253,3898,6323,5736,6683,1337,3154,3833,3905,4644,3342,4175,2579,5580,2639,6567,3551,6016,2968,6244,3532,3797,4273,5811,5331,5746,2778,6438,1223,4764,4402,3907,6556,2421,6067,5138,1555,5644,6858,1001,3706,1358,2321,5771,2639,3660,1409,1983,1316,2754,4403,4207,5415,2881,1442,3098,2845,6444,3194,5523,1989,1434,2807,1289,5861,1094,6115,5275,3463,1224,4323,6170,3106,5873,2671,1524,4287,5792,2015,2867,5169,5131,6119,2211,5779,6054,3817,1556,1150,1548,1496,4979,5968,6226,2435,1007,2726,4625,5892,5906,4592,5708,4539,1288,5773,5820,4222,2643,3590,2038,6606,6169,3772,6305,3178,5387,2475,2527,5270,6440,3615,1653,4919,2219,2321,6155,2399,2130,1509,2015,3630,3234,5780,3431,2448,2568,3965,2118,2983,1908,5671,2943,3531,1519,3176,6357,4153,6708,6995,2152,6555,1317,2569,6226,3807,4211,5187,4740,2700,4425,3698,6719,6381,2947,5125,1332,5981,3506,6220,3581,2297,5361,5271,5053,3306,3868,4977,3569 /tmp/1646314609365.txt 2 ./1646314609362.json ./1646314609357.json
+AD REPEATABILITY OF OUR NEW METHOD : 220
+0.13686
+
+ALLOCATING WITH OUR OLD METHOD: 220
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 4641,5846,5771,2390,5959,2109,2719,4467,5400,1922,4277,6233,3830,5576,2750,4701,2795,3872,6786,4027,2480,4317,3540,3838,5219,5828,3680,4218,5456,5055,6019,1569,2710,2945,6241,5681,6517,1525,3867,6207,3585,1258,4253,3898,6323,5736,6683,1337,3154,3833,3905,4644,3342,4175,2579,5580,2639,6567,3551,6016,2968,6244,3532,3797,4273,5811,5331,5746,2778,6438,1223,4764,4402,3907,6556,2421,6067,5138,1555,5644,6858,1001,3706,1358,2321,5771,2639,3660,1409,1983,1316,2754,4403,4207,5415,2881,1442,3098,2845,6444,3194,5523,1989,1434,2807,1289,5861,1094,6115,5275,3463,1224,4323,6170,3106,5873,2671,1524,4287,5792,2015,2867,5169,5131,6119,2211,5779,6054,3817,1556,1150,1548,1496,4979,5968,6226,2435,1007,2726,4625,5892,5906,4592,5708,4539,1288,5773,5820,4222,2643,3590,2038,6606,6169,3772,6305,3178,5387,2475,2527,5270,6440,3615,1653,4919,2219,2321,6155,2399,2130,1509,2015,3630,3234,5780,3431,2448,2568,3965,2118,2983,1908,5671,2943,3531,1519,3176,6357,4153,6708,6995,2152,6555,1317,2569,6226,3807,4211,5187,4740,2700,4425,3698,6719,6381,2947,5125,1332,5981,3506,6220,3581,2297,5361,5271,5053,3306,3868,4977,3569 /tmp/1646314628039.txt 2 ./1646314609362.json ./1646314609357.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 220
+0.16265
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 220
+0.40718
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 220
+AD REPEATABILITY OF RANDOM METHOD: 220
+0.6126
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [220], 'oneslot_method': [132]}
+adrepp
+{'VFS_one_method': ['0.40718'], 'VFS_multi_method': ['0.6126'], 'new_method': ['0.13686'], 'oneslot_method': ['0.16265']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 240
+total views sold: 929588
+Allocation accuracy new method: 240
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 152
+total views sold: 641991
+Allocation accuracy new method: 152
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314664326.txt
+Allocation accuracy: 68
+total views sold: 421908
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314665407.txt
+Allocation accuracy: 150
+total views sold: 761029
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '240', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314639418.json
+allocated_adslots_file: ./1646314639423.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 2271,6213,5504,1441,3539,4823,1710,5914,1677,6187,1555,5757,2008,3453,5692,6993,2562,1035,5632,6145,2783,4181,2651,2648,2288,2037,1600,1390,4002,3488,2605,5526,4923,6911,1409,1717,3332,2414,5329,2071,3807,6445,2302,2365,5998,3984,1130,5050,6666,3384,2066,1440,4472,2847,5320,1145,3834,2596,3944,6376,6725,4219,5024,4632,5334,2022,4355,1927,3241,1517,6781,2262,1468,1506,5376,3857,4009,4530,5363,5320,5296,6111,4923,5925,6196,3058,5289,1405,1008,3052,6387,3064,2250,6357,2027,3331,3218,1026,1793,3744,6390,6321,4625,2537,4700,6706,5771,6417,3237,4058,1655,6561,6183,3476,6911,1767,4581,4918,5147,6422,5727,6411,5737,5535,1337,6058,5687,6051,2756,2075,4999,6942,3702,5850,1495,4808,4440,3396,1828,5462,1463,4953,1342,3779,2389,1856,2755,3626,1159,2788,6175,3715,1384,1876,4627,3735,4156,6563,4102,1203,1793,5466,6844,4350,3771,4548,3616,1567,1237,4776,1892,1674,2625,2249,2352,4556,1516,1369,5919,3659,3936,6674,3785,6166,5199,5393,2891,1697,2441,6993,6686,6997,3730,2640,5088,6368,4048,5600,5648,3357,3159,5796,2276,2545,1257,3222,1480,3656,1696,5841,2098,2716,4426,6194,1092,6698,1362,1151,2455,6234,6935,6888,1403,2757,3900,6607,1339,1025,3149,3783,2358,4756,1088,2603,1167,6831,3941,6602,5468,4678 /tmp/1646314639427.txt 2 ./1646314639423.json ./1646314639418.json
+AD REPEATABILITY OF OUR NEW METHOD : 240
+0.14724
+
+ALLOCATING WITH OUR OLD METHOD: 240
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 2271,6213,5504,1441,3539,4823,1710,5914,1677,6187,1555,5757,2008,3453,5692,6993,2562,1035,5632,6145,2783,4181,2651,2648,2288,2037,1600,1390,4002,3488,2605,5526,4923,6911,1409,1717,3332,2414,5329,2071,3807,6445,2302,2365,5998,3984,1130,5050,6666,3384,2066,1440,4472,2847,5320,1145,3834,2596,3944,6376,6725,4219,5024,4632,5334,2022,4355,1927,3241,1517,6781,2262,1468,1506,5376,3857,4009,4530,5363,5320,5296,6111,4923,5925,6196,3058,5289,1405,1008,3052,6387,3064,2250,6357,2027,3331,3218,1026,1793,3744,6390,6321,4625,2537,4700,6706,5771,6417,3237,4058,1655,6561,6183,3476,6911,1767,4581,4918,5147,6422,5727,6411,5737,5535,1337,6058,5687,6051,2756,2075,4999,6942,3702,5850,1495,4808,4440,3396,1828,5462,1463,4953,1342,3779,2389,1856,2755,3626,1159,2788,6175,3715,1384,1876,4627,3735,4156,6563,4102,1203,1793,5466,6844,4350,3771,4548,3616,1567,1237,4776,1892,1674,2625,2249,2352,4556,1516,1369,5919,3659,3936,6674,3785,6166,5199,5393,2891,1697,2441,6993,6686,6997,3730,2640,5088,6368,4048,5600,5648,3357,3159,5796,2276,2545,1257,3222,1480,3656,1696,5841,2098,2716,4426,6194,1092,6698,1362,1151,2455,6234,6935,6888,1403,2757,3900,6607,1339,1025,3149,3783,2358,4756,1088,2603,1167,6831,3941,6602,5468,4678 /tmp/1646314656136.txt 2 ./1646314639423.json ./1646314639418.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 240
+0.16759
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 240
+0.38014
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 240
+AD REPEATABILITY OF RANDOM METHOD: 240
+0.70056
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [240], 'oneslot_method': [152]}
+adrepp
+{'VFS_one_method': ['0.38014'], 'VFS_multi_method': ['0.70056'], 'new_method': ['0.14724'], 'oneslot_method': ['0.16759']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 260
+total views sold: 1080196
+Allocation accuracy new method: 260
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 131
+total views sold: 609358
+Allocation accuracy new method: 131
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314694181.txt
+Allocation accuracy: 65
+total views sold: 412954
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314695262.txt
+Allocation accuracy: 146
+total views sold: 801697
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '260', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314667327.json
+allocated_adslots_file: ./1646314667331.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 5180,5811,6933,6510,2452,6083,2578,5858,5118,6536,6168,5893,2862,5453,6222,6994,6647,6242,4965,5495,5234,2648,3151,3357,3298,3542,5362,4057,3021,6010,4135,4030,1768,1808,5496,2150,3691,5536,4901,6941,3043,4693,4572,5122,6195,4367,2949,2343,6695,2152,5120,5607,4926,3137,3333,1217,1498,1040,2531,4458,4535,1952,4429,6014,5214,3475,5436,6647,4200,2885,6639,2774,4522,5400,4633,3335,1798,5605,3709,5178,3433,2504,6590,2231,5405,5401,1652,6186,6282,5129,1318,6534,4610,6949,5598,3047,3661,2018,6557,6324,5821,5122,6661,1874,5784,5507,3239,5055,3210,1299,5222,6283,2935,3406,3694,6802,2359,1504,6379,2072,1008,4068,3794,6962,5907,5643,1808,1142,2759,4029,6667,4918,1864,6695,5550,4957,3362,5836,4217,6806,6424,5444,1665,6739,2778,4174,6042,3262,2227,5257,4881,2272,1483,3399,6464,6328,3044,2293,3213,1382,2884,1257,1943,5168,3529,2275,2335,3947,1430,4107,5392,4080,2723,1501,6969,1554,4174,2301,5200,6106,5500,3882,3641,5751,6327,6490,4959,2177,1024,5378,2723,2350,3574,1792,3208,4814,1651,5055,2390,5245,6481,3264,6979,3027,2438,5575,6711,3721,2298,2612,6158,6080,3639,6494,1867,6780,5847,1703,3174,4415,1357,1293,4448,5199,2654,3200,4947,4119,6053,5613,4593,5788,2544,2334,3740,6300,4985,3559,3472,3807,2169,4466,1623,4540,1380,1626,6533,2372,5187,1460,6467,4458,2408,2248,2762,1363,3274,4223,6717,2912 /tmp/1646314667335.txt 2 ./1646314667331.json ./1646314667327.json
+AD REPEATABILITY OF OUR NEW METHOD : 260
+0.2152
+
+ALLOCATING WITH OUR OLD METHOD: 260
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5180,5811,6933,6510,2452,6083,2578,5858,5118,6536,6168,5893,2862,5453,6222,6994,6647,6242,4965,5495,5234,2648,3151,3357,3298,3542,5362,4057,3021,6010,4135,4030,1768,1808,5496,2150,3691,5536,4901,6941,3043,4693,4572,5122,6195,4367,2949,2343,6695,2152,5120,5607,4926,3137,3333,1217,1498,1040,2531,4458,4535,1952,4429,6014,5214,3475,5436,6647,4200,2885,6639,2774,4522,5400,4633,3335,1798,5605,3709,5178,3433,2504,6590,2231,5405,5401,1652,6186,6282,5129,1318,6534,4610,6949,5598,3047,3661,2018,6557,6324,5821,5122,6661,1874,5784,5507,3239,5055,3210,1299,5222,6283,2935,3406,3694,6802,2359,1504,6379,2072,1008,4068,3794,6962,5907,5643,1808,1142,2759,4029,6667,4918,1864,6695,5550,4957,3362,5836,4217,6806,6424,5444,1665,6739,2778,4174,6042,3262,2227,5257,4881,2272,1483,3399,6464,6328,3044,2293,3213,1382,2884,1257,1943,5168,3529,2275,2335,3947,1430,4107,5392,4080,2723,1501,6969,1554,4174,2301,5200,6106,5500,3882,3641,5751,6327,6490,4959,2177,1024,5378,2723,2350,3574,1792,3208,4814,1651,5055,2390,5245,6481,3264,6979,3027,2438,5575,6711,3721,2298,2612,6158,6080,3639,6494,1867,6780,5847,1703,3174,4415,1357,1293,4448,5199,2654,3200,4947,4119,6053,5613,4593,5788,2544,2334,3740,6300,4985,3559,3472,3807,2169,4466,1623,4540,1380,1626,6533,2372,5187,1460,6467,4458,2408,2248,2762,1363,3274,4223,6717,2912 /tmp/1646314685412.txt 2 ./1646314667331.json ./1646314667327.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 260
+0.18573
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 260
+0.4191
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 260
+AD REPEATABILITY OF RANDOM METHOD: 260
+0.73441
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [260], 'oneslot_method': [131]}
+adrepp
+{'VFS_one_method': ['0.4191'], 'VFS_multi_method': ['0.73441'], 'new_method': ['0.2152'], 'oneslot_method': ['0.18573']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 280
+total views sold: 1104872
+Allocation accuracy new method: 280
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 144
+total views sold: 632237
+Allocation accuracy new method: 144
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314724322.txt
+Allocation accuracy: 69
+total views sold: 433971
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314725436.txt
+Allocation accuracy: 146
+total views sold: 782719
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '280', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314697261.json
+allocated_adslots_file: ./1646314697265.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 6754,4783,4193,4333,4716,3751,5172,2157,2480,3772,1430,1174,4252,2151,2447,3003,6063,6312,4258,2854,5002,1318,3091,1408,3335,3838,1555,1316,3393,6617,6936,3184,2629,4646,5784,5029,5916,1128,1137,3374,3332,5761,4946,5694,5537,4574,2707,6385,5247,6908,2801,3423,5892,4196,2734,5565,6120,2030,3071,2174,1556,4911,2333,3591,1470,2846,6279,3113,1334,5200,2301,1679,5018,3783,5850,6151,3218,5244,3510,6398,5766,3930,6753,4426,2181,3658,2624,3970,3563,6698,6761,5142,1979,2932,1759,1250,2112,2003,4704,3376,5811,1915,3726,2180,1906,2489,4779,3510,1628,6126,3008,5171,5376,6905,1179,2118,5302,2785,1983,1739,6315,1450,3885,6743,1142,3301,5053,1698,4763,3720,6765,4159,3255,4170,3414,5038,5932,3113,6912,6974,2152,3245,5727,4228,2381,4862,6298,5955,1258,1259,6918,5732,3802,5974,2536,4150,4183,1318,2713,6140,4074,2243,4643,3599,4937,4530,6965,4597,1514,1945,6172,6614,3885,2227,3999,1712,6195,3727,1393,2792,1895,6036,6977,5671,5176,2799,1430,6968,5748,2388,3040,3685,3400,6174,6344,4801,2280,1523,2824,2002,3134,4585,5396,5940,2035,5819,5342,3995,6100,6495,4193,4112,2975,3265,6842,2466,6337,2224,1182,4248,2149,5122,3830,3003,6123,1694,1098,6384,6935,1897,1338,3630,2555,1983,4445,2529,1490,6665,2532,4690,1107,3370,5441,4011,3241,3076,5536,4055,4106,6268,3756,3265,4627,3524,6391,5380,2846,2913,6427,6773,2988,6296,4841,3274,1831,3005,4677,3626,6643,3810,5856,4271,1538,6150,2037,2371,5188,1337,3315,4575 /tmp/1646314697270.txt 2 ./1646314697265.json ./1646314697261.json
+AD REPEATABILITY OF OUR NEW METHOD : 280
+0.18045
+
+ALLOCATING WITH OUR OLD METHOD: 280
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 6754,4783,4193,4333,4716,3751,5172,2157,2480,3772,1430,1174,4252,2151,2447,3003,6063,6312,4258,2854,5002,1318,3091,1408,3335,3838,1555,1316,3393,6617,6936,3184,2629,4646,5784,5029,5916,1128,1137,3374,3332,5761,4946,5694,5537,4574,2707,6385,5247,6908,2801,3423,5892,4196,2734,5565,6120,2030,3071,2174,1556,4911,2333,3591,1470,2846,6279,3113,1334,5200,2301,1679,5018,3783,5850,6151,3218,5244,3510,6398,5766,3930,6753,4426,2181,3658,2624,3970,3563,6698,6761,5142,1979,2932,1759,1250,2112,2003,4704,3376,5811,1915,3726,2180,1906,2489,4779,3510,1628,6126,3008,5171,5376,6905,1179,2118,5302,2785,1983,1739,6315,1450,3885,6743,1142,3301,5053,1698,4763,3720,6765,4159,3255,4170,3414,5038,5932,3113,6912,6974,2152,3245,5727,4228,2381,4862,6298,5955,1258,1259,6918,5732,3802,5974,2536,4150,4183,1318,2713,6140,4074,2243,4643,3599,4937,4530,6965,4597,1514,1945,6172,6614,3885,2227,3999,1712,6195,3727,1393,2792,1895,6036,6977,5671,5176,2799,1430,6968,5748,2388,3040,3685,3400,6174,6344,4801,2280,1523,2824,2002,3134,4585,5396,5940,2035,5819,5342,3995,6100,6495,4193,4112,2975,3265,6842,2466,6337,2224,1182,4248,2149,5122,3830,3003,6123,1694,1098,6384,6935,1897,1338,3630,2555,1983,4445,2529,1490,6665,2532,4690,1107,3370,5441,4011,3241,3076,5536,4055,4106,6268,3756,3265,4627,3524,6391,5380,2846,2913,6427,6773,2988,6296,4841,3274,1831,3005,4677,3626,6643,3810,5856,4271,1538,6150,2037,2371,5188,1337,3315,4575 /tmp/1646314714722.txt 2 ./1646314697265.json ./1646314697261.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 280
+0.19206
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 280
+0.38683
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 280
+AD REPEATABILITY OF RANDOM METHOD: 280
+0.72908
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [280], 'oneslot_method': [144]}
+adrepp
+{'VFS_one_method': ['0.38683'], 'VFS_multi_method': ['0.72908'], 'new_method': ['0.18045'], 'oneslot_method': ['0.19206']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 300
+total views sold: 1182879
+Allocation accuracy new method: 300
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 150
+total views sold: 643812
+Allocation accuracy new method: 150
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314753824.txt
+Allocation accuracy: 66
+total views sold: 416493
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314754900.txt
+Allocation accuracy: 139
+total views sold: 769402
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '300', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314727384.json
+allocated_adslots_file: ./1646314727389.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 5775,4013,1622,3032,1687,1518,5717,4718,3509,5135,4500,6787,5293,2491,1478,3226,5299,4455,6750,3515,3013,2398,4670,2565,3285,3769,5793,4557,5677,5539,4964,5400,2187,4123,5728,1419,6558,3165,1977,3346,3066,4540,3544,3128,3476,1148,6494,5690,5530,4121,5299,2842,6013,6153,2181,6438,1803,2697,2765,2012,6293,5401,3584,5003,4633,5649,1848,1774,3890,2875,1920,6684,6469,4339,5927,5760,1568,6363,4391,6224,2929,1536,4067,3903,1084,3529,5668,4553,1186,3358,2536,1479,3150,3601,3188,6137,4950,6169,4273,4116,6310,6806,6066,2020,5088,2506,3558,2057,3956,3343,2227,5372,3310,6161,4141,1270,1287,3469,3261,2236,5994,1448,3454,6484,3238,5884,2706,6831,2669,3346,3764,1321,6223,5003,5328,2974,4029,5404,5269,3765,1986,5786,5082,5384,2561,6615,1886,6179,2876,4130,4077,1216,6763,3222,6755,1948,6451,2234,4339,3789,6283,2926,2207,1372,3754,3413,4140,6956,2231,5162,2385,6525,2770,3273,3338,6126,1830,4638,5057,5922,3209,1936,5511,3956,4460,6016,1568,6098,4595,2022,2259,2194,1980,1209,3461,3184,1428,1894,6977,5943,2858,1696,1197,2594,6856,5367,3693,2758,1530,2491,1394,6944,2745,6623,6184,4130,6621,3047,4550,2978,3565,5620,2910,1728,5690,5032,4301,4015,2995,3770,6154,5935,5491,3432,5392,4948,5050,3564,1513,2779,5422,2925,6094,2109,1795,2583,4149,3844,1019,1249,2910,1335,6529,6469,5947,5972,6569,4808,3514,2651,4315,4974,3749,6695,3123,4069,6555,3408,4306,5186,1408,2753,1201,4585,6879,1296,1352,6591,4094,1844,6248,3963,1430,4757,3659,3068,6671,3475,6166,1599,2768,1552,1185,1048,5715,2076,5586,3184,3899,3749 /tmp/1646314727393.txt 2 ./1646314727389.json ./1646314727384.json
+AD REPEATABILITY OF OUR NEW METHOD : 300
+0.21216
+
+ALLOCATING WITH OUR OLD METHOD: 300
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5775,4013,1622,3032,1687,1518,5717,4718,3509,5135,4500,6787,5293,2491,1478,3226,5299,4455,6750,3515,3013,2398,4670,2565,3285,3769,5793,4557,5677,5539,4964,5400,2187,4123,5728,1419,6558,3165,1977,3346,3066,4540,3544,3128,3476,1148,6494,5690,5530,4121,5299,2842,6013,6153,2181,6438,1803,2697,2765,2012,6293,5401,3584,5003,4633,5649,1848,1774,3890,2875,1920,6684,6469,4339,5927,5760,1568,6363,4391,6224,2929,1536,4067,3903,1084,3529,5668,4553,1186,3358,2536,1479,3150,3601,3188,6137,4950,6169,4273,4116,6310,6806,6066,2020,5088,2506,3558,2057,3956,3343,2227,5372,3310,6161,4141,1270,1287,3469,3261,2236,5994,1448,3454,6484,3238,5884,2706,6831,2669,3346,3764,1321,6223,5003,5328,2974,4029,5404,5269,3765,1986,5786,5082,5384,2561,6615,1886,6179,2876,4130,4077,1216,6763,3222,6755,1948,6451,2234,4339,3789,6283,2926,2207,1372,3754,3413,4140,6956,2231,5162,2385,6525,2770,3273,3338,6126,1830,4638,5057,5922,3209,1936,5511,3956,4460,6016,1568,6098,4595,2022,2259,2194,1980,1209,3461,3184,1428,1894,6977,5943,2858,1696,1197,2594,6856,5367,3693,2758,1530,2491,1394,6944,2745,6623,6184,4130,6621,3047,4550,2978,3565,5620,2910,1728,5690,5032,4301,4015,2995,3770,6154,5935,5491,3432,5392,4948,5050,3564,1513,2779,5422,2925,6094,2109,1795,2583,4149,3844,1019,1249,2910,1335,6529,6469,5947,5972,6569,4808,3514,2651,4315,4974,3749,6695,3123,4069,6555,3408,4306,5186,1408,2753,1201,4585,6879,1296,1352,6591,4094,1844,6248,3963,1430,4757,3659,3068,6671,3475,6166,1599,2768,1552,1185,1048,5715,2076,5586,3184,3899,3749 /tmp/1646314744364.txt 2 ./1646314727389.json ./1646314727384.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 300
+0.17831
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 300
+0.39269
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 300
+AD REPEATABILITY OF RANDOM METHOD: 300
+0.77917
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [300], 'oneslot_method': [150]}
+adrepp
+{'VFS_one_method': ['0.39269'], 'VFS_multi_method': ['0.77917'], 'new_method': ['0.21216'], 'oneslot_method': ['0.17831']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 320
+total views sold: 1241476
+Allocation accuracy new method: 320
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 156
+total views sold: 649762
+Allocation accuracy new method: 156
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314783688.txt
+Allocation accuracy: 68
+total views sold: 430477
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314784750.txt
+Allocation accuracy: 137
+total views sold: 773782
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '320', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314756919.json
+allocated_adslots_file: ./1646314756923.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 2124,1524,3165,2849,5646,4517,5264,3876,5224,1260,6234,1217,2576,3236,6752,6267,6519,6507,3363,6791,1886,3398,2553,1263,4516,4399,5218,2437,3043,3162,1720,1658,1590,3498,2906,6097,6323,3526,5709,2705,2887,2353,6320,6333,5980,1086,6319,3339,5876,6135,2096,1411,1458,6976,1912,3622,3616,6181,2856,1860,2451,4120,6728,6710,3946,3292,3602,2242,3007,4593,1298,2637,5451,1908,4324,1264,3028,1750,5164,1256,2342,6428,1590,5374,1300,4471,6334,4845,4622,6529,4327,6669,1814,2414,6605,3699,2933,1059,3586,6030,1276,5161,2622,6737,5429,5669,4745,5301,5775,6986,3052,3857,4317,3730,5950,5313,4421,3313,4890,2895,5884,5098,2178,2006,4430,3906,3392,4439,4602,4188,5754,4490,3304,1427,1061,4429,1138,4874,2065,4936,2784,5087,2844,5975,3357,5317,3962,1119,2883,1860,3762,5748,6742,3707,5344,3451,5521,2979,3295,3894,4254,3544,6965,6180,5783,2403,3474,1131,2439,5919,1491,4676,3055,2388,6061,2991,2572,2064,2400,4541,5824,3012,1720,6512,6969,6753,5433,2207,5734,2763,6836,2435,2905,4211,5306,4853,1958,5377,5887,2244,5124,5770,3013,3881,6717,4600,4747,5183,2484,6262,3477,1171,6603,6264,1979,1767,1083,4957,5065,2312,2130,6017,3289,6603,5743,3764,3836,5305,6853,2576,1717,3628,2712,6096,2743,4053,1555,2453,3060,1164,5757,6232,4498,2258,3516,4262,2445,1226,6068,1236,1971,1856,6539,5762,1727,3154,3422,3761,1081,6003,3827,2653,5590,5965,1443,1215,1402,4912,1429,3430,3222,4216,1743,2483,5042,6620,6792,5395,6393,6075,2840,6452,3717,3256,1055,4394,4688,2650,5550,5878,6595,4420,4319,2105,2435,1738,5308,3941,3720,2794,3826,6898,1553,2499,1460,6128,4732,2486,2401,1992,2246,1772,1654,2394,3014,3673,1843,4711,5615,1530 /tmp/1646314756927.txt 2 ./1646314756923.json ./1646314756919.json
+AD REPEATABILITY OF OUR NEW METHOD : 320
+0.24492
+
+ALLOCATING WITH OUR OLD METHOD: 320
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 2124,1524,3165,2849,5646,4517,5264,3876,5224,1260,6234,1217,2576,3236,6752,6267,6519,6507,3363,6791,1886,3398,2553,1263,4516,4399,5218,2437,3043,3162,1720,1658,1590,3498,2906,6097,6323,3526,5709,2705,2887,2353,6320,6333,5980,1086,6319,3339,5876,6135,2096,1411,1458,6976,1912,3622,3616,6181,2856,1860,2451,4120,6728,6710,3946,3292,3602,2242,3007,4593,1298,2637,5451,1908,4324,1264,3028,1750,5164,1256,2342,6428,1590,5374,1300,4471,6334,4845,4622,6529,4327,6669,1814,2414,6605,3699,2933,1059,3586,6030,1276,5161,2622,6737,5429,5669,4745,5301,5775,6986,3052,3857,4317,3730,5950,5313,4421,3313,4890,2895,5884,5098,2178,2006,4430,3906,3392,4439,4602,4188,5754,4490,3304,1427,1061,4429,1138,4874,2065,4936,2784,5087,2844,5975,3357,5317,3962,1119,2883,1860,3762,5748,6742,3707,5344,3451,5521,2979,3295,3894,4254,3544,6965,6180,5783,2403,3474,1131,2439,5919,1491,4676,3055,2388,6061,2991,2572,2064,2400,4541,5824,3012,1720,6512,6969,6753,5433,2207,5734,2763,6836,2435,2905,4211,5306,4853,1958,5377,5887,2244,5124,5770,3013,3881,6717,4600,4747,5183,2484,6262,3477,1171,6603,6264,1979,1767,1083,4957,5065,2312,2130,6017,3289,6603,5743,3764,3836,5305,6853,2576,1717,3628,2712,6096,2743,4053,1555,2453,3060,1164,5757,6232,4498,2258,3516,4262,2445,1226,6068,1236,1971,1856,6539,5762,1727,3154,3422,3761,1081,6003,3827,2653,5590,5965,1443,1215,1402,4912,1429,3430,3222,4216,1743,2483,5042,6620,6792,5395,6393,6075,2840,6452,3717,3256,1055,4394,4688,2650,5550,5878,6595,4420,4319,2105,2435,1738,5308,3941,3720,2794,3826,6898,1553,2499,1460,6128,4732,2486,2401,1992,2246,1772,1654,2394,3014,3673,1843,4711,5615,1530 /tmp/1646314774244.txt 2 ./1646314756923.json ./1646314756919.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 320
+0.20721
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 320
+0.39081
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 320
+AD REPEATABILITY OF RANDOM METHOD: 320
+0.70964
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [320], 'oneslot_method': [156]}
+adrepp
+{'VFS_one_method': ['0.39081'], 'VFS_multi_method': ['0.70964'], 'new_method': ['0.24492'], 'oneslot_method': ['0.20721']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 340
+total views sold: 1375934
+Allocation accuracy new method: 340
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 148
+total views sold: 628334
+Allocation accuracy new method: 148
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314814118.txt
+Allocation accuracy: 69
+total views sold: 432455
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314815230.txt
+Allocation accuracy: 142
+total views sold: 809688
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '340', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314786671.json
+allocated_adslots_file: ./1646314786675.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 5192,2913,5246,3057,6608,2005,1621,1469,2787,5651,2156,4696,3049,5002,5521,3519,4222,1114,4674,1430,1918,4981,4980,1525,1982,1867,3236,3643,1299,6720,4121,1373,5438,6989,2982,4736,3220,4128,6651,6658,2699,2607,4593,6457,5179,5267,6241,5854,1161,3328,4461,1675,6474,5076,4861,2177,2548,2103,2790,1407,1896,5047,6463,4455,4834,2388,1064,5785,6666,1484,2351,5091,5769,6362,2204,5785,1317,2658,4895,5213,1290,2413,6116,1686,2851,5342,4227,4952,3088,1797,1411,5418,2014,3934,5787,2151,1232,4693,5761,6070,5370,6133,4622,4311,2427,1007,3265,2874,4247,4561,1856,6063,6533,1025,1540,4234,5049,4120,6124,3258,5653,6672,6659,4879,1476,6057,2520,3706,4127,3753,1731,5618,5354,3394,6048,4121,4713,3578,3491,6099,5489,1292,2787,3963,4011,4162,3531,5072,2993,5856,2991,2056,4243,5775,5142,3057,4239,3249,5859,1198,6747,2460,4850,1973,4714,5510,2221,6116,5128,6004,4165,1546,5496,5088,4186,1236,3397,6028,6104,2436,5779,2542,5512,6382,4569,3259,4614,3101,1912,5093,5580,6529,2924,3631,3072,4005,3733,4014,5896,6073,6086,5916,3559,4375,4862,3227,4945,6372,2605,5429,5185,5139,6446,1390,4050,3393,5849,1469,3120,6560,4590,1713,4757,6284,2786,3592,3744,2444,5689,2811,3888,1490,2233,5437,5890,4237,6110,6386,4937,6031,4106,6939,5845,4937,5562,2168,6611,3891,4998,4567,3213,2118,3401,4214,1755,1827,3281,4864,5724,1145,5540,2341,2032,2276,6111,6733,5585,4831,1990,2988,6623,5168,2561,6396,1217,2344,1521,3610,1825,1510,3688,4454,1678,6812,4078,6882,2201,3058,4385,3829,2306,6559,4717,4160,5949,5534,2256,5704,5520,1908,4602,3495,6289,2946,3674,3585,2904,2775,5260,3509,5158,5276,6187,4161,2125,6489,2663,4669,4775,3823,4509,2296,3030,2729,4281,2732,4855,1254,3752,2664,6589,5793,2214,6246,3528,6481,1969,3260,5120,3040 /tmp/1646314786679.txt 2 ./1646314786675.json ./1646314786671.json
+AD REPEATABILITY OF OUR NEW METHOD : 340
+0.28872
+
+ALLOCATING WITH OUR OLD METHOD: 340
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5192,2913,5246,3057,6608,2005,1621,1469,2787,5651,2156,4696,3049,5002,5521,3519,4222,1114,4674,1430,1918,4981,4980,1525,1982,1867,3236,3643,1299,6720,4121,1373,5438,6989,2982,4736,3220,4128,6651,6658,2699,2607,4593,6457,5179,5267,6241,5854,1161,3328,4461,1675,6474,5076,4861,2177,2548,2103,2790,1407,1896,5047,6463,4455,4834,2388,1064,5785,6666,1484,2351,5091,5769,6362,2204,5785,1317,2658,4895,5213,1290,2413,6116,1686,2851,5342,4227,4952,3088,1797,1411,5418,2014,3934,5787,2151,1232,4693,5761,6070,5370,6133,4622,4311,2427,1007,3265,2874,4247,4561,1856,6063,6533,1025,1540,4234,5049,4120,6124,3258,5653,6672,6659,4879,1476,6057,2520,3706,4127,3753,1731,5618,5354,3394,6048,4121,4713,3578,3491,6099,5489,1292,2787,3963,4011,4162,3531,5072,2993,5856,2991,2056,4243,5775,5142,3057,4239,3249,5859,1198,6747,2460,4850,1973,4714,5510,2221,6116,5128,6004,4165,1546,5496,5088,4186,1236,3397,6028,6104,2436,5779,2542,5512,6382,4569,3259,4614,3101,1912,5093,5580,6529,2924,3631,3072,4005,3733,4014,5896,6073,6086,5916,3559,4375,4862,3227,4945,6372,2605,5429,5185,5139,6446,1390,4050,3393,5849,1469,3120,6560,4590,1713,4757,6284,2786,3592,3744,2444,5689,2811,3888,1490,2233,5437,5890,4237,6110,6386,4937,6031,4106,6939,5845,4937,5562,2168,6611,3891,4998,4567,3213,2118,3401,4214,1755,1827,3281,4864,5724,1145,5540,2341,2032,2276,6111,6733,5585,4831,1990,2988,6623,5168,2561,6396,1217,2344,1521,3610,1825,1510,3688,4454,1678,6812,4078,6882,2201,3058,4385,3829,2306,6559,4717,4160,5949,5534,2256,5704,5520,1908,4602,3495,6289,2946,3674,3585,2904,2775,5260,3509,5158,5276,6187,4161,2125,6489,2663,4669,4775,3823,4509,2296,3030,2729,4281,2732,4855,1254,3752,2664,6589,5793,2214,6246,3528,6481,1969,3260,5120,3040 /tmp/1646314804583.txt 2 ./1646314786675.json ./1646314786671.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 340
+0.19704
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 340
+0.3535
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 340
+AD REPEATABILITY OF RANDOM METHOD: 340
+0.75449
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [340], 'oneslot_method': [148]}
+adrepp
+{'VFS_one_method': ['0.3535'], 'VFS_multi_method': ['0.75449'], 'new_method': ['0.28872'], 'oneslot_method': ['0.19704']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 306
+total views sold: 1407885
+Allocation accuracy new method: 306
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 148
+total views sold: 633989
+Allocation accuracy new method: 148
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314844512.txt
+Allocation accuracy: 64
+total views sold: 416208
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314845640.txt
+Allocation accuracy: 130
+total views sold: 781194
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '360', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314817166.json
+allocated_adslots_file: ./1646314817170.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 1689,5776,5593,1108,5522,2836,3328,3984,5608,6622,6519,3693,2307,2826,5205,5003,4959,3638,1202,5716,5894,1785,5055,1281,6328,6552,3583,3007,5279,1815,3286,4115,5537,6940,5506,1031,6843,2820,1137,6262,2995,2407,6501,5453,5022,6553,1238,5472,2020,3771,3551,5364,6360,3060,3330,1899,5278,4924,5033,4740,6322,5396,1748,6501,4184,4912,6935,6502,3135,5429,3239,2707,5907,1395,6657,5293,6301,5259,2315,5219,6444,1522,1213,6978,1431,5947,3794,1836,4436,3290,3151,4254,1928,6632,5226,6079,4587,5168,3340,4511,6663,1556,1637,5612,6571,5617,3178,4917,4980,3831,6269,6762,6747,6428,3758,2410,3326,4543,2309,4186,1130,2635,1670,6174,1244,5858,3932,2812,1805,6157,6537,2514,5888,2424,5294,5665,6728,5112,6225,4316,3125,3718,6544,5261,4461,3462,2707,4565,4695,3207,1346,1275,1547,2315,5448,6090,4843,6316,3892,4194,6389,4616,4098,1956,4981,3657,3618,5689,3723,4571,2095,5324,5737,5797,2043,6353,6695,5315,6281,1916,2936,6114,2138,6266,3182,1487,6413,4893,2682,4044,2829,6958,5014,6094,5641,1029,3060,5705,3946,2651,6847,5056,1419,3006,5940,5548,5597,1701,3986,4136,1103,5977,6088,3847,3602,3200,1982,6847,2610,6860,3694,4741,6666,6821,6849,4861,3153,1886,5322,1225,5669,5877,4075,2117,3810,6124,3745,5402,4517,2165,3355,1358,3750,6683,2033,6655,4000,4412,2643,1613,3536,1312,4455,6366,1846,5153,4239,3702,4953,4976,4722,3786,5552,2284,6908,2864,3703,5184,3110,2858,3491,5101,5397,4572,5254,3606,5059,5875,5959,2287,4726,2703,3389,4993,2833,6974,1168,5642,3567,1806,5338,5417,4279,4777,6642,4126,6015,6508,3857,5339,4762,4956,2731,4181,5547,3673,1113,3333,6929,3752,2721,4734,4533,1177,3127,4313,5624,2897,5420,1943,3547,3279,2186,4842,5311,1729,3221,6571,4488,3039,5318,4969,3670,1708,2280,5653,4521,3423,4767,6055,5872,3484,5103,4697,4005,4597,1922,5298,3265,3474,1682,6218,5631,1577,4688,4153,2091,1427,1394,5949 /tmp/1646314817174.txt 2 ./1646314817170.json ./1646314817166.json
+AD REPEATABILITY OF OUR NEW METHOD : 360
+0.34909
+
+ALLOCATING WITH OUR OLD METHOD: 360
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 1689,5776,5593,1108,5522,2836,3328,3984,5608,6622,6519,3693,2307,2826,5205,5003,4959,3638,1202,5716,5894,1785,5055,1281,6328,6552,3583,3007,5279,1815,3286,4115,5537,6940,5506,1031,6843,2820,1137,6262,2995,2407,6501,5453,5022,6553,1238,5472,2020,3771,3551,5364,6360,3060,3330,1899,5278,4924,5033,4740,6322,5396,1748,6501,4184,4912,6935,6502,3135,5429,3239,2707,5907,1395,6657,5293,6301,5259,2315,5219,6444,1522,1213,6978,1431,5947,3794,1836,4436,3290,3151,4254,1928,6632,5226,6079,4587,5168,3340,4511,6663,1556,1637,5612,6571,5617,3178,4917,4980,3831,6269,6762,6747,6428,3758,2410,3326,4543,2309,4186,1130,2635,1670,6174,1244,5858,3932,2812,1805,6157,6537,2514,5888,2424,5294,5665,6728,5112,6225,4316,3125,3718,6544,5261,4461,3462,2707,4565,4695,3207,1346,1275,1547,2315,5448,6090,4843,6316,3892,4194,6389,4616,4098,1956,4981,3657,3618,5689,3723,4571,2095,5324,5737,5797,2043,6353,6695,5315,6281,1916,2936,6114,2138,6266,3182,1487,6413,4893,2682,4044,2829,6958,5014,6094,5641,1029,3060,5705,3946,2651,6847,5056,1419,3006,5940,5548,5597,1701,3986,4136,1103,5977,6088,3847,3602,3200,1982,6847,2610,6860,3694,4741,6666,6821,6849,4861,3153,1886,5322,1225,5669,5877,4075,2117,3810,6124,3745,5402,4517,2165,3355,1358,3750,6683,2033,6655,4000,4412,2643,1613,3536,1312,4455,6366,1846,5153,4239,3702,4953,4976,4722,3786,5552,2284,6908,2864,3703,5184,3110,2858,3491,5101,5397,4572,5254,3606,5059,5875,5959,2287,4726,2703,3389,4993,2833,6974,1168,5642,3567,1806,5338,5417,4279,4777,6642,4126,6015,6508,3857,5339,4762,4956,2731,4181,5547,3673,1113,3333,6929,3752,2721,4734,4533,1177,3127,4313,5624,2897,5420,1943,3547,3279,2186,4842,5311,1729,3221,6571,4488,3039,5318,4969,3670,1708,2280,5653,4521,3423,4767,6055,5872,3484,5103,4697,4005,4597,1922,5298,3265,3474,1682,6218,5631,1577,4688,4153,2091,1427,1394,5949 /tmp/1646314835551.txt 2 ./1646314817170.json ./1646314817166.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 360
+0.19647
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 360
+0.37002
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 360
+AD REPEATABILITY OF RANDOM METHOD: 360
+0.90938
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [306], 'oneslot_method': [148]}
+adrepp
+{'VFS_one_method': ['0.37002'], 'VFS_multi_method': ['0.90938'], 'new_method': ['0.34909'], 'oneslot_method': ['0.19647']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 328
+total views sold: 1407303
+Allocation accuracy new method: 328
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 167
+total views sold: 659741
+Allocation accuracy new method: 167
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314872557.txt
+Allocation accuracy: 67
+total views sold: 441464
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314873662.txt
+Allocation accuracy: 130
+total views sold: 788204
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '380', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314847593.json
+allocated_adslots_file: ./1646314847597.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 6851,4865,6896,2513,4419,1840,2221,2783,6115,3261,4828,4874,4701,5653,1747,2389,1317,6725,6297,1171,3234,2111,5770,6082,6120,2495,4046,2692,6997,3039,6962,4188,2476,3785,1908,2037,6938,2088,5057,1578,5498,6501,3801,4582,4186,2645,6791,6419,1281,1809,1155,4026,1717,5613,4486,1005,5373,3524,6531,1990,4170,3731,2832,3602,6140,6563,5705,5799,2555,4538,1033,1661,5734,1121,6362,4952,5242,2339,6819,2237,2942,4996,1143,3386,1331,5749,5252,1049,3421,5235,1993,4449,3946,6958,1191,4803,4619,2083,6354,6119,1820,2773,2162,1636,3556,3456,5048,6288,6262,1887,1159,3765,3124,5266,6906,4589,4398,5465,6902,4762,1425,1108,5523,6650,1378,1646,6996,6491,5024,6875,1644,2475,6257,2113,5425,5602,1429,6285,3150,2282,5503,3986,2325,1738,5133,4607,6191,6998,1427,5691,1876,2171,6756,5472,5233,5409,4475,2938,1516,2402,1079,3804,5416,3562,2377,2566,1779,6825,6117,2502,1460,1139,2407,1463,2769,1056,4318,5544,2781,2091,1264,5568,3664,4564,4943,4375,1819,3215,4247,6885,1278,1269,6470,6169,1839,5007,5720,1517,3249,2227,3467,4961,6864,5562,5804,6549,4025,4369,6783,1386,1499,6050,5697,2284,6890,1153,2757,4125,3297,1760,6826,6764,3917,6909,5521,4696,3987,1858,4332,2116,2113,1975,6404,1323,2929,2154,1837,4458,3234,5924,4973,2531,6079,6342,6204,5959,3825,2532,5966,2358,6247,2949,5217,4922,2547,2024,5008,6944,4249,1954,2855,2487,4534,3900,4226,4314,1050,3129,2580,3145,5071,3671,2807,2405,3079,2157,4185,4471,6001,1358,2362,4034,3665,3358,2917,4793,3403,1449,4425,1386,2420,3884,5187,6177,3855,5625,4939,6950,5624,5413,2943,3564,4131,1404,4551,1748,5766,1014,5634,4325,3172,4058,4509,3434,3733,3000,2126,5411,5531,3184,1738,1629,2628,5639,1064,2502,2339,2675,3904,1486,3143,6785,2345,6036,3421,4223,2065,6282,5177,1373,1815,3654,4576,4532,2917,6615,6689,1449,5462,6987,5317,6692,6554,5661,5555,4522,3486,4710,3270,1630,6222,6812,6974,1435,1797,1026,2406,6411,5752,5398,2154,5453,3323,6767,3127,2747,6879,5594,1984,3160 /tmp/1646314847602.txt 2 ./1646314847597.json ./1646314847593.json
+AD REPEATABILITY OF OUR NEW METHOD : 380
+0.33496
+
+ALLOCATING WITH OUR OLD METHOD: 380
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 6851,4865,6896,2513,4419,1840,2221,2783,6115,3261,4828,4874,4701,5653,1747,2389,1317,6725,6297,1171,3234,2111,5770,6082,6120,2495,4046,2692,6997,3039,6962,4188,2476,3785,1908,2037,6938,2088,5057,1578,5498,6501,3801,4582,4186,2645,6791,6419,1281,1809,1155,4026,1717,5613,4486,1005,5373,3524,6531,1990,4170,3731,2832,3602,6140,6563,5705,5799,2555,4538,1033,1661,5734,1121,6362,4952,5242,2339,6819,2237,2942,4996,1143,3386,1331,5749,5252,1049,3421,5235,1993,4449,3946,6958,1191,4803,4619,2083,6354,6119,1820,2773,2162,1636,3556,3456,5048,6288,6262,1887,1159,3765,3124,5266,6906,4589,4398,5465,6902,4762,1425,1108,5523,6650,1378,1646,6996,6491,5024,6875,1644,2475,6257,2113,5425,5602,1429,6285,3150,2282,5503,3986,2325,1738,5133,4607,6191,6998,1427,5691,1876,2171,6756,5472,5233,5409,4475,2938,1516,2402,1079,3804,5416,3562,2377,2566,1779,6825,6117,2502,1460,1139,2407,1463,2769,1056,4318,5544,2781,2091,1264,5568,3664,4564,4943,4375,1819,3215,4247,6885,1278,1269,6470,6169,1839,5007,5720,1517,3249,2227,3467,4961,6864,5562,5804,6549,4025,4369,6783,1386,1499,6050,5697,2284,6890,1153,2757,4125,3297,1760,6826,6764,3917,6909,5521,4696,3987,1858,4332,2116,2113,1975,6404,1323,2929,2154,1837,4458,3234,5924,4973,2531,6079,6342,6204,5959,3825,2532,5966,2358,6247,2949,5217,4922,2547,2024,5008,6944,4249,1954,2855,2487,4534,3900,4226,4314,1050,3129,2580,3145,5071,3671,2807,2405,3079,2157,4185,4471,6001,1358,2362,4034,3665,3358,2917,4793,3403,1449,4425,1386,2420,3884,5187,6177,3855,5625,4939,6950,5624,5413,2943,3564,4131,1404,4551,1748,5766,1014,5634,4325,3172,4058,4509,3434,3733,3000,2126,5411,5531,3184,1738,1629,2628,5639,1064,2502,2339,2675,3904,1486,3143,6785,2345,6036,3421,4223,2065,6282,5177,1373,1815,3654,4576,4532,2917,6615,6689,1449,5462,6987,5317,6692,6554,5661,5555,4522,3486,4710,3270,1630,6222,6812,6974,1435,1797,1026,2406,6411,5752,5398,2154,5453,3323,6767,3127,2747,6879,5594,1984,3160 /tmp/1646314864364.txt 2 ./1646314847597.json ./1646314847593.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 380
+0.20179
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 380
+0.35325
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 380
+AD REPEATABILITY OF RANDOM METHOD: 380
+0.87599
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [328], 'oneslot_method': [167]}
+adrepp
+{'VFS_one_method': ['0.35325'], 'VFS_multi_method': ['0.87599'], 'new_method': ['0.33496'], 'oneslot_method': ['0.20179']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 305
+total views sold: 1406452
+Allocation accuracy new method: 305
+0.0
+got patterns
+sorted patterns
+started allocation
+Allocation accuracy: 156
+total views sold: 651265
+Allocation accuracy new method: 156
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1646314901699.txt
+Allocation accuracy: 66
+total views sold: 431874
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl')
+/tmp/1646314902833.txt
+Allocation accuracy: 135
+total views sold: 817121
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '400', '4000', '3000', '1_2_3']
+##############################################
+web_page_to_adv_json_file : ./1646314875588.json
+allocated_adslots_file: ./1646314875592.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_2_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_2_3_dataset_bmspostxt.pkl 5230,3079,4023,5809,4570,6320,5794,3647,5752,1400,6994,6050,6044,1741,2488,5849,2666,6440,5003,5825,4799,2563,4324,3384,3367,3724,5149,3009,3553,1068,2568,6213,1939,6317,4716,4446,3401,2193,1547,6030,2442,3601,5286,3665,6229,3291,3369,2120,3357,4717,6884,3462,6824,1993,1761,4460,6367,4136,1788,4845,6155,6580,6334,4973,4107,1463,4638,1739,3903,6114,2730,5946,5689,3959,1000,1677,6132,3512,5175,4732,3174,6302,3497,3208,5649,1683,1881,4838,4242,3833,5004,6274,3841,3007,4959,3174,1045,3323,5896,1727,4665,3723,6742,3707,4862,4652,2566,3410,1326,3969,6680,6458,3335,2691,4230,4331,1075,3593,3121,5142,2807,6949,1601,6833,6200,4149,1728,1780,2630,4639,2336,3123,2299,6165,4267,4530,1845,4468,5242,5936,2379,4558,1174,2501,6470,6415,1760,2870,2267,1278,1623,1100,2688,4569,6046,3153,5307,2788,6576,4347,1124,1533,4493,1598,6543,6465,6067,6346,4503,5934,3735,6361,5831,2413,4557,5986,1403,3602,6006,5989,5084,1883,4528,3377,5126,5819,6246,4519,1895,6453,1478,2054,1837,5398,3213,1606,6235,4795,2662,4376,4196,1895,6200,3846,6742,1941,6318,2071,6184,3887,1777,4171,3844,3853,6698,2303,6081,6738,3235,3845,4065,1694,4579,3126,2577,3354,6581,1005,2069,2404,3085,3374,3399,1039,6837,2019,6921,4279,5295,6856,3577,2856,3511,5762,3052,1481,6641,4202,3363,3582,2224,5867,4884,6725,5451,4533,4172,1561,6124,2450,1692,5294,1477,4007,2199,2035,2035,2107,3454,6908,6717,5821,4540,3432,2245,6359,3548,4748,3487,4593,6244,5957,5523,4813,3430,4383,2654,5946,5358,6414,4413,2065,6926,3056,1018,4774,6734,4143,1793,3900,2092,1632,2318,6895,5190,5188,1901,4493,4078,4753,6739,3940,1431,3627,4718,6499,5625,2581,1114,5587,4544,3012,4933,5180,2597,2298,1026,3471,1278,3528,6794,6868,6341,2062,3612,1251,6037,1165,1926,6008,3971,4705,1663,1661,4950,2157,6789,4541,1185,6175,4958,3655,2684,3880,6608,6911,3398,2453,1826,1955,4677,4097,6322,5773,6432,4051,5573,1922,3301,4637,2452,5604,2689,4480,2632,4293,1192,1275,6539,3798,3972,6547,1125,1690,5040,3197,5496,4918,6086,4616,3038,3537,1177,5199,3823,6232,4997,1930,6247,6978 /tmp/1646314875597.txt 2 ./1646314875592.json ./1646314875588.json
+AD REPEATABILITY OF OUR NEW METHOD : 400
+0.37086
+
+ALLOCATING WITH OUR OLD METHOD: 400
+python alloc_fresh.py ../test1/bmspos_minfreq_0.0025_maxcs_1_maxor_0.01/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5230,3079,4023,5809,4570,6320,5794,3647,5752,1400,6994,6050,6044,1741,2488,5849,2666,6440,5003,5825,4799,2563,4324,3384,3367,3724,5149,3009,3553,1068,2568,6213,1939,6317,4716,4446,3401,2193,1547,6030,2442,3601,5286,3665,6229,3291,3369,2120,3357,4717,6884,3462,6824,1993,1761,4460,6367,4136,1788,4845,6155,6580,6334,4973,4107,1463,4638,1739,3903,6114,2730,5946,5689,3959,1000,1677,6132,3512,5175,4732,3174,6302,3497,3208,5649,1683,1881,4838,4242,3833,5004,6274,3841,3007,4959,3174,1045,3323,5896,1727,4665,3723,6742,3707,4862,4652,2566,3410,1326,3969,6680,6458,3335,2691,4230,4331,1075,3593,3121,5142,2807,6949,1601,6833,6200,4149,1728,1780,2630,4639,2336,3123,2299,6165,4267,4530,1845,4468,5242,5936,2379,4558,1174,2501,6470,6415,1760,2870,2267,1278,1623,1100,2688,4569,6046,3153,5307,2788,6576,4347,1124,1533,4493,1598,6543,6465,6067,6346,4503,5934,3735,6361,5831,2413,4557,5986,1403,3602,6006,5989,5084,1883,4528,3377,5126,5819,6246,4519,1895,6453,1478,2054,1837,5398,3213,1606,6235,4795,2662,4376,4196,1895,6200,3846,6742,1941,6318,2071,6184,3887,1777,4171,3844,3853,6698,2303,6081,6738,3235,3845,4065,1694,4579,3126,2577,3354,6581,1005,2069,2404,3085,3374,3399,1039,6837,2019,6921,4279,5295,6856,3577,2856,3511,5762,3052,1481,6641,4202,3363,3582,2224,5867,4884,6725,5451,4533,4172,1561,6124,2450,1692,5294,1477,4007,2199,2035,2035,2107,3454,6908,6717,5821,4540,3432,2245,6359,3548,4748,3487,4593,6244,5957,5523,4813,3430,4383,2654,5946,5358,6414,4413,2065,6926,3056,1018,4774,6734,4143,1793,3900,2092,1632,2318,6895,5190,5188,1901,4493,4078,4753,6739,3940,1431,3627,4718,6499,5625,2581,1114,5587,4544,3012,4933,5180,2597,2298,1026,3471,1278,3528,6794,6868,6341,2062,3612,1251,6037,1165,1926,6008,3971,4705,1663,1661,4950,2157,6789,4541,1185,6175,4958,3655,2684,3880,6608,6911,3398,2453,1826,1955,4677,4097,6322,5773,6432,4051,5573,1922,3301,4637,2452,5604,2689,4480,2632,4293,1192,1275,6539,3798,3972,6547,1125,1690,5040,3197,5496,4918,6086,4616,3038,3537,1177,5199,3823,6232,4997,1930,6247,6978 /tmp/1646314892983.txt 2 ./1646314875592.json ./1646314875588.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 400
+0.20631
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 400
+0.38187
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 400
+AD REPEATABILITY OF RANDOM METHOD: 400
+0.77684
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [305], 'oneslot_method': [156]}
+adrepp
+{'VFS_one_method': ['0.38187'], 'VFS_multi_method': ['0.77684'], 'new_method': ['0.37086'], 'oneslot_method': ['0.20631']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}

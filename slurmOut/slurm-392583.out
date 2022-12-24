@@ -1,0 +1,26 @@
+Loaded all files
+got patterns
+Allocation accuracy new method: 500
+views wasted:0
+limit 1 to 1
+/tmp/1621544913066.txt
+Allocation accuracy: 89
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/k100_patterns.txt', 'dataset/k100.txt', '500', '9000', '5000']
+##############################################
+web_page_to_adv_json_file : ./1621542230180.json
+allocated_adslots_file: ./1621542230186.json
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+0.00245
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+1.524
+
+allocated
+{'VFS_one_method': [90], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': [500]}
+adrepp
+{'VFS_one_method': ['1.524'], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': ['0.00245']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}

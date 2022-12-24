@@ -1,0 +1,10 @@
+Loaded all files
+got patterns
+(230800, 694)
+Allocation accuracy new method: 50
+ALLOCATING WITH OUR NEW METHOD: 50
+AD REPEATABILITY OF OUR NEW METHOD : 50
+Traceback (most recent call last):
+  File "plot_results.py", line 92, in <module>
+    revenue_captured = int(f.readline().strip().split()[-1])
+IndexError: list index out of range

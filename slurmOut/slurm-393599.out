@@ -1,0 +1,4179 @@
+==========================================
+SLURM_JOB_ID = 393599
+SLURM_NODELIST = gnode48
+SLURM_JOB_GPUS = 
+==========================================
+meta data file path:/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_ktxt.pkl
+got min rf : 300
+total_pages: 23496
+low_rf_pages: 23183
+Loaded all files
+got patterns
+[{'6': True}, {'3': True}, {'11': True}, {'1': True}, {'218': True}]
+[2]
+total_pages: 23496
+low_rf_pages: 23183
+deleting 4
+allocated_index: 6 pattern : 6
+{'4': True}
+total_pages: 23495
+low_rf_pages: 23183
+deleting 7
+allocated_index: 5 pattern : 5
+{'7': True}
+total_pages: 23494
+low_rf_pages: 23183
+deleting 218
+allocated_index: 4 pattern : 4
+{'218': True}
+total_pages: 23493
+low_rf_pages: 23183
+deleting 1
+allocated_index: 3 pattern : 3
+{'1': True}
+total_pages: 23492
+low_rf_pages: 23183
+deleting 11
+allocated_index: 2 pattern : 2
+{'11': True}
+total_pages: 23491
+low_rf_pages: 23183
+deleting 3
+allocated_index: 1 pattern : 1
+{'3': True}
+total_pages: 23490
+low_rf_pages: 23183
+deleting 6
+allocated_index: 0 pattern : 0
+{'6': True}
+total_pages: 23489
+low_rf_pages: 23183
+clean alloc failed
+allocated: 7224 required: 7459
+deleting 27
+allocated_index: 7 pattern : 7
+{'27': True}
+total_pages: 23488
+low_rf_pages: 23177
+clean alloc failed
+allocated: 6980 required: 7459
+deleting 148
+allocated_index: 8 pattern : 8
+{'148': True}
+total_pages: 23487
+low_rf_pages: 23129
+clean alloc failed
+allocated: 6516 required: 7454
+deleting 55
+allocated_index: 9 pattern : 9
+{'55': True}
+total_pages: 23486
+low_rf_pages: 23062
+clean alloc failed
+allocated: 6044 required: 7439
+deleting 91
+allocated_index: 10 pattern : 10
+{'91': True, '294': True, '56': True}
+deleting 294
+allocated_index: 10 pattern : 10
+{'294': True, '56': True}
+deleting 56
+allocated_index: 10 pattern : 10
+{'56': True}
+total_pages: 23483
+low_rf_pages: 22944
+clean alloc failed
+allocated: 5769 required: 7437
+deleting 138
+allocated_index: 10 pattern : 10
+{'138': True, '490': True}
+deleting 490
+allocated_index: 10 pattern : 10
+{'490': True}
+total_pages: 23481
+low_rf_pages: 22782
+clean alloc failed
+allocated: 5604 required: 7432
+deleting 590
+allocated_index: 10 pattern : 10
+{'590': True, '152': True, '5': True, '648': True, '73': True, '230': True, '1751': True}
+deleting 152
+allocated_index: 10 pattern : 10
+{'152': True, '5': True, '648': True, '73': True, '230': True, '1751': True}
+deleting 5
+allocated_index: 10 pattern : 10
+{'5': True, '648': True, '73': True, '230': True, '1751': True}
+deleting 648
+allocated_index: 10 pattern : 10
+{'648': True, '73': True, '230': True, '1751': True}
+deleting 73
+allocated_index: 10 pattern : 10
+{'73': True, '230': True, '1751': True}
+deleting 230
+allocated_index: 10 pattern : 10
+{'230': True, '1751': True}
+deleting 1751
+allocated_index: 10 pattern : 10
+{'1751': True}
+total_pages: 23474
+low_rf_pages: 22632
+clean alloc failed
+allocated: 4944 required: 7428
+deleting 64
+allocated_index: 10 pattern : 10
+{'64': True}
+total_pages: 23473
+low_rf_pages: 22376
+clean alloc failed
+allocated: 4447 required: 7419
+deleting 77
+total_pages: 23472
+low_rf_pages: 22102
+clean alloc failed
+allocated: 4349 required: 7415
+deleting 2
+total_pages: 23471
+low_rf_pages: 21773
+clean alloc failed
+allocated: 3814 required: 7414
+deleting 83
+deleting 18
+total_pages: 23469
+low_rf_pages: 21459
+clean alloc failed
+allocated: 3368 required: 7410
+deleting 246
+deleting 86
+deleting 644
+deleting 145
+total_pages: 23465
+low_rf_pages: 21052
+clean alloc failed
+allocated: 2787 required: 7395
+deleting 316
+total_pages: 23464
+low_rf_pages: 20568
+clean alloc failed
+allocated: 2458 required: 7391
+deleting 136
+total_pages: 23463
+low_rf_pages: 20137
+clean alloc failed
+allocated: 2385 required: 7389
+deleting 278
+deleting 1469
+total_pages: 23461
+low_rf_pages: 19579
+clean alloc failed
+allocated: 2384 required: 7389
+deleting 40
+total_pages: 23460
+low_rf_pages: 19083
+clean alloc failed
+allocated: 2357 required: 7386
+deleting 446
+total_pages: 23459
+low_rf_pages: 18665
+clean alloc failed
+allocated: 2342 required: 7384
+deleting 504
+deleting 321
+total_pages: 23457
+low_rf_pages: 18102
+clean alloc failed
+allocated: 2340 required: 7380
+deleting 1065
+deleting 670
+deleting 993
+total_pages: 23454
+low_rf_pages: 17592
+clean alloc failed
+allocated: 2329 required: 7378
+deleting 90
+total_pages: 23453
+low_rf_pages: 17019
+clean alloc failed
+allocated: 2304 required: 7376
+deleting 69
+total_pages: 23452
+low_rf_pages: 16428
+clean alloc failed
+allocated: 2284 required: 7373
+deleting 269
+deleting 37
+total_pages: 23450
+low_rf_pages: 16001
+clean alloc failed
+allocated: 2197 required: 7365
+deleting 215
+total_pages: 23449
+low_rf_pages: 15444
+clean alloc failed
+allocated: 2166 required: 7334
+deleting 303
+total_pages: 23448
+low_rf_pages: 14942
+clean alloc failed
+allocated: 2158 required: 7333
+deleting 205
+total_pages: 23447
+low_rf_pages: 14378
+clean alloc failed
+allocated: 2124 required: 7331
+deleting 273
+deleting 276
+total_pages: 23445
+low_rf_pages: 13932
+clean alloc failed
+allocated: 2042 required: 7329
+deleting 32
+deleting 747
+total_pages: 23443
+low_rf_pages: 13231
+clean alloc failed
+allocated: 1981 required: 7324
+deleting 364
+deleting 934
+total_pages: 23441
+low_rf_pages: 12706
+clean alloc failed
+allocated: 1960 required: 7318
+deleting 438
+total_pages: 23440
+low_rf_pages: 12081
+clean alloc failed
+allocated: 1942 required: 7314
+deleting 139
+deleting 662
+deleting 265
+total_pages: 23437
+low_rf_pages: 11531
+clean alloc failed
+allocated: 1897 required: 7303
+deleting 135
+total_pages: 23436
+low_rf_pages: 11029
+clean alloc failed
+allocated: 1893 required: 7295
+deleting 87
+total_pages: 23435
+low_rf_pages: 10445
+clean alloc failed
+allocated: 1864 required: 7294
+deleting 28
+deleting 21
+total_pages: 23433
+low_rf_pages: 9921
+clean alloc failed
+allocated: 1863 required: 7287
+deleting 154
+deleting 897
+total_pages: 23431
+low_rf_pages: 9376
+clean alloc failed
+allocated: 1830 required: 7281
+deleting 640
+deleting 85
+total_pages: 23429
+low_rf_pages: 8826
+clean alloc failed
+allocated: 1766 required: 7280
+deleting 25
+deleting 1052
+total_pages: 23427
+low_rf_pages: 8282
+clean alloc failed
+allocated: 1765 required: 7279
+deleting 1481
+deleting 211
+deleting 1023
+deleting 659
+total_pages: 23423
+low_rf_pages: 7562
+clean alloc failed
+allocated: 1764 required: 7278
+deleting 1838
+deleting 633
+deleting 2817
+total_pages: 23420
+low_rf_pages: 7073
+clean alloc failed
+allocated: 1752 required: 7275
+deleting 632
+deleting 1956
+deleting 397
+total_pages: 23417
+low_rf_pages: 6596
+clean alloc failed
+allocated: 1713 required: 7274
+deleting 1507
+deleting 521
+deleting 631
+total_pages: 23414
+low_rf_pages: 6075
+clean alloc failed
+allocated: 1710 required: 7273
+deleting 737
+total_pages: 23413
+low_rf_pages: 5542
+clean alloc failed
+allocated: 1710 required: 7273
+deleting 987
+total_pages: 23412
+low_rf_pages: 5010
+clean alloc failed
+allocated: 1672 required: 7268
+deleting 2331
+deleting 1144
+deleting 358
+total_pages: 23409
+low_rf_pages: 4447
+clean alloc failed
+allocated: 1608 required: 7262
+deleting 2024
+deleting 14
+total_pages: 23407
+low_rf_pages: 3782
+clean alloc failed
+allocated: 1577 required: 7261
+deleting 1149
+deleting 665
+deleting 400
+deleting 970
+total_pages: 23403
+low_rf_pages: 3305
+clean alloc failed
+allocated: 1568 required: 7255
+deleting 1138
+deleting 155
+total_pages: 23401
+low_rf_pages: 2782
+clean alloc failed
+allocated: 1559 required: 7245
+deleting 1644
+deleting 290
+total_pages: 23399
+low_rf_pages: 2147
+clean alloc failed
+allocated: 1552 required: 7243
+deleting 2303
+deleting 1960
+deleting 491
+total_pages: 23396
+low_rf_pages: 1586
+clean alloc failed
+allocated: 1528 required: 7241
+deleting 378
+deleting 879
+total_pages: 23394
+low_rf_pages: 942
+clean alloc failed
+allocated: 1517 required: 7236
+deleting 314
+total_pages: 23393
+low_rf_pages: 377
+clean alloc failed
+allocated: 1515 required: 7234
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7228
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7228
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7222
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7216
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7213
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7212
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7210
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7207
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7206
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7195
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7191
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7184
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7180
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7177
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7169
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7165
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7165
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7156
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7152
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7147
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7141
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7132
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7124
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7120
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7118
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7117
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7106
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7102
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7099
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7096
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7095
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7092
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7085
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7084
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7083
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7073
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7072
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7071
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7065
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7061
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7055
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7050
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7044
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7035
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7031
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7011
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 7003
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6996
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6995
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6995
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6994
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6990
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6984
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6982
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6979
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6977
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6968
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6962
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6944
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6916
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6910
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6907
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6900
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6882
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6880
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6874
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6873
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6866
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6865
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6862
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6855
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6836
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6832
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6821
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6821
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6800
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6795
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6790
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6789
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6786
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6778
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6777
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6775
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6774
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6768
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6768
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6767
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6765
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6761
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6760
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6759
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6751
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6750
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6746
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6746
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6742
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6736
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6722
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6722
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6722
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6719
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6717
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6714
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6713
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6711
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6704
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6702
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6692
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6685
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6685
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6682
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6680
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6676
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6673
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6668
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6665
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6664
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6653
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6637
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6618
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6607
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6597
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6587
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6587
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6585
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6583
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6563
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6549
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6536
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6536
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6530
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6529
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6507
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6495
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6469
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6467
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6462
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6462
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6461
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6451
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6442
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6438
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6435
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6434
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6431
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6424
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6418
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6417
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6406
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6393
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6384
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6383
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6382
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6378
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6376
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6374
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6366
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6364
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6356
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6343
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6341
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6339
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6338
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6330
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6323
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6323
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6321
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6314
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6314
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6314
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6312
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6312
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6311
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6310
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6299
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6291
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6286
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6282
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6282
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6273
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6272
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6271
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6266
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6266
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6264
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6255
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6247
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6241
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6236
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6234
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6222
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6219
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6217
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6208
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6208
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6204
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6201
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6193
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6191
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6191
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6190
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6181
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6179
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6176
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6172
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6171
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6168
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6148
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6141
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6136
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6135
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6134
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6133
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6132
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6131
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6123
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6106
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6098
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6070
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6067
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6055
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6050
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6044
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6032
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6029
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6019
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6017
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6016
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6008
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6008
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 6000
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5998
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5991
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5989
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5989
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5980
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5971
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5964
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5962
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5958
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5954
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5946
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5946
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5945
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5942
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5939
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5937
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5936
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5930
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5929
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5926
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5915
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5913
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5892
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5875
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5871
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5870
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5870
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5869
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5857
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5857
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5845
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5838
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5822
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5821
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5820
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5819
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5818
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5814
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5807
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5806
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5792
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5781
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5780
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5778
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5777
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5775
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5769
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5766
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5758
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5755
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5735
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5734
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5717
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5714
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5706
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5695
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5692
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5687
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5685
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5684
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5683
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5678
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5677
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5668
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5660
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5652
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5651
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5647
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5644
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5642
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5641
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5610
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5608
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5603
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5601
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5601
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5599
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5598
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5597
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5594
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5589
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5585
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5580
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5572
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5572
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5566
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5565
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5535
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5534
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5533
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5521
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5518
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5506
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5502
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5502
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5501
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5497
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5495
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5494
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5494
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5492
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5488
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5481
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5476
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5469
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5465
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5463
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5443
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5440
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5435
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5428
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5406
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5406
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5401
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5401
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5396
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5392
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5366
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5361
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5355
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5339
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5337
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5335
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5333
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5332
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5312
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5303
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5302
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5289
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5282
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5264
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5262
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5261
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5253
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5251
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5248
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5247
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5243
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5243
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5242
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5231
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5229
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5221
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5220
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5217
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5211
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5204
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5198
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5197
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5197
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5191
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5180
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5166
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5165
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5163
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5151
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5149
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5147
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5139
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5120
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5119
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5117
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5115
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5109
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5107
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5098
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5095
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5084
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5080
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5077
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5067
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5066
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5061
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5060
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5060
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5056
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5049
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5048
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5041
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5040
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5040
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5037
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5036
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5036
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5035
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5032
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5031
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5030
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5026
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5026
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5019
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5018
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5007
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5007
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5002
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 5000
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4998
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4993
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4982
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4982
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4976
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4968
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4964
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4964
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4957
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4956
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4953
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4949
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4947
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4940
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4939
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4938
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4913
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4908
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4908
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4906
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4906
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4899
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4898
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4883
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4882
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4878
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4875
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4871
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4865
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4865
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4857
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4854
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4850
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4848
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4846
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4844
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4822
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4800
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4792
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4789
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4788
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4785
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4778
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4776
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4775
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4772
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4767
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4766
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4759
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4728
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4727
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4723
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4723
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4722
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4716
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4715
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4701
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4699
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4698
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4698
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4694
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4692
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4684
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4684
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4678
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4671
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4668
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4657
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4655
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4647
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4644
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4639
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4630
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4630
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4622
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4616
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4611
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4609
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4609
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4608
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4607
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4601
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4599
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4596
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4594
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4585
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4577
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4569
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4568
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4566
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4563
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4562
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4562
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4556
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4552
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4547
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4530
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4528
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4528
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4521
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4520
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4514
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4510
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4505
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4477
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4474
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4474
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4470
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4446
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4446
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4436
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4435
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4434
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4424
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4419
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4412
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4403
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4401
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4396
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4388
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4388
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4379
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4376
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4365
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4362
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4358
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4339
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4336
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4334
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4333
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4325
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4317
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4312
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4304
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4303
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4300
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4293
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4293
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4284
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4282
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4278
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4275
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4271
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4265
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4263
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4259
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4237
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4233
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4232
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4230
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4230
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4227
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4225
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4224
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4224
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4220
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4204
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4199
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4191
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4181
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4179
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4175
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4169
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4151
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4147
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4146
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4143
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4139
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4128
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4125
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4123
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4118
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4112
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4101
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4098
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4091
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4091
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4091
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4084
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4080
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4054
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4051
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4049
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4048
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4040
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4030
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4026
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4024
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4016
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 4002
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3994
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3992
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3989
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3987
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3987
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3977
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3977
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3975
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3967
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3951
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3950
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3946
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3944
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3943
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3942
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3940
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3920
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3903
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3902
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3902
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3884
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3876
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3850
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3847
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3844
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3841
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3838
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3837
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3833
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3828
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3807
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3799
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3798
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3790
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3788
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3779
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3778
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3777
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3777
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3769
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3767
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3767
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3762
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3761
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3757
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3750
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3749
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3745
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3744
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3739
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3735
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3727
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3723
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3721
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3718
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3713
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3712
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3704
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3697
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3697
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3695
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3687
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3685
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3685
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3675
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3674
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3674
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3670
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3669
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3660
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3653
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3652
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3652
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3635
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3627
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3627
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3627
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3615
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3610
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3600
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3595
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3590
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3587
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3587
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3577
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3569
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3567
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3553
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3551
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3550
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3550
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3537
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3534
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3531
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3522
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3518
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3516
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3510
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3504
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3501
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3499
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3493
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3486
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3477
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3468
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3466
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3463
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3459
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3457
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3445
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3443
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3441
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3430
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3419
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3416
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3414
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3408
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3407
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3403
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3402
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3400
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3399
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3396
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3390
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3370
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3370
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3343
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3340
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3334
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3328
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3326
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3319
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3317
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3315
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3310
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3308
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3305
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3302
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3301
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3301
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3299
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3297
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3293
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3291
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3289
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3287
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3281
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3279
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3275
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3273
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3269
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3261
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3258
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3257
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3246
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3245
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3242
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3232
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3228
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3224
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3216
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3206
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3203
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3199
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3196
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3191
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3190
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3187
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3181
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3177
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3169
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3169
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3167
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3158
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3155
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3136
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3133
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3131
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3127
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3121
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3112
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3111
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3101
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3100
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3099
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3095
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3092
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3088
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3088
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3085
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3085
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3083
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3082
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3080
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3080
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3075
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3063
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3047
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3032
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3026
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3019
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3016
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3013
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3008
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3007
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3006
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3002
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3001
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 3000
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2994
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2993
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2990
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2986
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2969
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2966
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2959
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2958
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2950
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2948
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2945
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2944
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2942
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2939
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2936
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2933
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2933
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2932
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2931
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2928
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2926
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2925
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2913
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2908
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2905
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2902
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2897
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2896
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2894
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2880
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2880
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2878
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2877
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2875
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2869
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2868
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2867
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2866
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2866
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2864
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2864
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2859
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2856
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2855
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2853
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2846
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2840
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2840
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2831
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2831
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2831
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2810
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2808
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2805
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2804
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2803
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2798
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2790
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2786
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2786
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2781
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2773
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2772
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2766
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2759
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2759
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2751
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2745
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2744
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2742
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2737
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2736
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2734
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2734
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2728
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2725
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2723
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2723
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2718
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2713
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2708
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2706
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2699
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2690
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2675
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2670
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2666
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2664
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2652
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2652
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2640
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2637
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2622
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2621
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2600
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2600
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2597
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2596
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2592
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2583
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2572
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2560
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2557
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2551
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2546
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2544
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2543
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2543
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2541
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2539
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2538
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2529
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2524
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2518
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2511
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2505
+total_pages: 23393
+low_rf_pages: 0
+clean alloc failed
+allocated: 1515 required: 2504
+Allocation accuracy new method: 56
+views wasted:0
+limit 1 to 1
+/tmp/1621636730765.txt
+Allocation accuracy: 161
+limit 1 to 5
+/tmp/1621636957848.txt
+Allocation accuracy: 311
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/k100_patterns.txt', 'dataset/k100.txt', '1000', '5000', '2500']
+##############################################
+web_page_to_adv_json_file : ./1621633842979.json
+allocated_adslots_file: ./1621633842984.json
+ALLOCATING WITH OUR OLD METHOD: 1000
+AD REPEATABILITY OF ONE-SLOT METHOD : 1000
+0.0082
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 1000
+AD REPEATABILITY OF RANDOM METHOD: 1000
+1.02595
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 1000
+AD REPEATABILITY OF RANDOM METHOD: 1000
+1.79075
+
+allocated
+{'VFS_one_method': [162], 'VFS_multi_method': [312], 'new_method': [], 'oneslot_method': [56]}
+adrepp
+{'VFS_one_method': ['1.02595'], 'VFS_multi_method': ['1.79075'], 'new_method': [], 'oneslot_method': ['0.0082']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}

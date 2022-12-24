@@ -1,0 +1,6 @@
+==========================================
+SLURM_JOB_ID = 421849
+SLURM_NODELIST = gnode57
+SLURM_JOB_GPUS = 0
+==========================================
+slurmstepd: error: *** JOB 421849 ON gnode57 CANCELLED AT 2021-06-26T18:53:19 ***

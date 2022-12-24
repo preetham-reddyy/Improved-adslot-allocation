@@ -1,0 +1,8358 @@
+==========================================
+SLURM_JOB_ID = 421765
+SLURM_NODELIST = gnode14
+SLURM_JOB_GPUS = 0
+==========================================
+Allocation with freq
+['allocation_with_freq_new.py', '../test1/kosarak_output_0015', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_111_dataset_kosarakdat.pkl', '/home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_111_dataset_kosarakdat.pkl', '3744,4214,3809,3628,3776,4158,3639,4127,4459,4187,3699,4346,3623,4018,4374,3571,3821,4259,4160,3696,4021,4494,4370,4108,4159,4005,3656,4027,3602,4328,3595,3707,4190,3685,4409,3932,3818,3860,4308,3895,3817,3943,4343,4355,3724,4329,4062,3703,3800,4388,3576,4178,4083,4031,3833,4420,3629,4130,3643,3768,3539,4405,3821,4476,4131,4082,4311,3664,4409,4194,4069,4014,4047,4379,4037,4118,4117,3523,3979,3646,4240,3794,3696,4133,4288,3782,4248,3704,3933,4455,4254,4308,4243,4201,3503,3897,4273,3980,4037,3929,3855,4476,4192,4131,4074,3544,3809,4474,4144,4137,4083,3510,3554,4005,3602,4295,4107,4253,4078,3557,3708,3651,4366,4447,3552,3639,3961,4303,4444,4165,3510,4234,3557,3617,3792,4116,4385,4114,3887,4195,3978,3730,4311,4442,4397,3664,3841,4249,4179,3503,3980,4443,4307,3672,3754,4472,3662,3633,4130,4004,3525,3872,4257,3610,4359,3548,4335,4088,4296,4318,4341,3775,3548,3758,3884,3847,3999,3823,4110,4128,3914,3726,4238,4478,4483,4213,3838,4031,4151,3672,4394,3858,3742,4377,3643,3566,3630,4125,4033,4063,4010,4288,3581,3960,4397,3994,4327,3983,3901,4080,3875,3990,4266,3558,3587,4315,4195,4199,4160,3618,3950,4118,4232,4222,3588,3828,3686,3971,3710,3957,3997,4484,3876,3598,4425,4406,3705,3617,4255,3673,4149,4007,3910,4026,3615,4096,3900,3535,3962,3848,4257,3668,3672,4178,4006,4312,4029,4100,3679,3513,4474,3741,3589,3891,3997,3625,4194,3719,3795,4060,3663,3666,3855,3725,4418,4257,3602,3627,4433,4183,4400,3641,3639,4294,4381,3602,4295,3595,3640,3717,3531,3545,3751,4337,4013,4429,4021,3876,3531,3997,4246,4113,3517,3688,3793,3803,3688,4165,3654,3884,3608,3850,4104,4215,4473,3658,3686,4487,3974,3906,4273,3889,4060,4209,3645,4489,3904,3636,4081,3637,4260,3999,3926,3958,4082,4446,4268,4410,4127,4491,3802,4043,4499,4282,4043,4080,4096,4142,3581,4396,3540,4159,3704,3891,3809,3866,4489,3845,4076,3774,3853,4385,3978,3856,3763,4411,3940,3914,3822,3571,4212,4021,3765,4224,4017,3918,3963,3947,3681,4181,4062,3545,4128,4468,3690,4345,4182,4326,3529,4370,4341,4173,4164,4331,4178,3676,4377,4300,4383,3885,3814,3801,4275,4129,3540,4286,3829,3900,3847,3561,4079,4237,4064,3775,4138,3924,4118,3515,4243,4340,3713,3624,4314,3939,3697,3988,4203,3526,3845,3834,4475,3979,3501,4033,4097,4397,4188,3521,3970,4077,4377,3652,3901,3568,3793,3602,3921,4436,3840,4301,3576,4032,4318,3568,4417,4014,4467,3799,3581,3758,3570,4468,4141,4425,4359,3919,4488,3880,4427,4060,3980,3516,4357,3748,3525,3566,4175,4180,3923,3568,3881,3722,4298,4002,3611,3921,3694,4436,3637,4108,4348,3544,4082,4086,3857,4033,3582,4004,4368,3902,3812,3938,4094,4397,3518,4078,3939,4301,3591,4482,4434,3766,4420,4000,3727,4435,3741,4059,3834,4018,4399,3623,4232,4380,4260,4214,3889,3504,4346,4313,3944,3731,4251,3801,4206,3985,3782,3505,3524,4443,4135,4118,3698,3564,3829,4011,3693,4374,3829,4258,3728,3732,3592,4025,4087,3745,3642,4329,4464,3742,3909,3907,4294,4291,4321,4206,4095,3735,3765,4254,3897,3974,4441,4453,4417,3655,3520,3740,4422,3976,4198,4400,3521,3653,3621,3753,3719,4463,3992,4348,3564,3831,4009,3927,4492,3985,3712,4453,4462,4154,3907,4422,3845,4316,3873,3793,3526,3761,3755,3781,4118,4280,4236,3830,3844,4179,3948,4410,4366,3975,3949,3784,3993,4127,4211,4300,3511,4286,4445,3724,3817,4007,3588,3692,4363,4456,4045,4410,4466,3863,3508,4245,3736,3534,3789,3964,4172,4245,3662,4472,4001,3921,3620,3714,3739,3867,3901,3672,3876,4497,4447,3912,3989,3932,4043,3783,4023,3668,3608,4497,4044,4471,3822,3611,4258,4319,3829,3774,4056,4456,3770,3530,3727,3659,3738,3518,3933,3714,3929,3729,4119,4087,3574,4028,3790,4231,4423,3753,3834,3987,3594,3912,4095,3571,4175,3755,3666,4038,4340,4038,3553,3662,3685,3615,3773,4103,3506,4053,3926,4144,4101,3870,4121,4221,3723,4226,3547,4275,3671,3858,3804,4210,4286,4241,4251,3842,4085,3797,3783,4074,3532,3877,3601,4330,4388,3737,4108,3729,4445,4318,3545,3703,3678,4292,3615,3799,3995,4234,3748,4264,4430,3519,3527,4291,3767,3982,3501,4050,3654,4437,3529,3812,4157,4029,3837,4495,3790,3749,4100,3985,4249,3531,4333,4241,3843,3777,3828,3636,4152,4428,3836,4029,3690,4419,4013,3627,4478,4024,3599,3580,3938,3978,3815,3685,3964,4288,3785,3613,3659,3931,4197,4123,3548,4221,4121,3732,4008,4239,4208,3571,3582,3700,4420,3986,3787,4127,3996,3557,3831,3711,4426,4031,4208,3856,3900,4453,4496,3922,4163,4378,4329,4358,4303,4245,4160,4411,3648,4260,4279,4362,3689,4253,4016,4445,3938,4427,4348,3512,4260,3807,4139,4116,3962,3781,4362,4469,3912,4431,3687,3955,4072,4405,4265,3894,4228,3944,3794,4334,3983,3681,3749,3894,4179,3877,4018,3632,4006,4092,3988,3633,4379,4386,4224,3812,4394,3899,4350,3707,4091,4268,3794,3550,4179,3789,4486,3579,4362,4308,3596,3847,3685,4135,3666,4406,4420,4011,3847,4320,3746,3616,4192,3686,4360,3772,3766,4420,3820,3694,4252,3978,4236,3646,4061,3863,3838,3950,3940,3603,4375,4126,4401,4334,3933,3779,4178,4028,3920,4419,3558,3593,4199,3717,3539,4143,4323,4254,3574,3989,4072,3925,3992,4473,3715,3654,3509,4448,3863,3704,4061,3653,4362,3737,4116,4284,4129,3953,4235,4267,3744,3914,4210,3941,3810,3784,3731,4108,4323,4001,4052,4466,4268,3699,3570,4050,3798,3579,4454,4115,3971,3993,4318,4321,3565,4395,4047,4221,3545,3927,4060,3502,4113,4308,3834,3621,3540,4374,3758,3684,4004,3611,3631,3930,4306,4045,4134,3993,4239,4268,3856,3962,4277,4241,4284,4432,3965,4043,3543,3686,4296,3837,3732,4178,3748,4374,3684,4371,3580,3983,4387,3874,3696,4355,4135,3750,3726,3691,4361,4136,4092,3701,4455,4075,3740,3658,3861,3519,3517,4351,3873,3879,4179,3902,3565,4468,3763,4480,3939,4416,4353,3834,4368,4338,4077,4139,4122,4116,4018,4052,4149,3538,3792,3931,3866,4416,4393,4301,3720,4390,3590,3884,3744,4050,4332,4351,3711,4426,3879,4142,3704,4487,4450,4156,4009,4164,3930,3860,3859,3594,4085,3779,3611,3865,3534,4212,4205,4031,4392,4026,3907,3880,3702,4175,3521,3579,3905,4099,4386,3776,3522,4215,3835,3755,4317,3542,3536,3522,4244,4308,4239,4043,3800,3625,3633,3875,4253,4256,4406,4055,4140,4436,4347,4024,3887,4203,3554,3927,4173,3509,3776,4003,4013,3617,4190,3908,3917,4255,4237,4340,4354,3769,3948,3550,4147,4165,3689,4371,3647,3820,4195,3774,4385,4438,3764,3593,4463,4413,4085,3756,4092,4471,3774,4175,4139,4102,3508,3713,4090,4019,4328,3805,3958,3688,4201,3698,4267,4070,4299,3685,3507,4127,4140,4086,3776,3776,3637,4406,3710,3523,3592,3733,4037,3872,4071,4470,3772,3518,4199,4396,3971,3717,3615,3502,4155,3839,4233,4137,4024,3529,3966,4244,3754,4172,4363,3798,4105,3879,3935,4172,4272,3560,4099,3583,4134,4053,4296,4086,4272,4226,4112,4237,4070,3649,4341,3824,4467,4273,3512,3749,3577,3823,3717,3668,3706,4108,4205,4471,4037,4492,3902,3885,3895,3660,3844,3751,4277,3665,4274,3966,3574,3829,3929,4280,3532,3860,4471,3803,4397,4051,3649,4205,3762,3761,4342,3910,4345,3924,4297,4051,4418,3833,4212,4168,4281,3588,4389,3694,3565,4320,3888,4032,4350,4104,3511,3939,4301,4386,3505,3513,3779,4457,3675,4141,3778,4099,3902,3544,3621,3967,3992,3691,3720,4399,3887,3815,4458,3675,3575,4311,3857,4273,3848,4225,3866,4439,3714,4046,3982,3891,3707,3742,3594,4018,3926,3911,4182,4438,3739,4209,3761,4168,4240,3987,3905,3529,4464,3510,3978,3889,3501,3718,3777,3625,4045,3566,3903,3856,4281,4297,3915,4365,4199,3812,4049,4196,4324,4239,4022,3587,4078,3538,4450,4126,3887,3559,3944,3588,3947,4119,4334,4008,4251,4407,4441,4021,3739,4186,3844,3523,3919,3650,3998,3791,4196,4128,3845,3533,4075,3903,4295,3572,4294,4227,4385,4079,3956,4436,4411,4315,4078,3666,4110,4190,3639,4218,4201,4220,3829,4055,3813,4353,3720,3734,3613,4153,3758,3691,4385,4050,4059,3924,4300,3778,3821,4059,4197,4065,3961,3652,4244,3973,4115,3576,4444,3763,3846,4418,4100,3601,4441,3658,4300,3601,3919,3523,4231,3590,4273,4248,4052,3676', '/tmp/1624707499016.txt', '2', './1624707499011.json', './1624707499006.json', '300']
+meta data file path:/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_111_dataset_kosarakdat.pkl
+got min rf : 300
+total_pages: 3428
+low_rf_pages: 37842
+['../test1/kosarak_output_0015/1_level_patterns.txt', '../test1/kosarak_output_0015/2_level_patterns.txt']
+Loaded all files
+got patterns
+current advertiser: 0
+total_pages: 3428
+low_rf_pages: 37842
+total patterns: 73104
+current advertiser: 1
+total_pages: 3428
+low_rf_pages: 37842
+total patterns: 73104
+current advertiser: 2
+total_pages: 3428
+low_rf_pages: 37842
+total patterns: 73104
+deleting 20
+current advertiser: 3
+total_pages: 3427
+low_rf_pages: 37842
+total patterns: 73103
+current advertiser: 4
+total_pages: 3427
+low_rf_pages: 37842
+total patterns: 73103
+current advertiser: 5
+total_pages: 3427
+low_rf_pages: 37842
+total patterns: 73103
+deleting 41
+current advertiser: 6
+total_pages: 3426
+low_rf_pages: 37842
+total patterns: 73102
+current advertiser: 7
+total_pages: 3426
+low_rf_pages: 37842
+total patterns: 73102
+current advertiser: 8
+total_pages: 3426
+low_rf_pages: 37842
+total patterns: 73102
+deleting 211
+current advertiser: 9
+total_pages: 3425
+low_rf_pages: 37842
+total patterns: 73101
+current advertiser: 10
+total_pages: 3425
+low_rf_pages: 37842
+total patterns: 73101
+current advertiser: 11
+total_pages: 3425
+low_rf_pages: 37842
+total patterns: 73101
+deleting 247
+current advertiser: 12
+total_pages: 3424
+low_rf_pages: 37842
+total patterns: 73100
+current advertiser: 13
+total_pages: 3424
+low_rf_pages: 37842
+total patterns: 73100
+current advertiser: 14
+total_pages: 3424
+low_rf_pages: 37842
+total patterns: 73100
+deleting 266
+current advertiser: 15
+total_pages: 3423
+low_rf_pages: 37842
+total patterns: 73099
+current advertiser: 16
+total_pages: 3423
+low_rf_pages: 37842
+total patterns: 73099
+current advertiser: 17
+total_pages: 3423
+low_rf_pages: 37842
+total patterns: 73099
+deleting 268
+current advertiser: 18
+total_pages: 3422
+low_rf_pages: 37842
+total patterns: 73098
+current advertiser: 19
+total_pages: 3422
+low_rf_pages: 37842
+total patterns: 73098
+current advertiser: 20
+total_pages: 3422
+low_rf_pages: 37842
+total patterns: 73098
+deleting 276
+current advertiser: 21
+total_pages: 3421
+low_rf_pages: 37842
+total patterns: 73097
+current advertiser: 22
+total_pages: 3421
+low_rf_pages: 37842
+total patterns: 73097
+current advertiser: 23
+total_pages: 3421
+low_rf_pages: 37842
+total patterns: 73097
+deleting 296
+current advertiser: 24
+total_pages: 3420
+low_rf_pages: 37842
+total patterns: 73096
+current advertiser: 25
+total_pages: 3420
+low_rf_pages: 37842
+total patterns: 73096
+current advertiser: 26
+total_pages: 3420
+low_rf_pages: 37842
+total patterns: 73096
+deleting 496
+current advertiser: 27
+total_pages: 3419
+low_rf_pages: 37842
+total patterns: 73095
+current advertiser: 28
+total_pages: 3419
+low_rf_pages: 37842
+total patterns: 73095
+current advertiser: 29
+total_pages: 3419
+low_rf_pages: 37842
+total patterns: 73095
+deleting 508
+current advertiser: 30
+total_pages: 3418
+low_rf_pages: 37842
+total patterns: 73094
+current advertiser: 31
+total_pages: 3418
+low_rf_pages: 37842
+total patterns: 73094
+current advertiser: 32
+total_pages: 3418
+low_rf_pages: 37842
+total patterns: 73094
+deleting 534
+current advertiser: 33
+total_pages: 3417
+low_rf_pages: 37842
+total patterns: 73093
+current advertiser: 34
+total_pages: 3417
+low_rf_pages: 37842
+total patterns: 73093
+current advertiser: 35
+total_pages: 3417
+low_rf_pages: 37842
+total patterns: 73093
+deleting 650
+current advertiser: 36
+total_pages: 3416
+low_rf_pages: 37842
+total patterns: 73092
+current advertiser: 37
+total_pages: 3416
+low_rf_pages: 37842
+total patterns: 73092
+current advertiser: 38
+total_pages: 3416
+low_rf_pages: 37842
+total patterns: 73092
+deleting 665
+current advertiser: 39
+total_pages: 3415
+low_rf_pages: 37842
+total patterns: 73091
+current advertiser: 40
+total_pages: 3415
+low_rf_pages: 37842
+total patterns: 73091
+current advertiser: 41
+total_pages: 3415
+low_rf_pages: 37842
+total patterns: 73091
+deleting 772
+current advertiser: 42
+total_pages: 3414
+low_rf_pages: 37842
+total patterns: 73090
+current advertiser: 43
+total_pages: 3414
+low_rf_pages: 37842
+total patterns: 73090
+current advertiser: 44
+total_pages: 3414
+low_rf_pages: 37842
+total patterns: 73090
+deleting 870
+current advertiser: 45
+total_pages: 3413
+low_rf_pages: 37842
+total patterns: 73089
+current advertiser: 46
+total_pages: 3413
+low_rf_pages: 37842
+total patterns: 73089
+current advertiser: 47
+total_pages: 3413
+low_rf_pages: 37842
+total patterns: 73089
+deleting 901
+current advertiser: 48
+total_pages: 3412
+low_rf_pages: 37842
+total patterns: 73088
+current advertiser: 49
+total_pages: 3412
+low_rf_pages: 37842
+total patterns: 73088
+current advertiser: 50
+total_pages: 3412
+low_rf_pages: 37842
+total patterns: 73088
+deleting 1101
+current advertiser: 51
+total_pages: 3411
+low_rf_pages: 37842
+total patterns: 73087
+current advertiser: 52
+total_pages: 3411
+low_rf_pages: 37842
+total patterns: 73087
+current advertiser: 53
+total_pages: 3411
+low_rf_pages: 37842
+total patterns: 73087
+deleting 1138
+current advertiser: 54
+total_pages: 3410
+low_rf_pages: 37842
+total patterns: 73086
+current advertiser: 55
+total_pages: 3410
+low_rf_pages: 37842
+total patterns: 73086
+current advertiser: 56
+total_pages: 3410
+low_rf_pages: 37842
+total patterns: 73086
+current advertiser: 57
+total_pages: 3410
+low_rf_pages: 37842
+total patterns: 73086
+deleting 1052
+current advertiser: 58
+total_pages: 3409
+low_rf_pages: 37842
+total patterns: 73085
+current advertiser: 59
+total_pages: 3409
+low_rf_pages: 37842
+total patterns: 73085
+deleting 1536
+current advertiser: 60
+total_pages: 3408
+low_rf_pages: 37842
+total patterns: 73084
+current advertiser: 61
+total_pages: 3408
+low_rf_pages: 37842
+total patterns: 73084
+current advertiser: 62
+total_pages: 3408
+low_rf_pages: 37842
+total patterns: 73084
+deleting 1808
+current advertiser: 63
+total_pages: 3407
+low_rf_pages: 37842
+total patterns: 73083
+deleting 893
+current advertiser: 64
+total_pages: 3406
+low_rf_pages: 37842
+total patterns: 73081
+deleting 4588
+current advertiser: 65
+total_pages: 3405
+low_rf_pages: 37842
+total patterns: 73080
+deleting 5655
+current advertiser: 66
+total_pages: 3404
+low_rf_pages: 37842
+total patterns: 73077
+deleting 6976
+current advertiser: 67
+total_pages: 3403
+low_rf_pages: 37842
+total patterns: 73074
+deleting 3604
+current advertiser: 68
+total_pages: 3402
+low_rf_pages: 37842
+total patterns: 73071
+deleting 5565
+current advertiser: 69
+total_pages: 3401
+low_rf_pages: 37842
+total patterns: 73068
+deleting 3356
+current advertiser: 70
+total_pages: 3400
+low_rf_pages: 37842
+total patterns: 73064
+deleting 251
+current advertiser: 71
+total_pages: 3399
+low_rf_pages: 37842
+total patterns: 73061
+deleting 617
+current advertiser: 72
+total_pages: 3398
+low_rf_pages: 37842
+total patterns: 73054
+deleting 928
+current advertiser: 73
+total_pages: 3397
+low_rf_pages: 37842
+total patterns: 73048
+deleting 146
+current advertiser: 74
+total_pages: 3396
+low_rf_pages: 37842
+total patterns: 73041
+deleting 526
+deleting 3090
+current advertiser: 75
+total_pages: 3394
+low_rf_pages: 37842
+total patterns: 73031
+deleting 485
+current advertiser: 76
+total_pages: 3393
+low_rf_pages: 37842
+total patterns: 73024
+deleting 689
+deleting 2186
+current advertiser: 77
+total_pages: 3391
+low_rf_pages: 37842
+total patterns: 73013
+deleting 2895
+current advertiser: 78
+total_pages: 3390
+low_rf_pages: 37842
+total patterns: 73009
+deleting 4035
+current advertiser: 79
+total_pages: 3389
+low_rf_pages: 37842
+total patterns: 72998
+deleting 1039
+current advertiser: 80
+total_pages: 3388
+low_rf_pages: 37842
+total patterns: 72991
+deleting 989
+deleting 1105
+current advertiser: 81
+total_pages: 3386
+low_rf_pages: 37842
+total patterns: 72977
+deleting 2324
+current advertiser: 82
+total_pages: 3385
+low_rf_pages: 37842
+total patterns: 72971
+deleting 2300
+deleting 52
+current advertiser: 83
+total_pages: 3383
+low_rf_pages: 37842
+total patterns: 72962
+deleting 607
+current advertiser: 84
+total_pages: 3382
+low_rf_pages: 37842
+total patterns: 72955
+deleting 612
+deleting 1648
+current advertiser: 85
+total_pages: 3380
+low_rf_pages: 37842
+total patterns: 72944
+deleting 217
+current advertiser: 86
+total_pages: 3379
+low_rf_pages: 37842
+total patterns: 72934
+deleting 529
+deleting 72
+current advertiser: 87
+total_pages: 3377
+low_rf_pages: 37842
+total patterns: 72920
+deleting 1596
+current advertiser: 88
+total_pages: 3376
+low_rf_pages: 37842
+total patterns: 72912
+deleting 483
+deleting 2941
+current advertiser: 89
+total_pages: 3374
+low_rf_pages: 37842
+total patterns: 72898
+deleting 1164
+current advertiser: 90
+total_pages: 3373
+low_rf_pages: 37842
+total patterns: 72887
+deleting 1599
+deleting 137
+current advertiser: 91
+total_pages: 3371
+low_rf_pages: 37842
+total patterns: 72871
+deleting 922
+current advertiser: 92
+total_pages: 3370
+low_rf_pages: 37842
+total patterns: 72860
+deleting 2050
+deleting 1057
+current advertiser: 93
+total_pages: 3368
+low_rf_pages: 37842
+total patterns: 72843
+deleting 1078
+current advertiser: 94
+total_pages: 3367
+low_rf_pages: 37842
+total patterns: 72834
+deleting 2309
+deleting 350
+current advertiser: 95
+total_pages: 3365
+low_rf_pages: 37842
+total patterns: 72817
+deleting 3764
+current advertiser: 96
+total_pages: 3364
+low_rf_pages: 37842
+total patterns: 72807
+deleting 6977
+deleting 1023
+current advertiser: 97
+total_pages: 3362
+low_rf_pages: 37842
+total patterns: 72792
+deleting 616
+deleting 43
+current advertiser: 98
+total_pages: 3360
+low_rf_pages: 37842
+total patterns: 72773
+deleting 488
+current advertiser: 99
+total_pages: 3359
+low_rf_pages: 37842
+total patterns: 72759
+deleting 1559
+deleting 635
+current advertiser: 100
+total_pages: 3357
+low_rf_pages: 37842
+total patterns: 72743
+deleting 3181
+current advertiser: 101
+total_pages: 3356
+low_rf_pages: 37842
+total patterns: 72730
+current advertiser: 102
+total_pages: 3356
+low_rf_pages: 37842
+total patterns: 72730
+current advertiser: 103
+total_pages: 3356
+low_rf_pages: 37842
+total patterns: 72730
+deleting 2303
+current advertiser: 104
+total_pages: 3355
+low_rf_pages: 37842
+total patterns: 72728
+deleting 1777
+deleting 1754
+current advertiser: 105
+total_pages: 3353
+low_rf_pages: 37842
+total patterns: 72711
+deleting 1059
+current advertiser: 106
+total_pages: 3352
+low_rf_pages: 37842
+total patterns: 72693
+deleting 535
+deleting 257
+current advertiser: 107
+total_pages: 3350
+low_rf_pages: 37842
+total patterns: 72671
+deleting 2247
+current advertiser: 108
+total_pages: 3349
+low_rf_pages: 37842
+total patterns: 72655
+deleting 54
+deleting 3517
+current advertiser: 109
+total_pages: 3347
+low_rf_pages: 37842
+total patterns: 72635
+deleting 1581
+current advertiser: 110
+total_pages: 3346
+low_rf_pages: 37842
+total patterns: 72614
+deleting 62
+deleting 484
+current advertiser: 111
+total_pages: 3344
+low_rf_pages: 37842
+total patterns: 72585
+deleting 2009
+current advertiser: 112
+total_pages: 3343
+low_rf_pages: 37842
+total patterns: 72572
+deleting 1850
+deleting 2993
+current advertiser: 113
+total_pages: 3341
+low_rf_pages: 37842
+total patterns: 72549
+deleting 3315
+current advertiser: 114
+total_pages: 3340
+low_rf_pages: 37842
+total patterns: 72534
+deleting 275
+deleting 660
+current advertiser: 115
+total_pages: 3338
+low_rf_pages: 37842
+total patterns: 72508
+deleting 1637
+current advertiser: 116
+total_pages: 3337
+low_rf_pages: 37842
+total patterns: 72492
+deleting 153
+deleting 621
+current advertiser: 117
+total_pages: 3335
+low_rf_pages: 37842
+total patterns: 72462
+deleting 82
+current advertiser: 118
+total_pages: 3334
+low_rf_pages: 37842
+total patterns: 72445
+deleting 442
+deleting 749
+current advertiser: 119
+total_pages: 3332
+low_rf_pages: 37842
+total patterns: 72417
+deleting 801
+current advertiser: 120
+total_pages: 3331
+low_rf_pages: 37842
+total patterns: 72400
+deleting 295
+deleting 2283
+current advertiser: 121
+total_pages: 3329
+low_rf_pages: 37842
+total patterns: 72369
+deleting 1779
+current advertiser: 122
+total_pages: 3328
+low_rf_pages: 37842
+total patterns: 72351
+deleting 1017
+deleting 588
+current advertiser: 123
+total_pages: 3326
+low_rf_pages: 37842
+total patterns: 72323
+deleting 643
+current advertiser: 124
+total_pages: 3325
+low_rf_pages: 37842
+total patterns: 72301
+deleting 786
+deleting 293
+current advertiser: 125
+total_pages: 3323
+low_rf_pages: 37842
+total patterns: 72274
+deleting 3317
+current advertiser: 126
+total_pages: 3322
+low_rf_pages: 37842
+total patterns: 72248
+deleting 1177
+deleting 2284
+current advertiser: 127
+total_pages: 3320
+low_rf_pages: 37842
+total patterns: 72212
+deleting 3001
+current advertiser: 128
+total_pages: 3319
+low_rf_pages: 37842
+total patterns: 72187
+deleting 502
+deleting 325
+current advertiser: 129
+total_pages: 3317
+low_rf_pages: 37842
+total patterns: 72158
+current advertiser: 130
+total_pages: 3317
+low_rf_pages: 37842
+total patterns: 72158
+current advertiser: 131
+total_pages: 3317
+low_rf_pages: 37842
+total patterns: 72158
+deleting 231
+current advertiser: 132
+total_pages: 3316
+low_rf_pages: 37842
+total patterns: 72157
+deleting 323
+current advertiser: 133
+total_pages: 3315
+low_rf_pages: 37842
+total patterns: 72135
+deleting 515
+deleting 532
+current advertiser: 134
+total_pages: 3313
+low_rf_pages: 37842
+total patterns: 72108
+deleting 799
+current advertiser: 135
+total_pages: 3312
+low_rf_pages: 37842
+total patterns: 72088
+deleting 1490
+deleting 1140
+current advertiser: 136
+total_pages: 3310
+low_rf_pages: 37842
+total patterns: 72058
+deleting 2081
+current advertiser: 137
+total_pages: 3309
+low_rf_pages: 37842
+total patterns: 72034
+deleting 335
+deleting 622
+current advertiser: 138
+total_pages: 3307
+low_rf_pages: 37842
+total patterns: 72003
+deleting 2985
+current advertiser: 139
+total_pages: 3306
+low_rf_pages: 37842
+total patterns: 71981
+deleting 1693
+deleting 1180
+current advertiser: 140
+total_pages: 3304
+low_rf_pages: 37842
+total patterns: 71942
+deleting 3826
+current advertiser: 141
+total_pages: 3303
+low_rf_pages: 37842
+total patterns: 71923
+deleting 3589
+deleting 326
+current advertiser: 142
+total_pages: 3301
+low_rf_pages: 37842
+total patterns: 71886
+deleting 487
+current advertiser: 143
+total_pages: 3300
+low_rf_pages: 37842
+total patterns: 71860
+deleting 776
+deleting 291
+current advertiser: 144
+total_pages: 3298
+low_rf_pages: 37842
+total patterns: 71828
+deleting 3347
+current advertiser: 145
+total_pages: 3297
+low_rf_pages: 37842
+total patterns: 71805
+deleting 3620
+deleting 109
+current advertiser: 146
+total_pages: 3295
+low_rf_pages: 37842
+total patterns: 71769
+deleting 1855
+current advertiser: 147
+total_pages: 3294
+low_rf_pages: 37842
+total patterns: 71742
+deleting 336
+deleting 70
+current advertiser: 148
+total_pages: 3292
+low_rf_pages: 37842
+total patterns: 71697
+deleting 3003
+current advertiser: 149
+total_pages: 3291
+low_rf_pages: 37842
+total patterns: 71674
+deleting 930
+deleting 4426
+current advertiser: 150
+total_pages: 3289
+low_rf_pages: 37842
+total patterns: 71633
+deleting 288
+current advertiser: 151
+total_pages: 3288
+low_rf_pages: 37842
+total patterns: 71605
+deleting 638
+current advertiser: 152
+total_pages: 3287
+low_rf_pages: 37842
+total patterns: 71578
+deleting 1524
+deleting 509
+current advertiser: 153
+total_pages: 3285
+low_rf_pages: 37842
+total patterns: 71528
+current advertiser: 154
+total_pages: 3285
+low_rf_pages: 37842
+total patterns: 71528
+current advertiser: 155
+total_pages: 3285
+low_rf_pages: 37842
+total patterns: 71528
+deleting 1037
+current advertiser: 156
+total_pages: 3284
+low_rf_pages: 37842
+total patterns: 71525
+deleting 2344
+current advertiser: 157
+total_pages: 3283
+low_rf_pages: 37842
+total patterns: 71490
+deleting 4315
+current advertiser: 158
+total_pages: 3282
+low_rf_pages: 37842
+total patterns: 71470
+deleting 605
+current advertiser: 159
+total_pages: 3281
+low_rf_pages: 37842
+total patterns: 71442
+deleting 849
+current advertiser: 160
+total_pages: 3280
+low_rf_pages: 37842
+total patterns: 71411
+deleting 1056
+current advertiser: 161
+total_pages: 3279
+low_rf_pages: 37842
+total patterns: 71385
+deleting 656
+current advertiser: 162
+total_pages: 3278
+low_rf_pages: 37842
+total patterns: 71353
+deleting 880
+current advertiser: 163
+total_pages: 3277
+low_rf_pages: 37842
+total patterns: 71323
+current advertiser: 164
+total_pages: 3277
+low_rf_pages: 37842
+total patterns: 71323
+current advertiser: 165
+total_pages: 3277
+low_rf_pages: 37842
+total patterns: 71323
+deleting 1131
+current advertiser: 166
+total_pages: 3276
+low_rf_pages: 37842
+total patterns: 71322
+current advertiser: 167
+total_pages: 3276
+low_rf_pages: 37842
+total patterns: 71322
+current advertiser: 168
+total_pages: 3276
+low_rf_pages: 37842
+total patterns: 71322
+deleting 1044
+current advertiser: 169
+total_pages: 3275
+low_rf_pages: 37842
+total patterns: 71319
+current advertiser: 170
+total_pages: 3275
+low_rf_pages: 37842
+total patterns: 71319
+current advertiser: 171
+total_pages: 3275
+low_rf_pages: 37842
+total patterns: 71319
+deleting 970
+current advertiser: 172
+total_pages: 3274
+low_rf_pages: 37842
+total patterns: 71318
+current advertiser: 173
+total_pages: 3274
+low_rf_pages: 37842
+total patterns: 71318
+current advertiser: 174
+total_pages: 3274
+low_rf_pages: 37842
+total patterns: 71318
+deleting 687
+current advertiser: 175
+total_pages: 3273
+low_rf_pages: 37842
+total patterns: 71317
+current advertiser: 176
+total_pages: 3273
+low_rf_pages: 37842
+total patterns: 71317
+current advertiser: 177
+total_pages: 3273
+low_rf_pages: 37842
+total patterns: 71317
+deleting 452
+current advertiser: 178
+total_pages: 3272
+low_rf_pages: 37842
+total patterns: 71315
+current advertiser: 179
+total_pages: 3272
+low_rf_pages: 37842
+total patterns: 71315
+current advertiser: 180
+total_pages: 3272
+low_rf_pages: 37842
+total patterns: 71315
+deleting 677
+current advertiser: 181
+total_pages: 3271
+low_rf_pages: 37842
+total patterns: 71314
+current advertiser: 182
+total_pages: 3271
+low_rf_pages: 37842
+total patterns: 71314
+current advertiser: 183
+total_pages: 3271
+low_rf_pages: 37842
+total patterns: 71314
+deleting 1770
+current advertiser: 184
+total_pages: 3270
+low_rf_pages: 37842
+total patterns: 71312
+current advertiser: 185
+total_pages: 3270
+low_rf_pages: 37842
+total patterns: 71312
+current advertiser: 186
+total_pages: 3270
+low_rf_pages: 37842
+total patterns: 71312
+deleting 356
+current advertiser: 187
+total_pages: 3269
+low_rf_pages: 37842
+total patterns: 71310
+current advertiser: 188
+total_pages: 3269
+low_rf_pages: 37842
+total patterns: 71310
+current advertiser: 189
+total_pages: 3269
+low_rf_pages: 37842
+total patterns: 71310
+deleting 448
+current advertiser: 190
+total_pages: 3268
+low_rf_pages: 37842
+total patterns: 71309
+current advertiser: 191
+total_pages: 3268
+low_rf_pages: 37842
+total patterns: 71309
+current advertiser: 192
+total_pages: 3268
+low_rf_pages: 37842
+total patterns: 71309
+deleting 775
+current advertiser: 193
+total_pages: 3267
+low_rf_pages: 37842
+total patterns: 71308
+current advertiser: 194
+total_pages: 3267
+low_rf_pages: 37842
+total patterns: 71308
+current advertiser: 195
+total_pages: 3267
+low_rf_pages: 37842
+total patterns: 71308
+deleting 499
+current advertiser: 196
+total_pages: 3266
+low_rf_pages: 37842
+total patterns: 71307
+current advertiser: 197
+total_pages: 3266
+low_rf_pages: 37842
+total patterns: 71307
+current advertiser: 198
+total_pages: 3266
+low_rf_pages: 37842
+total patterns: 71307
+deleting 151
+current advertiser: 199
+total_pages: 3265
+low_rf_pages: 37842
+total patterns: 71306
+current advertiser: 200
+total_pages: 3265
+low_rf_pages: 37842
+total patterns: 71306
+current advertiser: 201
+total_pages: 3265
+low_rf_pages: 37842
+total patterns: 71306
+deleting 339
+current advertiser: 202
+total_pages: 3264
+low_rf_pages: 37842
+total patterns: 71304
+current advertiser: 203
+total_pages: 3264
+low_rf_pages: 37842
+total patterns: 71304
+current advertiser: 204
+total_pages: 3264
+low_rf_pages: 37842
+total patterns: 71304
+deleting 582
+current advertiser: 205
+total_pages: 3263
+low_rf_pages: 37842
+total patterns: 71303
+current advertiser: 206
+total_pages: 3263
+low_rf_pages: 37842
+total patterns: 71303
+current advertiser: 207
+total_pages: 3263
+low_rf_pages: 37842
+total patterns: 71303
+deleting 1019
+current advertiser: 208
+total_pages: 3262
+low_rf_pages: 37842
+total patterns: 71301
+current advertiser: 209
+total_pages: 3262
+low_rf_pages: 37842
+total patterns: 71301
+current advertiser: 210
+total_pages: 3262
+low_rf_pages: 37842
+total patterns: 71301
+deleting 455
+current advertiser: 211
+total_pages: 3261
+low_rf_pages: 37842
+total patterns: 71300
+current advertiser: 212
+total_pages: 3261
+low_rf_pages: 37842
+total patterns: 71300
+current advertiser: 213
+total_pages: 3261
+low_rf_pages: 37842
+total patterns: 71300
+deleting 598
+current advertiser: 214
+total_pages: 3260
+low_rf_pages: 37842
+total patterns: 71298
+current advertiser: 215
+total_pages: 3260
+low_rf_pages: 37842
+total patterns: 71298
+current advertiser: 216
+total_pages: 3260
+low_rf_pages: 37842
+total patterns: 71298
+deleting 232
+current advertiser: 217
+total_pages: 3259
+low_rf_pages: 37842
+total patterns: 71296
+current advertiser: 218
+total_pages: 3259
+low_rf_pages: 37842
+total patterns: 71296
+current advertiser: 219
+total_pages: 3259
+low_rf_pages: 37842
+total patterns: 71296
+deleting 220
+current advertiser: 220
+total_pages: 3258
+low_rf_pages: 37842
+total patterns: 71295
+current advertiser: 221
+total_pages: 3258
+low_rf_pages: 37842
+total patterns: 71295
+deleting 3182
+current advertiser: 222
+total_pages: 3257
+low_rf_pages: 37842
+total patterns: 71253
+current advertiser: 223
+total_pages: 3257
+low_rf_pages: 37842
+total patterns: 71253
+deleting 659
+current advertiser: 224
+total_pages: 3256
+low_rf_pages: 37842
+total patterns: 71252
+current advertiser: 225
+total_pages: 3256
+low_rf_pages: 37842
+total patterns: 71252
+current advertiser: 226
+total_pages: 3256
+low_rf_pages: 37842
+total patterns: 71252
+deleting 338
+current advertiser: 227
+total_pages: 3255
+low_rf_pages: 37842
+total patterns: 71251
+current advertiser: 228
+total_pages: 3255
+low_rf_pages: 37842
+total patterns: 71251
+current advertiser: 229
+total_pages: 3255
+low_rf_pages: 37842
+total patterns: 71251
+current advertiser: 230
+total_pages: 3255
+low_rf_pages: 37842
+total patterns: 71251
+current advertiser: 231
+total_pages: 3255
+low_rf_pages: 37842
+total patterns: 71251
+deleting 2886
+current advertiser: 232
+total_pages: 3254
+low_rf_pages: 37842
+total patterns: 71250
+deleting 324
+current advertiser: 233
+total_pages: 3253
+low_rf_pages: 37842
+total patterns: 71249
+current advertiser: 234
+total_pages: 3253
+low_rf_pages: 37842
+total patterns: 71249
+current advertiser: 235
+total_pages: 3253
+low_rf_pages: 37842
+total patterns: 71249
+deleting 631
+current advertiser: 236
+total_pages: 3252
+low_rf_pages: 37842
+total patterns: 71248
+current advertiser: 237
+total_pages: 3252
+low_rf_pages: 37842
+total patterns: 71248
+current advertiser: 238
+total_pages: 3252
+low_rf_pages: 37842
+total patterns: 71248
+current advertiser: 239
+total_pages: 3252
+low_rf_pages: 37842
+total patterns: 71248
+deleting 1030
+current advertiser: 240
+total_pages: 3251
+low_rf_pages: 37842
+total patterns: 71246
+current advertiser: 241
+total_pages: 3251
+low_rf_pages: 37842
+total patterns: 71246
+deleting 573
+current advertiser: 242
+total_pages: 3250
+low_rf_pages: 37842
+total patterns: 71245
+current advertiser: 243
+total_pages: 3250
+low_rf_pages: 37842
+total patterns: 71245
+current advertiser: 244
+total_pages: 3250
+low_rf_pages: 37842
+total patterns: 71245
+current advertiser: 245
+total_pages: 3250
+low_rf_pages: 37842
+total patterns: 71245
+deleting 1507
+current advertiser: 246
+total_pages: 3249
+low_rf_pages: 37842
+total patterns: 71243
+current advertiser: 247
+total_pages: 3249
+low_rf_pages: 37842
+total patterns: 71243
+deleting 1810
+current advertiser: 248
+total_pages: 3248
+low_rf_pages: 37842
+total patterns: 71242
+current advertiser: 249
+total_pages: 3248
+low_rf_pages: 37842
+total patterns: 71242
+current advertiser: 250
+total_pages: 3248
+low_rf_pages: 37842
+total patterns: 71242
+deleting 306
+current advertiser: 251
+total_pages: 3247
+low_rf_pages: 37842
+total patterns: 71241
+current advertiser: 252
+total_pages: 3247
+low_rf_pages: 37842
+total patterns: 71241
+current advertiser: 253
+total_pages: 3247
+low_rf_pages: 37842
+total patterns: 71241
+current advertiser: 254
+total_pages: 3247
+low_rf_pages: 37842
+total patterns: 71241
+deleting 1748
+current advertiser: 255
+total_pages: 3246
+low_rf_pages: 37842
+total patterns: 71239
+current advertiser: 256
+total_pages: 3246
+low_rf_pages: 37842
+total patterns: 71239
+current advertiser: 257
+total_pages: 3246
+low_rf_pages: 37842
+total patterns: 71239
+deleting 131
+current advertiser: 258
+total_pages: 3245
+low_rf_pages: 37842
+total patterns: 71235
+current advertiser: 259
+total_pages: 3245
+low_rf_pages: 37842
+total patterns: 71235
+deleting 354
+current advertiser: 260
+total_pages: 3244
+low_rf_pages: 37842
+total patterns: 71234
+current advertiser: 261
+total_pages: 3244
+low_rf_pages: 37842
+total patterns: 71234
+current advertiser: 262
+total_pages: 3244
+low_rf_pages: 37842
+total patterns: 71234
+deleting 1997
+current advertiser: 263
+total_pages: 3243
+low_rf_pages: 37842
+total patterns: 71233
+current advertiser: 264
+total_pages: 3243
+low_rf_pages: 37842
+total patterns: 71233
+current advertiser: 265
+total_pages: 3243
+low_rf_pages: 37842
+total patterns: 71233
+deleting 773
+current advertiser: 266
+total_pages: 3242
+low_rf_pages: 37842
+total patterns: 71232
+current advertiser: 267
+total_pages: 3242
+low_rf_pages: 37842
+total patterns: 71232
+current advertiser: 268
+total_pages: 3242
+low_rf_pages: 37842
+total patterns: 71232
+deleting 2331
+current advertiser: 269
+total_pages: 3241
+low_rf_pages: 37842
+total patterns: 71230
+current advertiser: 270
+total_pages: 3241
+low_rf_pages: 37842
+total patterns: 71230
+current advertiser: 271
+total_pages: 3241
+low_rf_pages: 37842
+total patterns: 71230
+deleting 397
+current advertiser: 272
+total_pages: 3240
+low_rf_pages: 37842
+total patterns: 71229
+current advertiser: 273
+total_pages: 3240
+low_rf_pages: 37842
+total patterns: 71229
+current advertiser: 274
+total_pages: 3240
+low_rf_pages: 37842
+total patterns: 71229
+deleting 1065
+current advertiser: 275
+total_pages: 3239
+low_rf_pages: 37842
+total patterns: 71228
+current advertiser: 276
+total_pages: 3239
+low_rf_pages: 37842
+total patterns: 71228
+current advertiser: 277
+total_pages: 3239
+low_rf_pages: 37842
+total patterns: 71228
+deleting 1141
+current advertiser: 278
+total_pages: 3238
+low_rf_pages: 37842
+total patterns: 71227
+current advertiser: 279
+total_pages: 3238
+low_rf_pages: 37842
+total patterns: 71227
+current advertiser: 280
+total_pages: 3238
+low_rf_pages: 37842
+total patterns: 71227
+deleting 555
+current advertiser: 281
+total_pages: 3237
+low_rf_pages: 37842
+total patterns: 71225
+current advertiser: 282
+total_pages: 3237
+low_rf_pages: 37842
+total patterns: 71225
+current advertiser: 283
+total_pages: 3237
+low_rf_pages: 37842
+total patterns: 71225
+deleting 827
+current advertiser: 284
+total_pages: 3236
+low_rf_pages: 37842
+total patterns: 71224
+current advertiser: 285
+total_pages: 3236
+low_rf_pages: 37842
+total patterns: 71224
+current advertiser: 286
+total_pages: 3236
+low_rf_pages: 37842
+total patterns: 71224
+deleting 2072
+current advertiser: 287
+total_pages: 3235
+low_rf_pages: 37842
+total patterns: 71223
+current advertiser: 288
+total_pages: 3235
+low_rf_pages: 37842
+total patterns: 71223
+current advertiser: 289
+total_pages: 3235
+low_rf_pages: 37842
+total patterns: 71223
+deleting 866
+current advertiser: 290
+total_pages: 3234
+low_rf_pages: 37842
+total patterns: 71219
+current advertiser: 291
+total_pages: 3234
+low_rf_pages: 37842
+total patterns: 71219
+current advertiser: 292
+total_pages: 3234
+low_rf_pages: 37842
+total patterns: 71219
+deleting 434
+current advertiser: 293
+total_pages: 3233
+low_rf_pages: 37842
+total patterns: 71218
+current advertiser: 294
+total_pages: 3233
+low_rf_pages: 37842
+total patterns: 71218
+current advertiser: 295
+total_pages: 3233
+low_rf_pages: 37842
+total patterns: 71218
+deleting 12
+current advertiser: 296
+total_pages: 3232
+low_rf_pages: 37842
+total patterns: 71217
+current advertiser: 297
+total_pages: 3232
+low_rf_pages: 37842
+total patterns: 71217
+current advertiser: 298
+total_pages: 3232
+low_rf_pages: 37842
+total patterns: 71217
+deleting 590
+current advertiser: 299
+total_pages: 3231
+low_rf_pages: 37842
+total patterns: 71216
+current advertiser: 300
+total_pages: 3231
+low_rf_pages: 37842
+total patterns: 71216
+current advertiser: 301
+total_pages: 3231
+low_rf_pages: 37842
+total patterns: 71216
+deleting 678
+current advertiser: 302
+total_pages: 3230
+low_rf_pages: 37842
+total patterns: 71215
+current advertiser: 303
+total_pages: 3230
+low_rf_pages: 37842
+total patterns: 71215
+current advertiser: 304
+total_pages: 3230
+low_rf_pages: 37842
+total patterns: 71215
+deleting 18
+current advertiser: 305
+total_pages: 3229
+low_rf_pages: 37842
+total patterns: 71214
+current advertiser: 306
+total_pages: 3229
+low_rf_pages: 37842
+total patterns: 71214
+current advertiser: 307
+total_pages: 3229
+low_rf_pages: 37842
+total patterns: 71214
+deleting 1751
+current advertiser: 308
+total_pages: 3228
+low_rf_pages: 37842
+total patterns: 71213
+current advertiser: 309
+total_pages: 3228
+low_rf_pages: 37842
+total patterns: 71213
+current advertiser: 310
+total_pages: 3228
+low_rf_pages: 37842
+total patterns: 71213
+deleting 5
+current advertiser: 311
+total_pages: 3227
+low_rf_pages: 37842
+total patterns: 71211
+current advertiser: 312
+total_pages: 3227
+low_rf_pages: 37842
+total patterns: 71211
+current advertiser: 313
+total_pages: 3227
+low_rf_pages: 37842
+total patterns: 71211
+deleting 1956
+current advertiser: 314
+total_pages: 3226
+low_rf_pages: 37842
+total patterns: 71210
+current advertiser: 315
+total_pages: 3226
+low_rf_pages: 37842
+total patterns: 71210
+current advertiser: 316
+total_pages: 3226
+low_rf_pages: 37842
+total patterns: 71210
+deleting 829
+current advertiser: 317
+total_pages: 3225
+low_rf_pages: 37842
+total patterns: 71209
+current advertiser: 318
+total_pages: 3225
+low_rf_pages: 37842
+total patterns: 71209
+current advertiser: 319
+total_pages: 3225
+low_rf_pages: 37842
+total patterns: 71209
+current advertiser: 320
+total_pages: 3225
+low_rf_pages: 37842
+total patterns: 71209
+current advertiser: 321
+total_pages: 3225
+low_rf_pages: 37842
+total patterns: 71209
+deleting 1464
+current advertiser: 322
+total_pages: 3224
+low_rf_pages: 37842
+total patterns: 71206
+deleting 152
+current advertiser: 323
+total_pages: 3223
+low_rf_pages: 37842
+total patterns: 71205
+current advertiser: 324
+total_pages: 3223
+low_rf_pages: 37842
+total patterns: 71205
+current advertiser: 325
+total_pages: 3223
+low_rf_pages: 37842
+total patterns: 71205
+deleting 568
+current advertiser: 326
+total_pages: 3222
+low_rf_pages: 37842
+total patterns: 71203
+current advertiser: 327
+total_pages: 3222
+low_rf_pages: 37842
+total patterns: 71203
+current advertiser: 328
+total_pages: 3222
+low_rf_pages: 37842
+total patterns: 71203
+deleting 158
+current advertiser: 329
+total_pages: 3221
+low_rf_pages: 37842
+total patterns: 71202
+current advertiser: 330
+total_pages: 3221
+low_rf_pages: 37842
+total patterns: 71202
+current advertiser: 331
+total_pages: 3221
+low_rf_pages: 37842
+total patterns: 71202
+deleting 648
+current advertiser: 332
+total_pages: 3220
+low_rf_pages: 37842
+total patterns: 71201
+current advertiser: 333
+total_pages: 3220
+low_rf_pages: 37842
+total patterns: 71201
+current advertiser: 334
+total_pages: 3220
+low_rf_pages: 37842
+total patterns: 71201
+deleting 358
+current advertiser: 335
+total_pages: 3219
+low_rf_pages: 37842
+total patterns: 71200
+current advertiser: 336
+total_pages: 3219
+low_rf_pages: 37842
+total patterns: 71200
+current advertiser: 337
+total_pages: 3219
+low_rf_pages: 37842
+total patterns: 71200
+deleting 2024
+current advertiser: 338
+total_pages: 3218
+low_rf_pages: 37842
+total patterns: 71198
+current advertiser: 339
+total_pages: 3218
+low_rf_pages: 37842
+total patterns: 71198
+current advertiser: 340
+total_pages: 3218
+low_rf_pages: 37842
+total patterns: 71198
+deleting 235
+current advertiser: 341
+total_pages: 3217
+low_rf_pages: 37842
+total patterns: 71197
+current advertiser: 342
+total_pages: 3217
+low_rf_pages: 37842
+total patterns: 71197
+current advertiser: 343
+total_pages: 3217
+low_rf_pages: 37842
+total patterns: 71197
+deleting 470
+current advertiser: 344
+total_pages: 3216
+low_rf_pages: 37842
+total patterns: 71196
+current advertiser: 345
+total_pages: 3216
+low_rf_pages: 37842
+total patterns: 71196
+current advertiser: 346
+total_pages: 3216
+low_rf_pages: 37842
+total patterns: 71196
+deleting 845
+current advertiser: 347
+total_pages: 3215
+low_rf_pages: 37842
+total patterns: 71195
+current advertiser: 348
+total_pages: 3215
+low_rf_pages: 37842
+total patterns: 71195
+current advertiser: 349
+total_pages: 3215
+low_rf_pages: 37842
+total patterns: 71195
+deleting 686
+current advertiser: 350
+total_pages: 3214
+low_rf_pages: 37842
+total patterns: 71194
+current advertiser: 351
+total_pages: 3214
+low_rf_pages: 37842
+total patterns: 71194
+current advertiser: 352
+total_pages: 3214
+low_rf_pages: 37842
+total patterns: 71194
+deleting 1144
+current advertiser: 353
+total_pages: 3213
+low_rf_pages: 37842
+total patterns: 71192
+current advertiser: 354
+total_pages: 3213
+low_rf_pages: 37842
+total patterns: 71192
+current advertiser: 355
+total_pages: 3213
+low_rf_pages: 37842
+total patterns: 71192
+current advertiser: 356
+total_pages: 3213
+low_rf_pages: 37842
+total patterns: 71192
+deleting 537
+current advertiser: 357
+total_pages: 3212
+low_rf_pages: 37842
+total patterns: 71191
+current advertiser: 358
+total_pages: 3212
+low_rf_pages: 37842
+total patterns: 71191
+current advertiser: 359
+total_pages: 3212
+low_rf_pages: 37842
+total patterns: 71191
+current advertiser: 360
+total_pages: 3212
+low_rf_pages: 37842
+total patterns: 71191
+deleting 237
+current advertiser: 361
+total_pages: 3211
+low_rf_pages: 37842
+total patterns: 71190
+current advertiser: 362
+total_pages: 3211
+low_rf_pages: 37842
+total patterns: 71190
+current advertiser: 363
+total_pages: 3211
+low_rf_pages: 37842
+total patterns: 71190
+current advertiser: 364
+total_pages: 3211
+low_rf_pages: 37842
+total patterns: 71190
+deleting 473
+current advertiser: 365
+total_pages: 3210
+low_rf_pages: 37842
+total patterns: 71189
+current advertiser: 366
+total_pages: 3210
+low_rf_pages: 37842
+total patterns: 71189
+current advertiser: 367
+total_pages: 3210
+low_rf_pages: 37842
+total patterns: 71189
+current advertiser: 368
+total_pages: 3210
+low_rf_pages: 37842
+total patterns: 71189
+deleting 435
+current advertiser: 369
+total_pages: 3209
+low_rf_pages: 37842
+total patterns: 71188
+current advertiser: 370
+total_pages: 3209
+low_rf_pages: 37842
+total patterns: 71188
+current advertiser: 371
+total_pages: 3209
+low_rf_pages: 37842
+total patterns: 71188
+current advertiser: 372
+total_pages: 3209
+low_rf_pages: 37842
+total patterns: 71188
+deleting 632
+current advertiser: 373
+total_pages: 3208
+low_rf_pages: 37842
+total patterns: 71187
+current advertiser: 374
+total_pages: 3208
+low_rf_pages: 37842
+total patterns: 71187
+current advertiser: 375
+total_pages: 3208
+low_rf_pages: 37842
+total patterns: 71187
+current advertiser: 376
+total_pages: 3208
+low_rf_pages: 37842
+total patterns: 71187
+deleting 1838
+current advertiser: 377
+total_pages: 3207
+low_rf_pages: 37842
+total patterns: 71186
+current advertiser: 378
+total_pages: 3207
+low_rf_pages: 37842
+total patterns: 71186
+current advertiser: 379
+total_pages: 3207
+low_rf_pages: 37842
+total patterns: 71186
+current advertiser: 380
+total_pages: 3207
+low_rf_pages: 37842
+total patterns: 71186
+deleting 233
+current advertiser: 381
+total_pages: 3206
+low_rf_pages: 37842
+total patterns: 71184
+current advertiser: 382
+total_pages: 3206
+low_rf_pages: 37842
+total patterns: 71184
+current advertiser: 383
+total_pages: 3206
+low_rf_pages: 37842
+total patterns: 71184
+current advertiser: 384
+total_pages: 3206
+low_rf_pages: 37842
+total patterns: 71184
+deleting 45
+current advertiser: 385
+total_pages: 3205
+low_rf_pages: 37842
+total patterns: 71183
+current advertiser: 386
+total_pages: 3205
+low_rf_pages: 37842
+total patterns: 71183
+current advertiser: 387
+total_pages: 3205
+low_rf_pages: 37842
+total patterns: 71183
+current advertiser: 388
+total_pages: 3205
+low_rf_pages: 37842
+total patterns: 71183
+deleting 71
+current advertiser: 389
+total_pages: 3204
+low_rf_pages: 37842
+total patterns: 71182
+current advertiser: 390
+total_pages: 3204
+low_rf_pages: 37842
+total patterns: 71182
+current advertiser: 391
+total_pages: 3204
+low_rf_pages: 37842
+total patterns: 71182
+current advertiser: 392
+total_pages: 3204
+low_rf_pages: 37842
+total patterns: 71182
+deleting 522
+current advertiser: 393
+total_pages: 3203
+low_rf_pages: 37842
+total patterns: 71181
+current advertiser: 394
+total_pages: 3203
+low_rf_pages: 37842
+total patterns: 71181
+current advertiser: 395
+total_pages: 3203
+low_rf_pages: 37842
+total patterns: 71181
+current advertiser: 396
+total_pages: 3203
+low_rf_pages: 37842
+total patterns: 71181
+deleting 1025
+current advertiser: 397
+total_pages: 3202
+low_rf_pages: 37842
+total patterns: 71180
+current advertiser: 398
+total_pages: 3202
+low_rf_pages: 37842
+total patterns: 71180
+current advertiser: 399
+total_pages: 3202
+low_rf_pages: 37842
+total patterns: 71180
+current advertiser: 400
+total_pages: 3202
+low_rf_pages: 37842
+total patterns: 71180
+current advertiser: 401
+total_pages: 3202
+low_rf_pages: 37842
+total patterns: 71180
+deleting 292
+current advertiser: 402
+total_pages: 3201
+low_rf_pages: 37842
+total patterns: 71176
+current advertiser: 403
+total_pages: 3201
+low_rf_pages: 37842
+total patterns: 71176
+current advertiser: 404
+total_pages: 3201
+low_rf_pages: 37842
+total patterns: 71176
+deleting 2124
+current advertiser: 405
+total_pages: 3200
+low_rf_pages: 37842
+total patterns: 71174
+current advertiser: 406
+total_pages: 3200
+low_rf_pages: 37842
+total patterns: 71174
+deleting 492
+current advertiser: 407
+total_pages: 3199
+low_rf_pages: 37842
+total patterns: 71173
+current advertiser: 408
+total_pages: 3199
+low_rf_pages: 37842
+total patterns: 71173
+current advertiser: 409
+total_pages: 3199
+low_rf_pages: 37842
+total patterns: 71173
+current advertiser: 410
+total_pages: 3199
+low_rf_pages: 37842
+total patterns: 71173
+current advertiser: 411
+total_pages: 3199
+low_rf_pages: 37842
+total patterns: 71173
+deleting 154
+current advertiser: 412
+total_pages: 3198
+low_rf_pages: 37842
+total patterns: 71170
+current advertiser: 413
+total_pages: 3198
+low_rf_pages: 37842
+total patterns: 71170
+deleting 2952
+current advertiser: 414
+total_pages: 3197
+low_rf_pages: 37842
+total patterns: 71169
+current advertiser: 415
+total_pages: 3197
+low_rf_pages: 37842
+total patterns: 71169
+current advertiser: 416
+total_pages: 3197
+low_rf_pages: 37842
+total patterns: 71169
+current advertiser: 417
+total_pages: 3197
+low_rf_pages: 37842
+total patterns: 71169
+deleting 531
+current advertiser: 418
+total_pages: 3196
+low_rf_pages: 37842
+total patterns: 71168
+current advertiser: 419
+total_pages: 3196
+low_rf_pages: 37842
+total patterns: 71168
+current advertiser: 420
+total_pages: 3196
+low_rf_pages: 37842
+total patterns: 71168
+current advertiser: 421
+total_pages: 3196
+low_rf_pages: 37842
+total patterns: 71168
+deleting 265
+current advertiser: 422
+total_pages: 3195
+low_rf_pages: 37842
+total patterns: 71167
+current advertiser: 423
+total_pages: 3195
+low_rf_pages: 37842
+total patterns: 71167
+current advertiser: 424
+total_pages: 3195
+low_rf_pages: 37842
+total patterns: 71167
+current advertiser: 425
+total_pages: 3195
+low_rf_pages: 37842
+total patterns: 71167
+deleting 1132
+current advertiser: 426
+total_pages: 3194
+low_rf_pages: 37842
+total patterns: 71166
+current advertiser: 427
+total_pages: 3194
+low_rf_pages: 37842
+total patterns: 71166
+current advertiser: 428
+total_pages: 3194
+low_rf_pages: 37842
+total patterns: 71166
+current advertiser: 429
+total_pages: 3194
+low_rf_pages: 37842
+total patterns: 71166
+deleting 491
+current advertiser: 430
+total_pages: 3193
+low_rf_pages: 37842
+total patterns: 71165
+current advertiser: 431
+total_pages: 3193
+low_rf_pages: 37842
+total patterns: 71165
+current advertiser: 432
+total_pages: 3193
+low_rf_pages: 37842
+total patterns: 71165
+deleting 400
+current advertiser: 433
+total_pages: 3192
+low_rf_pages: 37842
+total patterns: 71163
+current advertiser: 434
+total_pages: 3192
+low_rf_pages: 37842
+total patterns: 71163
+current advertiser: 435
+total_pages: 3192
+low_rf_pages: 37842
+total patterns: 71163
+current advertiser: 436
+total_pages: 3192
+low_rf_pages: 37842
+total patterns: 71163
+deleting 506
+current advertiser: 437
+total_pages: 3191
+low_rf_pages: 37842
+total patterns: 71162
+current advertiser: 438
+total_pages: 3191
+low_rf_pages: 37842
+total patterns: 71162
+current advertiser: 439
+total_pages: 3191
+low_rf_pages: 37842
+total patterns: 71162
+current advertiser: 440
+total_pages: 3191
+low_rf_pages: 37842
+total patterns: 71162
+deleting 89
+current advertiser: 441
+total_pages: 3190
+low_rf_pages: 37842
+total patterns: 71161
+current advertiser: 442
+total_pages: 3190
+low_rf_pages: 37842
+total patterns: 71161
+current advertiser: 443
+total_pages: 3190
+low_rf_pages: 37842
+total patterns: 71161
+current advertiser: 444
+total_pages: 3190
+low_rf_pages: 37842
+total patterns: 71161
+deleting 357
+current advertiser: 445
+total_pages: 3189
+low_rf_pages: 37842
+total patterns: 71160
+current advertiser: 446
+total_pages: 3189
+low_rf_pages: 37842
+total patterns: 71160
+current advertiser: 447
+total_pages: 3189
+low_rf_pages: 37842
+total patterns: 71160
+deleting 363
+current advertiser: 448
+total_pages: 3188
+low_rf_pages: 37842
+total patterns: 71158
+current advertiser: 449
+total_pages: 3188
+low_rf_pages: 37842
+total patterns: 71158
+current advertiser: 450
+total_pages: 3188
+low_rf_pages: 37842
+total patterns: 71158
+deleting 382
+current advertiser: 451
+total_pages: 3187
+low_rf_pages: 37842
+total patterns: 71155
+current advertiser: 452
+total_pages: 3187
+low_rf_pages: 37842
+total patterns: 71155
+current advertiser: 453
+total_pages: 3187
+low_rf_pages: 37842
+total patterns: 71155
+current advertiser: 454
+total_pages: 3187
+low_rf_pages: 37842
+total patterns: 71155
+deleting 633
+current advertiser: 455
+total_pages: 3186
+low_rf_pages: 37842
+total patterns: 71154
+current advertiser: 456
+total_pages: 3186
+low_rf_pages: 37842
+total patterns: 71154
+current advertiser: 457
+total_pages: 3186
+low_rf_pages: 37842
+total patterns: 71154
+current advertiser: 458
+total_pages: 3186
+low_rf_pages: 37842
+total patterns: 71154
+deleting 260
+current advertiser: 459
+total_pages: 3185
+low_rf_pages: 37842
+total patterns: 71153
+current advertiser: 460
+total_pages: 3185
+low_rf_pages: 37842
+total patterns: 71153
+current advertiser: 461
+total_pages: 3185
+low_rf_pages: 37842
+total patterns: 71153
+current advertiser: 462
+total_pages: 3185
+low_rf_pages: 37842
+total patterns: 71153
+deleting 142
+current advertiser: 463
+total_pages: 3184
+low_rf_pages: 37842
+total patterns: 71152
+current advertiser: 464
+total_pages: 3184
+low_rf_pages: 37842
+total patterns: 71152
+current advertiser: 465
+total_pages: 3184
+low_rf_pages: 37842
+total patterns: 71152
+current advertiser: 466
+total_pages: 3184
+low_rf_pages: 37842
+total patterns: 71152
+deleting 514
+current advertiser: 467
+total_pages: 3183
+low_rf_pages: 37842
+total patterns: 71151
+current advertiser: 468
+total_pages: 3183
+low_rf_pages: 37842
+total patterns: 71151
+current advertiser: 469
+total_pages: 3183
+low_rf_pages: 37842
+total patterns: 71151
+current advertiser: 470
+total_pages: 3183
+low_rf_pages: 37842
+total patterns: 71151
+deleting 494
+current advertiser: 471
+total_pages: 3182
+low_rf_pages: 37842
+total patterns: 71150
+current advertiser: 472
+total_pages: 3182
+low_rf_pages: 37842
+total patterns: 71150
+current advertiser: 473
+total_pages: 3182
+low_rf_pages: 37842
+total patterns: 71150
+current advertiser: 474
+total_pages: 3182
+low_rf_pages: 37842
+total patterns: 71150
+deleting 777
+current advertiser: 475
+total_pages: 3181
+low_rf_pages: 37842
+total patterns: 71149
+current advertiser: 476
+total_pages: 3181
+low_rf_pages: 37842
+total patterns: 71149
+current advertiser: 477
+total_pages: 3181
+low_rf_pages: 37842
+total patterns: 71149
+current advertiser: 478
+total_pages: 3181
+low_rf_pages: 37842
+total patterns: 71149
+deleting 584
+current advertiser: 479
+total_pages: 3180
+low_rf_pages: 37842
+total patterns: 71148
+current advertiser: 480
+total_pages: 3180
+low_rf_pages: 37842
+total patterns: 71148
+current advertiser: 481
+total_pages: 3180
+low_rf_pages: 37842
+total patterns: 71148
+current advertiser: 482
+total_pages: 3180
+low_rf_pages: 37842
+total patterns: 71148
+deleting 934
+current advertiser: 483
+total_pages: 3179
+low_rf_pages: 37842
+total patterns: 71147
+current advertiser: 484
+total_pages: 3179
+low_rf_pages: 37842
+total patterns: 71147
+current advertiser: 485
+total_pages: 3179
+low_rf_pages: 37842
+total patterns: 71147
+current advertiser: 486
+total_pages: 3179
+low_rf_pages: 37842
+total patterns: 71147
+deleting 145
+current advertiser: 487
+total_pages: 3178
+low_rf_pages: 37842
+total patterns: 71146
+current advertiser: 488
+total_pages: 3178
+low_rf_pages: 37842
+total patterns: 71146
+current advertiser: 489
+total_pages: 3178
+low_rf_pages: 37842
+total patterns: 71146
+current advertiser: 490
+total_pages: 3178
+low_rf_pages: 37842
+total patterns: 71146
+deleting 281
+current advertiser: 491
+total_pages: 3177
+low_rf_pages: 37842
+total patterns: 71145
+current advertiser: 492
+total_pages: 3177
+low_rf_pages: 37842
+total patterns: 71145
+current advertiser: 493
+total_pages: 3177
+low_rf_pages: 37842
+total patterns: 71145
+current advertiser: 494
+total_pages: 3177
+low_rf_pages: 37842
+total patterns: 71145
+deleting 2817
+current advertiser: 495
+total_pages: 3176
+low_rf_pages: 37842
+total patterns: 71143
+current advertiser: 496
+total_pages: 3176
+low_rf_pages: 37842
+total patterns: 71143
+current advertiser: 497
+total_pages: 3176
+low_rf_pages: 37842
+total patterns: 71143
+deleting 540
+current advertiser: 498
+total_pages: 3175
+low_rf_pages: 37842
+total patterns: 71142
+current advertiser: 499
+total_pages: 3175
+low_rf_pages: 37842
+total patterns: 71142
+current advertiser: 500
+total_pages: 3175
+low_rf_pages: 37842
+total patterns: 71142
+current advertiser: 501
+total_pages: 3175
+low_rf_pages: 37842
+total patterns: 71142
+deleting 521
+current advertiser: 502
+total_pages: 3174
+low_rf_pages: 37842
+total patterns: 71141
+current advertiser: 503
+total_pages: 3174
+low_rf_pages: 37842
+total patterns: 71141
+current advertiser: 504
+total_pages: 3174
+low_rf_pages: 37842
+total patterns: 71141
+deleting 467
+current advertiser: 505
+total_pages: 3173
+low_rf_pages: 37842
+total patterns: 71137
+current advertiser: 506
+total_pages: 3173
+low_rf_pages: 37842
+total patterns: 71137
+current advertiser: 507
+total_pages: 3173
+low_rf_pages: 37842
+total patterns: 71137
+current advertiser: 508
+total_pages: 3173
+low_rf_pages: 37842
+total patterns: 71137
+deleting 290
+current advertiser: 509
+total_pages: 3172
+low_rf_pages: 37842
+total patterns: 71136
+current advertiser: 510
+total_pages: 3172
+low_rf_pages: 37842
+total patterns: 71136
+current advertiser: 511
+total_pages: 3172
+low_rf_pages: 37842
+total patterns: 71136
+current advertiser: 512
+total_pages: 3172
+low_rf_pages: 37842
+total patterns: 71136
+deleting 762
+current advertiser: 513
+total_pages: 3171
+low_rf_pages: 37842
+total patterns: 71135
+current advertiser: 514
+total_pages: 3171
+low_rf_pages: 37842
+total patterns: 71135
+current advertiser: 515
+total_pages: 3171
+low_rf_pages: 37842
+total patterns: 71135
+current advertiser: 516
+total_pages: 3171
+low_rf_pages: 37842
+total patterns: 71135
+deleting 230
+current advertiser: 517
+total_pages: 3170
+low_rf_pages: 37842
+total patterns: 71134
+current advertiser: 518
+total_pages: 3170
+low_rf_pages: 37842
+total patterns: 71134
+current advertiser: 519
+total_pages: 3170
+low_rf_pages: 37842
+total patterns: 71134
+current advertiser: 520
+total_pages: 3170
+low_rf_pages: 37842
+total patterns: 71134
+deleting 259
+current advertiser: 521
+total_pages: 3169
+low_rf_pages: 37842
+total patterns: 71133
+current advertiser: 522
+total_pages: 3169
+low_rf_pages: 37842
+total patterns: 71133
+current advertiser: 523
+total_pages: 3169
+low_rf_pages: 37842
+total patterns: 71133
+current advertiser: 524
+total_pages: 3169
+low_rf_pages: 37842
+total patterns: 71133
+deleting 255
+current advertiser: 525
+total_pages: 3168
+low_rf_pages: 37842
+total patterns: 71132
+current advertiser: 526
+total_pages: 3168
+low_rf_pages: 37842
+total patterns: 71132
+current advertiser: 527
+total_pages: 3168
+low_rf_pages: 37842
+total patterns: 71132
+current advertiser: 528
+total_pages: 3168
+low_rf_pages: 37842
+total patterns: 71132
+deleting 662
+current advertiser: 529
+total_pages: 3167
+low_rf_pages: 37842
+total patterns: 71131
+current advertiser: 530
+total_pages: 3167
+low_rf_pages: 37842
+total patterns: 71131
+current advertiser: 531
+total_pages: 3167
+low_rf_pages: 37842
+total patterns: 71131
+current advertiser: 532
+total_pages: 3167
+low_rf_pages: 37842
+total patterns: 71131
+deleting 1644
+current advertiser: 533
+total_pages: 3166
+low_rf_pages: 37842
+total patterns: 71130
+current advertiser: 534
+total_pages: 3166
+low_rf_pages: 37842
+total patterns: 71130
+current advertiser: 535
+total_pages: 3166
+low_rf_pages: 37842
+total patterns: 71130
+current advertiser: 536
+total_pages: 3166
+low_rf_pages: 37842
+total patterns: 71130
+deleting 246
+current advertiser: 537
+total_pages: 3165
+low_rf_pages: 37842
+total patterns: 71129
+current advertiser: 538
+total_pages: 3165
+low_rf_pages: 37842
+total patterns: 71129
+current advertiser: 539
+total_pages: 3165
+low_rf_pages: 37842
+total patterns: 71129
+current advertiser: 540
+total_pages: 3165
+low_rf_pages: 37842
+total patterns: 71129
+deleting 644
+current advertiser: 541
+total_pages: 3164
+low_rf_pages: 37842
+total patterns: 71128
+current advertiser: 542
+total_pages: 3164
+low_rf_pages: 37842
+total patterns: 71128
+current advertiser: 543
+total_pages: 3164
+low_rf_pages: 37842
+total patterns: 71128
+current advertiser: 544
+total_pages: 3164
+low_rf_pages: 37842
+total patterns: 71128
+deleting 21
+current advertiser: 545
+total_pages: 3163
+low_rf_pages: 37842
+total patterns: 71127
+current advertiser: 546
+total_pages: 3163
+low_rf_pages: 37842
+total patterns: 71127
+current advertiser: 547
+total_pages: 3163
+low_rf_pages: 37842
+total patterns: 71127
+current advertiser: 548
+total_pages: 3163
+low_rf_pages: 37842
+total patterns: 71127
+deleting 86
+current advertiser: 549
+total_pages: 3162
+low_rf_pages: 37842
+total patterns: 71126
+current advertiser: 550
+total_pages: 3162
+low_rf_pages: 37842
+total patterns: 71126
+current advertiser: 551
+total_pages: 3162
+low_rf_pages: 37842
+total patterns: 71126
+current advertiser: 552
+total_pages: 3162
+low_rf_pages: 37842
+total patterns: 71126
+deleting 85
+current advertiser: 553
+total_pages: 3161
+low_rf_pages: 37842
+total patterns: 71125
+current advertiser: 554
+total_pages: 3161
+low_rf_pages: 37842
+total patterns: 71125
+current advertiser: 555
+total_pages: 3161
+low_rf_pages: 37842
+total patterns: 71125
+deleting 212
+current advertiser: 556
+total_pages: 3160
+low_rf_pages: 37842
+total patterns: 71122
+current advertiser: 557
+total_pages: 3160
+low_rf_pages: 37842
+total patterns: 71122
+current advertiser: 558
+total_pages: 3160
+low_rf_pages: 37842
+total patterns: 71122
+current advertiser: 559
+total_pages: 3160
+low_rf_pages: 37842
+total patterns: 71122
+deleting 46
+current advertiser: 560
+total_pages: 3159
+low_rf_pages: 37842
+total patterns: 71121
+current advertiser: 561
+total_pages: 3159
+low_rf_pages: 37842
+total patterns: 71121
+current advertiser: 562
+total_pages: 3159
+low_rf_pages: 37842
+total patterns: 71121
+current advertiser: 563
+total_pages: 3159
+low_rf_pages: 37842
+total patterns: 71121
+deleting 670
+current advertiser: 564
+total_pages: 3158
+low_rf_pages: 37842
+total patterns: 71120
+current advertiser: 565
+total_pages: 3158
+low_rf_pages: 37842
+total patterns: 71120
+current advertiser: 566
+total_pages: 3158
+low_rf_pages: 37842
+total patterns: 71120
+current advertiser: 567
+total_pages: 3158
+low_rf_pages: 37842
+total patterns: 71120
+deleting 916
+current advertiser: 568
+total_pages: 3157
+low_rf_pages: 37842
+total patterns: 71119
+current advertiser: 569
+total_pages: 3157
+low_rf_pages: 37842
+total patterns: 71119
+current advertiser: 570
+total_pages: 3157
+low_rf_pages: 37842
+total patterns: 71119
+current advertiser: 571
+total_pages: 3157
+low_rf_pages: 37842
+total patterns: 71119
+deleting 640
+current advertiser: 572
+total_pages: 3156
+low_rf_pages: 37842
+total patterns: 71118
+current advertiser: 573
+total_pages: 3156
+low_rf_pages: 37842
+total patterns: 71118
+current advertiser: 574
+total_pages: 3156
+low_rf_pages: 37842
+total patterns: 71118
+current advertiser: 575
+total_pages: 3156
+low_rf_pages: 37842
+total patterns: 71118
+deleting 993
+current advertiser: 576
+total_pages: 3155
+low_rf_pages: 37842
+total patterns: 71117
+current advertiser: 577
+total_pages: 3155
+low_rf_pages: 37842
+total patterns: 71117
+current advertiser: 578
+total_pages: 3155
+low_rf_pages: 37842
+total patterns: 71117
+current advertiser: 579
+total_pages: 3155
+low_rf_pages: 37842
+total patterns: 71117
+deleting 747
+current advertiser: 580
+total_pages: 3154
+low_rf_pages: 37842
+total patterns: 71116
+current advertiser: 581
+total_pages: 3154
+low_rf_pages: 37842
+total patterns: 71116
+current advertiser: 582
+total_pages: 3154
+low_rf_pages: 37842
+total patterns: 71116
+current advertiser: 583
+total_pages: 3154
+low_rf_pages: 37842
+total patterns: 71116
+current advertiser: 584
+total_pages: 3154
+low_rf_pages: 37842
+total patterns: 71116
+deleting 974
+current advertiser: 585
+total_pages: 3153
+low_rf_pages: 37842
+total patterns: 71114
+current advertiser: 586
+total_pages: 3153
+low_rf_pages: 37842
+total patterns: 71114
+current advertiser: 587
+total_pages: 3153
+low_rf_pages: 37842
+total patterns: 71114
+deleting 520
+current advertiser: 588
+total_pages: 3152
+low_rf_pages: 37842
+total patterns: 71107
+current advertiser: 589
+total_pages: 3152
+low_rf_pages: 37842
+total patterns: 71107
+current advertiser: 590
+total_pages: 3152
+low_rf_pages: 37842
+total patterns: 71107
+deleting 1071
+current advertiser: 591
+total_pages: 3151
+low_rf_pages: 37842
+total patterns: 71104
+deleting 4868
+deleting 1800
+current advertiser: 592
+total_pages: 3149
+low_rf_pages: 37842
+total patterns: 71033
+current advertiser: 593
+total_pages: 3149
+low_rf_pages: 37842
+total patterns: 71033
+deleting 321
+current advertiser: 594
+total_pages: 3148
+low_rf_pages: 37842
+total patterns: 71032
+current advertiser: 595
+total_pages: 3148
+low_rf_pages: 37842
+total patterns: 71032
+current advertiser: 596
+total_pages: 3148
+low_rf_pages: 37842
+total patterns: 71032
+current advertiser: 597
+total_pages: 3148
+low_rf_pages: 37842
+total patterns: 71032
+deleting 144
+current advertiser: 598
+total_pages: 3147
+low_rf_pages: 37842
+total patterns: 71028
+current advertiser: 599
+total_pages: 3147
+low_rf_pages: 37842
+total patterns: 71028
+deleting 379
+current advertiser: 600
+total_pages: 3146
+low_rf_pages: 37842
+total patterns: 71027
+current advertiser: 601
+total_pages: 3146
+low_rf_pages: 37842
+total patterns: 71027
+current advertiser: 602
+total_pages: 3146
+low_rf_pages: 37842
+total patterns: 71027
+current advertiser: 603
+total_pages: 3146
+low_rf_pages: 37842
+total patterns: 71027
+deleting 229
+current advertiser: 604
+total_pages: 3145
+low_rf_pages: 37842
+total patterns: 71026
+current advertiser: 605
+total_pages: 3145
+low_rf_pages: 37842
+total patterns: 71026
+current advertiser: 606
+total_pages: 3145
+low_rf_pages: 37842
+total patterns: 71026
+current advertiser: 607
+total_pages: 3145
+low_rf_pages: 37842
+total patterns: 71026
+deleting 254
+current advertiser: 608
+total_pages: 3144
+low_rf_pages: 37842
+total patterns: 71025
+current advertiser: 609
+total_pages: 3144
+low_rf_pages: 37842
+total patterns: 71025
+current advertiser: 610
+total_pages: 3144
+low_rf_pages: 37842
+total patterns: 71025
+current advertiser: 611
+total_pages: 3144
+low_rf_pages: 37842
+total patterns: 71025
+deleting 28
+current advertiser: 612
+total_pages: 3143
+low_rf_pages: 37842
+total patterns: 71024
+current advertiser: 613
+total_pages: 3143
+low_rf_pages: 37842
+total patterns: 71024
+current advertiser: 614
+total_pages: 3143
+low_rf_pages: 37842
+total patterns: 71024
+current advertiser: 615
+total_pages: 3143
+low_rf_pages: 37842
+total patterns: 71024
+deleting 361
+current advertiser: 616
+total_pages: 3142
+low_rf_pages: 37842
+total patterns: 71023
+current advertiser: 617
+total_pages: 3142
+low_rf_pages: 37842
+total patterns: 71023
+current advertiser: 618
+total_pages: 3142
+low_rf_pages: 37842
+total patterns: 71023
+current advertiser: 619
+total_pages: 3142
+low_rf_pages: 37842
+total patterns: 71023
+deleting 667
+current advertiser: 620
+total_pages: 3141
+low_rf_pages: 37842
+total patterns: 71022
+current advertiser: 621
+total_pages: 3141
+low_rf_pages: 37842
+total patterns: 71022
+current advertiser: 622
+total_pages: 3141
+low_rf_pages: 37842
+total patterns: 71022
+current advertiser: 623
+total_pages: 3141
+low_rf_pages: 37842
+total patterns: 71022
+deleting 423
+current advertiser: 624
+total_pages: 3140
+low_rf_pages: 37842
+total patterns: 71021
+current advertiser: 625
+total_pages: 3140
+low_rf_pages: 37842
+total patterns: 71021
+current advertiser: 626
+total_pages: 3140
+low_rf_pages: 37842
+total patterns: 71021
+current advertiser: 627
+total_pages: 3140
+low_rf_pages: 37842
+total patterns: 71021
+deleting 32
+current advertiser: 628
+total_pages: 3139
+low_rf_pages: 37842
+total patterns: 71020
+current advertiser: 629
+total_pages: 3139
+low_rf_pages: 37842
+total patterns: 71020
+current advertiser: 630
+total_pages: 3139
+low_rf_pages: 37842
+total patterns: 71020
+current advertiser: 631
+total_pages: 3139
+low_rf_pages: 37842
+total patterns: 71020
+deleting 155
+current advertiser: 632
+total_pages: 3138
+low_rf_pages: 37842
+total patterns: 71019
+current advertiser: 633
+total_pages: 3138
+low_rf_pages: 37842
+total patterns: 71019
+current advertiser: 634
+total_pages: 3138
+low_rf_pages: 37842
+total patterns: 71019
+current advertiser: 635
+total_pages: 3138
+low_rf_pages: 37842
+total patterns: 71019
+deleting 378
+current advertiser: 636
+total_pages: 3137
+low_rf_pages: 37842
+total patterns: 71018
+current advertiser: 637
+total_pages: 3137
+low_rf_pages: 37842
+total patterns: 71018
+current advertiser: 638
+total_pages: 3137
+low_rf_pages: 37842
+total patterns: 71018
+current advertiser: 639
+total_pages: 3137
+low_rf_pages: 37842
+total patterns: 71018
+deleting 14
+current advertiser: 640
+total_pages: 3136
+low_rf_pages: 37842
+total patterns: 71017
+current advertiser: 641
+total_pages: 3136
+low_rf_pages: 37842
+total patterns: 71017
+current advertiser: 642
+total_pages: 3136
+low_rf_pages: 37842
+total patterns: 71017
+current advertiser: 643
+total_pages: 3136
+low_rf_pages: 37842
+total patterns: 71017
+current advertiser: 644
+total_pages: 3136
+low_rf_pages: 37842
+total patterns: 71017
+deleting 587
+current advertiser: 645
+total_pages: 3135
+low_rf_pages: 37842
+total patterns: 71016
+current advertiser: 646
+total_pages: 3135
+low_rf_pages: 37842
+total patterns: 71016
+deleting 364
+current advertiser: 647
+total_pages: 3134
+low_rf_pages: 37842
+total patterns: 71015
+current advertiser: 648
+total_pages: 3134
+low_rf_pages: 37842
+total patterns: 71015
+current advertiser: 649
+total_pages: 3134
+low_rf_pages: 37842
+total patterns: 71015
+current advertiser: 650
+total_pages: 3134
+low_rf_pages: 37842
+total patterns: 71015
+deleting 91
+current advertiser: 651
+total_pages: 3133
+low_rf_pages: 37842
+total patterns: 71014
+current advertiser: 652
+total_pages: 3133
+low_rf_pages: 37842
+total patterns: 71014
+current advertiser: 653
+total_pages: 3133
+low_rf_pages: 37842
+total patterns: 71014
+current advertiser: 654
+total_pages: 3133
+low_rf_pages: 37842
+total patterns: 71014
+deleting 25
+current advertiser: 655
+total_pages: 3132
+low_rf_pages: 37842
+total patterns: 71013
+current advertiser: 656
+total_pages: 3132
+low_rf_pages: 37842
+total patterns: 71013
+current advertiser: 657
+total_pages: 3132
+low_rf_pages: 37842
+total patterns: 71013
+current advertiser: 658
+total_pages: 3132
+low_rf_pages: 37842
+total patterns: 71013
+deleting 49
+current advertiser: 659
+total_pages: 3131
+low_rf_pages: 37842
+total patterns: 71012
+current advertiser: 660
+total_pages: 3131
+low_rf_pages: 37842
+total patterns: 71012
+current advertiser: 661
+total_pages: 3131
+low_rf_pages: 37842
+total patterns: 71012
+current advertiser: 662
+total_pages: 3131
+low_rf_pages: 37842
+total patterns: 71012
+deleting 512
+current advertiser: 663
+total_pages: 3130
+low_rf_pages: 37842
+total patterns: 71011
+current advertiser: 664
+total_pages: 3130
+low_rf_pages: 37842
+total patterns: 71011
+current advertiser: 665
+total_pages: 3130
+low_rf_pages: 37842
+total patterns: 71011
+current advertiser: 666
+total_pages: 3130
+low_rf_pages: 37842
+total patterns: 71011
+deleting 897
+current advertiser: 667
+total_pages: 3129
+low_rf_pages: 37842
+total patterns: 71010
+current advertiser: 668
+total_pages: 3129
+low_rf_pages: 37842
+total patterns: 71010
+current advertiser: 669
+total_pages: 3129
+low_rf_pages: 37842
+total patterns: 71010
+current advertiser: 670
+total_pages: 3129
+low_rf_pages: 37842
+total patterns: 71010
+deleting 504
+current advertiser: 671
+total_pages: 3128
+low_rf_pages: 37842
+total patterns: 71009
+current advertiser: 672
+total_pages: 3128
+low_rf_pages: 37842
+total patterns: 71009
+current advertiser: 673
+total_pages: 3128
+low_rf_pages: 37842
+total patterns: 71009
+current advertiser: 674
+total_pages: 3128
+low_rf_pages: 37842
+total patterns: 71009
+deleting 314
+current advertiser: 675
+total_pages: 3127
+low_rf_pages: 37842
+total patterns: 71008
+current advertiser: 676
+total_pages: 3127
+low_rf_pages: 37842
+total patterns: 71008
+current advertiser: 677
+total_pages: 3127
+low_rf_pages: 37842
+total patterns: 71008
+current advertiser: 678
+total_pages: 3127
+low_rf_pages: 37842
+total patterns: 71008
+deleting 56
+current advertiser: 679
+total_pages: 3126
+low_rf_pages: 37842
+total patterns: 71007
+current advertiser: 680
+total_pages: 3126
+low_rf_pages: 37842
+total patterns: 71007
+current advertiser: 681
+total_pages: 3126
+low_rf_pages: 37842
+total patterns: 71007
+current advertiser: 682
+total_pages: 3126
+low_rf_pages: 37842
+total patterns: 71007
+deleting 273
+current advertiser: 683
+total_pages: 3125
+low_rf_pages: 37842
+total patterns: 71006
+current advertiser: 684
+total_pages: 3125
+low_rf_pages: 37842
+total patterns: 71006
+current advertiser: 685
+total_pages: 3125
+low_rf_pages: 37842
+total patterns: 71006
+current advertiser: 686
+total_pages: 3125
+low_rf_pages: 37842
+total patterns: 71006
+deleting 737
+current advertiser: 687
+total_pages: 3124
+low_rf_pages: 37842
+total patterns: 71005
+current advertiser: 688
+total_pages: 3124
+low_rf_pages: 37842
+total patterns: 71005
+current advertiser: 689
+total_pages: 3124
+low_rf_pages: 37842
+total patterns: 71005
+deleting 1960
+current advertiser: 690
+total_pages: 3123
+low_rf_pages: 37842
+total patterns: 70999
+current advertiser: 691
+total_pages: 3123
+low_rf_pages: 37842
+total patterns: 70999
+current advertiser: 692
+total_pages: 3123
+low_rf_pages: 37842
+total patterns: 70999
+current advertiser: 693
+total_pages: 3123
+low_rf_pages: 37842
+total patterns: 70999
+deleting 987
+current advertiser: 694
+total_pages: 3122
+low_rf_pages: 37842
+total patterns: 70998
+current advertiser: 695
+total_pages: 3122
+low_rf_pages: 37842
+total patterns: 70998
+current advertiser: 696
+total_pages: 3122
+low_rf_pages: 37842
+total patterns: 70998
+current advertiser: 697
+total_pages: 3122
+low_rf_pages: 37842
+total patterns: 70998
+deleting 135
+current advertiser: 698
+total_pages: 3121
+low_rf_pages: 37842
+total patterns: 70997
+current advertiser: 699
+total_pages: 3121
+low_rf_pages: 37842
+total patterns: 70997
+current advertiser: 700
+total_pages: 3121
+low_rf_pages: 37842
+total patterns: 70997
+current advertiser: 701
+total_pages: 3121
+low_rf_pages: 37842
+total patterns: 70997
+deleting 269
+current advertiser: 702
+total_pages: 3120
+low_rf_pages: 37842
+total patterns: 70996
+current advertiser: 703
+total_pages: 3120
+low_rf_pages: 37842
+total patterns: 70996
+current advertiser: 704
+total_pages: 3120
+low_rf_pages: 37842
+total patterns: 70996
+current advertiser: 705
+total_pages: 3120
+low_rf_pages: 37842
+total patterns: 70996
+deleting 87
+current advertiser: 706
+total_pages: 3119
+low_rf_pages: 37842
+total patterns: 70995
+current advertiser: 707
+total_pages: 3119
+low_rf_pages: 37842
+total patterns: 70995
+current advertiser: 708
+total_pages: 3119
+low_rf_pages: 37842
+total patterns: 70995
+current advertiser: 709
+total_pages: 3119
+low_rf_pages: 37842
+total patterns: 70995
+deleting 73
+current advertiser: 710
+total_pages: 3118
+low_rf_pages: 37842
+total patterns: 70994
+current advertiser: 711
+total_pages: 3118
+low_rf_pages: 37842
+total patterns: 70994
+current advertiser: 712
+total_pages: 3118
+low_rf_pages: 37842
+total patterns: 70994
+current advertiser: 713
+total_pages: 3118
+low_rf_pages: 37842
+total patterns: 70994
+deleting 438
+current advertiser: 714
+total_pages: 3117
+low_rf_pages: 37842
+total patterns: 70993
+current advertiser: 715
+total_pages: 3117
+low_rf_pages: 37842
+total patterns: 70993
+current advertiser: 716
+total_pages: 3117
+low_rf_pages: 37842
+total patterns: 70993
+current advertiser: 717
+total_pages: 3117
+low_rf_pages: 37842
+total patterns: 70993
+deleting 278
+current advertiser: 718
+total_pages: 3116
+low_rf_pages: 37842
+total patterns: 70992
+current advertiser: 719
+total_pages: 3116
+low_rf_pages: 37842
+total patterns: 70992
+current advertiser: 720
+total_pages: 3116
+low_rf_pages: 37842
+total patterns: 70992
+current advertiser: 721
+total_pages: 3116
+low_rf_pages: 37842
+total patterns: 70992
+deleting 303
+current advertiser: 722
+total_pages: 3115
+low_rf_pages: 37842
+total patterns: 70991
+current advertiser: 723
+total_pages: 3115
+low_rf_pages: 37842
+total patterns: 70991
+current advertiser: 724
+total_pages: 3115
+low_rf_pages: 37842
+total patterns: 70991
+current advertiser: 725
+total_pages: 3115
+low_rf_pages: 37842
+total patterns: 70991
+deleting 688
+current advertiser: 726
+total_pages: 3114
+low_rf_pages: 37842
+total patterns: 70989
+current advertiser: 727
+total_pages: 3114
+low_rf_pages: 37842
+total patterns: 70989
+current advertiser: 728
+total_pages: 3114
+low_rf_pages: 37842
+total patterns: 70989
+deleting 205
+current advertiser: 729
+total_pages: 3113
+low_rf_pages: 37842
+total patterns: 70988
+current advertiser: 730
+total_pages: 3113
+low_rf_pages: 37842
+total patterns: 70988
+current advertiser: 731
+total_pages: 3113
+low_rf_pages: 37842
+total patterns: 70988
+current advertiser: 732
+total_pages: 3113
+low_rf_pages: 37842
+total patterns: 70988
+deleting 215
+current advertiser: 733
+total_pages: 3112
+low_rf_pages: 37842
+total patterns: 70987
+current advertiser: 734
+total_pages: 3112
+low_rf_pages: 37842
+total patterns: 70987
+current advertiser: 735
+total_pages: 3112
+low_rf_pages: 37842
+total patterns: 70987
+current advertiser: 736
+total_pages: 3112
+low_rf_pages: 37842
+total patterns: 70987
+deleting 90
+current advertiser: 737
+total_pages: 3111
+low_rf_pages: 37842
+total patterns: 70986
+current advertiser: 738
+total_pages: 3111
+low_rf_pages: 37842
+total patterns: 70986
+current advertiser: 739
+total_pages: 3111
+low_rf_pages: 37842
+total patterns: 70986
+current advertiser: 740
+total_pages: 3111
+low_rf_pages: 37842
+total patterns: 70986
+deleting 69
+current advertiser: 741
+total_pages: 3110
+low_rf_pages: 37842
+total patterns: 70985
+current advertiser: 742
+total_pages: 3110
+low_rf_pages: 37842
+total patterns: 70985
+current advertiser: 743
+total_pages: 3110
+low_rf_pages: 37842
+total patterns: 70985
+current advertiser: 744
+total_pages: 3110
+low_rf_pages: 37842
+total patterns: 70985
+deleting 490
+current advertiser: 745
+total_pages: 3109
+low_rf_pages: 37842
+total patterns: 70984
+current advertiser: 746
+total_pages: 3109
+low_rf_pages: 37842
+total patterns: 70984
+current advertiser: 747
+total_pages: 3109
+low_rf_pages: 37842
+total patterns: 70984
+current advertiser: 748
+total_pages: 3109
+low_rf_pages: 37842
+total patterns: 70984
+deleting 424
+current advertiser: 749
+total_pages: 3108
+low_rf_pages: 37842
+total patterns: 70980
+current advertiser: 750
+total_pages: 3108
+low_rf_pages: 37842
+total patterns: 70980
+current advertiser: 751
+total_pages: 3108
+low_rf_pages: 37842
+total patterns: 70980
+deleting 446
+current advertiser: 752
+total_pages: 3107
+low_rf_pages: 37842
+total patterns: 70979
+current advertiser: 753
+total_pages: 3107
+low_rf_pages: 37842
+total patterns: 70979
+current advertiser: 754
+total_pages: 3107
+low_rf_pages: 37842
+total patterns: 70979
+current advertiser: 755
+total_pages: 3107
+low_rf_pages: 37842
+total patterns: 70979
+deleting 37
+current advertiser: 756
+total_pages: 3106
+low_rf_pages: 37842
+total patterns: 70974
+deleting 8144
+current advertiser: 757
+total_pages: 3105
+low_rf_pages: 37842
+total patterns: 70942
+current advertiser: 758
+total_pages: 3105
+low_rf_pages: 37842
+total patterns: 70942
+deleting 136
+current advertiser: 759
+total_pages: 3104
+low_rf_pages: 37842
+total patterns: 70941
+current advertiser: 760
+total_pages: 3104
+low_rf_pages: 37842
+total patterns: 70941
+current advertiser: 761
+total_pages: 3104
+low_rf_pages: 37842
+total patterns: 70941
+current advertiser: 762
+total_pages: 3104
+low_rf_pages: 37842
+total patterns: 70941
+current advertiser: 763
+total_pages: 3104
+low_rf_pages: 37842
+total patterns: 70941
+deleting 40
+current advertiser: 764
+total_pages: 3103
+low_rf_pages: 37842
+total patterns: 70940
+current advertiser: 765
+total_pages: 3103
+low_rf_pages: 37842
+total patterns: 70940
+current advertiser: 766
+total_pages: 3103
+low_rf_pages: 37842
+total patterns: 70940
+current advertiser: 767
+total_pages: 3103
+low_rf_pages: 37842
+total patterns: 70940
+deleting 879
+current advertiser: 768
+total_pages: 3102
+low_rf_pages: 37842
+total patterns: 70937
+current advertiser: 769
+total_pages: 3102
+low_rf_pages: 37842
+total patterns: 70937
+current advertiser: 770
+total_pages: 3102
+low_rf_pages: 37842
+total patterns: 70937
+current advertiser: 771
+total_pages: 3102
+low_rf_pages: 37842
+total patterns: 70937
+deleting 316
+current advertiser: 772
+total_pages: 3101
+low_rf_pages: 37842
+total patterns: 70936
+current advertiser: 773
+total_pages: 3101
+low_rf_pages: 37842
+total patterns: 70936
+current advertiser: 774
+total_pages: 3101
+low_rf_pages: 37842
+total patterns: 70936
+current advertiser: 775
+total_pages: 3101
+low_rf_pages: 37842
+total patterns: 70936
+current advertiser: 776
+total_pages: 3101
+low_rf_pages: 37842
+total patterns: 70936
+deleting 83
+current advertiser: 777
+total_pages: 3100
+low_rf_pages: 37842
+total patterns: 70935
+current advertiser: 778
+total_pages: 3100
+low_rf_pages: 37842
+total patterns: 70935
+current advertiser: 779
+total_pages: 3100
+low_rf_pages: 37842
+total patterns: 70935
+current advertiser: 780
+total_pages: 3100
+low_rf_pages: 37842
+total patterns: 70935
+current advertiser: 781
+total_pages: 3100
+low_rf_pages: 37842
+total patterns: 70935
+deleting 294
+current advertiser: 782
+total_pages: 3099
+low_rf_pages: 37842
+total patterns: 70934
+current advertiser: 783
+total_pages: 3099
+low_rf_pages: 37842
+total patterns: 70934
+current advertiser: 784
+total_pages: 3099
+low_rf_pages: 37842
+total patterns: 70934
+current advertiser: 785
+total_pages: 3099
+low_rf_pages: 37842
+total patterns: 70934
+current advertiser: 786
+total_pages: 3099
+low_rf_pages: 37842
+total patterns: 70934
+deleting 138
+current advertiser: 787
+total_pages: 3098
+low_rf_pages: 37842
+total patterns: 70933
+current advertiser: 788
+total_pages: 3098
+low_rf_pages: 37842
+total patterns: 70933
+current advertiser: 789
+total_pages: 3098
+low_rf_pages: 37842
+total patterns: 70933
+current advertiser: 790
+total_pages: 3098
+low_rf_pages: 37842
+total patterns: 70933
+current advertiser: 791
+total_pages: 3098
+low_rf_pages: 37842
+total patterns: 70933
+deleting 2
+current advertiser: 792
+total_pages: 3097
+low_rf_pages: 37842
+total patterns: 70932
+current advertiser: 793
+total_pages: 3097
+low_rf_pages: 37842
+total patterns: 70932
+current advertiser: 794
+total_pages: 3097
+low_rf_pages: 37842
+total patterns: 70932
+current advertiser: 795
+total_pages: 3097
+low_rf_pages: 37842
+total patterns: 70932
+current advertiser: 796
+total_pages: 3097
+low_rf_pages: 37842
+total patterns: 70932
+deleting 77
+current advertiser: 797
+total_pages: 3096
+low_rf_pages: 37842
+total patterns: 70931
+current advertiser: 798
+total_pages: 3096
+low_rf_pages: 37842
+total patterns: 70931
+current advertiser: 799
+total_pages: 3096
+low_rf_pages: 37842
+total patterns: 70931
+current advertiser: 800
+total_pages: 3096
+low_rf_pages: 37842
+total patterns: 70931
+current advertiser: 801
+total_pages: 3096
+low_rf_pages: 37842
+total patterns: 70931
+deleting 64
+current advertiser: 802
+total_pages: 3095
+low_rf_pages: 37842
+total patterns: 70930
+current advertiser: 803
+total_pages: 3095
+low_rf_pages: 37842
+total patterns: 70930
+current advertiser: 804
+total_pages: 3095
+low_rf_pages: 37842
+total patterns: 70930
+current advertiser: 805
+total_pages: 3095
+low_rf_pages: 37842
+total patterns: 70930
+current advertiser: 806
+total_pages: 3095
+low_rf_pages: 37842
+total patterns: 70930
+deleting 55
+current advertiser: 807
+total_pages: 3094
+low_rf_pages: 37842
+total patterns: 70929
+current advertiser: 808
+total_pages: 3094
+low_rf_pages: 37842
+total patterns: 70929
+current advertiser: 809
+total_pages: 3094
+low_rf_pages: 37842
+total patterns: 70929
+current advertiser: 810
+total_pages: 3094
+low_rf_pages: 37842
+total patterns: 70929
+current advertiser: 811
+total_pages: 3094
+low_rf_pages: 37842
+total patterns: 70929
+deleting 17
+deleting 545
+current advertiser: 812
+total_pages: 3092
+low_rf_pages: 37842
+total patterns: 70890
+deleting 148
+current advertiser: 813
+total_pages: 3091
+low_rf_pages: 37842
+total patterns: 70889
+current advertiser: 814
+total_pages: 3091
+low_rf_pages: 37842
+total patterns: 70889
+current advertiser: 815
+total_pages: 3091
+low_rf_pages: 37842
+total patterns: 70889
+current advertiser: 816
+total_pages: 3091
+low_rf_pages: 37842
+total patterns: 70889
+current advertiser: 817
+total_pages: 3091
+low_rf_pages: 37842
+total patterns: 70889
+deleting 27
+current advertiser: 818
+total_pages: 3090
+low_rf_pages: 37842
+total patterns: 70888
+current advertiser: 819
+total_pages: 3090
+low_rf_pages: 37842
+total patterns: 70888
+current advertiser: 820
+total_pages: 3090
+low_rf_pages: 37842
+total patterns: 70888
+current advertiser: 821
+total_pages: 3090
+low_rf_pages: 37842
+total patterns: 70888
+current advertiser: 822
+total_pages: 3090
+low_rf_pages: 37842
+total patterns: 70888
+current advertiser: 823
+total_pages: 3090
+low_rf_pages: 37842
+total patterns: 70888
+deleting 331
+current advertiser: 824
+total_pages: 3089
+low_rf_pages: 37842
+total patterns: 70885
+deleting 4
+current advertiser: 825
+total_pages: 3088
+low_rf_pages: 37842
+total patterns: 70884
+current advertiser: 826
+total_pages: 3088
+low_rf_pages: 37842
+total patterns: 70884
+current advertiser: 827
+total_pages: 3088
+low_rf_pages: 37842
+total patterns: 70884
+current advertiser: 828
+total_pages: 3088
+low_rf_pages: 37842
+total patterns: 70884
+current advertiser: 829
+total_pages: 3088
+low_rf_pages: 37842
+total patterns: 70884
+deleting 7
+current advertiser: 830
+total_pages: 3087
+low_rf_pages: 37842
+total patterns: 70883
+current advertiser: 831
+total_pages: 3087
+low_rf_pages: 37842
+total patterns: 70883
+current advertiser: 832
+total_pages: 3087
+low_rf_pages: 37842
+total patterns: 70883
+current advertiser: 833
+total_pages: 3087
+low_rf_pages: 37842
+total patterns: 70883
+current advertiser: 834
+total_pages: 3087
+low_rf_pages: 37842
+total patterns: 70883
+deleting 218
+current advertiser: 835
+total_pages: 3086
+low_rf_pages: 37842
+total patterns: 70882
+current advertiser: 836
+total_pages: 3086
+low_rf_pages: 37842
+total patterns: 70882
+current advertiser: 837
+total_pages: 3086
+low_rf_pages: 37842
+total patterns: 70882
+current advertiser: 838
+total_pages: 3086
+low_rf_pages: 37842
+total patterns: 70882
+current advertiser: 839
+total_pages: 3086
+low_rf_pages: 37842
+total patterns: 70882
+deleting 1
+current advertiser: 840
+total_pages: 3085
+low_rf_pages: 37842
+total patterns: 70881
+current advertiser: 841
+total_pages: 3085
+low_rf_pages: 37842
+total patterns: 70881
+current advertiser: 842
+total_pages: 3085
+low_rf_pages: 37842
+total patterns: 70881
+current advertiser: 843
+total_pages: 3085
+low_rf_pages: 37842
+total patterns: 70881
+current advertiser: 844
+total_pages: 3085
+low_rf_pages: 37842
+total patterns: 70881
+deleting 11
+current advertiser: 845
+total_pages: 3084
+low_rf_pages: 37842
+total patterns: 70880
+current advertiser: 846
+total_pages: 3084
+low_rf_pages: 37842
+total patterns: 70880
+current advertiser: 847
+total_pages: 3084
+low_rf_pages: 37842
+total patterns: 70880
+current advertiser: 848
+total_pages: 3084
+low_rf_pages: 37842
+total patterns: 70880
+current advertiser: 849
+total_pages: 3084
+low_rf_pages: 37842
+total patterns: 70880
+deleting 3
+current advertiser: 850
+total_pages: 3083
+low_rf_pages: 37842
+total patterns: 70879
+current advertiser: 851
+total_pages: 3083
+low_rf_pages: 37842
+total patterns: 70879
+current advertiser: 852
+total_pages: 3083
+low_rf_pages: 37842
+total patterns: 70879
+current advertiser: 853
+total_pages: 3083
+low_rf_pages: 37842
+total patterns: 70879
+current advertiser: 854
+total_pages: 3083
+low_rf_pages: 37842
+total patterns: 70879
+deleting 6
+current advertiser: 855
+total_pages: 3082
+low_rf_pages: 37842
+total patterns: 70878
+clean alloc failed
+allocated: 3910 required: 3915
+current advertiser: 856
+total_pages: 3082
+low_rf_pages: 37839
+total patterns: 70878
+clean alloc failed
+allocated: 3910 required: 3914
+deleting 372
+current advertiser: 857
+total_pages: 3081
+low_rf_pages: 37837
+total patterns: 70873
+clean alloc failed
+allocated: 3893 required: 3914
+current advertiser: 858
+total_pages: 3081
+low_rf_pages: 37835
+total patterns: 70873
+clean alloc failed
+allocated: 3893 required: 3914
+deleting 1469
+current advertiser: 859
+total_pages: 3080
+low_rf_pages: 37831
+total patterns: 70872
+clean alloc failed
+allocated: 3884 required: 3912
+deleting 697
+current advertiser: 860
+total_pages: 3079
+low_rf_pages: 37826
+total patterns: 70869
+clean alloc failed
+allocated: 3876 required: 3912
+current advertiser: 861
+total_pages: 3079
+low_rf_pages: 37822
+total patterns: 70869
+clean alloc failed
+allocated: 3876 required: 3912
+deleting 39
+current advertiser: 862
+total_pages: 3078
+low_rf_pages: 37820
+total patterns: 70865
+clean alloc failed
+allocated: 3864 required: 3911
+current advertiser: 863
+total_pages: 3078
+low_rf_pages: 37806
+total patterns: 70865
+clean alloc failed
+allocated: 3864 required: 3910
+deleting 838
+current advertiser: 864
+total_pages: 3077
+low_rf_pages: 37805
+total patterns: 70861
+clean alloc failed
+allocated: 3833 required: 3910
+current advertiser: 865
+total_pages: 3077
+low_rf_pages: 37796
+total patterns: 70861
+clean alloc failed
+allocated: 3833 required: 3909
+deleting 603
+current advertiser: 866
+total_pages: 3076
+low_rf_pages: 37790
+total patterns: 70854
+clean alloc failed
+allocated: 3814 required: 3908
+current advertiser: 867
+total_pages: 3076
+low_rf_pages: 37787
+total patterns: 70854
+clean alloc failed
+allocated: 3814 required: 3907
+deleting 882
+current advertiser: 868
+total_pages: 3075
+low_rf_pages: 37784
+total patterns: 70850
+clean alloc failed
+allocated: 3811 required: 3907
+current advertiser: 869
+total_pages: 3075
+low_rf_pages: 37779
+total patterns: 70850
+clean alloc failed
+allocated: 3811 required: 3907
+deleting 2826
+current advertiser: 870
+total_pages: 3074
+low_rf_pages: 37774
+total patterns: 70847
+clean alloc failed
+allocated: 3791 required: 3906
+current advertiser: 871
+total_pages: 3074
+low_rf_pages: 37765
+total patterns: 70847
+clean alloc failed
+allocated: 3791 required: 3905
+deleting 204
+current advertiser: 872
+total_pages: 3073
+low_rf_pages: 37761
+total patterns: 70839
+clean alloc failed
+allocated: 3785 required: 3905
+current advertiser: 873
+total_pages: 3073
+low_rf_pages: 37753
+total patterns: 70839
+clean alloc failed
+allocated: 3785 required: 3904
+deleting 738
+current advertiser: 874
+total_pages: 3072
+low_rf_pages: 37746
+total patterns: 70836
+clean alloc failed
+allocated: 3777 required: 3903
+current advertiser: 875
+total_pages: 3072
+low_rf_pages: 37744
+total patterns: 70836
+clean alloc failed
+allocated: 3777 required: 3903
+deleting 1018
+current advertiser: 876
+total_pages: 3071
+low_rf_pages: 37736
+total patterns: 70833
+clean alloc failed
+allocated: 3775 required: 3902
+current advertiser: 877
+total_pages: 3071
+low_rf_pages: 37728
+total patterns: 70833
+clean alloc failed
+allocated: 3775 required: 3902
+deleting 3197
+current advertiser: 878
+total_pages: 3070
+low_rf_pages: 37712
+total patterns: 70827
+clean alloc failed
+allocated: 3764 required: 3902
+current advertiser: 879
+total_pages: 3070
+low_rf_pages: 37697
+total patterns: 70827
+clean alloc failed
+allocated: 3764 required: 3902
+deleting 106
+current advertiser: 880
+total_pages: 3069
+low_rf_pages: 37695
+total patterns: 70824
+clean alloc failed
+allocated: 3754 required: 3901
+current advertiser: 881
+total_pages: 3069
+low_rf_pages: 37688
+total patterns: 70824
+clean alloc failed
+allocated: 3754 required: 3901
+deleting 528
+current advertiser: 882
+total_pages: 3068
+low_rf_pages: 37684
+total patterns: 70818
+clean alloc failed
+allocated: 3748 required: 3901
+current advertiser: 883
+total_pages: 3068
+low_rf_pages: 37679
+total patterns: 70818
+clean alloc failed
+allocated: 3748 required: 3900
+deleting 1707
+current advertiser: 884
+total_pages: 3067
+low_rf_pages: 37666
+total patterns: 70815
+clean alloc failed
+allocated: 3747 required: 3900
+current advertiser: 885
+total_pages: 3067
+low_rf_pages: 37657
+total patterns: 70815
+clean alloc failed
+allocated: 3747 required: 3900
+deleting 525
+current advertiser: 886
+total_pages: 3066
+low_rf_pages: 37654
+total patterns: 70810
+clean alloc failed
+allocated: 3728 required: 3899
+current advertiser: 887
+total_pages: 3066
+low_rf_pages: 37648
+total patterns: 70810
+clean alloc failed
+allocated: 3728 required: 3897
+deleting 2145
+current advertiser: 888
+total_pages: 3065
+low_rf_pages: 37632
+total patterns: 70805
+clean alloc failed
+allocated: 3717 required: 3897
+current advertiser: 889
+total_pages: 3065
+low_rf_pages: 37621
+total patterns: 70805
+clean alloc failed
+allocated: 3717 required: 3895
+deleting 88
+current advertiser: 890
+total_pages: 3064
+low_rf_pages: 37618
+total patterns: 70801
+clean alloc failed
+allocated: 3712 required: 3895
+current advertiser: 891
+total_pages: 3064
+low_rf_pages: 37616
+total patterns: 70801
+clean alloc failed
+allocated: 3712 required: 3894
+deleting 330
+current advertiser: 892
+total_pages: 3063
+low_rf_pages: 37597
+total patterns: 70796
+clean alloc failed
+allocated: 3706 required: 3894
+current advertiser: 893
+total_pages: 3063
+low_rf_pages: 37595
+total patterns: 70796
+clean alloc failed
+allocated: 3706 required: 3891
+deleting 221
+current advertiser: 894
+total_pages: 3062
+low_rf_pages: 37579
+total patterns: 70792
+clean alloc failed
+allocated: 3706 required: 3891
+current advertiser: 895
+total_pages: 3062
+low_rf_pages: 37564
+total patterns: 70792
+clean alloc failed
+allocated: 3706 required: 3891
+deleting 102
+current advertiser: 896
+total_pages: 3061
+low_rf_pages: 37549
+total patterns: 70787
+clean alloc failed
+allocated: 3694 required: 3889
+current advertiser: 897
+total_pages: 3061
+low_rf_pages: 37543
+total patterns: 70787
+clean alloc failed
+allocated: 3694 required: 3889
+deleting 2018
+current advertiser: 898
+total_pages: 3060
+low_rf_pages: 37538
+total patterns: 70785
+clean alloc failed
+allocated: 3683 required: 3889
+current advertiser: 899
+total_pages: 3060
+low_rf_pages: 37525
+total patterns: 70785
+clean alloc failed
+allocated: 3683 required: 3888
+deleting 800
+current advertiser: 900
+total_pages: 3059
+low_rf_pages: 37504
+total patterns: 70777
+clean alloc failed
+allocated: 3667 required: 3887
+current advertiser: 901
+total_pages: 3059
+low_rf_pages: 37503
+total patterns: 70777
+clean alloc failed
+allocated: 3667 required: 3887
+deleting 1481
+current advertiser: 902
+total_pages: 3058
+low_rf_pages: 37486
+total patterns: 70775
+clean alloc failed
+allocated: 3664 required: 3887
+current advertiser: 903
+total_pages: 3058
+low_rf_pages: 37484
+total patterns: 70775
+clean alloc failed
+allocated: 3664 required: 3887
+deleting 1035
+current advertiser: 904
+total_pages: 3057
+low_rf_pages: 37471
+total patterns: 70772
+clean alloc failed
+allocated: 3664 required: 3885
+current advertiser: 905
+total_pages: 3057
+low_rf_pages: 37467
+total patterns: 70772
+clean alloc failed
+allocated: 3664 required: 3885
+deleting 885
+current advertiser: 906
+total_pages: 3056
+low_rf_pages: 37453
+total patterns: 70768
+clean alloc failed
+allocated: 3648 required: 3884
+deleting 3394
+current advertiser: 907
+total_pages: 3055
+low_rf_pages: 37441
+total patterns: 70760
+clean alloc failed
+allocated: 3622 required: 3884
+current advertiser: 908
+total_pages: 3055
+low_rf_pages: 37430
+total patterns: 70760
+clean alloc failed
+allocated: 3622 required: 3884
+deleting 787
+current advertiser: 909
+total_pages: 3054
+low_rf_pages: 37418
+total patterns: 70754
+clean alloc failed
+allocated: 3622 required: 3881
+current advertiser: 910
+total_pages: 3054
+low_rf_pages: 37408
+total patterns: 70754
+clean alloc failed
+allocated: 3622 required: 3880
+deleting 368
+current advertiser: 911
+total_pages: 3053
+low_rf_pages: 37403
+total patterns: 70751
+clean alloc failed
+allocated: 3620 required: 3880
+current advertiser: 912
+total_pages: 3053
+low_rf_pages: 37381
+total patterns: 70751
+clean alloc failed
+allocated: 3620 required: 3879
+deleting 332
+current advertiser: 913
+total_pages: 3052
+low_rf_pages: 37364
+total patterns: 70746
+clean alloc failed
+allocated: 3613 required: 3879
+current advertiser: 914
+total_pages: 3052
+low_rf_pages: 37355
+total patterns: 70746
+clean alloc failed
+allocated: 3613 required: 3879
+deleting 139
+current advertiser: 915
+total_pages: 3051
+low_rf_pages: 37341
+total patterns: 70740
+clean alloc failed
+allocated: 3582 required: 3877
+current advertiser: 916
+total_pages: 3051
+low_rf_pages: 37337
+total patterns: 70740
+clean alloc failed
+allocated: 3582 required: 3877
+deleting 837
+current advertiser: 917
+total_pages: 3050
+low_rf_pages: 37328
+total patterns: 70738
+clean alloc failed
+allocated: 3579 required: 3876
+current advertiser: 918
+total_pages: 3050
+low_rf_pages: 37320
+total patterns: 70738
+clean alloc failed
+allocated: 3579 required: 3876
+deleting 329
+current advertiser: 919
+total_pages: 3049
+low_rf_pages: 37306
+total patterns: 70732
+clean alloc failed
+allocated: 3566 required: 3876
+current advertiser: 920
+total_pages: 3049
+low_rf_pages: 37293
+total patterns: 70732
+clean alloc failed
+allocated: 3566 required: 3875
+deleting 312
+current advertiser: 921
+total_pages: 3048
+low_rf_pages: 37278
+total patterns: 70729
+clean alloc failed
+allocated: 3554 required: 3875
+current advertiser: 922
+total_pages: 3048
+low_rf_pages: 37270
+total patterns: 70729
+clean alloc failed
+allocated: 3554 required: 3874
+deleting 1857
+current advertiser: 923
+total_pages: 3047
+low_rf_pages: 37257
+total patterns: 70723
+clean alloc failed
+allocated: 3554 required: 3873
+current advertiser: 924
+total_pages: 3047
+low_rf_pages: 37246
+total patterns: 70723
+clean alloc failed
+allocated: 3554 required: 3873
+deleting 453
+current advertiser: 925
+total_pages: 3046
+low_rf_pages: 37224
+total patterns: 70720
+clean alloc failed
+allocated: 3551 required: 3872
+current advertiser: 926
+total_pages: 3046
+low_rf_pages: 37211
+total patterns: 70720
+clean alloc failed
+allocated: 3551 required: 3872
+deleting 3322
+current advertiser: 927
+total_pages: 3045
+low_rf_pages: 37194
+total patterns: 70715
+clean alloc failed
+allocated: 3539 required: 3870
+current advertiser: 928
+total_pages: 3045
+low_rf_pages: 37189
+total patterns: 70715
+clean alloc failed
+allocated: 3539 required: 3867
+deleting 422
+current advertiser: 929
+total_pages: 3044
+low_rf_pages: 37178
+total patterns: 70707
+clean alloc failed
+allocated: 3525 required: 3866
+current advertiser: 930
+total_pages: 3044
+low_rf_pages: 37158
+total patterns: 70707
+clean alloc failed
+allocated: 3525 required: 3866
+deleting 1863
+current advertiser: 931
+total_pages: 3043
+low_rf_pages: 37154
+total patterns: 70702
+clean alloc failed
+allocated: 3525 required: 3866
+current advertiser: 932
+total_pages: 3043
+low_rf_pages: 37142
+total patterns: 70702
+clean alloc failed
+allocated: 3525 required: 3865
+deleting 118
+current advertiser: 933
+total_pages: 3042
+low_rf_pages: 37128
+total patterns: 70699
+clean alloc failed
+allocated: 3500 required: 3863
+current advertiser: 934
+total_pages: 3042
+low_rf_pages: 37114
+total patterns: 70699
+clean alloc failed
+allocated: 3500 required: 3863
+deleting 236
+current advertiser: 935
+total_pages: 3041
+low_rf_pages: 37094
+total patterns: 70691
+clean alloc failed
+allocated: 3489 required: 3863
+current advertiser: 936
+total_pages: 3041
+low_rf_pages: 37085
+total patterns: 70691
+clean alloc failed
+allocated: 3489 required: 3861
+deleting 2953
+current advertiser: 937
+total_pages: 3040
+low_rf_pages: 37074
+total patterns: 70686
+clean alloc failed
+allocated: 3488 required: 3860
+current advertiser: 938
+total_pages: 3040
+low_rf_pages: 37059
+total patterns: 70686
+clean alloc failed
+allocated: 3488 required: 3860
+deleting 253
+current advertiser: 939
+total_pages: 3039
+low_rf_pages: 37044
+total patterns: 70682
+clean alloc failed
+allocated: 3473 required: 3860
+current advertiser: 940
+total_pages: 3039
+low_rf_pages: 37028
+total patterns: 70682
+clean alloc failed
+allocated: 3473 required: 3859
+deleting 333
+current advertiser: 941
+total_pages: 3038
+low_rf_pages: 37000
+total patterns: 70677
+clean alloc failed
+allocated: 3468 required: 3858
+current advertiser: 942
+total_pages: 3038
+low_rf_pages: 36986
+total patterns: 70677
+clean alloc failed
+allocated: 3468 required: 3858
+deleting 1517
+current advertiser: 943
+total_pages: 3037
+low_rf_pages: 36968
+total patterns: 70675
+clean alloc failed
+allocated: 3449 required: 3857
+current advertiser: 944
+total_pages: 3037
+low_rf_pages: 36952
+total patterns: 70675
+clean alloc failed
+allocated: 3449 required: 3857
+deleting 402
+current advertiser: 945
+total_pages: 3036
+low_rf_pages: 36924
+total patterns: 70669
+clean alloc failed
+allocated: 3427 required: 3856
+current advertiser: 946
+total_pages: 3036
+low_rf_pages: 36903
+total patterns: 70669
+clean alloc failed
+allocated: 3427 required: 3856
+deleting 672
+current advertiser: 947
+total_pages: 3035
+low_rf_pages: 36880
+total patterns: 70666
+clean alloc failed
+allocated: 3423 required: 3856
+current advertiser: 948
+total_pages: 3035
+low_rf_pages: 36870
+total patterns: 70666
+clean alloc failed
+allocated: 3423 required: 3856
+deleting 563
+current advertiser: 949
+total_pages: 3034
+low_rf_pages: 36858
+total patterns: 70664
+clean alloc failed
+allocated: 3417 required: 3855
+current advertiser: 950
+total_pages: 3034
+low_rf_pages: 36842
+total patterns: 70664
+clean alloc failed
+allocated: 3417 required: 3855
+deleting 261
+current advertiser: 951
+total_pages: 3033
+low_rf_pages: 36829
+total patterns: 70659
+clean alloc failed
+allocated: 3401 required: 3853
+deleting 4003
+current advertiser: 952
+total_pages: 3032
+low_rf_pages: 36820
+total patterns: 70605
+clean alloc failed
+allocated: 3390 required: 3850
+current advertiser: 953
+total_pages: 3032
+low_rf_pages: 36806
+total patterns: 70605
+clean alloc failed
+allocated: 3390 required: 3848
+deleting 234
+current advertiser: 954
+total_pages: 3031
+low_rf_pages: 36790
+total patterns: 70599
+clean alloc failed
+allocated: 3378 required: 3848
+current advertiser: 955
+total_pages: 3031
+low_rf_pages: 36777
+total patterns: 70599
+clean alloc failed
+allocated: 3378 required: 3847
+deleting 370
+current advertiser: 956
+total_pages: 3030
+low_rf_pages: 36750
+total patterns: 70593
+clean alloc failed
+allocated: 3375 required: 3847
+current advertiser: 957
+total_pages: 3030
+low_rf_pages: 36729
+total patterns: 70593
+clean alloc failed
+allocated: 3375 required: 3847
+deleting 334
+current advertiser: 958
+total_pages: 3029
+low_rf_pages: 36720
+total patterns: 70584
+clean alloc failed
+allocated: 3374 required: 3847
+current advertiser: 959
+total_pages: 3029
+low_rf_pages: 36688
+total patterns: 70584
+clean alloc failed
+allocated: 3374 required: 3846
+deleting 1149
+current advertiser: 960
+total_pages: 3028
+low_rf_pages: 36667
+total patterns: 70579
+clean alloc failed
+allocated: 3366 required: 3845
+current advertiser: 961
+total_pages: 3028
+low_rf_pages: 36649
+total patterns: 70579
+clean alloc failed
+allocated: 3366 required: 3845
+deleting 1496
+current advertiser: 962
+total_pages: 3027
+low_rf_pages: 36626
+total patterns: 70572
+clean alloc failed
+allocated: 3362 required: 3845
+current advertiser: 963
+total_pages: 3027
+low_rf_pages: 36616
+total patterns: 70572
+clean alloc failed
+allocated: 3362 required: 3845
+deleting 1077
+current advertiser: 964
+total_pages: 3026
+low_rf_pages: 36586
+total patterns: 70569
+clean alloc failed
+allocated: 3341 required: 3844
+deleting 141
+current advertiser: 965
+total_pages: 3025
+low_rf_pages: 36576
+total patterns: 70560
+clean alloc failed
+allocated: 3332 required: 3844
+current advertiser: 966
+total_pages: 3025
+low_rf_pages: 36561
+total patterns: 70560
+clean alloc failed
+allocated: 3332 required: 3844
+deleting 2035
+current advertiser: 967
+total_pages: 3024
+low_rf_pages: 36525
+total patterns: 70554
+clean alloc failed
+allocated: 3332 required: 3843
+current advertiser: 968
+total_pages: 3024
+low_rf_pages: 36502
+total patterns: 70554
+clean alloc failed
+allocated: 3332 required: 3842
+deleting 784
+current advertiser: 969
+total_pages: 3023
+low_rf_pages: 36479
+total patterns: 70546
+clean alloc failed
+allocated: 3321 required: 3841
+current advertiser: 970
+total_pages: 3023
+low_rf_pages: 36447
+total patterns: 70546
+clean alloc failed
+allocated: 3321 required: 3840
+deleting 1034
+current advertiser: 971
+total_pages: 3022
+low_rf_pages: 36430
+total patterns: 70538
+clean alloc failed
+allocated: 3317 required: 3839
+deleting 3416
+deleting 3250
+current advertiser: 972
+total_pages: 3020
+low_rf_pages: 36411
+total patterns: 70471
+clean alloc failed
+allocated: 3316 required: 3838
+current advertiser: 973
+total_pages: 3020
+low_rf_pages: 36385
+total patterns: 70471
+clean alloc failed
+allocated: 3316 required: 3838
+deleting 753
+current advertiser: 974
+total_pages: 3019
+low_rf_pages: 36370
+total patterns: 70467
+clean alloc failed
+allocated: 3310 required: 3837
+deleting 768
+deleting 4331
+current advertiser: 975
+total_pages: 3017
+low_rf_pages: 36358
+total patterns: 70430
+clean alloc failed
+allocated: 3290 required: 3837
+deleting 999
+current advertiser: 976
+total_pages: 3016
+low_rf_pages: 36332
+total patterns: 70420
+clean alloc failed
+allocated: 3262 required: 3836
+current advertiser: 977
+total_pages: 3016
+low_rf_pages: 36318
+total patterns: 70420
+clean alloc failed
+allocated: 3262 required: 3835
+deleting 258
+current advertiser: 978
+total_pages: 3015
+low_rf_pages: 36292
+total patterns: 70415
+clean alloc failed
+allocated: 3259 required: 3834
+deleting 8113
+deleting 3262
+current advertiser: 979
+total_pages: 3013
+low_rf_pages: 36275
+total patterns: 70343
+clean alloc failed
+allocated: 3225 required: 3834
+deleting 214
+deleting 723
+current advertiser: 980
+total_pages: 3011
+low_rf_pages: 36243
+total patterns: 70253
+clean alloc failed
+allocated: 3221 required: 3834
+current advertiser: 981
+total_pages: 3011
+low_rf_pages: 36215
+total patterns: 70253
+clean alloc failed
+allocated: 3221 required: 3834
+deleting 140
+current advertiser: 982
+total_pages: 3010
+low_rf_pages: 36189
+total patterns: 70245
+clean alloc failed
+allocated: 3219 required: 3834
+current advertiser: 983
+total_pages: 3010
+low_rf_pages: 36159
+total patterns: 70245
+clean alloc failed
+allocated: 3219 required: 3833
+deleting 793
+current advertiser: 984
+total_pages: 3009
+low_rf_pages: 36134
+total patterns: 70239
+clean alloc failed
+allocated: 3219 required: 3833
+current advertiser: 985
+total_pages: 3009
+low_rf_pages: 36117
+total patterns: 70239
+clean alloc failed
+allocated: 3219 required: 3831
+deleting 579
+current advertiser: 986
+total_pages: 3008
+low_rf_pages: 36094
+total patterns: 70232
+clean alloc failed
+allocated: 3200 required: 3831
+current advertiser: 987
+total_pages: 3008
+low_rf_pages: 36068
+total patterns: 70232
+clean alloc failed
+allocated: 3200 required: 3830
+deleting 516
+current advertiser: 988
+total_pages: 3007
+low_rf_pages: 36040
+total patterns: 70225
+clean alloc failed
+allocated: 3197 required: 3829
+current advertiser: 989
+total_pages: 3007
+low_rf_pages: 36023
+total patterns: 70225
+clean alloc failed
+allocated: 3197 required: 3829
+deleting 380
+current advertiser: 990
+total_pages: 3006
+low_rf_pages: 35993
+total patterns: 70216
+clean alloc failed
+allocated: 3192 required: 3829
+current advertiser: 991
+total_pages: 3006
+low_rf_pages: 35949
+total patterns: 70216
+clean alloc failed
+allocated: 3192 required: 3829
+deleting 3804
+current advertiser: 992
+total_pages: 3005
+low_rf_pages: 35925
+total patterns: 70211
+clean alloc failed
+allocated: 3190 required: 3829
+current advertiser: 993
+total_pages: 3005
+low_rf_pages: 35901
+total patterns: 70211
+clean alloc failed
+allocated: 3190 required: 3829
+deleting 472
+current advertiser: 994
+total_pages: 3004
+low_rf_pages: 35878
+total patterns: 70203
+clean alloc failed
+allocated: 3185 required: 3828
+deleting 1545
+deleting 4617
+current advertiser: 995
+total_pages: 3002
+low_rf_pages: 35850
+total patterns: 70139
+clean alloc failed
+allocated: 3168 required: 3828
+deleting 458
+current advertiser: 996
+total_pages: 3001
+low_rf_pages: 35841
+total patterns: 70130
+clean alloc failed
+allocated: 3167 required: 3824
+deleting 3905
+deleting 3437
+current advertiser: 997
+total_pages: 2999
+low_rf_pages: 35816
+total patterns: 70057
+clean alloc failed
+allocated: 3159 required: 3823
+current advertiser: 998
+total_pages: 2999
+low_rf_pages: 35788
+total patterns: 70057
+clean alloc failed
+allocated: 3159 required: 3823
+deleting 2094
+current advertiser: 999
+total_pages: 2998
+low_rf_pages: 35757
+total patterns: 70054
+clean alloc failed
+allocated: 3158 required: 3822
+deleting 3141
+deleting 3925
+current advertiser: 1000
+total_pages: 2996
+low_rf_pages: 35736
+total patterns: 69977
+clean alloc failed
+allocated: 3148 required: 3822
+current advertiser: 1001
+total_pages: 2996
+low_rf_pages: 35714
+total patterns: 69977
+clean alloc failed
+allocated: 3148 required: 3821
+deleting 240
+current advertiser: 1002
+total_pages: 2995
+low_rf_pages: 35686
+total patterns: 69967
+clean alloc failed
+allocated: 3143 required: 3821
+current advertiser: 1003
+total_pages: 2995
+low_rf_pages: 35667
+total patterns: 69967
+clean alloc failed
+allocated: 3143 required: 3821
+deleting 1769
+current advertiser: 1004
+total_pages: 2994
+low_rf_pages: 35645
+total patterns: 69959
+clean alloc failed
+allocated: 3134 required: 3820
+current advertiser: 1005
+total_pages: 2994
+low_rf_pages: 35615
+total patterns: 69959
+clean alloc failed
+allocated: 3134 required: 3820
+deleting 482
+current advertiser: 1006
+total_pages: 2993
+low_rf_pages: 35593
+total patterns: 69948
+clean alloc failed
+allocated: 3133 required: 3818
+current advertiser: 1007
+total_pages: 2993
+low_rf_pages: 35583
+total patterns: 69948
+clean alloc failed
+allocated: 3133 required: 3817
+deleting 744
+current advertiser: 1008
+total_pages: 2992
+low_rf_pages: 35543
+total patterns: 69940
+clean alloc failed
+allocated: 3126 required: 3817
+deleting 1602
+deleting 2387
+current advertiser: 1009
+total_pages: 2990
+low_rf_pages: 35520
+total patterns: 69869
+clean alloc failed
+allocated: 3113 required: 3815
+current advertiser: 1010
+total_pages: 2990
+low_rf_pages: 35491
+total patterns: 69869
+clean alloc failed
+allocated: 3113 required: 3815
+deleting 1839
+current advertiser: 1011
+total_pages: 2989
+low_rf_pages: 35455
+total patterns: 69865
+clean alloc failed
+allocated: 3103 required: 3814
+deleting 4068
+deleting 5178
+current advertiser: 1012
+total_pages: 2987
+low_rf_pages: 35431
+total patterns: 69789
+clean alloc failed
+allocated: 3101 required: 3813
+deleting 307
+current advertiser: 1013
+total_pages: 2986
+low_rf_pages: 35400
+total patterns: 69778
+clean alloc failed
+allocated: 3095 required: 3812
+deleting 371
+current advertiser: 1014
+total_pages: 2985
+low_rf_pages: 35366
+total patterns: 69773
+clean alloc failed
+allocated: 3084 required: 3812
+deleting 815
+current advertiser: 1015
+total_pages: 2984
+low_rf_pages: 35340
+total patterns: 69769
+clean alloc failed
+allocated: 3073 required: 3812
+current advertiser: 1016
+total_pages: 2984
+low_rf_pages: 35299
+total patterns: 69769
+clean alloc failed
+allocated: 3073 required: 3812
+deleting 2403
+current advertiser: 1017
+total_pages: 2983
+low_rf_pages: 35280
+total patterns: 69762
+clean alloc failed
+allocated: 3065 required: 3810
+deleting 4507
+deleting 1092
+current advertiser: 1018
+total_pages: 2981
+low_rf_pages: 35243
+total patterns: 69670
+clean alloc failed
+allocated: 3064 required: 3809
+current advertiser: 1019
+total_pages: 2981
+low_rf_pages: 35216
+total patterns: 69670
+clean alloc failed
+allocated: 3064 required: 3809
+deleting 1518
+current advertiser: 1020
+total_pages: 2980
+low_rf_pages: 35173
+total patterns: 69664
+clean alloc failed
+allocated: 3064 required: 3809
+current advertiser: 1021
+total_pages: 2980
+low_rf_pages: 35118
+total patterns: 69664
+clean alloc failed
+allocated: 3064 required: 3807
+deleting 564
+current advertiser: 1022
+total_pages: 2979
+low_rf_pages: 35090
+total patterns: 69660
+clean alloc failed
+allocated: 3064 required: 3805
+current advertiser: 1023
+total_pages: 2979
+low_rf_pages: 35067
+total patterns: 69660
+clean alloc failed
+allocated: 3064 required: 3804
+deleting 241
+current advertiser: 1024
+total_pages: 2978
+low_rf_pages: 35046
+total patterns: 69651
+clean alloc failed
+allocated: 3062 required: 3803
+deleting 1104
+deleting 807
+current advertiser: 1025
+total_pages: 2976
+low_rf_pages: 34994
+total patterns: 69582
+clean alloc failed
+allocated: 3056 required: 3803
+current advertiser: 1026
+total_pages: 2976
+low_rf_pages: 34950
+total patterns: 69582
+clean alloc failed
+allocated: 3056 required: 3802
+deleting 464
+current advertiser: 1027
+total_pages: 2975
+low_rf_pages: 34934
+total patterns: 69573
+clean alloc failed
+allocated: 3054 required: 3801
+current advertiser: 1028
+total_pages: 2975
+low_rf_pages: 34899
+total patterns: 69573
+clean alloc failed
+allocated: 3054 required: 3801
+deleting 2298
+current advertiser: 1029
+total_pages: 2974
+low_rf_pages: 34875
+total patterns: 69567
+clean alloc failed
+allocated: 3048 required: 3800
+deleting 420
+deleting 1570
+current advertiser: 1030
+total_pages: 2972
+low_rf_pages: 34845
+total patterns: 69488
+clean alloc failed
+allocated: 3044 required: 3800
+deleting 1597
+deleting 2159
+current advertiser: 1031
+total_pages: 2970
+low_rf_pages: 34830
+total patterns: 69403
+clean alloc failed
+allocated: 3043 required: 3799
+current advertiser: 1032
+total_pages: 2970
+low_rf_pages: 34799
+total patterns: 69403
+clean alloc failed
+allocated: 3043 required: 3799
+deleting 1519
+current advertiser: 1033
+total_pages: 2969
+low_rf_pages: 34775
+total patterns: 69393
+clean alloc failed
+allocated: 3042 required: 3798
+current advertiser: 1034
+total_pages: 2969
+low_rf_pages: 34748
+total patterns: 69393
+clean alloc failed
+allocated: 3042 required: 3798
+deleting 245
+current advertiser: 1035
+total_pages: 2968
+low_rf_pages: 34716
+total patterns: 69381
+clean alloc failed
+allocated: 3034 required: 3797
+current advertiser: 1036
+total_pages: 2968
+low_rf_pages: 34670
+total patterns: 69381
+clean alloc failed
+allocated: 3034 required: 3795
+deleting 1569
+current advertiser: 1037
+total_pages: 2967
+low_rf_pages: 34641
+total patterns: 69373
+clean alloc failed
+allocated: 3031 required: 3794
+current advertiser: 1038
+total_pages: 2967
+low_rf_pages: 34615
+total patterns: 69373
+clean alloc failed
+allocated: 3031 required: 3794
+deleting 1529
+current advertiser: 1039
+total_pages: 2966
+low_rf_pages: 34581
+total patterns: 69363
+clean alloc failed
+allocated: 3029 required: 3794
+deleting 1822
+deleting 3820
+current advertiser: 1040
+total_pages: 2964
+low_rf_pages: 34542
+total patterns: 69298
+clean alloc failed
+allocated: 3013 required: 3793
+deleting 929
+deleting 2885
+current advertiser: 1041
+total_pages: 2962
+low_rf_pages: 34512
+total patterns: 69209
+clean alloc failed
+allocated: 3005 required: 3793
+current advertiser: 1042
+total_pages: 2962
+low_rf_pages: 34485
+total patterns: 69209
+clean alloc failed
+allocated: 3005 required: 3793
+deleting 445
+current advertiser: 1043
+total_pages: 2961
+low_rf_pages: 34462
+total patterns: 69199
+clean alloc failed
+allocated: 3004 required: 3792
+current advertiser: 1044
+total_pages: 2961
+low_rf_pages: 34422
+total patterns: 69199
+clean alloc failed
+allocated: 3004 required: 3792
+deleting 658
+current advertiser: 1045
+total_pages: 2960
+low_rf_pages: 34397
+total patterns: 69190
+clean alloc failed
+allocated: 2992 required: 3791
+current advertiser: 1046
+total_pages: 2960
+low_rf_pages: 34353
+total patterns: 69190
+clean alloc failed
+allocated: 2992 required: 3790
+deleting 1652
+current advertiser: 1047
+total_pages: 2959
+low_rf_pages: 34315
+total patterns: 69183
+clean alloc failed
+allocated: 2989 required: 3790
+deleting 2127
+deleting 1978
+current advertiser: 1048
+total_pages: 2957
+low_rf_pages: 34294
+total patterns: 69118
+clean alloc failed
+allocated: 2988 required: 3789
+current advertiser: 1049
+total_pages: 2957
+low_rf_pages: 34277
+total patterns: 69118
+clean alloc failed
+allocated: 2988 required: 3789
+deleting 3385
+current advertiser: 1050
+total_pages: 2956
+low_rf_pages: 34253
+total patterns: 69109
+clean alloc failed
+allocated: 2975 required: 3787
+current advertiser: 1051
+total_pages: 2956
+low_rf_pages: 34219
+total patterns: 69109
+clean alloc failed
+allocated: 2975 required: 3785
+deleting 2067
+current advertiser: 1052
+total_pages: 2955
+low_rf_pages: 34193
+total patterns: 69099
+clean alloc failed
+allocated: 2972 required: 3784
+current advertiser: 1053
+total_pages: 2955
+low_rf_pages: 34148
+total patterns: 69099
+clean alloc failed
+allocated: 2972 required: 3784
+deleting 1168
+current advertiser: 1054
+total_pages: 2954
+low_rf_pages: 34114
+total patterns: 69092
+clean alloc failed
+allocated: 2967 required: 3783
+deleting 2847
+deleting 4373
+current advertiser: 1055
+total_pages: 2952
+low_rf_pages: 34093
+total patterns: 68998
+clean alloc failed
+allocated: 2967 required: 3783
+current advertiser: 1056
+total_pages: 2952
+low_rf_pages: 34068
+total patterns: 68998
+clean alloc failed
+allocated: 2967 required: 3782
+deleting 2026
+current advertiser: 1057
+total_pages: 2951
+low_rf_pages: 34027
+total patterns: 68985
+clean alloc failed
+allocated: 2954 required: 3782
+current advertiser: 1058
+total_pages: 2951
+low_rf_pages: 33972
+total patterns: 68985
+clean alloc failed
+allocated: 2954 required: 3781
+deleting 719
+current advertiser: 1059
+total_pages: 2950
+low_rf_pages: 33942
+total patterns: 68972
+clean alloc failed
+allocated: 2952 required: 3781
+current advertiser: 1060
+total_pages: 2950
+low_rf_pages: 33901
+total patterns: 68972
+clean alloc failed
+allocated: 2952 required: 3779
+deleting 694
+current advertiser: 1061
+total_pages: 2949
+low_rf_pages: 33871
+total patterns: 68962
+clean alloc failed
+allocated: 2934 required: 3779
+current advertiser: 1062
+total_pages: 2949
+low_rf_pages: 33833
+total patterns: 68962
+clean alloc failed
+allocated: 2934 required: 3779
+deleting 465
+current advertiser: 1063
+total_pages: 2948
+low_rf_pages: 33792
+total patterns: 68956
+clean alloc failed
+allocated: 2921 required: 3778
+deleting 825
+current advertiser: 1064
+total_pages: 2947
+low_rf_pages: 33750
+total patterns: 68948
+clean alloc failed
+allocated: 2919 required: 3778
+deleting 729
+current advertiser: 1065
+total_pages: 2946
+low_rf_pages: 33715
+total patterns: 68943
+clean alloc failed
+allocated: 2904 required: 3777
+deleting 1050
+deleting 2366
+current advertiser: 1066
+total_pages: 2944
+low_rf_pages: 33676
+total patterns: 68849
+clean alloc failed
+allocated: 2889 required: 3777
+deleting 2029
+deleting 2373
+current advertiser: 1067
+total_pages: 2942
+low_rf_pages: 33651
+total patterns: 68789
+clean alloc failed
+allocated: 2870 required: 3776
+deleting 2155
+deleting 2397
+current advertiser: 1068
+total_pages: 2940
+low_rf_pages: 33613
+total patterns: 68688
+clean alloc failed
+allocated: 2862 required: 3776
+deleting 1931
+deleting 1011
+current advertiser: 1069
+total_pages: 2938
+low_rf_pages: 33583
+total patterns: 68641
+clean alloc failed
+allocated: 2851 required: 3776
+deleting 2168
+deleting 1504
+current advertiser: 1070
+total_pages: 2936
+low_rf_pages: 33549
+total patterns: 68554
+clean alloc failed
+allocated: 2850 required: 3776
+deleting 1672
+deleting 1541
+current advertiser: 1071
+total_pages: 2934
+low_rf_pages: 33523
+total patterns: 68459
+clean alloc failed
+allocated: 2835 required: 3776
+deleting 1977
+deleting 558
+current advertiser: 1072
+total_pages: 2932
+low_rf_pages: 33473
+total patterns: 68378
+clean alloc failed
+allocated: 2831 required: 3775
+deleting 5979
+deleting 3473
+current advertiser: 1073
+total_pages: 2930
+low_rf_pages: 33444
+total patterns: 68327
+clean alloc failed
+allocated: 2818 required: 3775
+deleting 1068
+deleting 1564
+current advertiser: 1074
+total_pages: 2928
+low_rf_pages: 33399
+total patterns: 68243
+clean alloc failed
+allocated: 2770 required: 3774
+current advertiser: 1075
+total_pages: 2928
+low_rf_pages: 33358
+total patterns: 68243
+clean alloc failed
+allocated: 2770 required: 3774
+deleting 869
+current advertiser: 1076
+total_pages: 2927
+low_rf_pages: 33325
+total patterns: 68235
+clean alloc failed
+allocated: 2762 required: 3774
+deleting 1601
+deleting 2228
+current advertiser: 1077
+total_pages: 2925
+low_rf_pages: 33297
+total patterns: 68169
+clean alloc failed
+allocated: 2745 required: 3774
+deleting 2803
+deleting 2041
+current advertiser: 1078
+total_pages: 2923
+low_rf_pages: 33252
+total patterns: 68072
+clean alloc failed
+allocated: 2745 required: 3773
+current advertiser: 1079
+total_pages: 2923
+low_rf_pages: 33219
+total patterns: 68072
+clean alloc failed
+allocated: 2745 required: 3772
+deleting 3405
+current advertiser: 1080
+total_pages: 2922
+low_rf_pages: 33159
+total patterns: 68064
+clean alloc failed
+allocated: 2739 required: 3772
+deleting 328
+deleting 6646
+current advertiser: 1081
+total_pages: 2920
+low_rf_pages: 33123
+total patterns: 67969
+clean alloc failed
+allocated: 2722 required: 3770
+deleting 2133
+current advertiser: 1082
+total_pages: 2919
+low_rf_pages: 33103
+total patterns: 67956
+clean alloc failed
+allocated: 2720 required: 3769
+current advertiser: 1083
+total_pages: 2919
+low_rf_pages: 33060
+total patterns: 67956
+clean alloc failed
+allocated: 2720 required: 3768
+deleting 832
+current advertiser: 1084
+total_pages: 2918
+low_rf_pages: 33043
+total patterns: 67941
+clean alloc failed
+allocated: 2710 required: 3767
+deleting 657
+deleting 6835
+current advertiser: 1085
+total_pages: 2916
+low_rf_pages: 32998
+total patterns: 67863
+clean alloc failed
+allocated: 2709 required: 3766
+deleting 6132
+deleting 884
+current advertiser: 1086
+total_pages: 2914
+low_rf_pages: 32959
+total patterns: 67780
+clean alloc failed
+allocated: 2709 required: 3766
+current advertiser: 1087
+total_pages: 2914
+low_rf_pages: 32934
+total patterns: 67780
+clean alloc failed
+allocated: 2709 required: 3765
+deleting 337
+current advertiser: 1088
+total_pages: 2913
+low_rf_pages: 32877
+total patterns: 67766
+clean alloc failed
+allocated: 2699 required: 3765
+current advertiser: 1089
+total_pages: 2913
+low_rf_pages: 32820
+total patterns: 67766
+clean alloc failed
+allocated: 2699 required: 3764
+deleting 1716
+current advertiser: 1090
+total_pages: 2912
+low_rf_pages: 32779
+total patterns: 67758
+clean alloc failed
+allocated: 2699 required: 3763
+current advertiser: 1091
+total_pages: 2912
+low_rf_pages: 32743
+total patterns: 67758
+clean alloc failed
+allocated: 2699 required: 3763
+deleting 1166
+current advertiser: 1092
+total_pages: 2911
+low_rf_pages: 32686
+total patterns: 67749
+clean alloc failed
+allocated: 2697 required: 3763
+current advertiser: 1093
+total_pages: 2911
+low_rf_pages: 32642
+total patterns: 67749
+clean alloc failed
+allocated: 2697 required: 3762
+deleting 507
+current advertiser: 1094
+total_pages: 2910
+low_rf_pages: 32616
+total patterns: 67737
+clean alloc failed
+allocated: 2695 required: 3761
+deleting 1069
+deleting 673
+current advertiser: 1095
+total_pages: 2908
+low_rf_pages: 32582
+total patterns: 67637
+clean alloc failed
+allocated: 2687 required: 3761
+deleting 661
+deleting 2148
+current advertiser: 1096
+total_pages: 2906
+low_rf_pages: 32542
+total patterns: 67558
+clean alloc failed
+allocated: 2686 required: 3761
+deleting 2086
+current advertiser: 1097
+total_pages: 2905
+low_rf_pages: 32518
+total patterns: 67549
+clean alloc failed
+allocated: 2682 required: 3758
+deleting 270
+current advertiser: 1098
+total_pages: 2904
+low_rf_pages: 32474
+total patterns: 67541
+clean alloc failed
+allocated: 2681 required: 3758
+deleting 3331
+deleting 2377
+current advertiser: 1099
+total_pages: 2902
+low_rf_pages: 32445
+total patterns: 67486
+clean alloc failed
+allocated: 2680 required: 3758
+current advertiser: 1100
+total_pages: 2902
+low_rf_pages: 32398
+total patterns: 67486
+clean alloc failed
+allocated: 2680 required: 3758
+deleting 2243
+current advertiser: 1101
+total_pages: 2901
+low_rf_pages: 32350
+total patterns: 67469
+clean alloc failed
+allocated: 2678 required: 3756
+deleting 1451
+deleting 3668
+current advertiser: 1102
+total_pages: 2899
+low_rf_pages: 32296
+total patterns: 67423
+clean alloc failed
+allocated: 2677 required: 3755
+deleting 8941
+deleting 1531
+current advertiser: 1103
+total_pages: 2897
+low_rf_pages: 32249
+total patterns: 67371
+clean alloc failed
+allocated: 2675 required: 3755
+deleting 938
+current advertiser: 1104
+total_pages: 2896
+low_rf_pages: 32200
+total patterns: 67353
+clean alloc failed
+allocated: 2671 required: 3755
+current advertiser: 1105
+total_pages: 2896
+low_rf_pages: 32163
+total patterns: 67353
+clean alloc failed
+allocated: 2671 required: 3754
+deleting 1121
+current advertiser: 1106
+total_pages: 2895
+low_rf_pages: 32136
+total patterns: 67332
+clean alloc failed
+allocated: 2669 required: 3754
+deleting 1535
+current advertiser: 1107
+total_pages: 2894
+low_rf_pages: 32085
+total patterns: 67319
+clean alloc failed
+allocated: 2666 required: 3753
+deleting 112
+current advertiser: 1108
+total_pages: 2893
+low_rf_pages: 32039
+total patterns: 67305
+clean alloc failed
+allocated: 2665 required: 3753
+current advertiser: 1109
+total_pages: 2893
+low_rf_pages: 32006
+total patterns: 67305
+clean alloc failed
+allocated: 2665 required: 3751
+deleting 585
+current advertiser: 1110
+total_pages: 2892
+low_rf_pages: 31918
+total patterns: 67294
+clean alloc failed
+allocated: 2659 required: 3751
+current advertiser: 1111
+total_pages: 2892
+low_rf_pages: 31865
+total patterns: 67294
+clean alloc failed
+allocated: 2659 required: 3750
+deleting 3145
+current advertiser: 1112
+total_pages: 2891
+low_rf_pages: 31796
+total patterns: 67285
+clean alloc failed
+allocated: 2656 required: 3749
+current advertiser: 1113
+total_pages: 2891
+low_rf_pages: 31747
+total patterns: 67285
+clean alloc failed
+allocated: 2656 required: 3749
+deleting 78
+current advertiser: 1114
+total_pages: 2890
+low_rf_pages: 31684
+total patterns: 67272
+clean alloc failed
+allocated: 2649 required: 3749
+deleting 1049
+deleting 3560
+current advertiser: 1115
+total_pages: 2888
+low_rf_pages: 31643
+total patterns: 67189
+clean alloc failed
+allocated: 2645 required: 3748
+current advertiser: 1116
+total_pages: 2888
+low_rf_pages: 31601
+total patterns: 67189
+clean alloc failed
+allocated: 2645 required: 3748
+deleting 327
+current advertiser: 1117
+total_pages: 2887
+low_rf_pages: 31554
+total patterns: 67175
+clean alloc failed
+allocated: 2642 required: 3748
+current advertiser: 1118
+total_pages: 2887
+low_rf_pages: 31522
+total patterns: 67175
+clean alloc failed
+allocated: 2642 required: 3746
+deleting 523
+current advertiser: 1119
+total_pages: 2886
+low_rf_pages: 31474
+total patterns: 67164
+clean alloc failed
+allocated: 2641 required: 3745
+current advertiser: 1120
+total_pages: 2886
+low_rf_pages: 31440
+total patterns: 67164
+clean alloc failed
+allocated: 2641 required: 3744
+deleting 1628
+current advertiser: 1121
+total_pages: 2885
+low_rf_pages: 31395
+total patterns: 67154
+clean alloc failed
+allocated: 2635 required: 3744
+current advertiser: 1122
+total_pages: 2885
+low_rf_pages: 31355
+total patterns: 67154
+clean alloc failed
+allocated: 2635 required: 3744
+deleting 2357
+current advertiser: 1123
+total_pages: 2884
+low_rf_pages: 31311
+total patterns: 67143
+clean alloc failed
+allocated: 2634 required: 3742
+current advertiser: 1124
+total_pages: 2884
+low_rf_pages: 31280
+total patterns: 67143
+clean alloc failed
+allocated: 2634 required: 3742
+deleting 1775
+current advertiser: 1125
+total_pages: 2883
+low_rf_pages: 31236
+total patterns: 67130
+clean alloc failed
+allocated: 2622 required: 3742
+deleting 764
+current advertiser: 1126
+total_pages: 2882
+low_rf_pages: 31189
+total patterns: 67118
+clean alloc failed
+allocated: 2619 required: 3741
+current advertiser: 1127
+total_pages: 2882
+low_rf_pages: 31122
+total patterns: 67118
+clean alloc failed
+allocated: 2619 required: 3741
+deleting 766
+current advertiser: 1128
+total_pages: 2881
+low_rf_pages: 31074
+total patterns: 67106
+clean alloc failed
+allocated: 2610 required: 3740
+current advertiser: 1129
+total_pages: 2881
+low_rf_pages: 31031
+total patterns: 67106
+clean alloc failed
+allocated: 2610 required: 3740
+deleting 2059
+current advertiser: 1130
+total_pages: 2880
+low_rf_pages: 30957
+total patterns: 67090
+clean alloc failed
+allocated: 2609 required: 3739
+deleting 263
+deleting 6160
+current advertiser: 1131
+total_pages: 2878
+low_rf_pages: 30930
+total patterns: 67003
+clean alloc failed
+allocated: 2604 required: 3739
+current advertiser: 1132
+total_pages: 2878
+low_rf_pages: 30895
+total patterns: 67003
+clean alloc failed
+allocated: 2604 required: 3739
+deleting 863
+current advertiser: 1133
+total_pages: 2877
+low_rf_pages: 30854
+total patterns: 66988
+clean alloc failed
+allocated: 2602 required: 3738
+current advertiser: 1134
+total_pages: 2877
+low_rf_pages: 30807
+total patterns: 66988
+clean alloc failed
+allocated: 2602 required: 3737
+deleting 527
+current advertiser: 1135
+total_pages: 2876
+low_rf_pages: 30748
+total patterns: 66972
+clean alloc failed
+allocated: 2599 required: 3737
+current advertiser: 1136
+total_pages: 2876
+low_rf_pages: 30688
+total patterns: 66972
+clean alloc failed
+allocated: 2599 required: 3736
+deleting 2332
+current advertiser: 1137
+total_pages: 2875
+low_rf_pages: 30646
+total patterns: 66961
+clean alloc failed
+allocated: 2599 required: 3735
+current advertiser: 1138
+total_pages: 2875
+low_rf_pages: 30608
+total patterns: 66961
+clean alloc failed
+allocated: 2599 required: 3734
+deleting 1864
+current advertiser: 1139
+total_pages: 2874
+low_rf_pages: 30546
+total patterns: 66947
+clean alloc failed
+allocated: 2598 required: 3733
+deleting 890
+deleting 1388
+current advertiser: 1140
+total_pages: 2872
+low_rf_pages: 30485
+total patterns: 66850
+clean alloc failed
+allocated: 2598 required: 3732
+current advertiser: 1141
+total_pages: 2872
+low_rf_pages: 30458
+total patterns: 66850
+clean alloc failed
+allocated: 2598 required: 3732
+deleting 3351
+current advertiser: 1142
+total_pages: 2871
+low_rf_pages: 30420
+total patterns: 66833
+clean alloc failed
+allocated: 2596 required: 3732
+current advertiser: 1143
+total_pages: 2871
+low_rf_pages: 30365
+total patterns: 66833
+clean alloc failed
+allocated: 2596 required: 3731
+deleting 1980
+current advertiser: 1144
+total_pages: 2870
+low_rf_pages: 30331
+total patterns: 66817
+clean alloc failed
+allocated: 2591 required: 3731
+current advertiser: 1145
+total_pages: 2870
+low_rf_pages: 30297
+total patterns: 66817
+clean alloc failed
+allocated: 2591 required: 3730
+deleting 498
+current advertiser: 1146
+total_pages: 2869
+low_rf_pages: 30226
+total patterns: 66799
+clean alloc failed
+allocated: 2590 required: 3729
+current advertiser: 1147
+total_pages: 2869
+low_rf_pages: 30199
+total patterns: 66799
+clean alloc failed
+allocated: 2590 required: 3729
+deleting 530
+current advertiser: 1148
+total_pages: 2868
+low_rf_pages: 30163
+total patterns: 66784
+clean alloc failed
+allocated: 2577 required: 3728
+current advertiser: 1149
+total_pages: 2868
+low_rf_pages: 30090
+total patterns: 66784
+clean alloc failed
+allocated: 2577 required: 3727
+deleting 44
+current advertiser: 1150
+total_pages: 2867
+low_rf_pages: 30047
+total patterns: 66769
+clean alloc failed
+allocated: 2576 required: 3727
+deleting 2251
+current advertiser: 1151
+total_pages: 2866
+low_rf_pages: 29999
+total patterns: 66758
+clean alloc failed
+allocated: 2569 required: 3726
+deleting 38
+deleting 576
+current advertiser: 1152
+total_pages: 2864
+low_rf_pages: 29954
+total patterns: 66707
+clean alloc failed
+allocated: 2558 required: 3726
+current advertiser: 1153
+total_pages: 2864
+low_rf_pages: 29901
+total patterns: 66707
+clean alloc failed
+allocated: 2558 required: 3725
+deleting 4238
+current advertiser: 1154
+total_pages: 2863
+low_rf_pages: 29844
+total patterns: 66697
+clean alloc failed
+allocated: 2556 required: 3724
+deleting 3085
+deleting 591
+current advertiser: 1155
+total_pages: 2861
+low_rf_pages: 29797
+total patterns: 66600
+clean alloc failed
+allocated: 2548 required: 3724
+deleting 3458
+deleting 3899
+current advertiser: 1156
+total_pages: 2859
+low_rf_pages: 29763
+total patterns: 66509
+clean alloc failed
+allocated: 2546 required: 3723
+deleting 4066
+deleting 942
+current advertiser: 1157
+total_pages: 2857
+low_rf_pages: 29717
+total patterns: 66414
+clean alloc failed
+allocated: 2546 required: 3722
+current advertiser: 1158
+total_pages: 2857
+low_rf_pages: 29655
+total patterns: 66414
+clean alloc failed
+allocated: 2546 required: 3720
+deleting 2143
+current advertiser: 1159
+total_pages: 2856
+low_rf_pages: 29611
+total patterns: 66402
+clean alloc failed
+allocated: 2543 required: 3720
+deleting 3508
+deleting 1921
+current advertiser: 1160
+total_pages: 2854
+low_rf_pages: 29562
+total patterns: 66344
+clean alloc failed
+allocated: 2540 required: 3720
+current advertiser: 1161
+total_pages: 2854
+low_rf_pages: 29519
+total patterns: 66344
+clean alloc failed
+allocated: 2540 required: 3719
+deleting 666
+current advertiser: 1162
+total_pages: 2853
+low_rf_pages: 29479
+total patterns: 66328
+clean alloc failed
+allocated: 2527 required: 3719
+current advertiser: 1163
+total_pages: 2853
+low_rf_pages: 29424
+total patterns: 66328
+clean alloc failed
+allocated: 2527 required: 3718
+deleting 871
+current advertiser: 1164
+total_pages: 2852
+low_rf_pages: 29385
+total patterns: 66310
+clean alloc failed
+allocated: 2526 required: 3717
+deleting 1906
+current advertiser: 1165
+total_pages: 2851
+low_rf_pages: 29340
+total patterns: 66298
+clean alloc failed
+allocated: 2526 required: 3717
+deleting 513
+current advertiser: 1166
+total_pages: 2850
+low_rf_pages: 29296
+total patterns: 66287
+clean alloc failed
+allocated: 2524 required: 3717
+deleting 1048
+deleting 2196
+current advertiser: 1167
+total_pages: 2848
+low_rf_pages: 29248
+total patterns: 66188
+clean alloc failed
+allocated: 2512 required: 3717
+deleting 706
+current advertiser: 1168
+total_pages: 2847
+low_rf_pages: 29183
+total patterns: 66173
+clean alloc failed
+allocated: 2508 required: 3715
+deleting 1807
+current advertiser: 1169
+total_pages: 2846
+low_rf_pages: 29137
+total patterns: 66157
+clean alloc failed
+allocated: 2507 required: 3714
+deleting 1955
+deleting 1643
+current advertiser: 1170
+total_pages: 2844
+low_rf_pages: 29099
+total patterns: 66064
+clean alloc failed
+allocated: 2507 required: 3714
+deleting 759
+current advertiser: 1171
+total_pages: 2843
+low_rf_pages: 29046
+total patterns: 66051
+clean alloc failed
+allocated: 2503 required: 3714
+deleting 3456
+current advertiser: 1172
+total_pages: 2842
+low_rf_pages: 28996
+total patterns: 66039
+clean alloc failed
+allocated: 2500 required: 3713
+deleting 1608
+deleting 1772
+current advertiser: 1173
+total_pages: 2840
+low_rf_pages: 28958
+total patterns: 65944
+clean alloc failed
+allocated: 2496 required: 3713
+deleting 1146
+current advertiser: 1174
+total_pages: 2839
+low_rf_pages: 28922
+total patterns: 65929
+clean alloc failed
+allocated: 2494 required: 3712
+deleting 376
+current advertiser: 1175
+total_pages: 2838
+low_rf_pages: 28865
+total patterns: 65913
+clean alloc failed
+allocated: 2492 required: 3711
+deleting 1801
+current advertiser: 1176
+total_pages: 2837
+low_rf_pages: 28821
+total patterns: 65904
+clean alloc failed
+allocated: 2482 required: 3711
+deleting 2226
+current advertiser: 1177
+total_pages: 2836
+low_rf_pages: 28763
+total patterns: 65892
+clean alloc failed
+allocated: 2480 required: 3710
+deleting 2310
+current advertiser: 1178
+total_pages: 2835
+low_rf_pages: 28718
+total patterns: 65875
+clean alloc failed
+allocated: 2478 required: 3710
+deleting 1305
+current advertiser: 1179
+total_pages: 2834
+low_rf_pages: 28680
+total patterns: 65864
+clean alloc failed
+allocated: 2474 required: 3708
+deleting 889
+current advertiser: 1180
+total_pages: 2833
+low_rf_pages: 28660
+total patterns: 65847
+clean alloc failed
+allocated: 2473 required: 3707
+deleting 510
+current advertiser: 1181
+total_pages: 2832
+low_rf_pages: 28609
+total patterns: 65831
+clean alloc failed
+allocated: 2472 required: 3707
+deleting 1436
+current advertiser: 1182
+total_pages: 2831
+low_rf_pages: 28562
+total patterns: 65819
+clean alloc failed
+allocated: 2471 required: 3707
+deleting 3297
+deleting 2313
+current advertiser: 1183
+total_pages: 2829
+low_rf_pages: 28525
+total patterns: 65730
+clean alloc failed
+allocated: 2468 required: 3706
+deleting 1437
+current advertiser: 1184
+total_pages: 2828
+low_rf_pages: 28467
+total patterns: 65715
+clean alloc failed
+allocated: 2463 required: 3705
+deleting 3583
+deleting 1834
+current advertiser: 1185
+total_pages: 2826
+low_rf_pages: 28435
+total patterns: 65622
+clean alloc failed
+allocated: 2463 required: 3704
+deleting 4074
+deleting 3449
+current advertiser: 1186
+total_pages: 2824
+low_rf_pages: 28385
+total patterns: 65515
+clean alloc failed
+allocated: 2463 required: 3704
+deleting 1686
+current advertiser: 1187
+total_pages: 2823
+low_rf_pages: 28327
+total patterns: 65497
+clean alloc failed
+allocated: 2455 required: 3704
+deleting 1709
+current advertiser: 1188
+total_pages: 2822
+low_rf_pages: 28273
+total patterns: 65480
+clean alloc failed
+allocated: 2454 required: 3704
+deleting 2232
+deleting 720
+current advertiser: 1189
+total_pages: 2820
+low_rf_pages: 28223
+total patterns: 65397
+clean alloc failed
+allocated: 2454 required: 3703
+deleting 461
+current advertiser: 1190
+total_pages: 2819
+low_rf_pages: 28186
+total patterns: 65382
+clean alloc failed
+allocated: 2449 required: 3703
+deleting 675
+current advertiser: 1191
+total_pages: 2818
+low_rf_pages: 28147
+total patterns: 65360
+clean alloc failed
+allocated: 2439 required: 3702
+deleting 5899
+deleting 5058
+current advertiser: 1192
+total_pages: 2816
+low_rf_pages: 28101
+total patterns: 65262
+clean alloc failed
+allocated: 2436 required: 3701
+deleting 2342
+current advertiser: 1193
+total_pages: 2815
+low_rf_pages: 28054
+total patterns: 65245
+clean alloc failed
+allocated: 2435 required: 3700
+deleting 2443
+deleting 756
+current advertiser: 1194
+total_pages: 2813
+low_rf_pages: 28016
+total patterns: 65172
+clean alloc failed
+allocated: 2431 required: 3699
+deleting 1113
+deleting 981
+current advertiser: 1195
+total_pages: 2811
+low_rf_pages: 27990
+total patterns: 65105
+clean alloc failed
+allocated: 2429 required: 3699
+deleting 539
+current advertiser: 1196
+total_pages: 2810
+low_rf_pages: 27936
+total patterns: 65085
+clean alloc failed
+allocated: 2425 required: 3698
+deleting 1593
+deleting 1282
+current advertiser: 1197
+total_pages: 2808
+low_rf_pages: 27891
+total patterns: 65017
+clean alloc failed
+allocated: 2421 required: 3698
+deleting 7573
+deleting 3407
+current advertiser: 1198
+total_pages: 2806
+low_rf_pages: 27833
+total patterns: 64922
+clean alloc failed
+allocated: 2419 required: 3697
+deleting 228
+current advertiser: 1199
+total_pages: 2805
+low_rf_pages: 27793
+total patterns: 64905
+clean alloc failed
+allocated: 2413 required: 3696
+deleting 1818
+current advertiser: 1200
+total_pages: 2804
+low_rf_pages: 27740
+total patterns: 64886
+clean alloc failed
+allocated: 2413 required: 3696
+deleting 1680
+current advertiser: 1201
+total_pages: 2803
+low_rf_pages: 27692
+total patterns: 64866
+clean alloc failed
+allocated: 2413 required: 3696
+deleting 58
+current advertiser: 1202
+total_pages: 2802
+low_rf_pages: 27639
+total patterns: 64853
+clean alloc failed
+allocated: 2412 required: 3694
+deleting 1385
+deleting 1592
+current advertiser: 1203
+total_pages: 2800
+low_rf_pages: 27593
+total patterns: 64747
+clean alloc failed
+allocated: 2410 required: 3694
+deleting 2942
+deleting 5572
+current advertiser: 1204
+total_pages: 2798
+low_rf_pages: 27549
+total patterns: 64633
+clean alloc failed
+allocated: 2410 required: 3694
+deleting 2085
+current advertiser: 1205
+total_pages: 2797
+low_rf_pages: 27487
+total patterns: 64614
+clean alloc failed
+allocated: 2407 required: 3693
+deleting 1868
+current advertiser: 1206
+total_pages: 2796
+low_rf_pages: 27428
+total patterns: 64594
+clean alloc failed
+allocated: 2406 required: 3692
+deleting 104
+current advertiser: 1207
+total_pages: 2795
+low_rf_pages: 27372
+total patterns: 64576
+clean alloc failed
+allocated: 2405 required: 3691
+deleting 242
+current advertiser: 1208
+total_pages: 2794
+low_rf_pages: 27308
+total patterns: 64562
+clean alloc failed
+allocated: 2404 required: 3691
+deleting 1742
+deleting 581
+current advertiser: 1209
+total_pages: 2792
+low_rf_pages: 27248
+total patterns: 64458
+clean alloc failed
+allocated: 2404 required: 3691
+deleting 353
+current advertiser: 1210
+total_pages: 2791
+low_rf_pages: 27203
+total patterns: 64444
+clean alloc failed
+allocated: 2397 required: 3690
+deleting 3390
+current advertiser: 1211
+total_pages: 2790
+low_rf_pages: 27175
+total patterns: 64428
+clean alloc failed
+allocated: 2392 required: 3690
+deleting 2163
+current advertiser: 1212
+total_pages: 2789
+low_rf_pages: 27122
+total patterns: 64412
+clean alloc failed
+allocated: 2389 required: 3689
+deleting 3553
+current advertiser: 1213
+total_pages: 2788
+low_rf_pages: 27069
+total patterns: 64394
+clean alloc failed
+allocated: 2382 required: 3689
+deleting 347
+current advertiser: 1214
+total_pages: 2787
+low_rf_pages: 27002
+total patterns: 64378
+clean alloc failed
+allocated: 2381 required: 3688
+deleting 960
+deleting 5579
+current advertiser: 1215
+total_pages: 2785
+low_rf_pages: 26923
+total patterns: 64280
+clean alloc failed
+allocated: 2379 required: 3688
+deleting 2093
+current advertiser: 1216
+total_pages: 2784
+low_rf_pages: 26884
+total patterns: 64257
+clean alloc failed
+allocated: 2374 required: 3688
+deleting 3230
+current advertiser: 1217
+total_pages: 2783
+low_rf_pages: 26813
+total patterns: 64242
+clean alloc failed
+allocated: 2373 required: 3687
+deleting 421
+current advertiser: 1218
+total_pages: 2782
+low_rf_pages: 26769
+total patterns: 64224
+clean alloc failed
+allocated: 2371 required: 3686
+deleting 3378
+deleting 2849
+current advertiser: 1219
+total_pages: 2780
+low_rf_pages: 26726
+total patterns: 64139
+clean alloc failed
+allocated: 2371 required: 3686
+deleting 3187
+current advertiser: 1220
+total_pages: 2779
+low_rf_pages: 26683
+total patterns: 64121
+clean alloc failed
+allocated: 2368 required: 3686
+deleting 6090
+deleting 2273
+current advertiser: 1221
+total_pages: 2777
+low_rf_pages: 26604
+total patterns: 64056
+clean alloc failed
+allocated: 2365 required: 3686
+deleting 824
+current advertiser: 1222
+total_pages: 2776
+low_rf_pages: 26546
+total patterns: 64037
+clean alloc failed
+allocated: 2360 required: 3685
+deleting 4660
+deleting 3208
+current advertiser: 1223
+total_pages: 2774
+low_rf_pages: 26485
+total patterns: 63981
+clean alloc failed
+allocated: 2358 required: 3685
+deleting 1007
+deleting 2364
+current advertiser: 1224
+total_pages: 2772
+low_rf_pages: 26433
+total patterns: 63876
+clean alloc failed
+allocated: 2357 required: 3685
+deleting 674
+deleting 3206
+current advertiser: 1225
+total_pages: 2770
+low_rf_pages: 26381
+total patterns: 63804
+clean alloc failed
+allocated: 2353 required: 3685
+deleting 3391
+deleting 2229
+current advertiser: 1226
+total_pages: 2768
+low_rf_pages: 26312
+total patterns: 63712
+clean alloc failed
+allocated: 2352 required: 3685
+deleting 1090
+deleting 5192
+current advertiser: 1227
+total_pages: 2766
+low_rf_pages: 26266
+total patterns: 63632
+clean alloc failed
+allocated: 2347 required: 3684
+deleting 3348
+current advertiser: 1228
+total_pages: 2765
+low_rf_pages: 26206
+total patterns: 63614
+clean alloc failed
+allocated: 2346 required: 3684
+deleting 1174
+current advertiser: 1229
+total_pages: 2764
+low_rf_pages: 26156
+total patterns: 63598
+clean alloc failed
+allocated: 2344 required: 3681
+deleting 1456
+current advertiser: 1230
+total_pages: 2763
+low_rf_pages: 26110
+total patterns: 63578
+clean alloc failed
+allocated: 2341 required: 3681
+deleting 2864
+deleting 841
+current advertiser: 1231
+total_pages: 2761
+low_rf_pages: 26071
+total patterns: 63502
+clean alloc failed
+allocated: 2341 required: 3679
+deleting 1688
+current advertiser: 1232
+total_pages: 2760
+low_rf_pages: 26018
+total patterns: 63479
+clean alloc failed
+allocated: 2339 required: 3678
+deleting 1351
+current advertiser: 1233
+total_pages: 2759
+low_rf_pages: 25973
+total patterns: 63466
+clean alloc failed
+allocated: 2339 required: 3676
+deleting 997
+current advertiser: 1234
+total_pages: 2758
+low_rf_pages: 25916
+total patterns: 63451
+clean alloc failed
+allocated: 2336 required: 3676
+deleting 2863
+deleting 1417
+current advertiser: 1235
+total_pages: 2756
+low_rf_pages: 25864
+total patterns: 63359
+clean alloc failed
+allocated: 2335 required: 3675
+deleting 1817
+current advertiser: 1236
+total_pages: 2755
+low_rf_pages: 25808
+total patterns: 63337
+clean alloc failed
+allocated: 2331 required: 3675
+deleting 1865
+current advertiser: 1237
+total_pages: 2754
+low_rf_pages: 25751
+total patterns: 63315
+clean alloc failed
+allocated: 2330 required: 3673
+deleting 24
+current advertiser: 1238
+total_pages: 2753
+low_rf_pages: 25683
+total patterns: 63291
+clean alloc failed
+allocated: 2329 required: 3672
+deleting 2800
+deleting 305
+current advertiser: 1239
+total_pages: 2751
+low_rf_pages: 25639
+total patterns: 63175
+clean alloc failed
+allocated: 2328 required: 3672
+deleting 4990
+current advertiser: 1240
+total_pages: 2750
+low_rf_pages: 25588
+total patterns: 63153
+clean alloc failed
+allocated: 2326 required: 3672
+deleting 1812
+current advertiser: 1241
+total_pages: 2749
+low_rf_pages: 25548
+total patterns: 63138
+clean alloc failed
+allocated: 2323 required: 3672
+deleting 864
+deleting 2390
+current advertiser: 1242
+total_pages: 2747
+low_rf_pages: 25493
+total patterns: 63017
+clean alloc failed
+allocated: 2322 required: 3671
+deleting 2190
+current advertiser: 1243
+total_pages: 2746
+low_rf_pages: 25445
+total patterns: 63003
+clean alloc failed
+allocated: 2320 required: 3668
+deleting 1154
+deleting 830
+current advertiser: 1244
+total_pages: 2744
+low_rf_pages: 25391
+total patterns: 62908
+clean alloc failed
+allocated: 2319 required: 3668
+deleting 3258
+deleting 7523
+current advertiser: 1245
+total_pages: 2742
+low_rf_pages: 25367
+total patterns: 62817
+clean alloc failed
+allocated: 2313 required: 3668
+deleting 3835
+current advertiser: 1246
+total_pages: 2741
+low_rf_pages: 25322
+total patterns: 62796
+clean alloc failed
+allocated: 2310 required: 3666
+deleting 1609
+deleting 4793
+current advertiser: 1247
+total_pages: 2739
+low_rf_pages: 25259
+total patterns: 62681
+clean alloc failed
+allocated: 2309 required: 3666
+deleting 1145
+current advertiser: 1248
+total_pages: 2738
+low_rf_pages: 25202
+total patterns: 62659
+clean alloc failed
+allocated: 2305 required: 3666
+deleting 1395
+deleting 859
+current advertiser: 1249
+total_pages: 2736
+low_rf_pages: 25140
+total patterns: 62546
+clean alloc failed
+allocated: 2305 required: 3666
+deleting 1806
+current advertiser: 1250
+total_pages: 2735
+low_rf_pages: 25084
+total patterns: 62523
+clean alloc failed
+allocated: 2292 required: 3665
+deleting 1941
+current advertiser: 1251
+total_pages: 2734
+low_rf_pages: 25029
+total patterns: 62510
+clean alloc failed
+allocated: 2291 required: 3664
+deleting 781
+current advertiser: 1252
+total_pages: 2733
+low_rf_pages: 24980
+total patterns: 62493
+clean alloc failed
+allocated: 2290 required: 3664
+deleting 857
+current advertiser: 1253
+total_pages: 2732
+low_rf_pages: 24927
+total patterns: 62471
+clean alloc failed
+allocated: 2287 required: 3663
+deleting 2442
+deleting 6189
+current advertiser: 1254
+total_pages: 2730
+low_rf_pages: 24900
+total patterns: 62357
+clean alloc failed
+allocated: 2285 required: 3662
+deleting 3808
+deleting 4662
+current advertiser: 1255
+total_pages: 2728
+low_rf_pages: 24841
+total patterns: 62225
+clean alloc failed
+allocated: 2284 required: 3662
+deleting 5205
+deleting 1871
+current advertiser: 1256
+total_pages: 2726
+low_rf_pages: 24785
+total patterns: 62108
+clean alloc failed
+allocated: 2282 required: 3662
+deleting 3123
+current advertiser: 1257
+total_pages: 2725
+low_rf_pages: 24734
+total patterns: 62087
+clean alloc failed
+allocated: 2279 required: 3660
+deleting 556
+deleting 2812
+current advertiser: 1258
+total_pages: 2723
+low_rf_pages: 24679
+total patterns: 62015
+clean alloc failed
+allocated: 2279 required: 3659
+deleting 1477
+deleting 36
+current advertiser: 1259
+total_pages: 2721
+low_rf_pages: 24618
+total patterns: 61934
+clean alloc failed
+allocated: 2277 required: 3659
+deleting 1525
+deleting 2400
+current advertiser: 1260
+total_pages: 2719
+low_rf_pages: 24556
+total patterns: 61811
+clean alloc failed
+allocated: 2272 required: 3658
+deleting 2136
+current advertiser: 1261
+total_pages: 2718
+low_rf_pages: 24495
+total patterns: 61795
+clean alloc failed
+allocated: 2268 required: 3658
+deleting 3155
+current advertiser: 1262
+total_pages: 2717
+low_rf_pages: 24438
+total patterns: 61776
+clean alloc failed
+allocated: 2267 required: 3658
+deleting 355
+current advertiser: 1263
+total_pages: 2716
+low_rf_pages: 24396
+total patterns: 61758
+clean alloc failed
+allocated: 2266 required: 3656
+deleting 3152
+deleting 1718
+current advertiser: 1264
+total_pages: 2714
+low_rf_pages: 24301
+total patterns: 61684
+clean alloc failed
+allocated: 2266 required: 3655
+deleting 1000
+current advertiser: 1265
+total_pages: 2713
+low_rf_pages: 24256
+total patterns: 61659
+clean alloc failed
+allocated: 2264 required: 3654
+deleting 826
+current advertiser: 1266
+total_pages: 2712
+low_rf_pages: 24193
+total patterns: 61644
+clean alloc failed
+allocated: 2260 required: 3654
+deleting 2850
+deleting 3345
+current advertiser: 1267
+total_pages: 2710
+low_rf_pages: 24145
+total patterns: 61523
+clean alloc failed
+allocated: 2259 required: 3654
+deleting 1685
+current advertiser: 1268
+total_pages: 2709
+low_rf_pages: 24087
+total patterns: 61506
+clean alloc failed
+allocated: 2255 required: 3653
+deleting 1134
+current advertiser: 1269
+total_pages: 2708
+low_rf_pages: 24023
+total patterns: 61489
+clean alloc failed
+allocated: 2251 required: 3653
+deleting 1610
+current advertiser: 1270
+total_pages: 2707
+low_rf_pages: 23935
+total patterns: 61468
+clean alloc failed
+allocated: 2250 required: 3652
+deleting 160
+current advertiser: 1271
+total_pages: 2706
+low_rf_pages: 23887
+total patterns: 61446
+clean alloc failed
+allocated: 2249 required: 3652
+deleting 1352
+deleting 2185
+current advertiser: 1272
+total_pages: 2704
+low_rf_pages: 23820
+total patterns: 61367
+clean alloc failed
+allocated: 2247 required: 3651
+deleting 3972
+deleting 1959
+current advertiser: 1273
+total_pages: 2702
+low_rf_pages: 23773
+total patterns: 61251
+clean alloc failed
+allocated: 2246 required: 3650
+deleting 4321
+deleting 264
+current advertiser: 1274
+total_pages: 2700
+low_rf_pages: 23708
+total patterns: 61185
+clean alloc failed
+allocated: 2246 required: 3649
+deleting 1135
+current advertiser: 1275
+total_pages: 2699
+low_rf_pages: 23666
+total patterns: 61168
+clean alloc failed
+allocated: 2240 required: 3649
+deleting 1671
+deleting 4395
+current advertiser: 1276
+total_pages: 2697
+low_rf_pages: 23589
+total patterns: 61088
+clean alloc failed
+allocated: 2239 required: 3648
+deleting 1645
+deleting 4415
+current advertiser: 1277
+total_pages: 2695
+low_rf_pages: 23527
+total patterns: 61003
+clean alloc failed
+allocated: 2239 required: 3647
+deleting 3680
+current advertiser: 1278
+total_pages: 2694
+low_rf_pages: 23457
+total patterns: 60981
+clean alloc failed
+allocated: 2238 required: 3646
+deleting 3283
+deleting 299
+current advertiser: 1279
+total_pages: 2692
+low_rf_pages: 23404
+total patterns: 60870
+clean alloc failed
+allocated: 2236 required: 3646
+deleting 1805
+current advertiser: 1280
+total_pages: 2691
+low_rf_pages: 23342
+total patterns: 60850
+clean alloc failed
+allocated: 2233 required: 3645
+deleting 1544
+current advertiser: 1281
+total_pages: 2690
+low_rf_pages: 23291
+total patterns: 60827
+clean alloc failed
+allocated: 2231 required: 3643
+deleting 1051
+deleting 4564
+current advertiser: 1282
+total_pages: 2688
+low_rf_pages: 23241
+total patterns: 60697
+clean alloc failed
+allocated: 2227 required: 3643
+deleting 3607
+current advertiser: 1283
+total_pages: 2687
+low_rf_pages: 23181
+total patterns: 60677
+clean alloc failed
+allocated: 2227 required: 3642
+deleting 2042
+current advertiser: 1284
+total_pages: 2686
+low_rf_pages: 23113
+total patterns: 60651
+clean alloc failed
+allocated: 2227 required: 3641
+deleting 159
+current advertiser: 1285
+total_pages: 2685
+low_rf_pages: 23062
+total patterns: 60630
+clean alloc failed
+allocated: 2226 required: 3640
+deleting 1460
+deleting 29
+current advertiser: 1286
+total_pages: 2683
+low_rf_pages: 23022
+total patterns: 60538
+clean alloc failed
+allocated: 2221 required: 3639
+deleting 1528
+deleting 2048
+current advertiser: 1287
+total_pages: 2681
+low_rf_pages: 22995
+total patterns: 60451
+clean alloc failed
+allocated: 2217 required: 3639
+deleting 2221
+deleting 3352
+current advertiser: 1288
+total_pages: 2679
+low_rf_pages: 22914
+total patterns: 60351
+clean alloc failed
+allocated: 2217 required: 3639
+deleting 2954
+current advertiser: 1289
+total_pages: 2678
+low_rf_pages: 22840
+total patterns: 60325
+clean alloc failed
+allocated: 2213 required: 3639
+deleting 4503
+deleting 5287
+current advertiser: 1290
+total_pages: 2676
+low_rf_pages: 22771
+total patterns: 60223
+clean alloc failed
+allocated: 2212 required: 3637
+deleting 1566
+current advertiser: 1291
+total_pages: 2675
+low_rf_pages: 22736
+total patterns: 60202
+clean alloc failed
+allocated: 2207 required: 3637
+deleting 161
+current advertiser: 1292
+total_pages: 2674
+low_rf_pages: 22677
+total patterns: 60179
+clean alloc failed
+allocated: 2206 required: 3637
+deleting 1468
+deleting 2075
+current advertiser: 1293
+total_pages: 2672
+low_rf_pages: 22632
+total patterns: 60064
+clean alloc failed
+allocated: 2204 required: 3636
+deleting 2921
+deleting 2939
+current advertiser: 1294
+total_pages: 2670
+low_rf_pages: 22584
+total patterns: 59991
+clean alloc failed
+allocated: 2202 required: 3636
+deleting 1458
+current advertiser: 1295
+total_pages: 2669
+low_rf_pages: 22514
+total patterns: 59970
+clean alloc failed
+allocated: 2200 required: 3633
+deleting 469
+current advertiser: 1296
+total_pages: 2668
+low_rf_pages: 22452
+total patterns: 59941
+clean alloc failed
+allocated: 2197 required: 3633
+deleting 821
+deleting 1360
+current advertiser: 1297
+total_pages: 2666
+low_rf_pages: 22408
+total patterns: 59858
+clean alloc failed
+allocated: 2192 required: 3633
+deleting 351
+current advertiser: 1298
+total_pages: 2665
+low_rf_pages: 22358
+total patterns: 59841
+clean alloc failed
+allocated: 2191 required: 3632
+deleting 2448
+current advertiser: 1299
+total_pages: 2664
+low_rf_pages: 22292
+total patterns: 59820
+clean alloc failed
+allocated: 2187 required: 3631
+deleting 4442
+deleting 3292
+current advertiser: 1300
+total_pages: 2662
+low_rf_pages: 22235
+total patterns: 59732
+clean alloc failed
+allocated: 2182 required: 3630
+deleting 133
+deleting 7430
+current advertiser: 1301
+total_pages: 2660
+low_rf_pages: 22167
+total patterns: 59655
+clean alloc failed
+allocated: 2180 required: 3629
+deleting 2858
+deleting 1703
+current advertiser: 1302
+total_pages: 2658
+low_rf_pages: 22113
+total patterns: 59555
+clean alloc failed
+allocated: 2179 required: 3628
+deleting 134
+current advertiser: 1303
+total_pages: 2657
+low_rf_pages: 22053
+total patterns: 59535
+clean alloc failed
+allocated: 2177 required: 3627
+deleting 3985
+deleting 891
+current advertiser: 1304
+total_pages: 2655
+low_rf_pages: 21981
+total patterns: 59437
+clean alloc failed
+allocated: 2176 required: 3627
+deleting 554
+current advertiser: 1305
+total_pages: 2654
+low_rf_pages: 21950
+total patterns: 59412
+clean alloc failed
+allocated: 2175 required: 3625
+deleting 2019
+current advertiser: 1306
+total_pages: 2653
+low_rf_pages: 21896
+total patterns: 59384
+clean alloc failed
+allocated: 2174 required: 3625
+deleting 3255
+current advertiser: 1307
+total_pages: 2652
+low_rf_pages: 21825
+total patterns: 59360
+clean alloc failed
+allocated: 2173 required: 3625
+deleting 1639
+deleting 5606
+current advertiser: 1308
+total_pages: 2650
+low_rf_pages: 21791
+total patterns: 59269
+clean alloc failed
+allocated: 2172 required: 3624
+deleting 3957
+current advertiser: 1309
+total_pages: 2649
+low_rf_pages: 21732
+total patterns: 59240
+clean alloc failed
+allocated: 2171 required: 3623
+deleting 5634
+deleting 489
+current advertiser: 1310
+total_pages: 2647
+low_rf_pages: 21693
+total patterns: 59154
+clean alloc failed
+allocated: 2170 required: 3623
+deleting 2192
+current advertiser: 1311
+total_pages: 2646
+low_rf_pages: 21657
+total patterns: 59136
+clean alloc failed
+allocated: 2166 required: 3621
+deleting 2219
+deleting 2395
+current advertiser: 1312
+total_pages: 2644
+low_rf_pages: 21572
+total patterns: 59039
+clean alloc failed
+allocated: 2165 required: 3621
+deleting 1428
+deleting 2361
+current advertiser: 1313
+total_pages: 2642
+low_rf_pages: 21537
+total patterns: 58918
+clean alloc failed
+allocated: 2165 required: 3621
+deleting 262
+current advertiser: 1314
+total_pages: 2641
+low_rf_pages: 21488
+total patterns: 58895
+clean alloc failed
+allocated: 2157 required: 3620
+deleting 629
+current advertiser: 1315
+total_pages: 2640
+low_rf_pages: 21444
+total patterns: 58872
+clean alloc failed
+allocated: 2155 required: 3618
+deleting 271
+current advertiser: 1316
+total_pages: 2639
+low_rf_pages: 21368
+total patterns: 58851
+clean alloc failed
+allocated: 2152 required: 3617
+deleting 130
+current advertiser: 1317
+total_pages: 2638
+low_rf_pages: 21312
+total patterns: 58829
+clean alloc failed
+allocated: 2150 required: 3617
+deleting 5093
+current advertiser: 1318
+total_pages: 2637
+low_rf_pages: 21262
+total patterns: 58806
+clean alloc failed
+allocated: 2150 required: 3617
+deleting 3603
+current advertiser: 1319
+total_pages: 2636
+low_rf_pages: 21202
+total patterns: 58779
+clean alloc failed
+allocated: 2149 required: 3616
+deleting 1710
+current advertiser: 1320
+total_pages: 2635
+low_rf_pages: 21132
+total patterns: 58759
+clean alloc failed
+allocated: 2146 required: 3615
+deleting 5092
+current advertiser: 1321
+total_pages: 2634
+low_rf_pages: 21074
+total patterns: 58739
+clean alloc failed
+allocated: 2146 required: 3615
+deleting 1738
+current advertiser: 1322
+total_pages: 2633
+low_rf_pages: 20996
+total patterns: 58718
+clean alloc failed
+allocated: 2144 required: 3615
+deleting 2979
+deleting 1438
+current advertiser: 1323
+total_pages: 2631
+low_rf_pages: 20964
+total patterns: 58630
+clean alloc failed
+allocated: 2142 required: 3615
+deleting 2869
+deleting 302
+current advertiser: 1324
+total_pages: 2629
+low_rf_pages: 20926
+total patterns: 58512
+clean alloc failed
+allocated: 2139 required: 3613
+deleting 2134
+current advertiser: 1325
+total_pages: 2628
+low_rf_pages: 20863
+total patterns: 58492
+clean alloc failed
+allocated: 2138 required: 3613
+deleting 344
+current advertiser: 1326
+total_pages: 2627
+low_rf_pages: 20796
+total patterns: 58470
+clean alloc failed
+allocated: 2136 required: 3611
+deleting 5101
+current advertiser: 1327
+total_pages: 2626
+low_rf_pages: 20738
+total patterns: 58447
+clean alloc failed
+allocated: 2132 required: 3611
+deleting 1872
+deleting 1214
+current advertiser: 1328
+total_pages: 2624
+low_rf_pages: 20641
+total patterns: 58355
+clean alloc failed
+allocated: 2125 required: 3611
+deleting 206
+current advertiser: 1329
+total_pages: 2623
+low_rf_pages: 20564
+total patterns: 58330
+clean alloc failed
+allocated: 2124 required: 3611
+deleting 3273
+deleting 4616
+current advertiser: 1330
+total_pages: 2621
+low_rf_pages: 20490
+total patterns: 58221
+clean alloc failed
+allocated: 2124 required: 3610
+deleting 1514
+current advertiser: 1331
+total_pages: 2620
+low_rf_pages: 20427
+total patterns: 58196
+clean alloc failed
+allocated: 2123 required: 3608
+deleting 2057
+current advertiser: 1332
+total_pages: 2619
+low_rf_pages: 20369
+total patterns: 58166
+clean alloc failed
+allocated: 2120 required: 3608
+deleting 342
+current advertiser: 1333
+total_pages: 2618
+low_rf_pages: 20320
+total patterns: 58150
+clean alloc failed
+allocated: 2119 required: 3603
+deleting 468
+current advertiser: 1334
+total_pages: 2617
+low_rf_pages: 20257
+total patterns: 58120
+clean alloc failed
+allocated: 2116 required: 3602
+deleting 3695
+current advertiser: 1335
+total_pages: 2616
+low_rf_pages: 20206
+total patterns: 58096
+clean alloc failed
+allocated: 2116 required: 3602
+deleting 978
+current advertiser: 1336
+total_pages: 2615
+low_rf_pages: 20159
+total patterns: 58074
+clean alloc failed
+allocated: 2116 required: 3602
+deleting 861
+current advertiser: 1337
+total_pages: 2614
+low_rf_pages: 20101
+total patterns: 58054
+clean alloc failed
+allocated: 2111 required: 3602
+deleting 1155
+current advertiser: 1338
+total_pages: 2613
+low_rf_pages: 20073
+total patterns: 58027
+clean alloc failed
+allocated: 2109 required: 3602
+deleting 1605
+current advertiser: 1339
+total_pages: 2612
+low_rf_pages: 20029
+total patterns: 58002
+clean alloc failed
+allocated: 2106 required: 3601
+deleting 1858
+current advertiser: 1340
+total_pages: 2611
+low_rf_pages: 19951
+total patterns: 57984
+clean alloc failed
+allocated: 2104 required: 3601
+deleting 1463
+current advertiser: 1341
+total_pages: 2610
+low_rf_pages: 19889
+total patterns: 57960
+clean alloc failed
+allocated: 2102 required: 3601
+deleting 2262
+deleting 1934
+current advertiser: 1342
+total_pages: 2608
+low_rf_pages: 19806
+total patterns: 57833
+clean alloc failed
+allocated: 2101 required: 3599
+deleting 2851
+deleting 1021
+current advertiser: 1343
+total_pages: 2606
+low_rf_pages: 19764
+total patterns: 57706
+clean alloc failed
+allocated: 2097 required: 3598
+deleting 399
+current advertiser: 1344
+total_pages: 2605
+low_rf_pages: 19707
+total patterns: 57673
+clean alloc failed
+allocated: 2095 required: 3596
+deleting 1774
+current advertiser: 1345
+total_pages: 2604
+low_rf_pages: 19642
+total patterns: 57655
+clean alloc failed
+allocated: 2095 required: 3595
+deleting 1515
+current advertiser: 1346
+total_pages: 2603
+low_rf_pages: 19561
+total patterns: 57635
+clean alloc failed
+allocated: 2093 required: 3595
+deleting 774
+current advertiser: 1347
+total_pages: 2602
+low_rf_pages: 19494
+total patterns: 57607
+clean alloc failed
+allocated: 2092 required: 3594
+deleting 401
+deleting 2399
+current advertiser: 1348
+total_pages: 2600
+low_rf_pages: 19449
+total patterns: 57489
+clean alloc failed
+allocated: 2092 required: 3594
+deleting 927
+current advertiser: 1349
+total_pages: 2599
+low_rf_pages: 19390
+total patterns: 57475
+clean alloc failed
+allocated: 2090 required: 3594
+deleting 1691
+current advertiser: 1350
+total_pages: 2598
+low_rf_pages: 19350
+total patterns: 57449
+clean alloc failed
+allocated: 2089 required: 3593
+deleting 763
+current advertiser: 1351
+total_pages: 2597
+low_rf_pages: 19298
+total patterns: 57421
+clean alloc failed
+allocated: 2087 required: 3593
+deleting 2852
+deleting 298
+current advertiser: 1352
+total_pages: 2595
+low_rf_pages: 19238
+total patterns: 57307
+clean alloc failed
+allocated: 2087 required: 3592
+deleting 2025
+current advertiser: 1353
+total_pages: 2594
+low_rf_pages: 19178
+total patterns: 57286
+clean alloc failed
+allocated: 2084 required: 3592
+deleting 812
+deleting 2855
+current advertiser: 1354
+total_pages: 2592
+low_rf_pages: 19085
+total patterns: 57193
+clean alloc failed
+allocated: 2084 required: 3591
+deleting 3129
+current advertiser: 1355
+total_pages: 2591
+low_rf_pages: 19035
+total patterns: 57159
+clean alloc failed
+allocated: 2082 required: 3590
+deleting 1014
+current advertiser: 1356
+total_pages: 2590
+low_rf_pages: 18978
+total patterns: 57133
+clean alloc failed
+allocated: 2075 required: 3590
+deleting 2416
+current advertiser: 1357
+total_pages: 2589
+low_rf_pages: 18908
+total patterns: 57107
+clean alloc failed
+allocated: 2069 required: 3589
+deleting 1462
+current advertiser: 1358
+total_pages: 2588
+low_rf_pages: 18814
+total patterns: 57078
+clean alloc failed
+allocated: 2066 required: 3588
+deleting 1236
+deleting 3821
+current advertiser: 1359
+total_pages: 2586
+low_rf_pages: 18754
+total patterns: 56941
+clean alloc failed
+allocated: 2065 required: 3588
+deleting 1824
+current advertiser: 1360
+total_pages: 2585
+low_rf_pages: 18705
+total patterns: 56914
+clean alloc failed
+allocated: 2055 required: 3588
+deleting 1091
+deleting 552
+current advertiser: 1361
+total_pages: 2583
+low_rf_pages: 18632
+total patterns: 56810
+clean alloc failed
+allocated: 2054 required: 3588
+deleting 3170
+deleting 4360
+current advertiser: 1362
+total_pages: 2581
+low_rf_pages: 18568
+total patterns: 56710
+clean alloc failed
+allocated: 2051 required: 3587
+deleting 1829
+current advertiser: 1363
+total_pages: 2580
+low_rf_pages: 18516
+total patterns: 56684
+clean alloc failed
+allocated: 2050 required: 3587
+deleting 3504
+deleting 1723
+current advertiser: 1364
+total_pages: 2578
+low_rf_pages: 18448
+total patterns: 56572
+clean alloc failed
+allocated: 2050 required: 3583
+deleting 1024
+deleting 5767
+current advertiser: 1365
+total_pages: 2576
+low_rf_pages: 18383
+total patterns: 56476
+clean alloc failed
+allocated: 2047 required: 3582
+deleting 1631
+current advertiser: 1366
+total_pages: 2575
+low_rf_pages: 18335
+total patterns: 56447
+clean alloc failed
+allocated: 2047 required: 3582
+deleting 858
+current advertiser: 1367
+total_pages: 2574
+low_rf_pages: 18271
+total patterns: 56416
+clean alloc failed
+allocated: 2043 required: 3581
+deleting 5686
+deleting 3875
+current advertiser: 1368
+total_pages: 2572
+low_rf_pages: 18226
+total patterns: 56317
+clean alloc failed
+allocated: 2042 required: 3581
+deleting 2821
+current advertiser: 1369
+total_pages: 2571
+low_rf_pages: 18160
+total patterns: 56299
+clean alloc failed
+allocated: 2041 required: 3581
+deleting 2423
+deleting 1556
+current advertiser: 1370
+total_pages: 2569
+low_rf_pages: 18130
+total patterns: 56206
+clean alloc failed
+allocated: 2038 required: 3580
+deleting 2135
+current advertiser: 1371
+total_pages: 2568
+low_rf_pages: 18061
+total patterns: 56174
+clean alloc failed
+allocated: 2037 required: 3580
+deleting 1503
+deleting 615
+current advertiser: 1372
+total_pages: 2566
+low_rf_pages: 17988
+total patterns: 56075
+clean alloc failed
+allocated: 2035 required: 3579
+deleting 3210
+deleting 3784
+current advertiser: 1373
+total_pages: 2564
+low_rf_pages: 17926
+total patterns: 55978
+clean alloc failed
+allocated: 2030 required: 3579
+deleting 1752
+current advertiser: 1374
+total_pages: 2563
+low_rf_pages: 17848
+total patterns: 55955
+clean alloc failed
+allocated: 2028 required: 3579
+deleting 839
+current advertiser: 1375
+total_pages: 2562
+low_rf_pages: 17789
+total patterns: 55919
+clean alloc failed
+allocated: 2027 required: 3577
+deleting 1112
+deleting 5453
+current advertiser: 1376
+total_pages: 2560
+low_rf_pages: 17726
+total patterns: 55831
+clean alloc failed
+allocated: 2027 required: 3576
+deleting 567
+current advertiser: 1377
+total_pages: 2559
+low_rf_pages: 17677
+total patterns: 55806
+clean alloc failed
+allocated: 2025 required: 3576
+deleting 1694
+current advertiser: 1378
+total_pages: 2558
+low_rf_pages: 17580
+total patterns: 55786
+clean alloc failed
+allocated: 2025 required: 3576
+deleting 1466
+current advertiser: 1379
+total_pages: 2557
+low_rf_pages: 17537
+total patterns: 55757
+clean alloc failed
+allocated: 2023 required: 3575
+deleting 867
+current advertiser: 1380
+total_pages: 2556
+low_rf_pages: 17477
+total patterns: 55723
+clean alloc failed
+allocated: 2022 required: 3574
+deleting 2061
+current advertiser: 1381
+total_pages: 2555
+low_rf_pages: 17388
+total patterns: 55694
+clean alloc failed
+allocated: 2021 required: 3574
+deleting 51
+current advertiser: 1382
+total_pages: 2554
+low_rf_pages: 17351
+total patterns: 55673
+clean alloc failed
+allocated: 2018 required: 3574
+deleting 4988
+current advertiser: 1383
+total_pages: 2553
+low_rf_pages: 17300
+total patterns: 55653
+clean alloc failed
+allocated: 2014 required: 3572
+deleting 4312
+deleting 1575
+current advertiser: 1384
+total_pages: 2551
+low_rf_pages: 17249
+total patterns: 55553
+clean alloc failed
+allocated: 2013 required: 3571
+deleting 1612
+current advertiser: 1385
+total_pages: 2550
+low_rf_pages: 17166
+total patterns: 55532
+clean alloc failed
+allocated: 2012 required: 3571
+deleting 4058
+current advertiser: 1386
+total_pages: 2549
+low_rf_pages: 17117
+total patterns: 55506
+clean alloc failed
+allocated: 2010 required: 3571
+deleting 248
+current advertiser: 1387
+total_pages: 2548
+low_rf_pages: 17053
+total patterns: 55491
+clean alloc failed
+allocated: 2005 required: 3571
+deleting 1537
+deleting 3910
+current advertiser: 1388
+total_pages: 2546
+low_rf_pages: 17003
+total patterns: 55403
+clean alloc failed
+allocated: 2002 required: 3570
+deleting 7792
+deleting 1679
+current advertiser: 1389
+total_pages: 2544
+low_rf_pages: 16921
+total patterns: 55290
+clean alloc failed
+allocated: 1998 required: 3570
+deleting 1681
+current advertiser: 1390
+total_pages: 2543
+low_rf_pages: 16892
+total patterns: 55260
+clean alloc failed
+allocated: 1994 required: 3568
+deleting 980
+deleting 5176
+current advertiser: 1391
+total_pages: 2541
+low_rf_pages: 16819
+total patterns: 55160
+clean alloc failed
+allocated: 1994 required: 3568
+deleting 4060
+current advertiser: 1392
+total_pages: 2540
+low_rf_pages: 16770
+total patterns: 55132
+clean alloc failed
+allocated: 1990 required: 3568
+deleting 1118
+current advertiser: 1393
+total_pages: 2539
+low_rf_pages: 16708
+total patterns: 55107
+clean alloc failed
+allocated: 1988 required: 3566
+deleting 398
+current advertiser: 1394
+total_pages: 2538
+low_rf_pages: 16644
+total patterns: 55074
+clean alloc failed
+allocated: 1987 required: 3566
+deleting 1646
+current advertiser: 1395
+total_pages: 2537
+low_rf_pages: 16566
+total patterns: 55044
+clean alloc failed
+allocated: 1977 required: 3566
+deleting 1773
+deleting 6710
+current advertiser: 1396
+total_pages: 2535
+low_rf_pages: 16510
+total patterns: 54934
+clean alloc failed
+allocated: 1976 required: 3565
+deleting 2866
+deleting 1376
+current advertiser: 1397
+total_pages: 2533
+low_rf_pages: 16469
+total patterns: 54840
+clean alloc failed
+allocated: 1972 required: 3565
+deleting 4839
+deleting 1898
+current advertiser: 1398
+total_pages: 2531
+low_rf_pages: 16397
+total patterns: 54755
+clean alloc failed
+allocated: 1970 required: 3565
+deleting 730
+current advertiser: 1399
+total_pages: 2530
+low_rf_pages: 16332
+total patterns: 54729
+clean alloc failed
+allocated: 1969 required: 3564
+deleting 1830
+current advertiser: 1400
+total_pages: 2529
+low_rf_pages: 16273
+total patterns: 54688
+clean alloc failed
+allocated: 1967 required: 3564
+deleting 3342
+deleting 1611
+current advertiser: 1401
+total_pages: 2527
+low_rf_pages: 16213
+total patterns: 54562
+clean alloc failed
+allocated: 1964 required: 3561
+deleting 5452
+deleting 848
+current advertiser: 1402
+total_pages: 2525
+low_rf_pages: 16152
+total patterns: 54458
+clean alloc failed
+allocated: 1964 required: 3560
+deleting 10530
+deleting 2130
+current advertiser: 1403
+total_pages: 2523
+low_rf_pages: 16086
+total patterns: 54397
+clean alloc failed
+allocated: 1964 required: 3559
+deleting 2874
+current advertiser: 1404
+total_pages: 2522
+low_rf_pages: 16025
+total patterns: 54374
+clean alloc failed
+allocated: 1959 required: 3558
+deleting 2234
+current advertiser: 1405
+total_pages: 2521
+low_rf_pages: 15960
+total patterns: 54344
+clean alloc failed
+allocated: 1957 required: 3558
+deleting 4833
+current advertiser: 1406
+total_pages: 2520
+low_rf_pages: 15895
+total patterns: 54313
+clean alloc failed
+allocated: 1956 required: 3557
+deleting 1756
+current advertiser: 1407
+total_pages: 2519
+low_rf_pages: 15827
+total patterns: 54285
+clean alloc failed
+allocated: 1952 required: 3557
+deleting 886
+current advertiser: 1408
+total_pages: 2518
+low_rf_pages: 15759
+total patterns: 54256
+clean alloc failed
+allocated: 1950 required: 3557
+deleting 1823
+current advertiser: 1409
+total_pages: 2517
+low_rf_pages: 15711
+total patterns: 54238
+clean alloc failed
+allocated: 1950 required: 3554
+deleting 1489
+current advertiser: 1410
+total_pages: 2516
+low_rf_pages: 15665
+total patterns: 54215
+clean alloc failed
+allocated: 1949 required: 3554
+deleting 630
+deleting 2844
+current advertiser: 1411
+total_pages: 2514
+low_rf_pages: 15620
+total patterns: 54115
+clean alloc failed
+allocated: 1941 required: 3553
+deleting 1362
+current advertiser: 1412
+total_pages: 2513
+low_rf_pages: 15569
+total patterns: 54091
+clean alloc failed
+allocated: 1941 required: 3552
+deleting 817
+current advertiser: 1413
+total_pages: 2512
+low_rf_pages: 15513
+total patterns: 54063
+clean alloc failed
+allocated: 1940 required: 3550
+deleting 2292
+deleting 6053
+current advertiser: 1414
+total_pages: 2510
+low_rf_pages: 15453
+total patterns: 53962
+clean alloc failed
+allocated: 1940 required: 3550
+deleting 3922
+deleting 375
+current advertiser: 1415
+total_pages: 2508
+low_rf_pages: 15407
+total patterns: 53855
+clean alloc failed
+allocated: 1939 required: 3548
+deleting 1600
+current advertiser: 1416
+total_pages: 2507
+low_rf_pages: 15339
+total patterns: 53831
+clean alloc failed
+allocated: 1936 required: 3548
+deleting 2457
+current advertiser: 1417
+total_pages: 2506
+low_rf_pages: 15247
+total patterns: 53806
+clean alloc failed
+allocated: 1926 required: 3548
+deleting 1455
+current advertiser: 1418
+total_pages: 2505
+low_rf_pages: 15187
+total patterns: 53776
+clean alloc failed
+allocated: 1924 required: 3547
+deleting 209
+current advertiser: 1419
+total_pages: 2504
+low_rf_pages: 15115
+total patterns: 53747
+clean alloc failed
+allocated: 1923 required: 3545
+deleting 5098
+deleting 2354
+current advertiser: 1420
+total_pages: 2502
+low_rf_pages: 15044
+total patterns: 53649
+clean alloc failed
+allocated: 1922 required: 3545
+deleting 4750
+deleting 3272
+current advertiser: 1421
+total_pages: 2500
+low_rf_pages: 14979
+total patterns: 53546
+clean alloc failed
+allocated: 1919 required: 3545
+deleting 684
+current advertiser: 1422
+total_pages: 2499
+low_rf_pages: 14950
+total patterns: 53514
+clean alloc failed
+allocated: 1911 required: 3545
+deleting 100
+deleting 1182
+current advertiser: 1423
+total_pages: 2497
+low_rf_pages: 14886
+total patterns: 53401
+clean alloc failed
+allocated: 1910 required: 3544
+deleting 2977
+deleting 1996
+current advertiser: 1424
+total_pages: 2495
+low_rf_pages: 14819
+total patterns: 53304
+clean alloc failed
+allocated: 1910 required: 3544
+deleting 3638
+current advertiser: 1425
+total_pages: 2494
+low_rf_pages: 14745
+total patterns: 53275
+clean alloc failed
+allocated: 1910 required: 3544
+deleting 362
+current advertiser: 1426
+total_pages: 2493
+low_rf_pages: 14697
+total patterns: 53246
+clean alloc failed
+allocated: 1907 required: 3543
+deleting 1366
+deleting 4684
+current advertiser: 1427
+total_pages: 2491
+low_rf_pages: 14638
+total patterns: 53132
+clean alloc failed
+allocated: 1901 required: 3542
+deleting 2070
+current advertiser: 1428
+total_pages: 2490
+low_rf_pages: 14565
+total patterns: 53099
+clean alloc failed
+allocated: 1901 required: 3540
+deleting 1981
+current advertiser: 1429
+total_pages: 2489
+low_rf_pages: 14507
+total patterns: 53072
+clean alloc failed
+allocated: 1899 required: 3540
+deleting 2201
+deleting 5698
+current advertiser: 1430
+total_pages: 2487
+low_rf_pages: 14451
+total patterns: 52954
+clean alloc failed
+allocated: 1899 required: 3540
+deleting 944
+current advertiser: 1431
+total_pages: 2486
+low_rf_pages: 14387
+total patterns: 52925
+clean alloc failed
+allocated: 1897 required: 3539
+deleting 19
+deleting 5080
+current advertiser: 1432
+total_pages: 2484
+low_rf_pages: 14330
+total patterns: 52833
+clean alloc failed
+allocated: 1895 required: 3539
+deleting 842
+current advertiser: 1433
+total_pages: 2483
+low_rf_pages: 14222
+total patterns: 52806
+clean alloc failed
+allocated: 1895 required: 3538
+deleting 518
+current advertiser: 1434
+total_pages: 2482
+low_rf_pages: 14166
+total patterns: 52784
+clean alloc failed
+allocated: 1888 required: 3538
+deleting 1579
+current advertiser: 1435
+total_pages: 2481
+low_rf_pages: 14064
+total patterns: 52757
+clean alloc failed
+allocated: 1888 required: 3536
+deleting 185
+current advertiser: 1436
+total_pages: 2480
+low_rf_pages: 13966
+total patterns: 52724
+clean alloc failed
+allocated: 1884 required: 3535
+deleting 741
+current advertiser: 1437
+total_pages: 2479
+low_rf_pages: 13881
+total patterns: 52692
+clean alloc failed
+allocated: 1883 required: 3534
+deleting 3692
+current advertiser: 1438
+total_pages: 2478
+low_rf_pages: 13829
+total patterns: 52662
+clean alloc failed
+allocated: 1883 required: 3534
+deleting 969
+current advertiser: 1439
+total_pages: 2477
+low_rf_pages: 13770
+total patterns: 52635
+clean alloc failed
+allocated: 1878 required: 3533
+deleting 696
+current advertiser: 1440
+total_pages: 2476
+low_rf_pages: 13690
+total patterns: 52604
+clean alloc failed
+allocated: 1866 required: 3532
+deleting 2214
+current advertiser: 1441
+total_pages: 2475
+low_rf_pages: 13597
+total patterns: 52572
+clean alloc failed
+allocated: 1864 required: 3532
+deleting 3478
+deleting 2010
+current advertiser: 1442
+total_pages: 2473
+low_rf_pages: 13505
+total patterns: 52450
+clean alloc failed
+allocated: 1863 required: 3531
+deleting 2861
+deleting 1347
+current advertiser: 1443
+total_pages: 2471
+low_rf_pages: 13441
+total patterns: 52345
+clean alloc failed
+allocated: 1863 required: 3531
+deleting 4597
+current advertiser: 1444
+total_pages: 2470
+low_rf_pages: 13382
+total patterns: 52312
+clean alloc failed
+allocated: 1863 required: 3531
+deleting 818
+current advertiser: 1445
+total_pages: 2469
+low_rf_pages: 13330
+total patterns: 52270
+clean alloc failed
+allocated: 1860 required: 3530
+deleting 369
+current advertiser: 1446
+total_pages: 2468
+low_rf_pages: 13262
+total patterns: 52245
+clean alloc failed
+allocated: 1858 required: 3529
+deleting 3198
+current advertiser: 1447
+total_pages: 2467
+low_rf_pages: 13216
+total patterns: 52210
+clean alloc failed
+allocated: 1848 required: 3529
+deleting 3374
+current advertiser: 1448
+total_pages: 2466
+low_rf_pages: 13161
+total patterns: 52176
+clean alloc failed
+allocated: 1846 required: 3529
+deleting 2020
+current advertiser: 1449
+total_pages: 2465
+low_rf_pages: 13079
+total patterns: 52143
+clean alloc failed
+allocated: 1846 required: 3529
+deleting 1471
+current advertiser: 1450
+total_pages: 2464
+low_rf_pages: 13012
+total patterns: 52110
+clean alloc failed
+allocated: 1843 required: 3527
+deleting 1392
+deleting 430
+current advertiser: 1451
+total_pages: 2462
+low_rf_pages: 12957
+total patterns: 51983
+clean alloc failed
+allocated: 1838 required: 3526
+deleting 3492
+current advertiser: 1452
+total_pages: 2461
+low_rf_pages: 12890
+total patterns: 51951
+clean alloc failed
+allocated: 1837 required: 3526
+deleting 2271
+deleting 2402
+current advertiser: 1453
+total_pages: 2459
+low_rf_pages: 12843
+total patterns: 51812
+clean alloc failed
+allocated: 1836 required: 3525
+deleting 699
+current advertiser: 1454
+total_pages: 2458
+low_rf_pages: 12796
+total patterns: 51787
+clean alloc failed
+allocated: 1831 required: 3525
+deleting 877
+current advertiser: 1455
+total_pages: 2457
+low_rf_pages: 12732
+total patterns: 51748
+clean alloc failed
+allocated: 1830 required: 3524
+deleting 3171
+deleting 2412
+current advertiser: 1456
+total_pages: 2455
+low_rf_pages: 12695
+total patterns: 51644
+clean alloc failed
+allocated: 1829 required: 3523
+deleting 1184
+deleting 2176
+current advertiser: 1457
+total_pages: 2453
+low_rf_pages: 12633
+total patterns: 51543
+clean alloc failed
+allocated: 1820 required: 3523
+deleting 946
+current advertiser: 1458
+total_pages: 2452
+low_rf_pages: 12558
+total patterns: 51513
+clean alloc failed
+allocated: 1815 required: 3523
+deleting 852
+current advertiser: 1459
+total_pages: 2451
+low_rf_pages: 12497
+total patterns: 51485
+clean alloc failed
+allocated: 1813 required: 3523
+deleting 2868
+deleting 1704
+current advertiser: 1460
+total_pages: 2449
+low_rf_pages: 12442
+total patterns: 51415
+clean alloc failed
+allocated: 1813 required: 3522
+deleting 1765
+current advertiser: 1461
+total_pages: 2448
+low_rf_pages: 12370
+total patterns: 51372
+clean alloc failed
+allocated: 1812 required: 3522
+deleting 3370
+current advertiser: 1462
+total_pages: 2447
+low_rf_pages: 12301
+total patterns: 51346
+clean alloc failed
+allocated: 1811 required: 3521
+deleting 2040
+current advertiser: 1463
+total_pages: 2446
+low_rf_pages: 12228
+total patterns: 51314
+clean alloc failed
+allocated: 1808 required: 3521
+deleting 3691
+deleting 6760
+current advertiser: 1464
+total_pages: 2444
+low_rf_pages: 12157
+total patterns: 51192
+clean alloc failed
+allocated: 1807 required: 3521
+deleting 2808
+deleting 1374
+current advertiser: 1465
+total_pages: 2442
+low_rf_pages: 12088
+total patterns: 51058
+clean alloc failed
+allocated: 1807 required: 3520
+deleting 1958
+current advertiser: 1466
+total_pages: 2441
+low_rf_pages: 12011
+total patterns: 51028
+clean alloc failed
+allocated: 1806 required: 3519
+deleting 114
+current advertiser: 1467
+total_pages: 2440
+low_rf_pages: 11933
+total patterns: 50994
+clean alloc failed
+allocated: 1805 required: 3519
+deleting 2150
+current advertiser: 1468
+total_pages: 2439
+low_rf_pages: 11860
+total patterns: 50963
+clean alloc failed
+allocated: 1802 required: 3518
+deleting 2889
+deleting 6137
+current advertiser: 1469
+total_pages: 2437
+low_rf_pages: 11803
+total patterns: 50839
+clean alloc failed
+allocated: 1799 required: 3518
+deleting 3257
+current advertiser: 1470
+total_pages: 2436
+low_rf_pages: 11736
+total patterns: 50806
+clean alloc failed
+allocated: 1797 required: 3518
+deleting 1692
+current advertiser: 1471
+total_pages: 2435
+low_rf_pages: 11663
+total patterns: 50772
+clean alloc failed
+allocated: 1796 required: 3517
+deleting 1370
+deleting 457
+current advertiser: 1472
+total_pages: 2433
+low_rf_pages: 11614
+total patterns: 50643
+clean alloc failed
+allocated: 1795 required: 3517
+deleting 474
+current advertiser: 1473
+total_pages: 2432
+low_rf_pages: 11524
+total patterns: 50615
+clean alloc failed
+allocated: 1794 required: 3516
+deleting 132
+current advertiser: 1474
+total_pages: 2431
+low_rf_pages: 11467
+total patterns: 50578
+clean alloc failed
+allocated: 1793 required: 3515
+deleting 1373
+current advertiser: 1475
+total_pages: 2430
+low_rf_pages: 11397
+total patterns: 50546
+clean alloc failed
+allocated: 1788 required: 3513
+deleting 1120
+current advertiser: 1476
+total_pages: 2429
+low_rf_pages: 11323
+total patterns: 50507
+clean alloc failed
+allocated: 1787 required: 3513
+deleting 116
+deleting 1432
+current advertiser: 1477
+total_pages: 2427
+low_rf_pages: 11257
+total patterns: 50401
+clean alloc failed
+allocated: 1786 required: 3512
+deleting 1696
+current advertiser: 1478
+total_pages: 2426
+low_rf_pages: 11201
+total patterns: 50360
+clean alloc failed
+allocated: 1782 required: 3512
+deleting 4966
+current advertiser: 1479
+total_pages: 2425
+low_rf_pages: 11112
+total patterns: 50323
+clean alloc failed
+allocated: 1779 required: 3511
+deleting 972
+current advertiser: 1480
+total_pages: 2424
+low_rf_pages: 11028
+total patterns: 50289
+clean alloc failed
+allocated: 1776 required: 3511
+deleting 4692
+deleting 3956
+current advertiser: 1481
+total_pages: 2422
+low_rf_pages: 10949
+total patterns: 50162
+clean alloc failed
+allocated: 1769 required: 3510
+deleting 714
+current advertiser: 1482
+total_pages: 2421
+low_rf_pages: 10890
+total patterns: 50122
+clean alloc failed
+allocated: 1768 required: 3510
+deleting 5234
+current advertiser: 1483
+total_pages: 2420
+low_rf_pages: 10825
+total patterns: 50085
+clean alloc failed
+allocated: 1768 required: 3510
+deleting 2872
+current advertiser: 1484
+total_pages: 2419
+low_rf_pages: 10753
+total patterns: 50051
+clean alloc failed
+allocated: 1765 required: 3509
+deleting 1169
+deleting 1196
+current advertiser: 1485
+total_pages: 2417
+low_rf_pages: 10678
+total patterns: 49922
+clean alloc failed
+allocated: 1761 required: 3509
+deleting 1714
+current advertiser: 1486
+total_pages: 2416
+low_rf_pages: 10600
+total patterns: 49883
+clean alloc failed
+allocated: 1759 required: 3508
+deleting 986
+current advertiser: 1487
+total_pages: 2415
+low_rf_pages: 10488
+total patterns: 49845
+clean alloc failed
+allocated: 1758 required: 3508
+deleting 847
+deleting 431
+current advertiser: 1488
+total_pages: 2413
+low_rf_pages: 10420
+total patterns: 49738
+clean alloc failed
+allocated: 1756 required: 3507
+deleting 4834
+current advertiser: 1489
+total_pages: 2412
+low_rf_pages: 10342
+total patterns: 49700
+clean alloc failed
+allocated: 1756 required: 3506
+deleting 3955
+current advertiser: 1490
+total_pages: 2411
+low_rf_pages: 10278
+total patterns: 49666
+clean alloc failed
+allocated: 1755 required: 3505
+deleting 6239
+deleting 1389
+current advertiser: 1491
+total_pages: 2409
+low_rf_pages: 10196
+total patterns: 49533
+clean alloc failed
+allocated: 1755 required: 3505
+deleting 2160
+current advertiser: 1492
+total_pages: 2408
+low_rf_pages: 10132
+total patterns: 49497
+clean alloc failed
+allocated: 1753 required: 3504
+deleting 2012
+current advertiser: 1493
+total_pages: 2407
+low_rf_pages: 10069
+total patterns: 49460
+clean alloc failed
+allocated: 1753 required: 3503
+deleting 548
+current advertiser: 1494
+total_pages: 2406
+low_rf_pages: 10001
+total patterns: 49425
+clean alloc failed
+allocated: 1752 required: 3503
+deleting 168
+deleting 1197
+current advertiser: 1495
+total_pages: 2404
+low_rf_pages: 9924
+total patterns: 49322
+clean alloc failed
+allocated: 1751 required: 3502
+deleting 1001
+current advertiser: 1496
+total_pages: 2403
+low_rf_pages: 9868
+total patterns: 49290
+clean alloc failed
+allocated: 1751 required: 3502
+deleting 443
+current advertiser: 1497
+total_pages: 2402
+low_rf_pages: 9790
+total patterns: 49251
+clean alloc failed
+allocated: 1749 required: 3501
+deleting 1697
+deleting 2307
+current advertiser: 1498
+total_pages: 2400
+low_rf_pages: 9721
+total patterns: 49127
+clean alloc failed
+allocated: 1748 required: 3501
+deleting 6563
+deleting 243
+current advertiser: 1499
+total_pages: 2398
+low_rf_pages: 9633
+total patterns: 48987
+clean alloc failed
+allocated: 1744 required: 3501
+deleting 2169
+Allocation accuracy new method: 1500
+views wasted:0
+limit 1 to 1
+/tmp/1624709537927.txt
+Allocation accuracy: 1044
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/kosarak_output_0015', '../test1/kosarak.dat', '10', '4000', '500']
+##############################################
+web_page_to_adv_json_file : ./1624707499006.json
+allocated_adslots_file: ./1624707499011.json
+AD REPEATABILITY OF OUR NEW METHOD : 1500
+0.000384847707378
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 1500
+AD REPEATABILITY OF RANDOM METHOD: 1500
+0.185440029414
+
+allocated
+{'VFS_one_method': [1045], 'VFS_multi_method': [], 'new_method': [1500], 'oneslot_method': []}
+adrepp
+{'VFS_one_method': ['0.185440029414'], 'VFS_multi_method': [], 'new_method': ['0.000384847707378'], 'oneslot_method': []}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [5982608], 'oneslot_method': []}

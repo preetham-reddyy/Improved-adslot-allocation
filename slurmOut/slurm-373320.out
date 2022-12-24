@@ -1,0 +1,38 @@
+==========================================
+SLURM_JOB_ID = 373320
+SLURM_NODELIST = gnode28
+SLURM_JOB_GPUS = 
+==========================================
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 244
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 196
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/kosarak.txt', 'dataset/kosarak.dat', '500', '28000', '20000']
+##############################################
+web_page_to_adv_json_file : ./1619113598733.json
+allocated_adslots_file: ./1619113598737.json
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+2.42423752679e-05
+
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+2.42423752679e-05
+
+Traceback (most recent call last):
+  File "plot_results.py", line 140, in <module>
+    alloc = len(json.load(open(allocated_adslots_file)))
+  File "/home/preetham_sathineni/anaconda2/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/home/preetham_sathineni/anaconda2/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/home/preetham_sathineni/anaconda2/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/preetham_sathineni/anaconda2/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting object: line 1 column 154140672 (char 154140671)

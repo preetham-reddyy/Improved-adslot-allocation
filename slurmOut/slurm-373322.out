@@ -1,0 +1,46 @@
+==========================================
+SLURM_JOB_ID = 373322
+SLURM_NODELIST = gnode19
+SLURM_JOB_GPUS = 
+==========================================
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 221
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 181
+limit 1 to 5
+/tmp/1619114387834.txt
+Allocation accuracy: 176
+limit 1 to 5
+/tmp/1619114420432.txt
+Allocation accuracy: 243
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/kosarak.txt', 'dataset/kosarak.dat', '500', '32000', '24000']
+##############################################
+web_page_to_adv_json_file : ./1619114027321.json
+allocated_adslots_file: ./1619114027326.json
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+0.0
+
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+0.0
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+1.1822198339
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+1.54110193717
+
+allocated
+{'VFS_one_method': [177], 'VFS_multi_method': [243], 'new_method': [221], 'oneslot_method': [181]}
+adrepp
+{'VFS_one_method': ['1.1822198339'], 'VFS_multi_method': ['1.54110193717'], 'new_method': ['0.0'], 'oneslot_method': ['0.0']}
+revenue
+{'VFS_one_method': [5923587], 'VFS_multi_method': [8167581], 'new_method': [6142765], 'oneslot_method': [4968414]}

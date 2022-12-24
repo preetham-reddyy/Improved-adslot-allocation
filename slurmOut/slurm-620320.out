@@ -1,0 +1,140 @@
+==========================================
+SLURM_JOB_ID = 620320
+SLURM_NODELIST = gnode19
+SLURM_JOB_GPUS = 2
+==========================================
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '20', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312076181.json
+allocated_adslots_file: ./1646312076187.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '40', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312076703.json
+allocated_adslots_file: ./1646312076707.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '60', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312077062.json
+allocated_adslots_file: ./1646312077067.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '80', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312077526.json
+allocated_adslots_file: ./1646312077530.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '100', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312077965.json
+allocated_adslots_file: ./1646312077970.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '120', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312078467.json
+allocated_adslots_file: ./1646312078473.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '140', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312078942.json
+allocated_adslots_file: ./1646312078947.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '160', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312079462.json
+allocated_adslots_file: ./1646312079467.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '180', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312079944.json
+allocated_adslots_file: ./1646312079948.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '200', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312080267.json
+allocated_adslots_file: ./1646312080271.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '220', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312080586.json
+allocated_adslots_file: ./1646312080590.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '240', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312080911.json
+allocated_adslots_file: ./1646312080915.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '260', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312081236.json
+allocated_adslots_file: ./1646312081239.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '280', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312081555.json
+allocated_adslots_file: ./1646312081559.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.002_maxcs_1_maxor_0.01/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '300', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646312081876.json
+allocated_adslots_file: ./1646312081880.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range

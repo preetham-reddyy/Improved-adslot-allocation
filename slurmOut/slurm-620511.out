@@ -1,0 +1,9 @@
+==========================================
+SLURM_JOB_ID = 620511
+SLURM_NODELIST = gnode42
+SLURM_JOB_GPUS = 2
+==========================================
+Traceback (most recent call last):
+  File "plot_results.py", line 16, in <module>
+    advertiser_lengths = [int(sys.argv[3])] 
+ValueError: invalid literal for int() with base 10: '1_2_3'

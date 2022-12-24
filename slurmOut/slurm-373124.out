@@ -1,0 +1,6 @@
+==========================================
+SLURM_JOB_ID = 373124
+SLURM_NODELIST = gnode31
+SLURM_JOB_GPUS = 
+==========================================
+slurmstepd: error: *** JOB 373124 ON gnode31 CANCELLED AT 2021-04-22T19:20:34 ***

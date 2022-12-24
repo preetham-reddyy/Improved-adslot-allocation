@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 374237
+SLURM_NODELIST = gnode22
+SLURM_JOB_GPUS = 
+==========================================
+Traceback (most recent call last):
+  File "allocation_with_freq.py", line 30, in <module>
+    web_page_freq_sorted = pickle.load(f)
+  File "/home/preetham_sathineni/anaconda2/lib/python2.7/pickle.py", line 1384, in load
+    return Unpickler(file).load()
+  File "/home/preetham_sathineni/anaconda2/lib/python2.7/pickle.py", line 864, in load
+    dispatch[key](self)
+  File "/home/preetham_sathineni/anaconda2/lib/python2.7/pickle.py", line 892, in load_proto
+    raise ValueError, "unsupported pickle protocol: %d" % proto
+ValueError: unsupported pickle protocol: 3
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/TIK1.txt', 'dataset/T40I10D100K.txt', '500', '10000', '5000']
+##############################################
+web_page_to_adv_json_file : ./1619193126547.json
+allocated_adslots_file: ./1619193126552.json
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+Traceback (most recent call last):
+  File "plot_results.py", line 109, in <module>
+    revenue_captured = int(f.readline().strip().split()[-1])
+IndexError: list index out of range

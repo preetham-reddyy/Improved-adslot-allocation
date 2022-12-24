@@ -1,0 +1,41 @@
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 160
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 125
+limit 1 to 5
+/tmp/1619115312624.txt
+Allocation accuracy: 155
+limit 1 to 5
+/tmp/1619115347889.txt
+Allocation accuracy: 202
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/kosarak.txt', 'dataset/kosarak.dat', '500', '40000', '25000']
+##############################################
+web_page_to_adv_json_file : ./1619114949315.json
+allocated_adslots_file: ./1619114949320.json
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+0.0
+
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+0.0
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+1.31573673589
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+1.85386191139
+
+allocated
+{'VFS_one_method': [156], 'VFS_multi_method': [203], 'new_method': [160], 'oneslot_method': [125]}
+adrepp
+{'VFS_one_method': ['1.31573673589'], 'VFS_multi_method': ['1.85386191139'], 'new_method': ['0.0'], 'oneslot_method': ['0.0']}
+revenue
+{'VFS_one_method': [6353686], 'VFS_multi_method': [8265069], 'new_method': [5465390], 'oneslot_method': [4710233]}

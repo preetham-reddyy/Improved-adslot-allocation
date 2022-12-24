@@ -1,0 +1,48 @@
+==========================================
+SLURM_JOB_ID = 374372
+SLURM_NODELIST = gnode50
+SLURM_JOB_GPUS = 
+==========================================
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 481
+views wasted:877
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 450
+views wasted:877
+limit 1 to 5
+/tmp/1619211732682.txt
+Allocation accuracy: 481
+limit 1 to 5
+/tmp/1619211772305.txt
+Allocation accuracy: 500
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/TIK1.txt', 'dataset/T40I10D100K.txt', '500', '10000', '7000']
+##############################################
+web_page_to_adv_json_file : ./1619198901453.json
+allocated_adslots_file: ./1619198901461.json
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+0.00877
+
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+0.00877
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+2.92175
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+2.80725
+
+allocated
+{'VFS_one_method': [482], 'VFS_multi_method': [500], 'new_method': [481], 'oneslot_method': [450]}
+adrepp
+{'VFS_one_method': ['2.92175'], 'VFS_multi_method': ['2.80725'], 'new_method': ['0.00877'], 'oneslot_method': ['0.00877']}
+revenue
+{'VFS_one_method': [4906317], 'VFS_multi_method': [5105188], 'new_method': [4839005], 'oneslot_method': [4378098]}

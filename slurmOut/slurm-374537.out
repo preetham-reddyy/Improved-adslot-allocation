@@ -1,0 +1,336 @@
+==========================================
+SLURM_JOB_ID = 374537
+SLURM_NODELIST = gnode51
+SLURM_JOB_GPUS = 
+==========================================
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 50
+views wasted:0
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 50
+views wasted:0
+limit 1 to 5
+/tmp/1619211064493.txt
+Allocation accuracy: 50
+limit 1 to 5
+/tmp/1619211069233.txt
+Allocation accuracy: 50
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 100
+views wasted:0
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 100
+views wasted:0
+limit 1 to 5
+/tmp/1619211188745.txt
+Allocation accuracy: 100
+limit 1 to 5
+/tmp/1619211195070.txt
+Allocation accuracy: 100
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 150
+views wasted:0
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 150
+views wasted:0
+limit 1 to 5
+/tmp/1619211342808.txt
+Allocation accuracy: 150
+limit 1 to 5
+/tmp/1619211351032.txt
+Allocation accuracy: 150
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 200
+views wasted:7
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 200
+views wasted:7
+limit 1 to 5
+/tmp/1619211622760.txt
+Allocation accuracy: 200
+limit 1 to 5
+/tmp/1619211632867.txt
+Allocation accuracy: 200
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 250
+views wasted:7
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 250
+views wasted:7
+limit 1 to 5
+/tmp/1619211935545.txt
+Allocation accuracy: 250
+limit 1 to 5
+/tmp/1619211946930.txt
+Allocation accuracy: 250
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 300
+views wasted:7
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 300
+views wasted:7
+limit 1 to 5
+/tmp/1619212274523.txt
+Allocation accuracy: 300
+limit 1 to 5
+/tmp/1619212288133.txt
+Allocation accuracy: 300
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 350
+views wasted:0
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 350
+views wasted:0
+limit 1 to 5
+/tmp/1619212551599.txt
+Allocation accuracy: 350
+limit 1 to 5
+/tmp/1619212566177.txt
+Allocation accuracy: 350
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 400
+views wasted:7
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 400
+views wasted:7
+limit 1 to 5
+/tmp/1619212953358.txt
+Allocation accuracy: 400
+limit 1 to 5
+/tmp/1619212969903.txt
+Allocation accuracy: 400
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 450
+views wasted:7
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 450
+views wasted:7
+limit 1 to 5
+/tmp/1619213382183.txt
+Allocation accuracy: 450
+limit 1 to 5
+/tmp/1619213399725.txt
+Allocation accuracy: 450
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 500
+views wasted:7
+Loaded all files
+got patterns
+(28738, 502)
+Allocation accuracy new method: 500
+views wasted:7
+limit 1 to 5
+/tmp/1619213840477.txt
+Allocation accuracy: 492
+limit 1 to 5
+/tmp/1619213859907.txt
+Allocation accuracy: 500
+###############     ARGUMENTS     ############
+['plot_results.py', 'patterns/TIK1.txt', 'dataset/T40I10D100K.txt', '500', '10000', '5000']
+##############################################
+web_page_to_adv_json_file : ./1619210970635.json
+allocated_adslots_file: ./1619210970640.json
+ALLOCATING WITH OUR NEW METHOD: 50
+AD REPEATABILITY OF OUR NEW METHOD : 50
+0.0
+
+ALLOCATING WITH OUR OLD METHOD: 50
+AD REPEATABILITY OF ONE-SLOT METHOD : 50
+0.0
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 50
+AD REPEATABILITY OF RANDOM METHOD: 50
+0.26532
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 50
+AD REPEATABILITY OF RANDOM METHOD: 50
+0.23859
+
+ALLOCATING WITH OUR NEW METHOD: 100
+AD REPEATABILITY OF OUR NEW METHOD : 100
+0.0
+
+ALLOCATING WITH OUR OLD METHOD: 100
+AD REPEATABILITY OF ONE-SLOT METHOD : 100
+0.0
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 100
+AD REPEATABILITY OF RANDOM METHOD: 100
+0.58367
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 100
+AD REPEATABILITY OF RANDOM METHOD: 100
+0.4755
+
+ALLOCATING WITH OUR NEW METHOD: 150
+AD REPEATABILITY OF OUR NEW METHOD : 150
+0.0
+
+ALLOCATING WITH OUR OLD METHOD: 150
+AD REPEATABILITY OF ONE-SLOT METHOD : 150
+0.0
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 150
+AD REPEATABILITY OF RANDOM METHOD: 150
+0.80816
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 150
+AD REPEATABILITY OF RANDOM METHOD: 150
+0.81146
+
+ALLOCATING WITH OUR NEW METHOD: 200
+AD REPEATABILITY OF OUR NEW METHOD : 200
+7e-05
+
+ALLOCATING WITH OUR OLD METHOD: 200
+AD REPEATABILITY OF ONE-SLOT METHOD : 200
+7e-05
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 200
+AD REPEATABILITY OF RANDOM METHOD: 200
+1.0074
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 200
+AD REPEATABILITY OF RANDOM METHOD: 200
+0.90379
+
+ALLOCATING WITH OUR NEW METHOD: 250
+AD REPEATABILITY OF OUR NEW METHOD : 250
+7e-05
+
+ALLOCATING WITH OUR OLD METHOD: 250
+AD REPEATABILITY OF ONE-SLOT METHOD : 250
+7e-05
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 250
+AD REPEATABILITY OF RANDOM METHOD: 250
+1.449
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 250
+AD REPEATABILITY OF RANDOM METHOD: 250
+1.32176
+
+ALLOCATING WITH OUR NEW METHOD: 300
+AD REPEATABILITY OF OUR NEW METHOD : 300
+7e-05
+
+ALLOCATING WITH OUR OLD METHOD: 300
+AD REPEATABILITY OF ONE-SLOT METHOD : 300
+7e-05
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 300
+AD REPEATABILITY OF RANDOM METHOD: 300
+1.64034
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 300
+AD REPEATABILITY OF RANDOM METHOD: 300
+1.55459
+
+ALLOCATING WITH OUR NEW METHOD: 350
+AD REPEATABILITY OF OUR NEW METHOD : 350
+0.0
+
+ALLOCATING WITH OUR OLD METHOD: 350
+AD REPEATABILITY OF ONE-SLOT METHOD : 350
+0.0
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 350
+AD REPEATABILITY OF RANDOM METHOD: 350
+1.85475
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 350
+AD REPEATABILITY OF RANDOM METHOD: 350
+1.71753
+
+ALLOCATING WITH OUR NEW METHOD: 400
+AD REPEATABILITY OF OUR NEW METHOD : 400
+7e-05
+
+ALLOCATING WITH OUR OLD METHOD: 400
+AD REPEATABILITY OF ONE-SLOT METHOD : 400
+7e-05
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 400
+AD REPEATABILITY OF RANDOM METHOD: 400
+2.21808
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 400
+AD REPEATABILITY OF RANDOM METHOD: 400
+1.96262
+
+ALLOCATING WITH OUR NEW METHOD: 450
+AD REPEATABILITY OF OUR NEW METHOD : 450
+7e-05
+
+ALLOCATING WITH OUR OLD METHOD: 450
+AD REPEATABILITY OF ONE-SLOT METHOD : 450
+7e-05
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 450
+AD REPEATABILITY OF RANDOM METHOD: 450
+2.30864
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 450
+AD REPEATABILITY OF RANDOM METHOD: 450
+2.28555
+
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+7e-05
+
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+7e-05
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+2.7359
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+2.55379
+
+allocated
+{'VFS_one_method': [50, 100, 150, 200, 250, 300, 350, 400, 450, 493], 'VFS_multi_method': [50, 100, 150, 200, 250, 300, 350, 400, 450, 500], 'new_method': [50, 100, 150, 200, 250, 300, 350, 400, 450, 500], 'oneslot_method': [50, 100, 150, 200, 250, 300, 350, 400, 450, 500]}
+adrepp
+{'VFS_one_method': ['0.26532', '0.58367', '0.80816', '1.0074', '1.449', '1.64034', '1.85475', '2.21808', '2.30864', '2.7359'], 'VFS_multi_method': ['0.23859', '0.4755', '0.81146', '0.90379', '1.32176', '1.55459', '1.71753', '1.96262', '2.28555', '2.55379'], 'new_method': ['0.0', '0.0', '0.0', '7e-05', '7e-05', '7e-05', '0.0', '7e-05', '7e-05', '7e-05'], 'oneslot_method': ['0.0', '0.0', '0.0', '7e-05', '7e-05', '7e-05', '0.0', '7e-05', '7e-05', '7e-05']}
+revenue
+{'VFS_one_method': [477316, 1022108, 1513126, 1950791, 2503763, 2984422, 3465880, 4037281, 4429115, 4864250], 'VFS_multi_method': [477316, 1022108, 1513126, 1950791, 2503763, 2984422, 3465880, 4037281, 4429115, 4934767], 'new_method': [477316, 1022108, 1513126, 1950791, 2503763, 2984422, 3465880, 4037281, 4429115, 4934767], 'oneslot_method': [477316, 1022108, 1513126, 1950791, 2503763, 2984422, 3465880, 4037281, 4429115, 4934767]}

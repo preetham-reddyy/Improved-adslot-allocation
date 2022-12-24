@@ -1,0 +1,47 @@
+==========================================
+SLURM_JOB_ID = 373125
+SLURM_NODELIST = gnode31
+SLURM_JOB_GPUS = 
+==========================================
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 409
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 351
+limit 1 to 5
+/tmp/1619101124544.txt
+Allocation accuracy: 500
+limit 1 to 5
+/tmp/1619101972171.txt
+Allocation accuracy: 500
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+0.000130302767065
+
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+0.000153535043364
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+0.72991569714
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+0.688003660599
+
+{'VFS_one_method': [500], 'VFS_multi_method': [500], 'new_method': [409], 'oneslot_method': [351]}
+{'VFS_one_method': ['0.72991569714'], 'VFS_multi_method': ['0.688003660599'], 'new_method': ['0.000130302767065'], 'oneslot_method': ['0.000153535043364']}
+{'VFS_one_method': [6207228], 'VFS_multi_method': [6207228], 'new_method': [4931736], 'oneslot_method': [4064937]}
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 391
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 338
+slurmstepd: error: *** JOB 373125 ON gnode31 CANCELLED AT 2021-04-22T20:55:04 ***

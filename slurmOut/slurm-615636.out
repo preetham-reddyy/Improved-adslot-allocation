@@ -1,0 +1,3822 @@
+==========================================
+SLURM_JOB_ID = 615636
+SLURM_NODELIST = gnode48
+SLURM_JOB_GPUS = 
+==========================================
+got patterns
+sorted patterns
+started allocation
+required 5999
+patterns nunchi allocate ayindha 5999.0 True 5641092
+allocated pattern set([112, 94, 14, 317])
+web pages ayyasarki allocate ayindha True 5999.0
+required 5997
+patterns nunchi allocate ayindha 5997.0 True 5641148
+allocated pattern set([112, 14, 134, 143])
+web pages ayyasarki allocate ayindha True 5997.0
+required 5996
+patterns nunchi allocate ayindha 5996.0 True 5641180
+allocated pattern set([112, 143, 14, 327])
+web pages ayyasarki allocate ayindha True 5996.0
+required 5991
+patterns nunchi allocate ayindha 5991.0 True 3382145
+allocated pattern set([327, 132, 143, 7])
+web pages ayyasarki allocate ayindha True 5991.0
+required 5987
+patterns nunchi allocate ayindha 5987.0 True 2981790
+allocated pattern set([118, 317, 38, 7])
+web pages ayyasarki allocate ayindha True 5987.0
+required 5987
+patterns nunchi allocate ayindha 5987.0 True 2981790
+allocated pattern set([118, 317, 38, 7])
+web pages ayyasarki allocate ayindha True 5987.0
+required 5978
+patterns nunchi allocate ayindha 5978.0 True 2105593
+allocated pattern set([43, 180, 134, 327])
+web pages ayyasarki allocate ayindha True 5978.0
+required 5972
+patterns nunchi allocate ayindha 5972.0 True 1929902
+allocated pattern set([288, 227, 246])
+web pages ayyasarki allocate ayindha True 5972.0
+required 5968
+patterns nunchi allocate ayindha 5968.0 True 1929948
+allocated pattern set([104, 105, 307])
+web pages ayyasarki allocate ayindha True 5968.0
+required 5958
+patterns nunchi allocate ayindha 5958.0 True 1930082
+allocated pattern set([288, 250, 227])
+web pages ayyasarki allocate ayindha True 5958.0
+required 5955
+patterns nunchi allocate ayindha 5955.0 True 1930120
+allocated pattern set([43, 116, 94, 134])
+web pages ayyasarki allocate ayindha True 5955.0
+required 5947
+patterns nunchi allocate ayindha 5947.0 True 1685239
+allocated pattern set([122, 268, 79])
+web pages ayyasarki allocate ayindha True 5947.0
+required 5941
+patterns nunchi allocate ayindha 5941.0 True 1685288
+allocated pattern set([104, 227, 71])
+web pages ayyasarki allocate ayindha True 5941.0
+required 5941
+patterns nunchi allocate ayindha 5941.0 True 1521716
+allocated pattern set([184, 273, 95])
+web pages ayyasarki allocate ayindha True 5941.0
+required 5923
+patterns nunchi allocate ayindha 5923.0 True 1521911
+allocated pattern set([57, 306, 68])
+web pages ayyasarki allocate ayindha True 5923.0
+required 5921
+patterns nunchi allocate ayindha 5921.0 True 1521939
+allocated pattern set([82, 307, 268])
+web pages ayyasarki allocate ayindha True 5921.0
+required 5915
+patterns nunchi allocate ayindha 5915.0 True 1521996
+allocated pattern set([57, 2, 246])
+web pages ayyasarki allocate ayindha True 5915.0
+required 5915
+patterns nunchi allocate ayindha 5915.0 True 1521996
+allocated pattern set([57, 2, 246])
+web pages ayyasarki allocate ayindha True 5915.0
+required 5907
+patterns nunchi allocate ayindha 5907.0 True 1220163
+allocated pattern set([288, 105, 68])
+web pages ayyasarki allocate ayindha True 5907.0
+required 5906
+patterns nunchi allocate ayindha 5906.0 True 1075394
+allocated pattern set([105, 306, 68])
+web pages ayyasarki allocate ayindha True 5906.0
+required 5904
+patterns nunchi allocate ayindha 5904.0 True 832606
+allocated pattern set([104, 186, 94])
+web pages ayyasarki allocate ayindha True 5904.0
+required 5900
+patterns nunchi allocate ayindha 5900.0 True 570653
+allocated pattern set([137, 18, 2])
+web pages ayyasarki allocate ayindha True 5900.0
+required 5900
+patterns nunchi allocate ayindha 5900.0 True 508747
+allocated pattern set([307, 116, 222])
+web pages ayyasarki allocate ayindha True 5900.0
+required 5897
+patterns nunchi allocate ayindha 5897.0 True 456801
+allocated pattern set([161, 250, 268])
+web pages ayyasarki allocate ayindha True 5897.0
+required 5885
+patterns nunchi allocate ayindha 5885.0 True 387104
+allocated pattern set([32, 137, 79])
+web pages ayyasarki allocate ayindha True 5885.0
+required 5884
+patterns nunchi allocate ayindha 5884.0 True 387112
+allocated pattern set([129, 118, 273])
+web pages ayyasarki allocate ayindha True 5884.0
+required 5881
+patterns nunchi allocate ayindha 5881.0 True 343826
+allocated pattern set([273, 18, 26])
+web pages ayyasarki allocate ayindha True 5881.0
+required 5879
+patterns nunchi allocate ayindha 5879.0 True 330013
+allocated pattern set([18, 180, 82])
+web pages ayyasarki allocate ayindha True 5879.0
+required 5860
+patterns nunchi allocate ayindha 5860.0 True 314626
+allocated pattern set([82, 132, 334])
+web pages ayyasarki allocate ayindha True 5860.0
+required 5855
+patterns nunchi allocate ayindha 5855.0 True 265763
+allocated pattern set([184, 251, 116])
+web pages ayyasarki allocate ayindha True 5855.0
+required 5852
+patterns nunchi allocate ayindha 5852.0 True 257524
+allocated pattern set([24, 180, 95])
+web pages ayyasarki allocate ayindha True 5852.0
+required 5843
+patterns nunchi allocate ayindha 5843.0 True 235230
+allocated pattern set([186, 894, 71])
+web pages ayyasarki allocate ayindha True 5843.0
+required 5843
+patterns nunchi allocate ayindha 5843.0 True 235230
+allocated pattern set([186, 894, 71])
+web pages ayyasarki allocate ayindha True 5843.0
+required 5838
+patterns nunchi allocate ayindha 5838.0 True 166903
+allocated pattern set([161, 210, 132])
+web pages ayyasarki allocate ayindha True 5838.0
+required 5824
+patterns nunchi allocate ayindha 5824.0 True 105627
+allocated pattern set([184, 26, 79])
+web pages ayyasarki allocate ayindha True 5824.0
+required 5818
+patterns nunchi allocate ayindha 5818.0 True 91217
+allocated pattern set([161, 306, 29])
+web pages ayyasarki allocate ayindha True 5818.0
+required 5815
+patterns nunchi allocate ayindha 5816.0 True 74581
+allocated pattern set([217, 43, 38])
+web pages ayyasarki allocate ayindha True 5816.0
+required 5815
+patterns nunchi allocate ayindha 5816.0 True 71089
+allocated pattern set([210, 47])
+web pages ayyasarki allocate ayindha True 5816.0
+required 5814
+patterns nunchi allocate ayindha 5814.0 True 71091
+allocated pattern set([251, 222, 95])
+web pages ayyasarki allocate ayindha True 5814.0
+required 5813
+patterns nunchi allocate ayindha 5813.0 True 68475
+allocated pattern set([334, 85, 894])
+web pages ayyasarki allocate ayindha True 5813.0
+required 5806
+patterns nunchi allocate ayindha 5809.0 True 63731
+allocated pattern set([99, 59])
+web pages ayyasarki allocate ayindha True 5809.0
+required 5805
+patterns nunchi allocate ayindha 5809.0 True 63731
+allocated pattern set([99, 59])
+web pages ayyasarki allocate ayindha True 5809.0
+required 5804
+patterns nunchi allocate ayindha 5809.0 True 63731
+allocated pattern set([99, 59])
+web pages ayyasarki allocate ayindha True 5809.0
+required 5799
+patterns nunchi allocate ayindha 5800.0 True 49642
+allocated pattern set([137, 85, 222])
+web pages ayyasarki allocate ayindha True 5800.0
+required 5776
+patterns nunchi allocate ayindha 5780.0 True 45042
+allocated pattern set([64, 28])
+web pages ayyasarki allocate ayindha True 5780.0
+required 5776
+patterns nunchi allocate ayindha 5780.0 True 45042
+allocated pattern set([64, 28])
+web pages ayyasarki allocate ayindha True 5780.0
+required 5768
+patterns nunchi allocate ayindha 5770.0 True 45046
+allocated pattern set([233, 89])
+web pages ayyasarki allocate ayindha True 5770.0
+required 5758
+patterns nunchi allocate ayindha 5758.0 True 45048
+allocated pattern set([156, 47])
+web pages ayyasarki allocate ayindha True 5758.0
+required 5758
+patterns nunchi allocate ayindha 5758.0 True 45048
+allocated pattern set([156, 47])
+web pages ayyasarki allocate ayindha True 5758.0
+required 5754
+patterns nunchi allocate ayindha 5754.0 True 42637
+allocated pattern set([145, 251])
+web pages ayyasarki allocate ayindha True 5754.0
+required 5747
+patterns nunchi allocate ayindha 5747.0 True 36723
+allocated pattern set([242, 28])
+web pages ayyasarki allocate ayindha True 5747.0
+required 5744
+patterns nunchi allocate ayindha 5746.0 True 32448
+allocated pattern set([64, 146])
+web pages ayyasarki allocate ayindha True 5746.0
+required 5741
+patterns nunchi allocate ayindha 5770.0 True 29342
+allocated pattern set([233, 89])
+web pages ayyasarki allocate ayindha True 5770.0
+required 5727
+patterns nunchi allocate ayindha 5739.0 True 29343
+allocated pattern set([122, 270])
+web pages ayyasarki allocate ayindha True 5739.0
+required 5727
+patterns nunchi allocate ayindha 5739.0 True 29343
+allocated pattern set([122, 270])
+web pages ayyasarki allocate ayindha True 5739.0
+required 5711
+patterns nunchi allocate ayindha 5718.0 True 23121
+allocated pattern set([217, 19])
+web pages ayyasarki allocate ayindha True 5718.0
+required 5705
+patterns nunchi allocate ayindha 5718.0 True 23121
+allocated pattern set([217, 19])
+web pages ayyasarki allocate ayindha True 5718.0
+required 5704
+patterns nunchi allocate ayindha 5723.0 True 18686
+allocated pattern set([270, 334])
+web pages ayyasarki allocate ayindha True 5723.0
+required 5704
+patterns nunchi allocate ayindha 5723.0 True 13895
+allocated pattern set([145, 85])
+web pages ayyasarki allocate ayindha True 5723.0
+required 5699
+patterns nunchi allocate ayindha 5770.0 True 12709
+allocated pattern set([233, 89])
+web pages ayyasarki allocate ayindha True 5770.0
+required 5686
+patterns nunchi allocate ayindha 5850.0 True 9436
+allocated pattern set([250, 127])
+web pages ayyasarki allocate ayindha True 5850.0
+required 5686
+patterns nunchi allocate ayindha 6011.0 True 8052
+allocated pattern set([172])
+web pages ayyasarki allocate ayindha True 6011.0
+required 5681
+patterns nunchi allocate ayindha 6011.0 True 8052
+allocated pattern set([172])
+web pages ayyasarki allocate ayindha True 6011.0
+required 5677
+patterns nunchi allocate ayindha 6011.0 True 8052
+allocated pattern set([172])
+web pages ayyasarki allocate ayindha True 6011.0
+required 5665
+patterns nunchi allocate ayindha 5676.0 True 7757
+allocated pattern set([60])
+web pages ayyasarki allocate ayindha True 5676.0
+required 5656
+patterns nunchi allocate ayindha 5662.0 True 7758
+allocated pattern set([145, 26])
+web pages ayyasarki allocate ayindha True 5662.0
+required 5650
+patterns nunchi allocate ayindha 5676.0 True 4778
+allocated pattern set([60])
+web pages ayyasarki allocate ayindha True 5676.0
+required 5643
+patterns nunchi allocate ayindha 5676.0 True 4778
+allocated pattern set([60])
+web pages ayyasarki allocate ayindha True 5676.0
+required 5642
+patterns nunchi allocate ayindha 6027.0 True 4621
+allocated pattern set([129, 127])
+web pages ayyasarki allocate ayindha True 6027.0
+required 5633
+patterns nunchi allocate ayindha 6027.0 True 4621
+allocated pattern set([129, 127])
+web pages ayyasarki allocate ayindha True 6027.0
+required 5628
+patterns nunchi allocate ayindha 5629.0 True 3562
+allocated pattern set([242, 12])
+web pages ayyasarki allocate ayindha True 5629.0
+required 5628
+patterns nunchi allocate ayindha 5629.0 True 3562
+allocated pattern set([242, 12])
+web pages ayyasarki allocate ayindha True 5629.0
+required 5623
+patterns nunchi allocate ayindha 6349.0 True 2987
+allocated pattern set([241, 173])
+web pages ayyasarki allocate ayindha True 6349.0
+required 5618
+patterns nunchi allocate ayindha 6349.0 True 2987
+allocated pattern set([241, 173])
+web pages ayyasarki allocate ayindha True 6349.0
+required 5607
+patterns nunchi allocate ayindha 6349.0 True 2987
+allocated pattern set([241, 173])
+web pages ayyasarki allocate ayindha True 6349.0
+required 5596
+patterns nunchi allocate ayindha 6359.0 True 2143
+allocated pattern set([70])
+web pages ayyasarki allocate ayindha True 6359.0
+required 5594
+patterns nunchi allocate ayindha 6359.0 True 2143
+allocated pattern set([70])
+web pages ayyasarki allocate ayindha True 6359.0
+required 5587
+patterns nunchi allocate ayindha 6359.0 True 2143
+allocated pattern set([70])
+web pages ayyasarki allocate ayindha True 6359.0
+required 5585
+patterns nunchi allocate ayindha 6444.0 True 2096
+allocated pattern set([53])
+web pages ayyasarki allocate ayindha True 6444.0
+required 5584
+patterns nunchi allocate ayindha 6444.0 True 2096
+allocated pattern set([53])
+web pages ayyasarki allocate ayindha True 6444.0
+required 5584
+patterns nunchi allocate ayindha 6444.0 True 2096
+allocated pattern set([53])
+web pages ayyasarki allocate ayindha True 6444.0
+required 5580
+patterns nunchi allocate ayindha 6575.0 True 2056
+allocated pattern set([92])
+web pages ayyasarki allocate ayindha True 6575.0
+required 5570
+patterns nunchi allocate ayindha 6575.0 True 2056
+allocated pattern set([92])
+web pages ayyasarki allocate ayindha True 6575.0
+required 5562
+patterns nunchi allocate ayindha 6575.0 True 2056
+allocated pattern set([92])
+web pages ayyasarki allocate ayindha True 6575.0
+required 5557
+patterns nunchi allocate ayindha 6613.0 True 2019
+allocated pattern set([11])
+web pages ayyasarki allocate ayindha True 6613.0
+required 5553
+patterns nunchi allocate ayindha 6613.0 True 2019
+allocated pattern set([11])
+web pages ayyasarki allocate ayindha True 6613.0
+required 5552
+patterns nunchi allocate ayindha 6613.0 True 2019
+allocated pattern set([11])
+web pages ayyasarki allocate ayindha True 6613.0
+required 5552
+patterns nunchi allocate ayindha 6955.0 True 1976
+allocated pattern set([16, 24])
+web pages ayyasarki allocate ayindha True 6955.0
+required 5539
+patterns nunchi allocate ayindha 6955.0 True 1976
+allocated pattern set([16, 24])
+web pages ayyasarki allocate ayindha True 6955.0
+required 5538
+patterns nunchi allocate ayindha 6973.0 True 1318
+allocated pattern set([16, 29])
+web pages ayyasarki allocate ayindha True 6973.0
+required 5536
+patterns nunchi allocate ayindha 6983.0 True 1184
+allocated pattern set([12, 157])
+web pages ayyasarki allocate ayindha True 6983.0
+required 5535
+patterns nunchi allocate ayindha 7007.0 True 1040
+allocated pattern set([157, 29])
+web pages ayyasarki allocate ayindha True 7007.0
+required 5534
+patterns nunchi allocate ayindha 7012.0 True 800
+allocated pattern set([156, 157])
+web pages ayyasarki allocate ayindha True 7012.0
+required 5530
+patterns nunchi allocate ayindha 7023.0 True 406
+allocated pattern set([17, 146])
+web pages ayyasarki allocate ayindha True 7023.0
+required 5519
+patterns nunchi allocate ayindha 7023.0 True 406
+allocated pattern set([17, 146])
+web pages ayyasarki allocate ayindha True 7023.0
+required 5502
+patterns nunchi allocate ayindha 7037.0 True 351
+allocated pattern set([32, 17])
+web pages ayyasarki allocate ayindha True 7037.0
+required 5499
+patterns nunchi allocate ayindha 7073.0 True 294
+allocated pattern set([32, 83])
+web pages ayyasarki allocate ayindha True 7073.0
+required 5496
+patterns nunchi allocate ayindha 7109.0 True 248
+allocated pattern set([96, 210])
+web pages ayyasarki allocate ayindha True 7109.0
+required 5496
+patterns nunchi allocate ayindha 7122.0 True 210
+allocated pattern set([96, 194])
+web pages ayyasarki allocate ayindha True 7122.0
+required 5480
+patterns nunchi allocate ayindha 7122.0 True 210
+allocated pattern set([96, 194])
+web pages ayyasarki allocate ayindha True 7122.0
+required 5478
+patterns nunchi allocate ayindha 7138.0 True 183
+allocated pattern set([194, 83])
+web pages ayyasarki allocate ayindha True 7138.0
+required 5475
+patterns nunchi allocate ayindha 7182.0 True 172
+allocated pattern set([136, 83])
+web pages ayyasarki allocate ayindha True 7182.0
+required 5448
+patterns nunchi allocate ayindha 5450.0 True 139
+allocated pattern set([139])
+web pages ayyasarki allocate ayindha True 5450.0
+required 5444
+patterns nunchi allocate ayindha 5450.0 True 139
+allocated pattern set([139])
+web pages ayyasarki allocate ayindha True 5450.0
+required 5443
+patterns nunchi allocate ayindha 5450.0 True 139
+allocated pattern set([139])
+web pages ayyasarki allocate ayindha True 5450.0
+required 5438
+patterns nunchi allocate ayindha 7319.0 True 119
+allocated pattern set([136, 229])
+web pages ayyasarki allocate ayindha True 7319.0
+required 5435
+patterns nunchi allocate ayindha 7319.0 True 119
+allocated pattern set([136, 229])
+web pages ayyasarki allocate ayindha True 7319.0
+required 5421
+patterns nunchi allocate ayindha 7427.0 True 92
+allocated pattern set([19, 229])
+web pages ayyasarki allocate ayindha True 7427.0
+required 5419
+patterns nunchi allocate ayindha 7596.0 True 55
+allocated pattern set([62])
+web pages ayyasarki allocate ayindha True 7596.0
+required 5418
+patterns nunchi allocate ayindha 7596.0 True 55
+allocated pattern set([62])
+web pages ayyasarki allocate ayindha True 7596.0
+required 5411
+patterns nunchi allocate ayindha 7596.0 True 55
+allocated pattern set([62])
+web pages ayyasarki allocate ayindha True 7596.0
+required 5405
+patterns nunchi allocate ayindha 8066.0 True 50
+allocated pattern set([81])
+web pages ayyasarki allocate ayindha True 8066.0
+required 5404
+patterns nunchi allocate ayindha 8066.0 True 50
+allocated pattern set([81])
+web pages ayyasarki allocate ayindha True 8066.0
+required 5404
+patterns nunchi allocate ayindha 8066.0 True 50
+allocated pattern set([81])
+web pages ayyasarki allocate ayindha True 8066.0
+required 5402
+patterns nunchi allocate ayindha 8252.0 True 42
+allocated pattern set([23])
+web pages ayyasarki allocate ayindha True 8252.0
+required 5393
+patterns nunchi allocate ayindha 8252.0 True 42
+allocated pattern set([23])
+web pages ayyasarki allocate ayindha True 8252.0
+required 5387
+patterns nunchi allocate ayindha 8252.0 True 42
+allocated pattern set([23])
+web pages ayyasarki allocate ayindha True 8252.0
+required 5373
+patterns nunchi allocate ayindha 8370.0 True 37
+allocated pattern set([65])
+web pages ayyasarki allocate ayindha True 8370.0
+required 5364
+patterns nunchi allocate ayindha 8370.0 True 37
+allocated pattern set([65])
+web pages ayyasarki allocate ayindha True 8370.0
+required 5356
+patterns nunchi allocate ayindha 8370.0 True 37
+allocated pattern set([65])
+web pages ayyasarki allocate ayindha True 8370.0
+required 5354
+patterns nunchi allocate ayindha 8390.0 True 33
+allocated pattern set([36])
+web pages ayyasarki allocate ayindha True 8390.0
+required 5344
+patterns nunchi allocate ayindha 8390.0 True 33
+allocated pattern set([36])
+web pages ayyasarki allocate ayindha True 8390.0
+required 5338
+patterns nunchi allocate ayindha 8390.0 True 33
+allocated pattern set([36])
+web pages ayyasarki allocate ayindha True 8390.0
+required 5338
+patterns nunchi allocate ayindha 8529.0 True 28
+allocated pattern set([37])
+web pages ayyasarki allocate ayindha True 8529.0
+required 5337
+patterns nunchi allocate ayindha 8529.0 True 28
+allocated pattern set([37])
+web pages ayyasarki allocate ayindha True 8529.0
+required 5331
+patterns nunchi allocate ayindha 8529.0 True 28
+allocated pattern set([37])
+web pages ayyasarki allocate ayindha True 8529.0
+required 5325
+patterns nunchi allocate ayindha 8537.0 True 21
+allocated pattern set([63])
+web pages ayyasarki allocate ayindha True 8537.0
+required 5324
+patterns nunchi allocate ayindha 8537.0 True 21
+allocated pattern set([63])
+web pages ayyasarki allocate ayindha True 8537.0
+required 5320
+patterns nunchi allocate ayindha 8537.0 True 21
+allocated pattern set([63])
+web pages ayyasarki allocate ayindha True 8537.0
+required 5317
+patterns nunchi allocate ayindha 9520.0 True 18
+allocated pattern set([61, 86])
+web pages ayyasarki allocate ayindha True 9520.0
+required 5316
+patterns nunchi allocate ayindha 9520.0 True 18
+allocated pattern set([61, 86])
+web pages ayyasarki allocate ayindha True 9520.0
+required 5312
+patterns nunchi allocate ayindha 9520.0 True 18
+allocated pattern set([61, 86])
+web pages ayyasarki allocate ayindha True 9520.0
+required 5305
+patterns nunchi allocate ayindha 5307.0 True 13
+allocated pattern set([74])
+web pages ayyasarki allocate ayindha True 5307.0
+required 5301
+patterns nunchi allocate ayindha 5307.0 True 13
+allocated pattern set([74])
+web pages ayyasarki allocate ayindha True 5307.0
+required 5299
+patterns nunchi allocate ayindha 5307.0 True 13
+allocated pattern set([74])
+web pages ayyasarki allocate ayindha True 5307.0
+required 5293
+patterns nunchi allocate ayindha 5293.0 True 11
+allocated pattern set([98])
+web pages ayyasarki allocate ayindha True 5293.0
+required 5268
+patterns nunchi allocate ayindha 5293.0 True 11
+allocated pattern set([98])
+web pages ayyasarki allocate ayindha True 5293.0
+required 5267
+patterns nunchi allocate ayindha 5293.0 True 11
+allocated pattern set([98])
+web pages ayyasarki allocate ayindha True 5293.0
+required 5263
+patterns nunchi allocate ayindha 10320.0 True 9
+allocated pattern set([34])
+web pages ayyasarki allocate ayindha True 10320.0
+required 5254
+patterns nunchi allocate ayindha 10320.0 True 9
+allocated pattern set([34])
+web pages ayyasarki allocate ayindha True 10320.0
+required 5254
+patterns nunchi allocate ayindha 10320.0 True 9
+allocated pattern set([34])
+web pages ayyasarki allocate ayindha True 10320.0
+required 5248
+patterns nunchi allocate ayindha 11433.0 True 8
+allocated pattern set([10])
+web pages ayyasarki allocate ayindha True 11433.0
+required 5242
+patterns nunchi allocate ayindha 11433.0 True 8
+allocated pattern set([10])
+web pages ayyasarki allocate ayindha True 11433.0
+required 5240
+patterns nunchi allocate ayindha 11433.0 True 8
+allocated pattern set([10])
+web pages ayyasarki allocate ayindha True 11433.0
+required 5232
+patterns nunchi allocate ayindha 12050.0 True 7
+allocated pattern set([42])
+web pages ayyasarki allocate ayindha True 12050.0
+required 5223
+patterns nunchi allocate ayindha 12050.0 True 7
+allocated pattern set([42])
+web pages ayyasarki allocate ayindha True 12050.0
+required 5223
+patterns nunchi allocate ayindha 12050.0 True 7
+allocated pattern set([42])
+web pages ayyasarki allocate ayindha True 12050.0
+required 5222
+patterns nunchi allocate ayindha 12423.0 True 6
+allocated pattern set([33])
+web pages ayyasarki allocate ayindha True 12423.0
+required 5220
+patterns nunchi allocate ayindha 12423.0 True 6
+allocated pattern set([33])
+web pages ayyasarki allocate ayindha True 12423.0
+required 5211
+patterns nunchi allocate ayindha 12423.0 True 6
+allocated pattern set([33])
+web pages ayyasarki allocate ayindha True 12423.0
+required 5207
+patterns nunchi allocate ayindha 13442.0 True 5
+allocated pattern set([30])
+web pages ayyasarki allocate ayindha True 13442.0
+required 5201
+patterns nunchi allocate ayindha 13442.0 True 5
+allocated pattern set([30])
+web pages ayyasarki allocate ayindha True 13442.0
+required 5189
+patterns nunchi allocate ayindha 13442.0 True 5
+allocated pattern set([30])
+web pages ayyasarki allocate ayindha True 13442.0
+required 5186
+patterns nunchi allocate ayindha 16573.0 True 4
+allocated pattern set([1])
+web pages ayyasarki allocate ayindha True 16573.0
+required 5184
+patterns nunchi allocate ayindha 16573.0 True 4
+allocated pattern set([1])
+web pages ayyasarki allocate ayindha True 16573.0
+required 5180
+patterns nunchi allocate ayindha 16573.0 True 4
+allocated pattern set([1])
+web pages ayyasarki allocate ayindha True 16573.0
+required 5180
+patterns nunchi allocate ayindha 19297.0 True 3
+allocated pattern set([9])
+web pages ayyasarki allocate ayindha True 19297.0
+required 5169
+patterns nunchi allocate ayindha 19297.0 True 3
+allocated pattern set([9])
+web pages ayyasarki allocate ayindha True 19297.0
+required 5159
+patterns nunchi allocate ayindha 19297.0 True 3
+allocated pattern set([9])
+web pages ayyasarki allocate ayindha True 19297.0
+required 5156
+patterns nunchi allocate ayindha 21708.0 True 2
+allocated pattern set([35])
+web pages ayyasarki allocate ayindha True 21708.0
+required 5154
+patterns nunchi allocate ayindha 21708.0 True 2
+allocated pattern set([35])
+web pages ayyasarki allocate ayindha True 21708.0
+required 5153
+patterns nunchi allocate ayindha 21708.0 True 2
+allocated pattern set([35])
+web pages ayyasarki allocate ayindha True 21708.0
+required 5145
+patterns nunchi allocate ayindha 22691.0 True 1
+allocated pattern set([8])
+web pages ayyasarki allocate ayindha True 22691.0
+required 5142
+patterns nunchi allocate ayindha 22691.0 True 1
+allocated pattern set([8])
+web pages ayyasarki allocate ayindha True 22691.0
+required 5142
+patterns nunchi allocate ayindha 22691.0 True 1
+allocated pattern set([8])
+web pages ayyasarki allocate ayindha True 22691.0
+required 5137
+patterns nunchi allocate ayindha 5141.0 True 1
+allocated pattern set([109])
+web pages ayyasarki allocate ayindha True 5141.0
+required 5135
+patterns nunchi allocate ayindha 5141.0 True 1
+allocated pattern set([109])
+web pages ayyasarki allocate ayindha True 5141.0
+required 5131
+patterns nunchi allocate ayindha 5141.0 True 1
+allocated pattern set([109])
+web pages ayyasarki allocate ayindha True 5141.0
+required 5124
+patterns nunchi allocate ayindha 60725.0 True 0
+web pages ayyasarki allocate ayindha True 60725.0
+required 5102
+patterns nunchi allocate ayindha 60725.0 True 0
+web pages ayyasarki allocate ayindha True 60725.0
+required 5101
+patterns nunchi allocate ayindha 60725.0 True 0
+web pages ayyasarki allocate ayindha True 60725.0
+required 5099
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5791
+required 5093
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5100
+required 5077
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5545
+required 5074
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5382
+required 5068
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6180
+required 5053
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6229
+required 5040
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6604
+required 5033
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5444
+required 5032
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5951
+required 5032
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5361
+required 5030
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5314
+required 5021
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5898
+required 5021
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5142
+required 5019
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6450
+required 5003
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5588
+required 5003
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5439
+required 4994
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5394
+required 4994
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5151
+required 4979
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4995
+required 4979
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5561
+required 4970
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5635
+required 4968
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5798
+required 4968
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5394
+required 4956
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5374
+required 4950
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5331
+required 4949
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5299
+required 4947
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5449
+required 4942
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4966
+required 4938
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4952
+required 4936
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5029
+required 4926
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5868
+required 4926
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5040
+required 4919
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5835
+required 4918
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5323
+required 4915
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5901
+required 4896
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6161
+required 4894
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5094
+required 4893
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5156
+required 4882
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5516
+required 4882
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5394
+required 4880
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5227
+required 4880
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4935
+required 4877
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5044
+required 4877
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5514
+required 4872
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5071
+required 4868
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4882
+required 4867
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4996
+required 4857
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6101
+required 4855
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5806
+required 4850
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5126
+required 4839
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5269
+required 4837
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4891
+required 4836
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5250
+required 4832
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4832
+required 4827
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5113
+required 4821
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4849
+required 4806
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4835
+required 4805
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4865
+required 4803
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4867
+required 4798
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5330
+required 4794
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5088
+required 4790
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4926
+required 4787
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4956
+required 4784
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4821
+required 4782
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5287
+required 4778
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5514
+required 4773
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4793
+required 4768
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4849
+required 4764
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5215
+required 4752
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5501
+required 4749
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4855
+required 4742
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4760
+required 4735
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5138
+required 4733
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5735
+required 4730
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5237
+required 4728
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5109
+required 4722
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4944
+required 4722
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4916
+required 4714
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5679
+required 4712
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4974
+required 4710
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6239
+required 4710
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5191
+required 4709
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5219
+required 4708
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4796
+required 4706
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4844
+required 4706
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4859
+required 4703
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4749
+required 4694
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4889
+required 4684
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4687
+required 4679
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6048
+required 4661
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5362
+required 4661
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4666
+required 4656
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4830
+required 4653
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4814
+required 4653
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5413
+required 4642
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4664
+required 4637
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5345
+required 4622
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4639
+required 4606
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4744
+required 4597
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5122
+required 4596
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4909
+required 4596
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5157
+required 4595
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4864
+required 4592
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4676
+required 4591
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4659
+required 4590
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4617
+required 4581
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4961
+required 4575
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4651
+required 4572
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5415
+required 4569
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4633
+required 4560
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4566
+required 4553
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4560
+required 4552
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4896
+required 4552
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5240
+required 4550
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5073
+required 4549
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5524
+required 4549
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5242
+required 4540
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4644
+required 4538
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4559
+required 4537
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5917
+required 4533
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5361
+required 4525
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5102
+required 4525
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4618
+required 4525
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4521
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4521
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4519
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4514
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4512
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4511
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4504
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4503
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4501
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4501
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4499
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4496
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4493
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4489
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4485
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4480
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4477
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4465
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4462
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4455
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4449
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4440
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4432
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4410
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4401
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4401
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4399
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4397
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4385
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4385
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4384
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4368
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4367
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4363
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4361
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4361
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4348
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4343
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4336
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4333
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4323
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4321
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4317
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4296
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4293
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4278
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4277
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4276
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4274
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4268
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4266
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4261
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4254
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4253
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4251
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4246
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4245
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4243
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4237
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4236
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4215
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4207
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4202
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4202
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4194
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4192
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4183
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4177
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4167
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4161
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4160
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4152
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4149
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4143
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4143
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4134
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4132
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4128
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4114
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4104
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4099
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4094
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4086
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4083
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4078
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4073
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4073
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4070
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4068
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4060
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4052
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4050
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4048
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4042
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4041
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4037
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4031
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4030
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4028
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4028
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4028
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4018
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4015
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4015
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+required 4004
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 3021
+allocation failed, tried all things
+Allocation accuracy: 294
+Allocation accuracy new method: 294
+views wasted:0
+0.0
+got patterns
+sorted patterns
+started allocation
+required 5999
+patterns nunchi allocate ayindha 5999.0 True 5641092
+allocated pattern set([112, 94, 14, 317])
+web pages ayyasarki allocate ayindha True 5999.0
+required 5997
+patterns nunchi allocate ayindha 5997.0 True 1902485
+allocated pattern set([250, 227, 26])
+web pages ayyasarki allocate ayindha True 5997.0
+required 5996
+patterns nunchi allocate ayindha 5996.0 True 1323950
+allocated pattern set([327, 118, 134, 7])
+web pages ayyasarki allocate ayindha True 5996.0
+required 5991
+patterns nunchi allocate ayindha 5991.0 True 865241
+allocated pattern set([104, 129, 894])
+web pages ayyasarki allocate ayindha True 5991.0
+required 5987
+patterns nunchi allocate ayindha 5987.0 True 614616
+allocated pattern set([82, 268, 246])
+web pages ayyasarki allocate ayindha True 5987.0
+required 5987
+patterns nunchi allocate ayindha 5987.0 True 409174
+allocated pattern set([186, 85, 71])
+web pages ayyasarki allocate ayindha True 5987.0
+required 5978
+patterns nunchi allocate ayindha 5978.0 True 286090
+allocated pattern set([184, 251, 180])
+web pages ayyasarki allocate ayindha True 5978.0
+required 5972
+patterns nunchi allocate ayindha 5972.0 True 207852
+allocated pattern set([307, 132, 222])
+web pages ayyasarki allocate ayindha True 5972.0
+required 5968
+patterns nunchi allocate ayindha 5969.0 True 98708
+allocated pattern set([95, 43, 38, 143])
+web pages ayyasarki allocate ayindha True 5969.0
+required 5958
+patterns nunchi allocate ayindha 5958.0 True 80164
+allocated pattern set([32, 2, 116])
+web pages ayyasarki allocate ayindha True 5958.0
+required 5955
+patterns nunchi allocate ayindha 5956.0 True 62312
+allocated pattern set([233, 242])
+web pages ayyasarki allocate ayindha True 5956.0
+required 5947
+patterns nunchi allocate ayindha 5947.0 True 52936
+allocated pattern set([288, 306, 29])
+web pages ayyasarki allocate ayindha True 5947.0
+required 5941
+patterns nunchi allocate ayindha 5946.0 True 33989
+allocated pattern set([273, 173, 137])
+web pages ayyasarki allocate ayindha True 5946.0
+required 5941
+patterns nunchi allocate ayindha 5954.0 True 28671
+allocated pattern set([57, 18, 161])
+web pages ayyasarki allocate ayindha True 5954.0
+required 5923
+patterns nunchi allocate ayindha 5933.0 True 21280
+allocated pattern set([210, 270])
+web pages ayyasarki allocate ayindha True 5933.0
+required 5921
+patterns nunchi allocate ayindha 5939.0 True 15895
+allocated pattern set([59, 47])
+web pages ayyasarki allocate ayindha True 5939.0
+required 5915
+patterns nunchi allocate ayindha 5915.0 True 12459
+allocated pattern set([99, 28])
+web pages ayyasarki allocate ayindha True 5915.0
+required 5915
+patterns nunchi allocate ayindha 5961.0 True 9467
+allocated pattern set([68, 127])
+web pages ayyasarki allocate ayindha True 5961.0
+required 5907
+patterns nunchi allocate ayindha 5962.0 True 7724
+allocated pattern set([105, 334, 79])
+web pages ayyasarki allocate ayindha True 5962.0
+required 5906
+patterns nunchi allocate ayindha 6011.0 True 5107
+allocated pattern set([172])
+web pages ayyasarki allocate ayindha True 6011.0
+required 5904
+patterns nunchi allocate ayindha 6089.0 True 4800
+allocated pattern set([64, 89])
+web pages ayyasarki allocate ayindha True 6089.0
+required 5900
+patterns nunchi allocate ayindha 6254.0 True 3329
+allocated pattern set([241, 122])
+web pages ayyasarki allocate ayindha True 6254.0
+required 5900
+patterns nunchi allocate ayindha 6359.0 True 1794
+allocated pattern set([70])
+web pages ayyasarki allocate ayindha True 6359.0
+required 5897
+patterns nunchi allocate ayindha 6413.0 True 1734
+allocated pattern set([24, 145])
+web pages ayyasarki allocate ayindha True 6413.0
+required 5885
+patterns nunchi allocate ayindha 6444.0 True 1087
+allocated pattern set([53])
+web pages ayyasarki allocate ayindha True 6444.0
+required 5884
+patterns nunchi allocate ayindha 6575.0 True 1052
+allocated pattern set([92])
+web pages ayyasarki allocate ayindha True 6575.0
+required 5881
+patterns nunchi allocate ayindha 6613.0 True 1019
+allocated pattern set([11])
+web pages ayyasarki allocate ayindha True 6613.0
+required 5879
+patterns nunchi allocate ayindha 6983.0 True 987
+allocated pattern set([12, 157])
+web pages ayyasarki allocate ayindha True 6983.0
+required 5860
+patterns nunchi allocate ayindha 6992.0 True 832
+allocated pattern set([16, 146])
+web pages ayyasarki allocate ayindha True 6992.0
+required 5855
+patterns nunchi allocate ayindha 7063.0 True 618
+allocated pattern set([17, 194])
+web pages ayyasarki allocate ayindha True 7063.0
+required 5852
+patterns nunchi allocate ayindha 7093.0 True 479
+allocated pattern set([96, 156])
+web pages ayyasarki allocate ayindha True 7093.0
+required 5843
+patterns nunchi allocate ayindha 7182.0 True 259
+allocated pattern set([136, 83])
+web pages ayyasarki allocate ayindha True 7182.0
+required 5843
+patterns nunchi allocate ayindha 7427.0 True 161
+allocated pattern set([19, 229])
+web pages ayyasarki allocate ayindha True 7427.0
+required 5838
+patterns nunchi allocate ayindha 7596.0 True 98
+allocated pattern set([62])
+web pages ayyasarki allocate ayindha True 7596.0
+required 5824
+patterns nunchi allocate ayindha 7692.0 True 92
+allocated pattern set([217, 86])
+web pages ayyasarki allocate ayindha True 7692.0
+required 5818
+patterns nunchi allocate ayindha 8066.0 True 58
+allocated pattern set([81])
+web pages ayyasarki allocate ayindha True 8066.0
+required 5815
+patterns nunchi allocate ayindha 8252.0 True 49
+allocated pattern set([23])
+web pages ayyasarki allocate ayindha True 8252.0
+required 5815
+patterns nunchi allocate ayindha 8370.0 True 42
+allocated pattern set([65])
+web pages ayyasarki allocate ayindha True 8370.0
+required 5814
+patterns nunchi allocate ayindha 8390.0 True 39
+allocated pattern set([36])
+web pages ayyasarki allocate ayindha True 8390.0
+required 5813
+patterns nunchi allocate ayindha 8529.0 True 33
+allocated pattern set([37])
+web pages ayyasarki allocate ayindha True 8529.0
+required 5806
+patterns nunchi allocate ayindha 8537.0 True 26
+allocated pattern set([63])
+web pages ayyasarki allocate ayindha True 8537.0
+required 5805
+patterns nunchi allocate ayindha 9867.0 True 23
+allocated pattern set([61, 109])
+web pages ayyasarki allocate ayindha True 9867.0
+required 5804
+patterns nunchi allocate ayindha 9975.0 True 15
+allocated pattern set([98, 139])
+web pages ayyasarki allocate ayindha True 9975.0
+required 5799
+patterns nunchi allocate ayindha 10320.0 True 10
+allocated pattern set([34])
+web pages ayyasarki allocate ayindha True 10320.0
+required 5776
+patterns nunchi allocate ayindha 10443.0 True 9
+allocated pattern set([74, 60])
+web pages ayyasarki allocate ayindha True 10443.0
+required 5776
+patterns nunchi allocate ayindha 11433.0 True 8
+allocated pattern set([10])
+web pages ayyasarki allocate ayindha True 11433.0
+required 5768
+patterns nunchi allocate ayindha 12050.0 True 7
+allocated pattern set([42])
+web pages ayyasarki allocate ayindha True 12050.0
+required 5758
+patterns nunchi allocate ayindha 12423.0 True 6
+allocated pattern set([33])
+web pages ayyasarki allocate ayindha True 12423.0
+required 5758
+patterns nunchi allocate ayindha 13442.0 True 5
+allocated pattern set([30])
+web pages ayyasarki allocate ayindha True 13442.0
+required 5754
+patterns nunchi allocate ayindha 16573.0 True 4
+allocated pattern set([1])
+web pages ayyasarki allocate ayindha True 16573.0
+required 5747
+patterns nunchi allocate ayindha 19297.0 True 3
+allocated pattern set([9])
+web pages ayyasarki allocate ayindha True 19297.0
+required 5744
+patterns nunchi allocate ayindha 21708.0 True 2
+allocated pattern set([35])
+web pages ayyasarki allocate ayindha True 21708.0
+required 5741
+patterns nunchi allocate ayindha 22691.0 True 1
+allocated pattern set([8])
+web pages ayyasarki allocate ayindha True 22691.0
+required 5727
+patterns nunchi allocate ayindha 60725.0 True 0
+web pages ayyasarki allocate ayindha True 60725.0
+required 5727
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6248
+required 5711
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6676
+required 5705
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6547
+required 5704
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5864
+required 5704
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5725
+required 5699
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5763
+required 5686
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6231
+required 5686
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6059
+required 5681
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5835
+required 5677
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5953
+required 5665
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6119
+required 5656
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6039
+required 5650
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5653
+required 5643
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5665
+required 5642
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5870
+required 5633
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5635
+required 5628
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6318
+required 5628
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5713
+required 5623
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5886
+required 5618
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6529
+required 5607
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6209
+required 5596
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5623
+required 5594
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6017
+required 5587
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 7024
+required 5585
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5770
+required 5584
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5592
+required 5584
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5892
+required 5580
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6003
+required 5570
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5806
+required 5562
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6525
+required 5557
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6017
+required 5553
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5581
+required 5552
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 5742
+required 5552
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6068
+required 5539
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 6475
+required 5538
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5536
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5535
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5534
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5530
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5519
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5502
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5499
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5496
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5496
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5480
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5478
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5475
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5448
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5444
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5443
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5438
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5435
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5421
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5419
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5418
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5411
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5405
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5404
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5404
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5402
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5393
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5387
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5373
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5364
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5356
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5354
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5344
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5338
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5338
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5337
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5331
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5325
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5324
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5320
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5317
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5316
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5312
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5305
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5301
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5299
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5293
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5268
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5267
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5263
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5254
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5254
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5248
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5242
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5240
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5232
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5223
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5223
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5222
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5220
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5211
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5207
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5201
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5189
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5186
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5184
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5180
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5180
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5169
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5159
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5156
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5154
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5153
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5145
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5142
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5142
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5137
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5135
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5131
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5124
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5102
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5101
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5099
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5093
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5077
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5074
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5068
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5053
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5040
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5033
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5032
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5032
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5030
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5021
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5021
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5019
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5003
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 5003
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4994
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4994
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4979
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4979
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4970
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4968
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4968
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4956
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4950
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4949
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4947
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4942
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4938
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4936
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4926
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4926
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4919
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4918
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4915
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4896
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4894
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4893
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4882
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4882
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4880
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4880
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4877
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4877
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4872
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4868
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4867
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4857
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4855
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4850
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4839
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4837
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4836
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4832
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4827
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4821
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4806
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4805
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4803
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4798
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4794
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4790
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4787
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4784
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4782
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4778
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4773
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4768
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4764
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4752
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4749
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4742
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4735
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4733
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4730
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4728
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4722
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4722
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4714
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4712
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4710
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4710
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4709
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4708
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4706
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4706
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4703
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4694
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4684
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4679
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4661
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4661
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4656
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4653
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4653
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4642
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4637
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4622
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4606
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4597
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4596
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4596
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4595
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4592
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4591
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4590
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4581
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4575
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4572
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4569
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4560
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4553
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4552
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4552
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4550
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4549
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4549
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4540
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4538
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4537
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4533
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4525
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4525
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4525
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4521
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4521
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4519
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4514
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4512
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4511
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4504
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4503
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4501
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4501
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4499
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4496
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4493
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4489
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4485
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4480
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4477
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4465
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4462
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4455
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4449
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4440
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4432
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4410
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4401
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4401
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4399
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4397
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4385
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4385
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4384
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4368
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4367
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4363
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4361
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4361
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4348
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4343
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4336
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4333
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4323
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4321
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4317
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4296
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4293
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4278
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4277
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4276
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4274
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4268
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4266
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4261
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4254
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 4253
+allocation failed, tried all things
+required 4253
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+allocated with low pages
+web pages ayyasarki allocate ayindha True 4253
+required 4251
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4246
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4245
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4243
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4237
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4236
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4215
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4207
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4202
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4202
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4194
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4192
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4183
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4177
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4167
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4161
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4160
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4152
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4149
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4143
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4143
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4134
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4132
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4128
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4114
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4104
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4099
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4094
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4086
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4083
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4078
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4073
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4073
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4070
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4068
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4060
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4052
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4050
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4048
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4042
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4041
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4037
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4031
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4030
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4028
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4028
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4028
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4018
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4015
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4015
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+required 4004
+patterns nunchi allocate ayindha 0 False None
+allocating with low minrf pages
+web pages ayyasarki allocate ayindha False 0
+allocation failed, tried all things
+Allocation accuracy: 90
+Allocation accuracy new method: 90
+views wasted:0
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl')
+/tmp/1645835555581.txt
+Allocation accuracy: 71
+('META_DATA_FILE_PATH', '/home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_bmspostxt.pkl')
+/tmp/1645835556651.txt
+Allocation accuracy: 224
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.015_maxcs_1_maxor_0.15/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '400', '5000', '1000']
+##############################################
+web_page_to_adv_json_file : ./1645822968917.json
+allocated_adslots_file: ./1645822968923.json
+python alloc_fresh.py ../test1/bmspos_minfreq_0.015_maxcs_1_maxor_0.15/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_3_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_3_dataset_bmspostxt.pkl 5438,4787,5496,5421,4277,4949,4152,4236,5999,5301,5356,5324,5316,4202,5915,4015,5704,4730,5137,5704,5997,5331,5404,5519,5699,4538,5855,4261,5958,4569,4104,4549,4926,5475,5642,5623,5201,4094,5923,4572,5320,4947,4215,4768,5254,5156,5758,5254,5843,4384,4504,4514,4553,4050,4237,4167,5860,5411,4936,4703,5325,4243,5879,4656,4385,4806,4706,5478,5030,4590,4132,5032,4192,5799,4661,5077,4637,4926,4525,4592,5996,4855,4194,5293,4653,4143,4867,5405,4575,5032,5562,5154,5727,4877,4749,5240,4722,4552,4868,4160,5131,4361,4333,5741,5135,5665,4790,4836,5991,4832,5317,5102,5744,4274,4560,5941,4251,5814,4622,4642,5955,5596,5900,5570,5618,4465,5815,4086,4031,4336,4521,4449,5843,5776,5099,4068,5921,4028,5305,4143,5040,4606,5557,4784,4254,5677,5003,5987,4368,4968,4028,5594,4994,4938,4385,5053,4970,4710,4877,4782,4321,4489,4401,4872,5021,5633,5344,4004,5312,5021,4950,5393,4397,4894,4722,5338,5074,4839,4595,5727,4735,5972,4501,4367,5705,4048,5885,4015,5776,4714,4794,5223,5159,5587,4245,4525,4821,5987,5656,4550,5496,5443,5881,4207,5019,4246,5686,4183,5535,4893,4363,4525,4694,5897,4499,4511,5805,5628,4968,5553,4493,4293,5502,5499,5101,4537,4042,5947,4070,5268,5068,4880,4278,5552,5418,4343,4177,4455,5033,4919,5387,4134,4253,5142,5223,5536,4752,5906,5364,4778,4099,4348,5444,5222,4552,5838,4597,5419,5852,4480,5768,4078,4706,5448,5169,4512,4661,5402,5373,5189,4679,4581,5754,5804,4030,4684,4037,4161,4501,4979,4114,5968,5338,4041,5643,4882,5354,5180,5263,4276,4399,4918,5207,4591,4401,4410,5818,4462,5584,5248,5815,4596,4710,5534,5884,5232,5607,5435,4764,4803,5681,4521,5180,4709,4979,5978,4850,4827,4083,4503,5093,4942,5907,5145,4128,4882,4432,4956,4742,4915,4857,5552,5299,5142,5758,4712,4496,5686,5824,4073,4798,4052,5337,5904,5747,4266,5211,4477,5806,4149,4596,5124,5580,5480,5584,5941,4519,5186,4805,5915,5184,4994,5404,4728,5539,5585,4317,5242,5003,5650,5900,5813,5267,4880,4653,4708,4202,4485,4773,4361,5153,4028,5220,4533,4018,4073,4733,5711,4060,4896,4440,5530,4837,5538,4540,4268,5628,4323,4549,4296 /tmp/1645822968927.txt 2 ./1645822968923.json ./1645822968917.json
+AD REPEATABILITY OF OUR NEW METHOD : 400
+0.53451
+
+ALLOCATING WITH OUR OLD METHOD: 400
+python alloc_fresh.py ../test1/bmspos_minfreq_0.015_maxcs_1_maxor_0.15/patterns.txt /home/preetham_sathineni/adslot/web_page_meta_dict_adslots_1_dataset_bmspostxt.pkl /home/preetham_sathineni/adslot/web_page_freq_sorted_adslots_1_dataset_bmspostxt.pkl 5438,4787,5496,5421,4277,4949,4152,4236,5999,5301,5356,5324,5316,4202,5915,4015,5704,4730,5137,5704,5997,5331,5404,5519,5699,4538,5855,4261,5958,4569,4104,4549,4926,5475,5642,5623,5201,4094,5923,4572,5320,4947,4215,4768,5254,5156,5758,5254,5843,4384,4504,4514,4553,4050,4237,4167,5860,5411,4936,4703,5325,4243,5879,4656,4385,4806,4706,5478,5030,4590,4132,5032,4192,5799,4661,5077,4637,4926,4525,4592,5996,4855,4194,5293,4653,4143,4867,5405,4575,5032,5562,5154,5727,4877,4749,5240,4722,4552,4868,4160,5131,4361,4333,5741,5135,5665,4790,4836,5991,4832,5317,5102,5744,4274,4560,5941,4251,5814,4622,4642,5955,5596,5900,5570,5618,4465,5815,4086,4031,4336,4521,4449,5843,5776,5099,4068,5921,4028,5305,4143,5040,4606,5557,4784,4254,5677,5003,5987,4368,4968,4028,5594,4994,4938,4385,5053,4970,4710,4877,4782,4321,4489,4401,4872,5021,5633,5344,4004,5312,5021,4950,5393,4397,4894,4722,5338,5074,4839,4595,5727,4735,5972,4501,4367,5705,4048,5885,4015,5776,4714,4794,5223,5159,5587,4245,4525,4821,5987,5656,4550,5496,5443,5881,4207,5019,4246,5686,4183,5535,4893,4363,4525,4694,5897,4499,4511,5805,5628,4968,5553,4493,4293,5502,5499,5101,4537,4042,5947,4070,5268,5068,4880,4278,5552,5418,4343,4177,4455,5033,4919,5387,4134,4253,5142,5223,5536,4752,5906,5364,4778,4099,4348,5444,5222,4552,5838,4597,5419,5852,4480,5768,4078,4706,5448,5169,4512,4661,5402,5373,5189,4679,4581,5754,5804,4030,4684,4037,4161,4501,4979,4114,5968,5338,4041,5643,4882,5354,5180,5263,4276,4399,4918,5207,4591,4401,4410,5818,4462,5584,5248,5815,4596,4710,5534,5884,5232,5607,5435,4764,4803,5681,4521,5180,4709,4979,5978,4850,4827,4083,4503,5093,4942,5907,5145,4128,4882,4432,4956,4742,4915,4857,5552,5299,5142,5758,4712,4496,5686,5824,4073,4798,4052,5337,5904,5747,4266,5211,4477,5806,4149,4596,5124,5580,5480,5584,5941,4519,5186,4805,5915,5184,4994,5404,4728,5539,5585,4317,5242,5003,5650,5900,5813,5267,4880,4653,4708,4202,4485,4773,4361,5153,4028,5220,4533,4018,4073,4733,5711,4060,4896,4440,5530,4837,5538,4540,4268,5628,4323,4549,4296 /tmp/1645830473375.txt 2 ./1645822968923.json ./1645822968917.json
+AD REPEATABILITY OF ONE-SLOT METHOD : 400
+0.21245
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 400
+0.35264
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 400
+AD REPEATABILITY OF RANDOM METHOD: 400
+1.07386
+
+allocated
+{'VFS_one_method': [0], 'VFS_multi_method': [0], 'new_method': [294], 'oneslot_method': [90]}
+adrepp
+{'VFS_one_method': ['0.35264'], 'VFS_multi_method': ['1.07386'], 'new_method': ['0.53451'], 'oneslot_method': ['0.21245']}
+revenue
+{'VFS_one_method': [], 'VFS_multi_method': [], 'new_method': [], 'oneslot_method': []}

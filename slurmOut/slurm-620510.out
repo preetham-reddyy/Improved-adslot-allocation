@@ -1,0 +1,14 @@
+==========================================
+SLURM_JOB_ID = 620510
+SLURM_NODELIST = gnode37
+SLURM_JOB_GPUS = 2
+==========================================
+###############     ARGUMENTS     ############
+['plot_results.py', '../test1/bmspos_minfreq_0.02_maxcs_1_maxor_0.1/patterns.txt', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', '3', '4000', '3000']
+##############################################
+web_page_to_adv_json_file : ./1646331510719.json
+allocated_adslots_file: ./1646331510724.json
+Traceback (most recent call last):
+  File "plot_results.py", line 76, in <module>
+    AD_SLOTS=[sys.argv[6]]
+IndexError: list index out of range

@@ -1,0 +1,40 @@
+==========================================
+SLURM_JOB_ID = 373057
+SLURM_NODELIST = gnode25
+SLURM_JOB_GPUS = 
+==========================================
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 467
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 398
+limit 1 to 5
+/tmp/1619096391591.txt
+Allocation accuracy: 500
+limit 1 to 5
+/tmp/1619097178462.txt
+Allocation accuracy: 500
+ALLOCATING WITH OUR NEW METHOD: 500
+AD REPEATABILITY OF OUR NEW METHOD : 500
+0.000175757220692
+
+ALLOCATING WITH OUR OLD METHOD: 500
+AD REPEATABILITY OF ONE-SLOT METHOD : 500
+0.000151514845425
+
+[One slot] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+0.477633378518
+
+[Multi slots] ALLOCATING WITH RANDOM METHOD: 500
+AD REPEATABILITY OF RANDOM METHOD: 500
+0.459715232899
+
+Loaded all files
+got patterns
+(601374, 991)
+Allocation accuracy new method: 456
+slurmstepd: error: *** JOB 373057 ON gnode25 CANCELLED AT 2021-04-22T19:20:15 ***
