@@ -1,0 +1,114 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ronny Kohavi">
+   <meta name="GENERATOR" content="Mozilla/4.72 [en] (WinNT; I) [Netscape]">
+   <title>KDD Cup 2000 Confidential Information Page</title>
+</head>
+<body>
+
+<center>
+<h4>
+<b><font color="#FF0000">This section of the site contains information
+confidential to <a href="http://www.bluemartini.com">Blue Martini Software</a>
+and <a href="http://www.gazelle.com">Gazelle.com</a> Inc.<br>
+Use of the data is restricted by a non-disclosure agreement that you must
+have signed at<br>
+<a href="http://www.ecn.purdue.edu/KDDCUP/">http://www.ecn.purdue.edu/KDDCUP/</a></font></b></h4></center>
+
+<center>
+<h1>
+<u>KDD Cup 2000 Column Statistics</u></h1></center>
+To help you understand the data, we have provided "basic statistics" about
+the columns (attributes) in the datasets.&nbsp; There are statistics for
+each of the 5 data files (clicks, orders, q1_agg, q2_agg, and q3_agg).&nbsp;
+All of the statistics are available in a single 29MB WinZip archive that
+is encrypted with the same password as the data files.&nbsp; Download the
+statistics <a href="stats.zip">here</a> (17.1M in WinZip). When you extract
+the archive there will be a subdirectory for each of the 5 data files.&nbsp;
+To view the statistics for a specific data file, point your browser to
+the index.html file in the appropriate subdirectory.
+<p>For each column, we provided the name, the type, the number of null
+values and the number of non-null values.
+<br>When the number of distinct values is small (less than 1000), we show
+the number of distinct values.
+<br>For discrete columns, we display the top 20 values.&nbsp; Ordered columns
+are displayed in their natural ordering.
+<br>For real-valued columns, the range is discretized into 10 equal width
+bins and a histogram is given.&nbsp; The min/max/mean and std-dev are also
+given.
+<br>The column "Normalized" shows the percentages of the non-null values
+in the distribution, which helps when the percentage of nulls is significant.
+<p>If you plan to print this file, go ahead and put some paper in the printer;
+it's about 170 pages.
+<p><b>Important note:</b> <b>All the statistics are computed at the correct
+granularity level.</b>
+<br>Specifically, each attribute is valid at some level.&nbsp; Some attributes
+are customer level attributes, some are session level, some are order header
+level, some are order line level, some at the clickstream request level,
+etc.&nbsp; The statistics are computed as if the data is collapsed to that
+level to avoid incorrect statistics.&nbsp; For example:
+<ul>
+<li>
+Request Query string and Request Referrer are at the clickstream request
+level.&nbsp; That's why if you add up the non and non-null values, you'll
+have 777,480 for each.</li>
+
+<li>
+Cookie first visit, session start login, session first refferer are all
+at the session level, where there are 234,954 records.</li>
+
+<li>
+The attribute "Which do you wear most frequent" is a customer-level attribute.&nbsp;
+All visitors that have not registered are collapsed into an "anonymous"
+user and statistics are computed for the customers, resulting in 3,727
+values.</li>
+
+<br>Registered gender is similar, but note that many people have not filled
+that question, so there are many nulls (most haven't filled it in because
+the registration form does not ask for it any more).</ul>
+Notes on columns:
+<ul>
+<li>
+Some columns have the value "Choose," which indicates that the user left
+the answer to the registration form as "choose."</li>
+
+<br>In the dataset we gave out, we already mapped this value to unknown
+(?).
+<li>
+Acxiom columns are most of the times only two valued: Null and True.&nbsp;
+Acxiom rarely has negative information.&nbsp; For example, Motorcycle owner
+is either null or true.&nbsp; We have mapped users that were found by Acxiom,
+but whose value is Null to "false," which really means "presumably false."
+
+You can always map the falses back to unknowns if you want to do so.&nbsp;
+The nulls in the acxiom columns indicate that the person was not found
+by Acxiom.&nbsp; Also, the Acxiom "DMA no XXX" (e.g., no mail solicitation)
+is somewhat confusing because True means you can solicit.&nbsp; We chose
+to leave the Acxiom column names and values as defined by Acxiom.</li>
+
+<li>
+The e-mail was stripped by us.&nbsp; It only reveals Gazelle and the suffix
+(.com, .gov, etc).</li>
+
+<li>
+All the times are server time, i.e., Eastern-Standard Time (EST).</li>
+
+<li>
+As you can easily notice, some extreme values exist that are noisy (e.g,.
+birth year is 1839 to 2089).&nbsp; No attempt was made by us to clean the
+data nor to override the binning process, which defaults to splitting the
+range into 10.</li>
+
+<li>
+There are many ID columns.&nbsp; What are they used for?&nbsp; They are
+mostly used by us to do the star join (which you do not see), but IDs are
+assigned in increasing order, so there is a good time component that may
+be uncovered when using them.&nbsp; You can also use them to sort data
+(e.g., sessions), when you want to split data into a train/test set based
+on session by time.</li>
+</ul>
+
+</body>
+</html>

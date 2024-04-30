@@ -1,0 +1,229 @@
+| The content of this file and the matching data file are confidential
+| to Blue Martini Software and Gazelle.com
+| Right to use is restricted by the NDA agreement for the KDD-CUP 2000
+| For questions, e-mail kddcup2000@bluemartini.com
+|
+| C5.0 names file
+|
+| ******** About the target for Question 2:
+| The target is to predict whether the visitor will view a page containing
+| a Hanes, AmericanEssentials, or DonnaKaran brand product later during the
+| session or whether the visitor will not view any page containing one of
+| these three brands.
+|
+Brand To Be Viewed. | This is a dummy target column
+Request Processing Time: continuous.
+Request Query String: ignore.
+Request Referrer: ignore.
+Request Date: date.
+Request Date_Time: time.
+Request Assortment ID: continuous.
+Request Subassortment ID: continuous.
+Request Sequence: continuous.
+Request Template: main/departments\.jhtml,account/edit_address\.jhtml,main/template\.jhtml,main/error\.jhtml,main/freegift\.jhtml,main/replenishment\.jhtml,articles/dpt_about_mgmt\.jhtml,articles/dpt_contact\.jhtml,account/credit_info\.jhtml,account/address\.jhtml,main/legcare_vendor\.jhtml,main/mgmt\.jhtml,account/change_password\.jhtml,main/leg_news_legkicks\.jhtml,articles/dpt_about_healthwellness\.jhtml,checkout/confirm_order\.jhtml,articles/dpt_MgmtTeam\.jhtml,main/vendor\.jhtml,main/registration_shipaddress\.jhtml,products/productDetailLegcare\.jhtml,main/cust_serv\.jhtml,articles/dpt_refer\.jhtml,articles/dpt_payment\.jhtml,main/login2\.jhtml,main/loign2\.jhtml,main/tryit\.jhtml,main/seasonal_assortment\.jhtml,main/vendor2\.jhtml,main/registration\.jhtml,account/past_orders_details\.jhtml,main/assortment\.jhtml,main/sitemap\.jhtml,replenish/view_replenish\.jhtml,checkout/expressCheckout\.jhtml,main/order_closed\.jhtml,main/lifestyles\.jhtml,main/search_results\.jhtml,article/dpt_about_mgmtTeam\.jhtml,main/sales_assortment\.jhtml,articles/dpt_about_pressreleases\.jhtml,main/theme_assortment\.jhtml,articles/dbt_about_MgmtTeam\.jhtml,account/your_account\.jhtml,main\.jhtml,checkout/expresscheckout\.jhtml,account/create_credit\.jhtml,account/edit_credit\.jhtml,home/main\.jhtml,articles/dpt_about_Careers\.jhtml,articles/new_returns\.jhtml,articles/dpt_shipping\.jhtml,magics\.jhtml,main/leg_news_fashion_word\.jhtml,main/sadasdas\.jhtml,articles/dpt\.jhtml,account/shipping_info\.jhtml,articles/dpt_about_Investor\.jhtml,articles/dpt_terms\.jhtml,magicc\.jhtml,internal\.jhtml,main/+home\.jhtml,+/main/registration\.jhtml,articles/dpt_about_AdvisoryBoard\.jhtml,articles/dpt_about_BoardOfDirectors\.jhtml,articles/dpt_affiliate\.jhtml,articles/dpt_about_boardofdirectors\.jhtml,checkout/thankyou\.jhtml,articles/new_shipping\.jhtml,articles/dpt_about_the_press\.jhtml,main/welcome\.jhtml,main/boutique\.jhtml,main/shopping_cart\.jhtml,account/create_address\.jhtml,main/assortment2\.jhtml,articles/dpt_privacy\.jhtml,articles/dpt_about_MgmtTeam\.\.jhtml,articles/dpt_about_PressReleases\.jhtml,articles/dpt_about_investor\.jhtml,articles/dpt_about_MgmtTeam\.jhtml,articles/dpt_returns\.jhtml,articles/dpt_about_mgmtteam\.jhtml,main/homenew\.jhtml,products/productDetailLegwear\.jhtml,articles/dpt_faqs\.jhtml,main/home\.jhtml,articles/dpt_about\.jhtml,replenish/create_replenish\.jhtml,account/registration\.jhtml,articles/dpt_about_advisoryboard\.jhtml,articles/dpt_about_careers\.jhtml,articles/new_security\.jhtml,main/freeshipping\.jhtml,main/leg_news\.jhtml,account/past_orders\.jhtml,main/leg_news_healthwellness\.jhtml.
+REQUEST_DAY_OF_WEEK: [ordered] Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+REQUEST_HOUR_OF_DAY: continuous.
+WhichDoYouWearMostFrequent: trouser socks,hosiery,casual socks,athletic socks.
+YourFavoriteLegcareBrand: Lucky Chick,eShave,VeinGard,Tweezerman,Swiss Balance,Ovacion,Covermark,Ya Babi,Medea,Dr\. Perricone,TendSkin,IColoniali,Dr\. Schon,Nature Made,Bio Depiless,Conair,Natural Line,Kleb Sole,Living Earth,Cellasene,DailyHerbs,Kneipp,Juvena,Epilady.
+Registration Gender: Female,Male.
+NumberOfChildren: [ordered] 0, 1, 2, 3, 4 or more.
+DoYouPurchaseForOthers: NULL,False.
+HowDoYouDressForWork: business dress,business casual,comfortable / athletic,very casual.
+HowManyPairsDoYouPurchase: [ordered] 1 to 5, 6 to 10, 11 to 15, 15 or more.
+YourFavoriteLegwearBrand: Ellen Tracy,Oroblu,Belly Basics,Levante,American Essentials,Danskin,Donna Karan,Hot Sox,Evan Picone,Givenchy,Greg Norman,DKNY,Hanes,Round the Clock,Falke,Berkshire.
+WhoMakesPurchasesForYou: parent,spouse,siblings,friend.
+NumberOfAdults: [ordered] 0, 1, 2, 3 or more.
+HowDidYouHearAboutUs: in the news,e-mail,print ad,direct mail,other,friend / family.
+Company: COMPANY 1443,COMPANY 3055,COMPANY 1932,COMPANY 3032,NULL.
+SendEmail: NULL,True,False.
+HowOftenDoYouPurchase: [ordered] once a year, every 6 months, each week.
+HowDidYouFindUs: Friend/Co-worker,Other.
+City: ignore.
+Country: United States,NULL.
+US State: IA,ID,IL,IN,AK,AL,AR,RI,AZ,SC,CA,KS,CO,KY,CT,LA,TN,DC,DE,TX,MA,MD,ME,MI,UT,MN,MO,MS,MT,VA,NC,ND,NE,NH,NJ,VT,NM,FL,NV,WA,NY,WI,OH,GA,OK,WV,WY,OR,PA,NULL,HI.
+Account Creation Date: date.
+Account Creation Date_Time: time.
+Year of Birth: continuous.
+Email: MIL,NET,GOV,COM,EDU,ORG,Gazelle,Other,NULL.
+Login Failure Count: continuous.
+Customer ID: continuous.
+Truck Owner: NULL,True,False.
+RV Owner: NULL,True,False.
+Motorcycle Owner: NULL,True,False.
+Value Of All Vehicles: continuous.
+Age: continuous.
+Other Indiv\. Age: continuous.
+Marital Status: Inferred Married,Single,Inferred Single,Married,NULL.
+Working Woman: NULL,True,False.
+Mail Responder: NULL,True,False.
+Bank Card Holder: NULL,True,False.
+Gas Card Holder: NULL,True,False.
+Upscale Card Holder: NULL,True,False.
+Unknown Card Type: NULL,True,False.
+TE Card Holder: NULL,True,False.
+Premium Card Holder: NULL,True,False.
+Presence Of Children: NULL,True,False.
+Number Of Adults: continuous.
+Estimated Income Code: [ordered] Under $15;000, $15;000-$19;999, $20;000-$29;999, $30;000-$39;999, $40;000-$49;999, $50;000-$74;999, $75;000-$99;999, $100;000-$124;999, $125;000 OR MORE.
+Home Market Value: [ordered] $1;000-$24;999, $25;000-$49;999, $50;000-$74;999, $75;000-$99;999, $100;000-$124;999, $125;000-$149;999, $150;000-$174;999, $175;000-$199;999, $200;000-$224;999, $225;000-$249;999, $250;000-$274;999, $275;000-$299;999, $300;000-$349;999, $350;000-$399;999, $400;000-$449;999, $450;000-$499;999, $500;000-$774;999, $775;000-$999;999, $1;000;000+.
+New Car Buyer: NULL,True.
+Vehicle Lifestyle: FULL SIZE (STANDARD/LUXURY),IMPORT (STANDARD/ECONOMY),SPECIALTY (MIDSIZE/SMALL),PERSONAL LUXURY CAR,STATION WAGON,REGULAR (MIDSIZE/SMALL),TRUCK OR UTILITY VEHICLE,NULL.
+Property Type: apartment(5+ units),2-4 unit(duplex;triplex;quad),mobile_home,misc\. residential (condo store/flat),single family dwelling,NULL,condo.
+Loan To Value Percent: [ordered] 0% (NO LOANS), 01-49%, 50-59%, 60-69%, 70-74%, 75-79%, 80-84%, 85-89%, 90-94%, 95-99%, 100-99%.
+Presence Of Pool: NULL,True,False.
+Year House Was Built: continuous.
+Own Or Rent Home: Owner,NULL,Renter.
+Length Of Residence: continuous.
+Mail Order Buyer: NULL,True,False.
+Year Home Was Bought: continuous.
+Home Purchase Date: continuous.
+Number Of Vehicles: continuous.
+DMA No Mail Solicitation Flag: NULL,True.
+DMA No Phone Solicitation Flag: NULL,True.
+CRA Income Classification: continuous.
+New Bank Card: NULL,True,False.
+Number Of Credit Lines: continuous.
+Speciality Store Retail: NULL,True,False.
+Oil Retail Activity: NULL,True,False.
+Bank Retail Activity: NULL,True,False.
+Finance Retail Activity: NULL,True,False.
+Miscellaneous Retail Activity: NULL,True,False.
+Upscale Retail: NULL,True,False.
+Upscale Speciality Retail: NULL,True,False.
+Retail Activity: NULL,True,False.
+Last Retail Date: date.
+Last Retail Date_Time: time.
+Dwelling Size: [ordered] SINGLE HOUSEHOLD, 2 HOUSEHOLDS, 3 HOUSEHOLDS, 4 HOUSEHOLDS, 5 HOUSEHOLDS, 6 HOUSEHOLDS, 7 HOUSEHOLDS, 8 HOUSEHOLDS, 9 HOUSEHOLDS, 10-19 HOUSEHOLDS, 20-29 HOUSEHOLDS, 30-39 HOUSEHOLDS, 40-49 HOUSEHOLDS, 50-99 HOUSEHOLDS, 100+ HOUSEHOLDS.
+Dataquick Market Code: continuous.
+Lendable Home Equity: [ordered] EQUITY LESS THAN OR EQUAL $0, EQUITY $1-$4;999, EQUITY $5;000-$9;999, EQUITY $10;000-$19;9999, EQUITY $20;000-$29;000, EQUITY $30;000-$49;000, EQUITY $50;000-$74;000, EQUITY $75;000-$99;999, EQUITY $100;000-$149;999, EQUITY $150;000-$199;999, EQUITY $200;000-$249;999, EQUITY $250;000-$299;999, EQUITY $300;000-$349;999, EQUITY $350;000-$399;999, EQUITY $400;000-$499;999, EQUITY $500;000-$749;999, EQUITY $750;000-$999;999, EQUITY $1;000;000-1;999;999, EQUITY GREATER THAN OR EQUAL $2;000;000.
+Home Size Range: [ordered] LESS THAN 750 FT, 750-999 FT, 1;000-1;249 FT, 1;250-1;499 FT, 1;500-1;749 FT, 1;750-1;999 FT, 2;000-2;499 FT, 2;500-2;999 FT, 3;000-3;499 FT, 3;500-3;999 FT, 4;000-4;999 FT, 5;000-5;999 FT, 6;000-6;999 FT, 7;000 FT AND OVER.
+Lot Size Range: [ordered] 1 ACRE OR LESS, GREATER THAN 1 ACRE.
+Insurance Expiry Month: continuous.
+Dwelling Unit Size: SINGLE FAMILY DWELLING UNIT,MULTI FAMILY DWELLING UNIT,NULL.
+Month Home Was Bought: continuous.
+Household Status: NAME APPEARING ON INPUT IS INDIVIDUAL 1,NAME APPEARING ON INPUT IS INDIVIDUAL 2,NULL.
+Available Home Equity: [ordered] EQUITY $1-$4;999, EQUITY $5;000-$9;999, EQUITY $10;000-$19;9999, EQUITY $20;000-$29;000, EQUITY $30;000-$49;000, EQUITY $50;000-$74;000, EQUITY $75;000-$99;999, EQUITY $100;000-$149;999, EQUITY $150;000-$199;999, EQUITY $200;000-$249;999, EQUITY $250;000-$499;999, EQUITY $500;000-$749;999, EQUITY $750;000-$999;999, EQUITY $1;000;000-1;999;999, EQUITY $2;000;000 AND OVER.
+Minority Census Tract: NULL,True,False.
+Verification Date: date.
+Verification Date_Time: ignore.
+Year Of Structure: continuous.
+Gender: Female,Male,NULL.
+Occupation: SALES/SERVICE,PROFESSIONAL/TECHNICAL,SELF EMPLOYED MANAGEMENT,MILITARY,HOUSEWIFE,CRAFTSMAN/BLUE COLLAR,STUDENT,ADMINISTRATIVE/MANAGERIAL,SELF EMPLOYED PROF/TECH,RETIRED,SELF EMPLOYED,SELF EMPLOYED SALES/MARKETING,NULL,SELF EMPLOYED HOMEMAKER,SELF EMPLOYED CLERICAL,CLERICAL/WHITE COLLAR.
+Other Indiv\. Gender: Female,Male,NULL.
+Other Indiv\. Occupation: SALES/SERVICE,PROFESSIONAL/TECHNICAL,SELF EMPLOYED MANAGEMENT,MILITARY,HOUSEWIFE,CRAFTSMAN/BLUE COLLAR,STUDENT,ADMINISTRATIVE/MANAGERIAL,SELF EMPLOYED PROF/TECH,RETIRED,SELF EMPLOYED,SELF EMPLOYED SALES/MARKETING,NULL,CLERICAL/WHITE COLLAR.
+Cookie First Visit Date: date.
+Cookie First Visit Date_Time: time.
+Session First Request Date: date.
+Session First Request Date_Time: time.
+Session Start Login Count: continuous.
+Session Cookie ID: continuous.
+Session ID: continuous.
+Session Customer ID: continuous.
+Session User Agent: ignore.
+Session Visit Count: continuous.
+Session First Processing Time: continuous.
+Session First Query String: ignore.
+Session First Referrer: ignore.
+Session First Template: main/departments\.jhtml,main/template\.jhtml,main/error\.jhtml,main/freegift\.jhtml,main/replenishment\.jhtml,articles/dpt_about_mgmt\.jhtml,articles/dpt_contact\.jhtml,account/credit_info\.jhtml,account/address\.jhtml,main/legcare_vendor\.jhtml,main/mgmt\.jhtml,main/leg_news_legkicks\.jhtml,articles/dpt_about_healthwellness\.jhtml,checkout/confirm_order\.jhtml,articles/dpt_MgmtTeam\.jhtml,main/vendor\.jhtml,main/registration_shipaddress\.jhtml,products/productDetailLegcare\.jhtml,main/cust_serv\.jhtml,articles/dpt_payment\.jhtml,articles/dpt_refer\.jhtml,main/login2\.jhtml,main/loign2\.jhtml,main/tryit\.jhtml,main/seasonal_assortment\.jhtml,main/vendor2\.jhtml,main/registration\.jhtml,account/past_orders_details\.jhtml,main/assortment\.jhtml,main/sitemap\.jhtml,replenish/view_replenish\.jhtml,checkout/expressCheckout\.jhtml,main/lifestyles\.jhtml,main/search_results\.jhtml,article/dpt_about_mgmtTeam\.jhtml,main/sales_assortment\.jhtml,articles/dpt_about_pressreleases\.jhtml,main/theme_assortment\.jhtml,articles/dbt_about_MgmtTeam\.jhtml,account/your_account\.jhtml,main\.jhtml,checkout/expresscheckout\.jhtml,account/create_credit\.jhtml,account/edit_credit\.jhtml,articles/dpt_shipping\.jhtml,home/main\.jhtml,articles/dpt_about_Careers\.jhtml,articles/new_returns\.jhtml,magics\.jhtml,main/leg_news_fashion_word\.jhtml,main/sadasdas\.jhtml,articles/dpt\.jhtml,account/shipping_info\.jhtml,articles/dpt_about_Investor\.jhtml,articles/dpt_terms\.jhtml,magicc\.jhtml,internal\.jhtml,main/+home\.jhtml,+/main/registration\.jhtml,articles/dpt_about_AdvisoryBoard\.jhtml,articles/dpt_about_BoardOfDirectors\.jhtml,articles/dpt_affiliate\.jhtml,articles/dpt_about_boardofdirectors\.jhtml,checkout/thankyou\.jhtml,articles/new_shipping\.jhtml,articles/dpt_about_the_press\.jhtml,main/welcome\.jhtml,main/boutique\.jhtml,main/shopping_cart\.jhtml,main/assortment2\.jhtml,articles/dpt_privacy\.jhtml,articles/dpt_about_MgmtTeam\.\.jhtml,articles/dpt_about_investor\.jhtml,articles/dpt_about_PressReleases\.jhtml,articles/dpt_about_MgmtTeam\.jhtml,articles/dpt_returns\.jhtml,articles/dpt_about_mgmtteam\.jhtml,main/homenew\.jhtml,products/productDetailLegwear\.jhtml,articles/dpt_faqs\.jhtml,main/home\.jhtml,articles/dpt_about\.jhtml,replenish/create_replenish\.jhtml,account/registration\.jhtml,articles/dpt_about_advisoryboard\.jhtml,articles/dpt_about_careers\.jhtml,articles/new_security\.jhtml,main/freeshipping\.jhtml,main/leg_news\.jhtml,account/past_orders\.jhtml,main/leg_news_healthwellness\.jhtml.
+Session First Content ID: continuous.
+Session First Request Day of Week: [ordered] Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+Session First Request Hour of Day: continuous.
+Product Hierarchy Level: continuous.
+SizeUOM: ignore.
+BrandName: ANNK,DON,HPK,GNO,BB,Silk Reflections,DAN,BER,ELT,Absolutely Ultra Sheer,ALEX,ORO,AME,GIV,DKNY,Hanes Too,EVP,NM,Round the Clock,HUE,Alive,HOSO,LEV,FAL,NULL,Smooth Illusions.
+UnitsPerInnerBox: continuous.
+PrimaryPackage: Spray,Box,Tube,Jar,Bottle.
+Depth: continuous.
+VendorMinREOrderDollars: continuous.
+Cat1Sub2: Energizers,Appliances & Tools,Energizers & Relaxers,Tools & Implements,Firming,Waxing,Moisturizers,Exfoliators,Gift Sets & Special Items,Deodorizers,Massage/Relaxers,Deodorizer,NULL.
+Height: continuous.
+UnitsPerOuterBox: continuous.
+StockType: Replenishment,Seasonal 1*,Seasonal 1,Seasonal 2,Replenishable,Fashion 1,NULL.
+Pack: continuous.
+ProductForm: Tablets,Stick,Capsule,Lotion,Wax,gel,Cream,Liquid.
+Look: Opaque,Sheer,Ultra Sheer.
+BasicOrFashion: Fashion,NULL,Basic.
+MyLegsColorRefNo1: ignore.
+MfgStyleCode: ignore.
+SaleOrNonSale: NSALE,NULL.
+Length: continuous.
+Cat1Sub3: Energizers,Cellulite,Moisturizers,Gift Sets & Special Items,Massage/Relaxers,NULL.
+ColorOrScentDropdown: Yes,NULL.
+DisContinuedInd: A,NULL.
+Socktype2: KS,TS,ML,OC,PA,NULL.
+MinQty: 12,18,0,3,5,6,24,36,144,60,72,NULL.
+LeadTime: continuous.
+Terms: COD,NULL.
+Weight: continuous.
+Socktype1: KS,TS,ML,OC,PA,NULL.
+InOrOutofStock: IS,NULL.
+Legwear_size: ignore.
+HasDressingRoom: NULL,True,False.
+ColorOrScent: Scent,Color,NULL.
+Width: continuous.
+Texture: Flat,Textured,NULL.
+WeightUOM: lb,oz,NULL,oz\..
+Manufacturer: eShave,N\.V\. Perricone; MD,Tweezerman,Juvena of Switzerland,Belly Basics,Levante,Ya Babi,Ridgeview,Pharmavite,Easton International; Inc\.,American Essentials,Kayser-Roth Corp\.,BCM-Care AG (TMG),Tend Skin,HAN,Mason Vitamins; Inc\.,Sundown,Happy Lady,Conair,Creations by Allen Stuart,ORO,Club Delle Terme,Groupe Villandry,Peneco,Paul Lavitt Mills Inc\.,Internal Theatre of Fragrance,Stephanie Lyn; Inc\.,Kneipp,Jean Klebert,HOSO,High Point Knitting Inc\.,Natural Care,Donna Karan Company,Beauty Concept Dev\.,Berkshire.
+ExplodedProdKits: IS,NULL.
+DimUOM: in,inches,NULL.
+ToeFeature: RT,SF.
+Category2: Skincare,Hair Removal,Health Supplements,Gift Sets & Special Items,Cellulite & Other Treatments,Footcare,NULL.
+Material: Luxury,Nylon,Silk,90% Cotton 10% Lycra,100% Cotton Poplin,Opaque,Cotton/Acrylic,Rayon,Cotton,Cool Max,Coolmax,Lycra,NULL.
+CategoryCode: MAS,BKS,BDCS,MCS,KP,TH,LG,MDS,TT,WAS,WDCS,FO,LEO,GDCS,PH,NULL.
+Cat1Sub1: Razors & Shaving Treatments,Energizers,Cellulite,Spa Wear & Gear,Varicose/Spider Veins,Appliances & Tools,Leg Veins & Circulation,Energizers & Relaxers,Tools & Implements,Leg Makeup & Concealer,Firming,Suncare,Waxing,Moisturizers,Exfoliators,Gift Sets & Special Items,Massage/Relaxers,Inhibitors,NULL,Bones & Joints.
+UnitIncrement: continuous.
+WaistControl: CT,STW.
+Collection: Basics Bottoms,Pokemon,Oroblu Italian Hosiery,Specialty Items,Greg Norman Golf Collection,Sheer Satin Hosiery,Micromagic 40,Childrens Dance,Comfort Toners,Signature,Basic Knee Highs-Multiples,The New Classics,Oroblu Fashion Line,New Micro Magic Knee High,Wonder Shaper,Men's City Dress,Conversationals,DKNY Tanga,DKNY Skin,Luxury Collection,Hanes Plus Collection,Essential Women's Dress Basics,Conversational Classics,Body Smoothers,Essential Women's Casual Basics,Basic Socks-Multiples,Just Sheer Hosiery,Athletics,Icon Collection,Essential Women's Sport Basics,Men's Essential Sport,Wovens,Men's Solids,Womens Plus Dance,Lace Fussli Step,Colorwash-The Nudes,Seidenglatt 15 Stay Up,Essential Toners,Levante Primavera/Estate 2000,Basic Line,Body Gleamers,Lusters,Women's Fresh Air Collection,Essential Women's Novelty Dress,Passion Privee,Women's Summer Spectator Collection,Sheer Confidence,Girdle at the Top,Action Pack 3-Pair,Better Than Bare - Queen,Just Sheer Knee Highs,Men's Country Casual,DKNY Basic Tailored Casual Socks,Womens Dance,Occasions Collection,Pregnancy Survival Kit,Better Than Bare,Hello Kitty,Sport Basics-Multiples,DKNY Basic Trouser Socks,DKNY,Basic Socks,Sheer Collection,Celebrate,Men's Patterns and Textures,Ultra Shapers,Beyond Bare Collection,Colorwash The Nudes,Casual Patterns,Silky - Queen,Women's Points East Collection,Micro 30,Business Sheers,Barbie,Fond de Poudre,Spring/Summer 2000,Body Gleamers Plus,Basic Tights-Multiples,Sports,Fashion First,Dress Patterns,DKNY Toner,Teddy Hose,NULL,Trim Without the Gym,DKNY Anklet,Pregancy Survival Kit,DKNY Socks.
+BodyFeature: UBC,MBC,BS,LBC,NULL.
+Product Web Template: productDetailLegcare\.jhtml,productDetailLegwear\.jhtml,NULL.
+Audience: Men,Children,Women,NULL.
+Category1: Skincare,Hair Removal,Health Supplements,Cellulite & Other Treatments,Footcare,Cosmetics & Jewelry,NULL.
+Freight: FOB,NULL.
+Product: Kit-Firming Cream/Slimming Cream/Shorts,Shave Brush,Massage Oil - Orchards & Groves,Body Lotion - Meadow Wild Flowers,Foot Bath,Sun Shower Foam,Epishave Wet/Dry,No Nix Shaver for Teens - Purple,Callus Shaver Blades - 20 pack,After Sun Cream,Pedicure Kit - 7 items,8 Sparkling Herb Bath Sac,Coconut Fiber Foot Scrub Brush,Deluxe Massaging Foot Spa,Bronzing Plus Body,Body Benefits Heated Foot Massager Deluxe,Leg Vein & Circulation,Callus Rasp - 2 sided - Removable rasps,Hair Diet Spray,Herbal Foot Soak,SAM-e,Shower & Care,Discrette Plus,Curved Handle Cellulite Massager,Body Firming Cream,Plant Juice-Hawthorn,Body Lotion - Orchards & Groves,Ingrown Toenail File - Stainless,Foot Cream,Bodylis Exfoliating Cream,Herb Bath Salt Lavender 17oz,Massage Oil - Island Spices,Homeopathic Capsules,Razor Sensor,Body Lotion - Island Spices,Creamy Shower Gel,Massage Oil - Meadow Wild Flowers,Leg Magic,Oil No Oil Spray - SPF 4,Roll-On Waxer,Relaxing Foot Bath,Shave Stand,Bone & Joints,Massage Oil - Oceanic Minerals,Herbal Cream,Herbal Bodyskin Conditioner-Evening Primrose,Body Massage Oil Jojaba Nut,Foot Shaped Nailbrush,Massage Sandals,Body Lift Gel,Herbal Foot Balm,Try Out Kit,Luxury Start Up Kit,Body Silk,Replacement Kit - Large Roller,Body Lotion - Oceanic Minerals,Body Slimming Cream,Alum Block Natural,Herbal Bodyskin Conditioner-Almond,Cellulite Trimming Gel,Lady Wax,Slim Sun - SPF 4,Body Toning Lotion,Herbal Tea-Hawthorn-16 bags,Anti-Sun Cream - SPF 24,Aftershave Soother,Body Lotion,Magnifying Callus Shaver with one blade,Herbal Lotion,Dietary Supplement,Sun Cream Average Protection - SPF 8,Herbal Tea-Hawthorn-12 bags,Large Toenail Nipper - Stainless,Shave Cream - Almond,Herb Bath Salt Lavender 25\.5oz,Waterproof Makeup Remover,Slim You Perfect,Deep Massage Body Cream,Ingrown Hair Lotion,Massage Oil - Woodland Valleys,Leg Gel,Toe Separators,Herbal Foot Spray,Chinese Leg & Foot Massage,Pumice Stone with Brush,Cream Peeling,3 Row Foot Massager,Sole Survivor Foot Kit,NULL,Leg Therapy Cream,Power Toenail Clipper,Calcium,Shave Soap - Mandarin,Replacement Kit - Small Roller,Body Lotion - Woodland Valleys.
+Cat2Sub1: Energizers,Cellulite,Leg Veins & Circulation,Firming,Moisturizers,Inhibitors,NULL.
+ActionCode: A,NULL.
+Pattern: Herringbone,Stripe,Plaid,Conversational,Solid,Pique,Floral.
+Product Object Type: PRODUCT,NULL.
+Product Object ID: continuous.
+Product Object Status: A,I,NULL.
+Product Creation Date: date.
+Product Creation Date_Time: time.
+Product Modification Date: date.
+Product Modification Date_Time: time.
+Product Family ID: continuous.
+Product Family Status: Active,NULL.
+Product ID: continuous.
+Product Status: Inactive,Active,NULL.
+Product Code: ignore.
+SKU ID: ignore.
+Product Level 1 Path: /Products/Promotions,/Products/Legwear,/Products/LegCare,NULL.
+Product Level 2 Path: /Products/LegCare/Covermark,/Products/LegCare/Cellasene,/Products/LegCare/SwissBalance,/Products/Legwear/Danskin,/Products/LegCare/Tweezerman,/Products/Legwear/GregNorman,/Products/Legwear/Givenchy,/Products/LegCare/Medea,/Products/LegCare/VeinGard,/Products/Legwear/AnneKlein,/Products/Legwear/EllenTracy,/Products/LegCare/Epilady,/Products/Legwear/Levante,/Products/LegCare/KlebSole,/Products/Legwear/AlexanderJulian,/Products/LegCare/DrSchon,/Products/Legwear/Oroblu,/Products/Legwear/NicoleMiller,/Products/LegCare/NatureMade,/Products/LegCare/YaBabi,/Products/Legwear/DKNY,/Products/Promotions/GYMBAG2000,/Products/Legwear/HighPointKnitting,/Products/Legwear/HotSox,/Products/Legwear/DonnaKaran,/Products/LegCare/NaturalLine,/Products/LegCare/LuckyChick,/Products/Legwear/Hanes,/Products/Legwear/BellyBasics,/Products/Legwear/AmericanEssentials,/Products/Legwear/RoundTheClock,/Products/LegCare/Kneipp,/Products/LegCare/BioDepiless,/Products/Legwear/Berkshire,/Products/LegCare/DailyHerbs,/Products/Legwear/EvanPicone,/Products/LegCare/Juvena,/Products/Legwear/HUE,/Products/LegCare/IColoniali,/Products/LegCare/TendSkin,/Products/LegCare/Conair,/Products/LegCare/DrPerricone,/Products/Legwear/Falke,/Products/LegCare/LivingEarth,NULL,/Products/LegCare/eShave.
+Product Level 3 Path: ignore.
+Assortment Type: SUB_ASSORTMENT,ASSORTMENT,NULL.
+Assortment ID: continuous.
+Assortment Status: A,NULL.
+Assortment Creation Date: date.
+Assortment Creation Date_Time: time.
+Assortment Modification Date: date.
+Assortment Modification Date_Time: time.
+Assortment Level: continuous.
+VendorPageColor: FFFFFF,NULL.
+Assortment Level 1 Path: /Assortments/Main,NULL.
+Assortment Level 2 Path: /Assortments/Main/UniqueBoutiques,/Assortments/Main/Themes,/Assortments/Main/Brands,/Assortments/Main/SaleAssortments,/Assortments/Main/Welcome,/Assortments/Main/BrandOrder,/Assortments/Main/Departments,/Assortments/Main/LifeStyles,/Assortments/Main/Seasonal,NULL.
+Assortment Level 3 Path: /Assortments/Main/Brands/Legcare_Other,/Assortments/Main/Departments/A2_Socks,/Assortments/Main/UniqueBoutiques/05_maternity,/Assortments/Main/Brands/LegCare,/Assortments/Main/UniqueBoutiques/04_evenings,/Assortments/Main/UniqueBoutiques/08_Seasonal,/Assortments/Main/LifeStyles/family,/Assortments/Main/UniqueBoutiques/02_men,/Assortments/Main/UniqueBoutiques/07_gifts,/Assortments/Main/Departments/A1_Hosiery,/Assortments/Main/Seasonal/Spring2000,/Assortments/Main/LifeStyles/InStyle,/Assortments/Main/UniqueBoutiques/03_kids,/Assortments/Main/Themes/warmweatherbarefootcare,/Assortments/Main/UniqueBoutiques/01_PlusSizes,/Assortments/Main/UniqueBoutiques/06_dance,/Assortments/Main/Departments/A4_Legcare,/Assortments/Main/LifeStyles/LegCare,/Assortments/Main/LifeStyles/Work,/Assortments/Main/Departments/A3_Bodywear,/Assortments/Main/Welcome/Legcare,/Assortments/Main/SaleAssortments/WinterSale2000,/Assortments/Main/Brands/Legwear,/Assortments/Main/LifeStyles/Sport,NULL.
+Assortment Level 4 Path: /Assortments/Main/Brands/LegCare/Epilady,/Assortments/Main/Brands/Legwear/NineWest,/Assortments/Main/Brands/Legwear/me,/Assortments/Main/Brands/Legcare_Other/VeinGard,/Assortments/Main/UniqueBoutiques/02_men/HotPicks,/Assortments/Main/Brands/LegCare/Kneipp,/Assortments/Main/UniqueBoutiques/03_kids/HotPicks,/Assortments/Main/Brands/Legwear/BellyBasics,/Assortments/Main/Departments/A4_Legcare/HotPicks,/Assortments/Main/Brands/Legwear/EvanPicone,/Assortments/Main/LifeStyles/LegCare/HotPicks,/Assortments/Main/Brands/Legcare_Other/YaBabi,/Assortments/Main/Brands/LegCare/IColoniali,/Assortments/Main/UniqueBoutiques/08_Seasonal/AssortmentList,/Assortments/Main/Brands/Legwear/AnneKlein,/Assortments/Main/Departments/A2_Socks/HotPicks,/Assortments/Main/UniqueBoutiques/03_kids/AssortmentList,/Assortments/Main/Brands/LegCare/Medea,/Assortments/Main/Brands/LegCare/DrSchon,/Assortments/Main/Brands/Legwear/Hanes,/Assortments/Main/UniqueBoutiques/01_PlusSizes/HotPicks,/Assortments/Main/Brands/LegCare/Juvena,/Assortments/Main/Brands/Legwear/SilkReflections,/Assortments/Main/Brands/LegCare/Conair,/Assortments/Main/UniqueBoutiques/04_evenings/AssortmentList,/Assortments/Main/UniqueBoutiques/06_dance/AssortmentList,/Assortments/Main/LifeStyles/Work/AssortmentList,/Assortments/Main/UniqueBoutiques/07_gifts/HotPicks,/Assortments/Main/Brands/LegCare/eShave,/Assortments/Main/Brands/Legcare_Other/NaturalLine,/Assortments/Main/Brands/Legcare_Other/DailyHerbs,/Assortments/Main/UniqueBoutiques/06_dance/HotPicks,/Assortments/Main/Brands/Legwear/GregNorman,/Assortments/Main/Brands/Legcare_Other/BioDepiless,/Assortments/Main/UniqueBoutiques/02_men/AssortmentList,/Assortments/Main/Brands/Legwear/Falke,/Assortments/Main/UniqueBoutiques/07_gifts/AssortmentList,/Assortments/Main/Brands/Legwear/Givenchy,/Assortments/Main/Brands/LegCare/SwissBalance,/Assortments/Main/Brands/Legwear/RoundtheClock,/Assortments/Main/LifeStyles/Work/HotPicks,/Assortments/Main/Brands/Legcare_Other/Ovacion,/Assortments/Main/Brands/Legcare_Other/NatureMade,/Assortments/Main/Brands/Legcare_Other/DrPerricone,/Assortments/Main/UniqueBoutiques/04_evenings/HotPicks,/Assortments/Main/Brands/Legwear/EllenTracy,/Assortments/Main/Brands/Legwear/Levante,/Assortments/Main/Brands/Legwear/Berkshire,/Assortments/Main/Departments/A1_Hosiery/HotPicks,/Assortments/Main/UniqueBoutiques/05_maternity/HotPicks,/Assortments/Main/Brands/Legcare_Other/LuckyChick,/Assortments/Main/LifeStyles/InStyle/AssortmentList,/Assortments/Main/LifeStyles/LegCare/AssortmentList,/Assortments/Main/Brands/Legwear/Danskin,/Assortments/Main/UniqueBoutiques/08_Seasonal/HotPicks,/Assortments/Main/Brands/Legcare_Other/Cellasene,/Assortments/Main/Brands/Legcare_Other/TendSkin,/Assortments/Main/Brands/LegCare/KlebSole,/Assortments/Main/Brands/Legwear/Hue,/Assortments/Main/LifeStyles/InStyle/HotPicks,/Assortments/Main/LifeStyles/Sport/AssortmentList,/Assortments/Main/Brands/Legwear/AmericanEssentials,/Assortments/Main/Brands/Legwear/Oroblu,/Assortments/Main/Brands/Legwear/DKNY,/Assortments/Main/LifeStyles/family/HotPicks,/Assortments/Main/Brands/LegCare/Tweezerman,/Assortments/Main/Brands/LegCare/LivingEarth,/Assortments/Main/Brands/Legwear/NicoleMiller,/Assortments/Main/Brands/Legwear/DonnaKaran,/Assortments/Main/UniqueBoutiques/05_maternity/AssortmentList,NULL,/Assortments/Main/LifeStyles/family/AssortmentList,/Assortments/Main/Departments/A3_Bodywear/HotPicks,/Assortments/Main/LifeStyles/Sport/HotPicks,/Assortments/Main/Brands/Legwear/HotSox,/Assortments/Main/UniqueBoutiques/01_PlusSizes/AssortmentList.
+Assortment Level 5 Path: /Assortments/Main/LifeStyles/InStyle/AssortmentList/02_nightglamour,/Assortments/Main/UniqueBoutiques/05_maternity/AssortmentList/02_bodywear,/Assortments/Main/UniqueBoutiques/05_maternity/AssortmentList/04_legcare,/Assortments/Main/UniqueBoutiques/04_evenings/AssortmentList/02_kneehighs,/Assortments/Main/UniqueBoutiques/02_men/AssortmentList/03_athletic,/Assortments/Main/UniqueBoutiques/03_kids/AssortmentList/02_girls,/Assortments/Main/Brands/Legwear/DKNY/SubBrandList,/Assortments/Main/UniqueBoutiques/06_dance/AssortmentList/01_leggings,/Assortments/Main/Brands/Legwear/BellyBasics/AssortmentList,/Assortments/Main/UniqueBoutiques/07_gifts/AssortmentList/03_children,/Assortments/Main/Brands/Legwear/Oroblu/AssortmentList,/Assortments/Main/LifeStyles/LegCare/AssortmentList/06_GiftGiving,/Assortments/Main/Brands/Legwear/Hue/HotPicks,/Assortments/Main/UniqueBoutiques/03_kids/AssortmentList/03_bodywear,/Assortments/Main/UniqueBoutiques/07_gifts/AssortmentList/05_bridal,/Assortments/Main/Brands/Legwear/Givenchy/AssortmentList,/Assortments/Main/UniqueBoutiques/01_PlusSizes/AssortmentList/01_pantyhose,/Assortments/Main/Brands/Legwear/EvanPicone/AssortmentList,/Assortments/Main/LifeStyles/Sport/AssortmentList/03_children,/Assortments/Main/LifeStyles/Sport/AssortmentList/04_legcare,/Assortments/Main/Brands/Legwear/HotSox/HotPicks,/Assortments/Main/LifeStyles/family/AssortmentList/02_womens,/Assortments/Main/Brands/Legwear/DKNY/AssortmentList,/Assortments/Main/LifeStyles/InStyle/AssortmentList/04_weekendwear,/Assortments/Main/UniqueBoutiques/07_gifts/AssortmentList/02_womens,/Assortments/Main/Brands/Legwear/EllenTracy/AssortmentList,/Assortments/Main/Brands/Legwear/AmericanEssentials/AssortmentList,/Assortments/Main/Brands/Legwear/EllenTracy/HotPicks,/Assortments/Main/UniqueBoutiques/04_evenings/AssortmentList/02_thighhighsstockings,/Assortments/Main/Brands/Legwear/Hanes/AssortmentList,/Assortments/Main/Brands/Legwear/Hue/AssortmentList,/Assortments/Main/Brands/Legwear/DonnaKaran/SubBrandList,/Assortments/Main/Brands/Legwear/SilkReflections/AssortmentList,/Assortments/Main/UniqueBoutiques/02_men/AssortmentList/01_dress,/Assortments/Main/UniqueBoutiques/06_dance/AssortmentList/04_kids,/Assortments/Main/LifeStyles/LegCare/AssortmentList/03_ExtraCare,/Assortments/Main/Brands/Legwear/BellyBasics/HotPicks,/Assortments/Main/UniqueBoutiques/03_kids/AssortmentList/01_boys,/Assortments/Main/UniqueBoutiques/01_PlusSizes/AssortmentList/04_bodywear,/Assortments/Main/UniqueBoutiques/06_dance/AssortmentList/05_legcare,/Assortments/Main/Brands/Legwear/Hanes/HotPicks,/Assortments/Main/LifeStyles/LegCare/AssortmentList/01_DailyRituals,/Assortments/Main/LifeStyles/InStyle/AssortmentList/03_workflair,/Assortments/Main/UniqueBoutiques/04_evenings/AssortmentList/01_pantyhose,/Assortments/Main/LifeStyles/LegCare/AssortmentList/05_SpecialOccasion,/Assortments/Main/Brands/Legwear/Givenchy/HotPicks,/Assortments/Main/UniqueBoutiques/01_PlusSizes/AssortmentList/03_kneehighs,/Assortments/Main/Brands/Legwear/DonnaKaran/AssortmentList,/Assortments/Main/UniqueBoutiques/07_gifts/AssortmentList/04_specialoccasions,/Assortments/Main/UniqueBoutiques/02_men/AssortmentList/02_countrycasual,/Assortments/Main/LifeStyles/LegCare/AssortmentList/04_SelfIndulgence,/Assortments/Main/UniqueBoutiques/07_gifts/AssortmentList/01_mens,/Assortments/Main/LifeStyles/Work/AssortmentList/01_corporateamerica,/Assortments/Main/UniqueBoutiques/02_men/AssortmentList/05_footcare,/Assortments/Main/Brands/Legwear/Falke/HotPicks,/Assortments/Main/Brands/Legwear/RoundtheClock/AssortmentList,/Assortments/Main/Brands/Legwear/Berkshire/AssortmentList,/Assortments/Main/UniqueBoutiques/04_evenings/AssortmentList/05_legcare,/Assortments/Main/LifeStyles/family/AssortmentList/03_children,/Assortments/Main/LifeStyles/Work/AssortmentList/04_legcare,/Assortments/Main/Brands/Legwear/Berkshire/HotPicks,/Assortments/Main/UniqueBoutiques/06_dance/AssortmentList/02_leotards,/Assortments/Main/UniqueBoutiques/04_evenings/AssortmentList/04_bridal,/Assortments/Main/UniqueBoutiques/08_Seasonal/AssortmentList/01_bythefire,/Assortments/Main/Brands/Legwear/HotSox/AssortmentList,/Assortments/Main/Brands/Legwear/Danskin/HotPicks,/Assortments/Main/LifeStyles/InStyle/AssortmentList/01_funandfunky,/Assortments/Main/UniqueBoutiques/05_maternity/AssortmentList/01_hosiery,/Assortments/Main/Brands/Legwear/AmericanEssentials/HotPicks,/Assortments/Main/Brands/Legwear/RoundtheClock/HotPicks,/Assortments/Main/Brands/Legwear/EvanPicone/HotPicks,/Assortments/Main/Brands/Legwear/NicoleMiller/HotPicks,/Assortments/Main/Brands/Legwear/SilkReflections/HotPicks,/Assortments/Main/LifeStyles/Sport/AssortmentList/05_footcare,/Assortments/Main/Brands/Legwear/Danskin/AssortmentList,/Assortments/Main/UniqueBoutiques/06_dance/AssortmentList/03_tights,/Assortments/Main/UniqueBoutiques/08_Seasonal/AssortmentList/02_bythepool,/Assortments/Main/LifeStyles/Sport/AssortmentList/01_mens,/Assortments/Main/LifeStyles/LegCare/AssortmentList/02_EasyMaintenance,/Assortments/Main/LifeStyles/Work/AssortmentList/02_flightattendants,/Assortments/Main/LifeStyles/family/AssortmentList/01_mens,NULL,/Assortments/Main/Brands/Legwear/AnneKlein/AssortmentList,/Assortments/Main/Brands/Legwear/NicoleMiller/AssortmentList,/Assortments/Main/LifeStyles/Work/AssortmentList/03_casualfridays,/Assortments/Main/Brands/Legwear/AnneKlein/HotPicks,/Assortments/Main/Brands/Legwear/Oroblu/HotPicks,/Assortments/Main/UniqueBoutiques/01_PlusSizes/AssortmentList/05_legcare,/Assortments/Main/LifeStyles/Sport/AssortmentList/02_womens,/Assortments/Main/UniqueBoutiques/08_Seasonal/AssortmentList/03_holidays.
+Assortment Level 6 Path: /Assortments/Main/Brands/Legwear/Danskin/AssortmentList/3_girlstights,/Assortments/Main/Brands/Legwear/HotSox/AssortmentList/3_luxury,/Assortments/Main/Brands/Legwear/Oroblu/AssortmentList/3_kneehighspeds,/Assortments/Main/Brands/Legwear/RoundtheClock/AssortmentList/1_girdleatthetop,/Assortments/Main/Brands/Legwear/AmericanEssentials/AssortmentList/3_womensbasicdress,/Assortments/Main/Brands/Legwear/Givenchy/AssortmentList/2_smoothers,/Assortments/Main/Brands/Legwear/SilkReflections/AssortmentList/1_pantyhose,/Assortments/Main/Brands/Legwear/DonnaKaran/SubBrandList/03_TheNudes,/Assortments/Main/Brands/Legwear/AnneKlein/AssortmentList/02_womensathletic,/Assortments/Main/Brands/Legwear/DKNY/SubBrandList/02_DKNYSKIN,/Assortments/Main/Brands/Legwear/SilkReflections/AssortmentList/3_thighhighs,/Assortments/Main/Brands/Legwear/Hanes/AssortmentList/6_plus,/Assortments/Main/Brands/Legwear/DKNY/SubBrandList/01_DKNY,/Assortments/Main/Brands/Legwear/Berkshire/AssortmentList/3_kneehighs,/Assortments/Main/Brands/Legwear/Hanes/AssortmentList/5_smoothillusions,/Assortments/Main/Brands/Legwear/Danskin/AssortmentList/5_plus,/Assortments/Main/Brands/Legwear/Berkshire/AssortmentList/2_queen,/Assortments/Main/Brands/Legwear/EllenTracy/AssortmentList/1_trousersocks,/Assortments/Main/Brands/Legwear/HotSox/AssortmentList/2_holidaysoccasions,/Assortments/Main/Brands/Legwear/DKNY/AssortmentList/03_socks,/Assortments/Main/Brands/Legwear/Hanes/AssortmentList/3_hanesalive,/Assortments/Main/Brands/Legwear/HotSox/AssortmentList/1_trends,/Assortments/Main/Brands/Legwear/Berkshire/AssortmentList/1_betterthanbare,/Assortments/Main/Brands/Legwear/EvanPicone/AssortmentList/3_kneehighs,/Assortments/Main/Brands/Legwear/DonnaKaran/SubBrandList/04_TheNudesColorwash,/Assortments/Main/Brands/Legwear/DonnaKaran/SubBrandList/01_TheEssentials,/Assortments/Main/Brands/Legwear/DonnaKaran/AssortmentList/02_kneehighs,/Assortments/Main/Brands/Legwear/Givenchy/AssortmentList/1_gleamers,/Assortments/Main/Brands/Legwear/DKNY/AssortmentList/02_thighhighs,/Assortments/Main/Brands/Legwear/EllenTracy/AssortmentList/3_tights,/Assortments/Main/Brands/Legwear/SilkReflections/AssortmentList/5_plus,/Assortments/Main/Brands/Legwear/Oroblu/AssortmentList/2_thighhighs,/Assortments/Main/Brands/Legwear/EvanPicone/AssortmentList/4_footliners,/Assortments/Main/Brands/Legwear/EvanPicone/AssortmentList/2_thighhighsgarterstocking,/Assortments/Main/Brands/Legwear/BellyBasics/AssortmentList/1_pantyhose,/Assortments/Main/Brands/Legwear/AmericanEssentials/AssortmentList/4_womensfashiondress,/Assortments/Main/Brands/Legwear/AmericanEssentials/AssortmentList/1_mensdress,/Assortments/Main/Brands/Legwear/Hanes/AssortmentList/2_absolutelyultrasheer,/Assortments/Main/Brands/Legwear/Hue/AssortmentList/02_womensathletic,/Assortments/Main/Brands/Legwear/NicoleMiller/AssortmentList/01_WomensSocks,/Assortments/Main/Brands/Legwear/Hue/AssortmentList/03_womenstights,/Assortments/Main/Brands/Legwear/Danskin/AssortmentList/2_womensbodywear,/Assortments/Main/Brands/Legwear/BellyBasics/AssortmentList/4_unitards,/Assortments/Main/Brands/Legwear/Oroblu/AssortmentList/1_basicpantyhose,/Assortments/Main/Brands/Legwear/DKNY/AssortmentList/01_pantyhose,/Assortments/Main/Brands/Legwear/Hanes/AssortmentList/1_silkreflections,/Assortments/Main/Brands/Legwear/EllenTracy/AssortmentList/2_trouseranklets,/Assortments/Main/Brands/Legwear/DKNY/SubBrandList/03_DKNYSOCKS,/Assortments/Main/Brands/Legwear/Hue/AssortmentList/01_womensdresscasual,/Assortments/Main/Brands/Legwear/AmericanEssentials/AssortmentList/2_menscasualsport,/Assortments/Main/Brands/Legwear/SilkReflections/AssortmentList/2_kneehighs,/Assortments/Main/Brands/Legwear/Danskin/AssortmentList/4_girlsbodywear,/Assortments/Main/Brands/Legwear/DonnaKaran/SubBrandList/02_TheToners,/Assortments/Main/Brands/Legwear/SilkReflections/AssortmentList/4_beyondbare,/Assortments/Main/Brands/Legwear/BellyBasics/AssortmentList/2_leggings,/Assortments/Main/Brands/Legwear/Hanes/AssortmentList/4_hanestoo,/Assortments/Main/Brands/Legwear/NicoleMiller/AssortmentList/02_MensSocks,/Assortments/Main/Brands/Legwear/DonnaKaran/AssortmentList/01_pantyhose,/Assortments/Main/Brands/Legwear/AnneKlein/AssortmentList/01_womensdresscasual,/Assortments/Main/Brands/Legwear/Danskin/AssortmentList/1_womenstights,/Assortments/Main/Brands/Legwear/EvanPicone/AssortmentList/5_opaquetights,/Assortments/Main/Brands/Legwear/Givenchy/AssortmentList/3_passionprivee,/Assortments/Main/Brands/Legwear/AmericanEssentials/AssortmentList/5_womenssport,/Assortments/Main/Brands/Legwear/BellyBasics/AssortmentList/3_shorts,NULL,/Assortments/Main/Brands/Legwear/EllenTracy/AssortmentList/4_plussizetrousers,/Assortments/Main/Brands/Legwear/HotSox/AssortmentList/4_catsdogs,/Assortments/Main/Brands/Legwear/EvanPicone/AssortmentList/1_sheerhosiery.
+Content Level: ignore.
+Content Creation Date: date.
+Content Creation Date_Time: time.
+Content ID: continuous.
+Content Modification Date: date.
+Content Modification Date_Time: time.
+Content Status: A,NULL.
+Content Type: CONTENT,NULL.
+Content Level 1 Path: /Content/templates,NULL.
+Content Level 2 Path: /Content/templates/articles,/Content/templates/Replenish,/Content/templates/checkout,/Content/templates/main,/Content/templates/products,/Content/templates/account,NULL.
+Content Level 3 Path: /Content/templates/account/shipping_info\.jhtml,/Content/templates/main/leg_news_fashion_word\.jhtml,/Content/templates/main/freegift\.jhtml,/Content/templates/account/credit_info\.jhtml,/Content/templates/articles/new_shipping\.jhtml,/Content/templates/articles/dpt_about_pressreleases\.jhtml,/Content/templates/main/error\.jhtml,/Content/templates/main/legcare_vendor\.jhtml,/Content/templates/checkout/thankyou\.jhtml,/Content/templates/main/welcome\.jhtml,/Content/templates/main/home\.jhtml,/Content/templates/main/seasonal_assortment\.jhtml,/Content/templates/account/past_orders_details\.jhtml,/Content/templates/main/registration_shipaddress\.jhtml,/Content/templates/products/productDetailLegcare\.jhtml,/Content/templates/articles/dpt_about\.jhtml,/Content/templates/main/registration\.jhtml,/Content/templates/main/sitemap\.jhtml,/Content/templates/checkout/expressCheckout\.jhtml,/Content/templates/articles/dpt_about_the_press\.jhtml,/Content/templates/articles/new_returns\.jhtml,/Content/templates/articles/new_security\.jhtml,/Content/templates/main/vendor\.jhtml,/Content/templates/main/theme_assortment\.jhtml,/Content/templates/main/tryit\.jhtml,/Content/templates/Replenish/view_replenish\.jhtml,/Content/templates/main/cust_serv\.jhtml,/Content/templates/main/replenishment\.jhtml,/Content/templates/main/search_results\.jhtml,/Content/templates/articles/dpt_about_careers\.jhtml,/Content/templates/main/login2\.jhtml,/Content/templates/account/create_credit\.jhtml,/Content/templates/main/leg_news_legkicks\.jhtml,/Content/templates/articles/dpt_shipping\.jhtml,/Content/templates/articles/dpt_about_boardofdirectors\.jhtml,/Content/templates/articles/dpt_affiliate\.jhtml,/Content/templates/main/template\.jhtml,/Content/templates/articles/dpt_privacy\.jhtml,/Content/templates/main/departments\.jhtml,/Content/templates/account/create_address\.jhtml,/Content/templates/account/edit_credit\.jhtml,/Content/templates/articles/dpt_refer\.jhtml,/Content/templates/main/shopping_cart\.jhtml,/Content/templates/main/assortment\.jhtml,/Content/templates/articles/dpt_returns\.jhtml,/Content/templates/main/leg_news_healthwellness\.jhtml,/Content/templates/articles/dpt_about_advisoryboard\.jhtml,/Content/templates/account/change_password\.jhtml,/Content/templates/main/lifestyles\.jhtml,/Content/templates/articles/dpt_about_investor\.jhtml,/Content/templates/main/boutique\.jhtml,/Content/templates/account/your_account\.jhtml,/Content/templates/main/vendor2\.jhtml,/Content/templates/account/edit_address\.jhtml,/Content/templates/articles/dpt_about_mgmtteam\.jhtml,/Content/templates/main/assortment2\.jhtml,/Content/templates/articles/dpt_about_healthwellness\.jhtml,/Content/templates/main/sales_assortment\.jhtml,/Content/templates/articles/dpt_contact\.jhtml,/Content/templates/articles/dpt_faqs\.jhtml,/Content/templates/account/address\.jhtml,/Content/templates/main/freeshipping\.jhtml,/Content/templates/products/productDetailLegwear\.jhtml,NULL,/Content/templates/checkout/confirm_order\.jhtml,/Content/templates/main/leg_news\.jhtml,/Content/templates/articles/dpt_terms\.jhtml,/Content/templates/Replenish/create_replenish\.jhtml,/Content/templates/account/past_orders\.jhtml,/Content/templates/articles/dpt_payment\.jhtml.
+Viewed Brand: AmericanEssentials,DonnaKaran,Hanes,Other,NULL.
+Brand To Be Viewed: ?.

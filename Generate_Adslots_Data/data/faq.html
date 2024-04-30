@@ -1,0 +1,706 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ronny Kohavi">
+   <meta name="GENERATOR" content="Mozilla/4.73 [en] (WinNT; I) [Netscape]">
+   <title>KDD Cup 2000 Confidential Information Page</title>
+</head>
+<body>
+
+<center>
+<h4>
+<b><font color="#FF0000">This section of the site contains information
+confidential to <a href="http://www.bluemartini.com">Blue Martini Software</a>
+and Gazelle.com Inc.<br>
+Use of the data is restricted by a non-disclosure agreement that you must
+have signed at<br>
+<a href="http://www.ecn.purdue.edu/KDDCUP/">http://www.ecn.purdue.edu/KDDCUP/</a></font></b></h4></center>
+
+<center>
+<h1>
+<u>KDD Cup 2000 FAQ</u></h1></center>
+
+<ol>
+<li>
+5/27/00 The problem is really hard!&nbsp; I can barely get the accuracy
+down.&nbsp; Am I doing something wrong?</li>
+
+<br>The problems are really hard.&nbsp; In fact, many algorithms will do
+worse than predicting the majority class.
+<br>However, getting even a small improvement may be significant, especially
+if some predictions are high confidence.
+<br>For example:
+<ul>
+<li>
+It is very hard to guess whether a session will end or what a user will
+browse given a single page view.</li>
+
+<br>However, perhaps it is possible to make such predictions for sessions
+of length 5 or more.
+<li>
+There may be attributes that need to be created.&nbsp; With these attributes,
+the problem may be easier.</li>
+</ul>
+
+<li>
+5/23/00 In the names file, some fields are marked as "ignore."&nbsp; What
+does this field type mean and are we allowed to use it?</li>
+
+<br>The names file format we supplied lists all the values for a column.&nbsp;
+When there are many values (over 100 distinct) or when there is a single
+value, we mark the column as ignore.&nbsp; Such attributes have very little
+value for data mining algorithms like C4.5 or C5.0.&nbsp; You may want
+to construct higher level features with fewer values, or you may have an
+algorithm that can deal better than C4.5/C5.0 with such attributes.
+<br>Other attribute types are:
+<ul>
+<li>
+continuous: the values are either integer or float</li>
+
+<li>
+date: date values in the format of "yyyy-MM-dd"</li>
+
+<li>
+time: time values in the format of "HH\:mm\:ss"</li>
+
+<li>
+a list of discrete values: unordered discrete values</li>
+
+<li>
+[ordered] + a list of discrete values: ordered discrete values (the order
+of the values makes semantic sense).</li>
+</ul>
+More information about the C5.0 format can be found in <a href="http://www.rulequest.com/see5-win.html">http://www.rulequest.com/see5-win.html</a>
+at the RuleQuest web site.&nbsp; Note that the available version of C5.0
+does not support "time" (we added this ourselves).
+<li>
+5/26/00 Some sessions in the Clicks dataset have a very large numbers of
+pages (in thousands).&nbsp; How can this be explained?</li>
+
+<br>Welcome to the WWW where bots and crawlers visit. Several thousand
+hits per session are common for crawlers.&nbsp; We suggest you look at
+the "User agent" column, which the browser sends as its identification.&nbsp;
+Sometimes it will disclose itself as a crawler; other times it will have
+a slightly different variant of a true browser, and at times it will just
+hide itself as any other browser.&nbsp; Some examples are given in <a href="http://mosa.unity.ncsu.edu/~brabec/antispam.html">http://mosa.unity.ncsu.edu/~brabec/antispam.html</a>
+<li>
+5/26/00 Are the non-Acxiom demographic fields (things likeYourFavoriteLegcareBrand)
+self-reported?</li>
+
+<br>Yes.&nbsp; The questions were asked during registration.&nbsp; Note,
+however, that (as is very typical of new sites), the registration questions
+changed several times during the period in which the data was logged, and
+hence some customers who registered have values for one set of questions
+and other customers who registered have values for another set of questions.
+<li>
+5/26/00 Will Acxiom demographic data be part of the test data set as well?</li>
+
+<br>Yes.&nbsp; However, you must realize that Acxiom demographics only
+exist for users who have registered (and given their name/address).&nbsp;&nbsp;&nbsp;
+For the questions with a test set (1,2,4,5), this represents a very small
+portion of the visitors.&nbsp; Also, a registered user may come back to
+the site and not login (cookie tricks may help you match, but there are
+few repeat visitors in the short duration we have).
+<li>
+5/26/00 Does the value of '?' indicate a missing value (NULL) as it does
+in C4.5 and C5.0?</li>
+
+<br>Yes.&nbsp; Note, however, that based on some feedback about unknown
+versus inapplicable, the updated dataset to be released 5/27/00 will specify
+NULL instead of "?" for booleans.&nbsp; The unknowns (?) will still exist
+for categorical where the semantics is more appropriate.
+<li>
+5/26/00 Is the combination of "Session ID" and "Request Sequence" a unique
+identifier for every record?</li>
+
+<br>For the clicks dataset, it is.
+<li>
+5/26/00&nbsp; Is the attribute "Order Line Session ID" in the clicks dataset
+the same as "Session ID" in the order dataset?</li>
+
+<br>Yes!&nbsp; Most columns that have the same name (e.g., user id) will
+match across the two tables.
+<li>
+5/26/00 Should the answer to Content Question #5 be provided in terms of
+visitors (demographics), in terms of sessions, or either?</li>
+
+<br>Either, i.e., any insight that would interest a business user is reasonable.
+<li>
+5/27/00 Viewed Brand in the clicks dataset has several values.&nbsp; What
+is NULL?</li>
+
+<br>Null means that the page view is not a product details page.
+<li>
+5/27/00 Order Amount is sometimes zero or a small negative number.&nbsp;
+What does it mean?</li>
+
+<br>Zero purchases are possible with coupons and Gaezlle had a $10 off
+coupon promotion with no minimum price.
+<br>We're asking Gazelle to explain the small negative amounts.
+<li>
+5/28/00 Could you be as specific as possible in describing the differences
+between the web site during the period Jan 30, 2000-April 1, 2000 and the
+site today?</li>
+
+<br>One of the hallmarks of the Blue Martini system is the ability to change
+something and stage a new site while it is up and running.&nbsp; Gazelle
+has staged 190 versions of the site since they started building the site.&nbsp;
+Fifty five (55) of those were done from Jan 30 to April 1st, so we could
+not easily describe all the changes.&nbsp; The most obvious changes were:
+<ul>
+<li>
+Change in the registration form.&nbsp; As you can see, some customer attributes
+are null after a certain period, indicating they were not asked any more,
+while others started getting values late.</li>
+
+<li>
+New promotions.&nbsp; The common ones are described in the <a href="intro.html">introduction
+document.</a></li>
+
+<li>
+New product introductions.&nbsp; Over time, the number of products and
+brands grew significantly.</li>
+
+<br>Our system has a notion of an object (products, product attribute value,
+template, promotion, basically any object).&nbsp; On Jan 30, there were
+6,262 object; on Feb 15 there were 11,742; on Feb 28 there were 14,767;
+on March 15 there were 16,146; and on March 31 there were 17,281.&nbsp;
+As you can see, the site is live and growing, which makes the problem harder.&nbsp;
+The good news is that product and assortment ids that we log are stable,
+so when you see a product logged, it remains the same product even if templates
+changes are made or it gets additional attributes, etc.</ul>
+
+<li>
+5/29/00 In aggregated file for question 2 there are records with several
+target fields marked as "True" at the same time.&nbsp; For example record
+with SessionID = 109 has following data:</li>
+
+<ol><font size=-1>Num Hanes Viewed Later&nbsp;&nbsp;&nbsp; =&nbsp;&nbsp;&nbsp;
+2</font>
+<br><font size=-1>Num AmericanEssentials Viewed Later&nbsp;&nbsp;&nbsp;
+=&nbsp;&nbsp;&nbsp; 1</font>
+<br><font size=-1>Num DonnaKaran Viewed Later&nbsp;&nbsp;&nbsp; =&nbsp;&nbsp;&nbsp;
+0</font>
+<br><font size=-1>No Top Brand Viewed Later = False</font></ol>
+&nbsp;which means that in the remainder of the session the visitor will
+view 2 pages of Hanes and 1 page of AmericanEssensials. The question is:What
+should be predicted in such case (Hanes or AmericanEssentials) ?
+<br><tt>Answer: </tt>You will get the maximum, i.e., two points if you
+predict either Hanes or AmericanEssentials.&nbsp; Given the motivation
+in our docs (a single link on the page to the brand) that defines the evaluation
+criteria, you should predict the brand with the higher confidence of a
+visit in the remainder of the session.
+<li>
+5/30/00 In the answer to question 5 above, we mention that Acxiom demographics
+only exist for users who have registered (and given their name/address).&nbsp;&nbsp;&nbsp;
+For the questions with a test set (1,2,4,5), this represents a very small
+portion of the visitors. However, the given statistics show that&nbsp;&nbsp;
+majority of Axiom's columns have more than 50% of non-null records, such
+Gender. Why?</li>
+
+<br>The reason is that this statistics is computed at the customer level
+using Customer ID. That is, each customer with a unique Customer ID is
+counted once. Since all unregistered visitors have no customer ID (null),
+they are treated as a single customer (with null as the ID value) during
+this statistics calculation.
+<br>Therefore, the number of "Null Values" here is the number of registered
+customers for whom Acxiom does not found Gender + 1.
+<li>
+5/30/00 What do "Order Line" and "Order" mean?</li>
+
+<br>Each "order" can have one or more "order lines."&nbsp; For example,
+in a single order you can buy 2 pairs of socks A and 1 bottle of body cream
+B.&nbsp; This order will have two order lines -- one for socks A and one
+for body cream B.
+<br>An example of an order line variable is "Order Line Quantity" which
+indicates the number of units ordered.&nbsp; In the order above this would
+be "2" for the socks and "1" for the cream.
+<br>An example of an order variable is "Order Amount" which is the total
+amount of money spent for the entire order.&nbsp; This includes the amount
+of money spent for each order line as well as tax and shipping.
+<li>
+5/30/00 What does the "HasDressingRoom" column mean?</li>
+
+<br>Gazelle.com has a feature, called "dressing room", that allows you
+to see the visual effect of a product such as when wearing a Thigh High.
+
+You can change skin tone and hosiery and color there. The attribute HasDressingRoom
+tells whether a product has this feature or not.
+<li>
+5/30/00 What does LeadTime mean?</li>
+
+<br>Time in days from when a product is ordered to when it is expected
+to be receipted in the fulfillment center and available for sale.
+<li>
+5/30/00 What do KS,TS,ML,OC, andPA in Socktype1 &amp; Socktype2 stand for?</li>
+
+<br>KS: knee socks
+<br>TS: trouser socks,
+<br>ML: mid-length
+<br>OC: over-the-calf
+<br>PA: peds and ankle-highs
+<li>
+5/30/00 What do MAS, BKS, BDCS, MCS, KP, TH, LG, MDS, TT, WAS, WDCS, FO,
+LEO, GDCS and PH in CategoryCode stand for?</li>
+
+<br>MAS: men's athletic socks
+<br>BKS: bike shorts
+<br>BDCS: boy's dress/casual socks
+<br>MCS: men's casual socks
+<br>KP: knee-highs/peds
+<br>TH: thigh-highs
+<br>LG: leggings
+<br>MDS: men's dress socks
+<br>TT: tights
+<br>WAS: women's athletic socks
+<br>WDCS: women's dress/casual socks
+<br>FO: fashion/other
+<br>LEO: leotards
+<br>GDCS: girl's dress/casual socks
+<br>PH: pantyhose
+<li>
+5/30/00 What do CT and STW in WaistControl: CT and STW stand for?</li>
+
+<br>CT: control top
+<br>STW: sheer-to-waist
+<li>
+5/30/00 What do UBC, MBC, BS and LBC in BodyFeature stand for?</li>
+
+<br>Gazelle.com doesn't use body feature. This is used as place-holders.
+<li>
+6/3/00 What does "Last Page" or "Last" in some aggregated column names
+mean?</li>
+
+<br>In the aggregated data for question 1 and question 2, it means that
+this column contains the value of the last request in a session for the
+corresponding column in the un-aggregated data. In the aggregated data
+for question 3, it means that this column contains the value of the last
+request in the last session for the corresponding column in the un-aggregated
+data.
+<br>For example, "Texture Last" in q3_agg means the texture of the product
+viewed in the last page of the last session (it has value null if this
+page is not a product detail page); "Session Last Template" in q2_agg means
+the template of the last page of a session.
+<li>
+6/5/00 Will the test set be in the same format as the training set?&nbsp;
+Will it be from the data collected in the .jhtml format or the .jsp format
+that gazelle.com is currently using?</li>
+
+<br>The test dataset is in the same format as the training set for each
+question if applicable. Both of them were collected in the .jhtml format.
+<li>
+7/10/00 What is the equivalent of a static URL in the dataset?</li>
+
+<br>Template + Query string (where + means concatenate).
+<li>
+7/10/00 Is there a unique key in the data?</li>
+
+<br>Session-id and sequence form a unique key.
+<li>
+7/10/00 What is the meaning of gazelle.com&nbsp; being a referral site
+to itself?</li>
+
+<br>This might happen sometimes. For example, when a customer visits the
+gazelle.com
+<br>site and stops at a place for a while. This makes the session time
+out. If the customer
+<br>restarts the visit, a new session will be created. In this case the
+referral of the
+<br>second session will be gazelle.com.
+<li>
+7/10/00 At which situations should we expect the value of&nbsp; "session
+last query string" to be NULL ?</li>
+
+<br>Normally, query string contains parameters passed to the page. Some
+<br>page may not have parameters. In this case, query string is null.
+<br>"Session last query string" is the query string of the last page of
+the
+<br>session in the data set. Note that this page may not be the ending
+page
+<br>of the session, because we clipped some sessions when creating the
+<br>datasets. This column is computed by us based on the training portion
+<br>only, so there is no "leak" of the target.
+<li>
+7/10/00 What exactly is a "Dressing Room" ?</li>
+
+<br>Could you please refer us to one product/page that has it?
+<br>Gazelle.com has a feature, called "dressing room", that allows you
+to see the visual effect of a product
+<br>such as when wearing a Thigh High
+
+<br>. You can change skin tone and hosiery and color there. The attribute
+HasDressingRoom tells whether a
+<br>product has this feature or not.
+<li>
+7/10/00 Will the reports be printed in color for the "judges" ?</li>
+
+<br>Yes. Please tell this when submitting.
+<li>
+7/10/00 Please confirm that the following sentence provided in the instructions
+is still true:</li>
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp; "In the test set that you will get for question
+1, the above set of page views has a 50% of being clipped in the middle."
+<br>This question is asked because an 80:20 distribution was seen in the
+training data set.
+<br>Yes.
+<br>Please note that if a session is chosen to clip, but its length is
+1, it will not be clipped actually
+<br>because the clip point is always great than or equal to 1.
+<li>
+7/10/00 'Send Email?' attribute. What does it mean? Who sends email to
+whom and when?</li>
+
+<br>Send Email is an attribute from Gazelle's registration page where the
+customer registering can specify
+<br>if he/she wants to receive email from Gazelle.
+<li>
+7/10/00 'Unknown card?' attribute (Acxiom). How can Gazelle use an unknown
+card?</li>
+
+<br>The 'Unknown card' attribute from Acixom indicates if the customer
+<br>has a credit card that is not of a known type (gas card, bank card,
+<br>upscale card). So a true here indicates that the customer has a
+<br>credit card but Acxiom does not know the type. This field has nothing
+to do with the credit card used by
+<br>the customer to purchase products from Gazelle's web site.
+<li>
+7/10/00 'Home Market Value' attribute (Acxiom). Does this attribute have
+any relevance to e.g. people that does not own their homes?</li>
+
+<br>Home market value is the value of their current home. They may or
+<br>may not be home owners. In some cases they may be home owners but
+<br>Acxiom may not know about it.
+<li>
+7/10/00 'Number of Credit Lines' attribute (Acxiom). What exactly is a
+credit line?</li>
+
+<br>This corresponds to the number of credit cards the customer has (or
+that
+<br>Acxiom knows about).
+<li>
+7/11/00 What does the column "<b>Order Amount Sum Percent Having Discount
+Range 0</b>" in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of order amounts which do not have discount) / (sum of all
+order amounts).
+<li>
+7/11/00 What does the column "<b>Order Amount Sum Percent Having Discount
+Range (5 ... 10]</b>" in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of order amounts each of which has a discount ranging from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $5 to $10 (not including
+$5 but including $10)) / (sum of all order amounts).
+<li>
+7/11/00 What does the column "<b>Order item Quantity Sum Percent Having
+Discount Range (0 ... 5]</b>" in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of the numbers of items in the orders with a discount ranging
+from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 to $5 ( 0&lt; ... &lt;= $5)) / (sum
+of the numbers of items in all the orders).
+<li>
+7/11/00 What does the column "<b>Order Amount Sum Percent On Tuesday</b>"
+in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of order amounts purchased on Tuesday) / (sum of all order
+amounts).
+<li>
+7/11/00 What does the column "<b>Percent of Products Purchased on Thursday</b>"
+in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of the numbers of items purchased on Thursday) / (sum of
+the numbers of all items purchase).
+<li>
+7/11/00 What does the column "<b>Order Line Amount Sum Percent Hanes</b>"
+in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of order line amounts of products of "/Products/Legwear/Hanes")
+/
+<br>&nbsp; (sum of order line amounts of all products).
+<li>
+7/11/00 What does the column "<b>Order Line Quantity Sum Percentage blue</b>"
+in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of&nbsp; order line quantity of products with MyLegsColorRef
+= blue) /
+<br>&nbsp; (sum of order line quantity of all products).
+<li>
+7/11/00 What does the column "<b>Order Line Quantity Sum Percent With DressingRoom</b>"
+in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of order line quantity of products with HasDressingRoom
+= true) /
+<br>&nbsp; (sum of order line quantity of all products).
+<li>
+7/11/00 What does the column "<b>Order Line Quantity Sum Percent Of Childrens
+Dance Collection</b>" in q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (sum of order line quantity of products belonging to Children's
+Dance Collection) /
+<br>&nbsp; (sum of order line quantity of all products).
+<li>
+7/11/00 What does the column "<b>Order line Day of Week First:</b>" in
+q3_agg mean?</li>
+
+<br>For each customer,
+<br>the day of week when the first order line is submitted.
+<li>
+7/11/00 In Question 1 aggregated data, why all the following columns have
+value 0 in some rows?</li>
+
+<br>Num main Template Views, Num products Template Views, Num articles
+Template Views, Num account Template Views, Num checkout Template Views.
+It seems that there are only these 5 template categories.
+<p>These columns were generated through pivoting the number of page views
+by the "Content Level 2 Path" column. This column has 7 possible values:
+main, products, articles, checkout,&nbsp; account, Replenish, and include.
+Due to that Replenish and include occur in very small percentages of records
+in the training set (0.03% and &lt;0.01%), we didn't generate new columns
+for them. Besides, the "Content Level 2 Path" column may have null value
+if errors occurred and no template was created during page view.
+<br>Therefore, it is possible that&nbsp; in some rows all of these columns
+have value 0.
+<li>
+7/13/00 For question 2, is there a difference between predicting 'Other'
+(The user will visit&nbsp; another product detail page.) and predicting
+'NULL' (The user will not visit any product details page at all.)?&nbsp;
+The 'NULL' prediction incorporates that the visitor only visits other pages
+than product detail pages in the rest of his session or that the visitor
+does not visit any further pages at all, i.e. the given sessions ends.</li>
+
+<br>The prediction for each session must be one of the 4 classes: "Hanes",
+"DonnaKaran", "AmericanEssentials", and "Other". "NULL" mentioned in the
+class should be included in "Other".
+<br>Question 2 has 4 classes:
+<ul>
+<li>
+<b>Hanes</b>&nbsp;&nbsp; (View Hanes Later)</li>
+
+<li>
+<b>DonnaKaran</b>&nbsp;&nbsp;&nbsp; (View DonnaKaran Later)</li>
+
+<li>
+<b>AmericanEssentials</b>&nbsp;&nbsp;&nbsp; (View AmericanEssentials Later)</li>
+
+<li>
+<b>Other</b> (including any situation that does NOT have Hanes brand views,
+nor DonnaKaran brand views, nor AmericanEssentials brand views later. This
+includes no further page views.)</li>
+
+<br>&nbsp;
+<p>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<p>The prediction for each session must be one of the 4 classes: "<b>Hanes</b>",
+"<b>DonnaKaran</b>", "<b>AmericanEssentials</b>", and "<b>Other</b>". "NULL"
+mentioned above should be included in "Other".</ul>
+
+<li>
+7/13/00 Why is Order Amount not equal to the sum of Order Line Amount for
+a given order? When the orders dataset is rolled up by order, the mean
+of Order Amount is 14.0184224, yet the sum of Order Line Amount is 20.8958044.</li>
+
+<br>Two factors here:
+<ul>
+<li>
+Order line amount does not include shipping charges.&nbsp; Shipping is
+assigned to an entire order, but is not distributed to order lines.</li>
+
+<li>
+Discounts can be applied at the order level or the order line level.&nbsp;
+Gazelle had a lot of sales with $10 off order level discounts.&nbsp; This
+probably accounts for the average sum order line amount being higher than
+average order amount.</li>
+</ul>
+
+<li>
+7/14/00 What does the column "<b>Percent Order Promotion FRIEND</b>" in
+q3_agg mean?</li>
+
+<br>For each customer,
+<br>100 * (the number of orders with the "Friend" promotion) / (the number
+of all orders).
+<li>
+7/14/00 What does the column "<b>Order Date Recency</b>" in q3_agg mean?</li>
+
+<br>Days since last order.
+<li>
+7/14/00 What does the column "<b>Order Date Frequency</b>" in q3_agg mean?</li>
+
+<br>Expected number of orders per year (estimated based on orders so far).
+<li>
+7/14/00 What does the column "<b>Height Sum</b>" in q3_agg mean?</li>
+
+<br>The sum of heights of products viewed by this customer. Note that some
+products may not have the Height attribute.
+<li>
+7/14/00 What does the column&nbsp; "<b>Collection Last</b>"&nbsp;&nbsp;
+in q1_agg mean?</li>
+
+<br>The value of the attribute "Collection" of the product viewed in the
+last page if any. Some example values of the Collection" attribute are:
+Specialty Items, Childrens Dance, and Oroblu Fashion Line.
+<li>
+7/14/00 For question 3, 4, or 5, can we write a report of more than one
+page (say 2-3) that does not exceed 1000 words overall?</li>
+
+<br>Yes.
+<li>
+7/15/00 What does "<b>Session visit count</b>" mean in q1_agg data?</li>
+
+<br>Number of visits from the cookie at the time of the session.
+<li>
+7/15/00 What does "<b>Num articles/dpt_about_mgmtteam Template Views</b>"
+mean in q1_agg data?</li>
+
+<br>It's the number of pages viewed with "Content Level 3 Path" = "/Content/templates/articles/dpt_ablut_mgmtteam.jhtml".
+<li>
+7/15/00 What does "<b>Num main/login2 Template Views</b>" mean in q1_agg
+data?</li>
+
+<br>The number of pages viewed with "Content Level 3 Path" = "/Content/templates/main/login2.jhtml".
+<li>
+7/15/00 What does "<b>Num main/registration Template Views</b>" mean in
+q1_agg data?</li>
+
+<br>The number of pages viewed with "Content Level 3 Path" = "/Content/templates/main/registration.jhtml".
+<li>
+7/15/00 What is the difference between assortment views and&nbsp; product
+views?</li>
+
+<br>A product view tells a page viewed containing the product.
+<br>A assortment view tells a page viewed containing a product of that
+assortment or a page related to that assortment. In addition, the assortment
+id in the clickstream data is sticky in the sense that, once it is set
+for viewing an assortment, it remains set on subsequent page requests until
+a new assortment is viewed.&nbsp; So, assortment id on a page request actually
+indicates the latest assortment viewed in the session.
+<li>
+7/15/00 What does "<b>Session Last Template Top 5</b>" mean in q1_agg data?</li>
+
+<br>The request template of the last page viewed (in the dataset rather
+than in the true session). This column has the template if it is one of
+the 5 most common values; "Other" otherwise.
+<li>
+7/15/00 What does "<b>Session First Referrer Top 5</b>" mean in q1_agg?</li>
+
+<br>The referrer of the first page of the session. This column has the
+referrer if it is one of the 5 most common values; "Other" otherwise.
+<li>
+7/17/00 Why does the average first prossessing time is 752 ms in the question1
+aggregated data set and only 292 ms in the question1 aggregated test set?&nbsp;<br>
+Gazelle changed their site, and it's noticed that the compile time is reduced.
+In addition, the site simply became more stable. Every time the application
+server is restarted, or when new content is staged, the first access to
+a page causes a recompile of that page's jhtml, which takes about 5-10
+seconds. If you look at access times for first pages excluding pages that
+took more than 5 seconds, you'll see</li>
+
+<br>&nbsp; training set: 153 ms
+<br>&nbsp; test set: 130 ms
+<br>much closer.For up to 10 seconds, it's 208 ms versus 161 ms.&nbsp;
+Again, reasonably close.
+<li>
+7/17/00 There are a few new content templates in the test data set:</li>
+
+<ul>
+<li>
+Content/templates/account/create_credit.jhtml</li>
+
+<li>
+Content/templates/account/edit_credit.jhtml</li>
+</ul>
+Do these templates replace other templates?
+<br>If yes: Can You please name the previous templates' names.
+<br>If no: What is the busines function of these new templates?
+<br>On the other hand, there are a few content templates missing in the
+test set that were present in the training data set:
+<ul>
+<li>
+Content/templates/account/billing_info.jhtml</li>
+
+<li>
+Content/templates/checkout/billing.jhtml</li>
+
+<li>
+Content/templates/checkout/creditcard.jhtml</li>
+
+<li>
+Content/templates/checkout/shipping.jhtml</li>
+
+<li>
+Content/templates/main/update_credit_card.jhtml</li>
+
+<li>
+Content/templates/main/update_user_address.jhtml</li>
+</ul>
+Did You replace these templates by templates that provide the same functionality
+but that have a different name?
+<p>The end client, i.e., Gazelle, is doing these changes, not Blue Martini.
+Blue Martini provides the infrastructure to build the web sites, but the
+clients build the .jhtml and change them often.&nbsp; This is one of the
+problems with a live web site and the main reason that Blue Martini logs
+events and clickstreams at the semantic level, including products, assortments,
+etc.
+
+<p>Gazelle streamlined some of their processes between the train and test
+period, which caused some of their templates to change.
+<ul>
+<li>
+account/create_credit.jhtml&nbsp;&nbsp; Used for creating a credit card.</li>
+
+<li>
+account/edit_credit.jhtml&nbsp; Used for updating a credit card.</li>
+
+<li>
+account/create_address.jhtml&nbsp; Used for creating an address.</li>
+
+<li>
+account/edit_address.jhtml&nbsp; Used for updating an address.</li>
+</ul>
+Most of their checkout procedure has been replaced by a streamlined express
+checkout which uses the checkout/expresscheckout.jhtml template.
+<li>
+7/17/00 What does "<b>Session First Request Date</b>" means?</li>
+
+<br>Generally, if the string has First or Last then it is the first/last
+entry from the unaggregated data. This is therefore the date+time of the
+first request in the session.
+<li>
+7/17/00 What does "<b>Collection Last</b>" means?<br>
+Collection from the last record in the session. Collection&nbsp; is a Gazelle
+attribute, such as Women's Summer Spectator Collection.</li>
+
+<li>
+7/17/00 What does "<b>Session First Content ID</b>" means?</li>
+
+<br>Content ID is a unique identifier for the template used to display
+the page.
+<li>
+7/17/00 What does "<b>Num BrandOrder Assortnment views</b>" means?</li>
+
+<br>The column assortment path in the unaggregated data can take multiple
+values. In the aggregated data, this is a pivot/count of the value BrandOrder,
+i.e., we count how many times BrandOrder appeared in the assortment.
+<li>
+7/17/00 Does the event of purchasing occur at the ExpressCheckout page?
+or at the confirm_order page? In other words, when is the shopping information
+sent to the site?</li>
+
+<br>At the confirm_order page.</ol>
+
+</body>
+</html>

@@ -1,0 +1,1259 @@
+
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Ronny Kohavi">
+   <meta name="GENERATOR" content="Mozilla/4.73 [en] (WinNT; I) [Netscape]">
+   <title>KDD Cup 2000 Introduction and Questions</title>
+</head>
+<body>
+
+<center>
+<h4>
+<b><font color="#FF0000">This document contains information confidential
+to <a href="http://www.bluemartini.com">Blue Martini Software</a> and Gazelle.com
+Inc.<br>
+Use of the data is restricted by a non-disclosure agreement that you must
+have signed at<br>
+<a href="http://www.ecn.purdue.edu/KDDCUP/">http://www.ecn.purdue.edu/KDDCUP/</a></font></b></h4></center>
+
+
+
+<a href="q1q2answers.zip"> questions 1 and 2 answer file </a>  - password needed to extract</li>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<BR></h1></center>
+</blockquote>
+
+<center>
+<h1>
+<u>KDD Cup 2000 Evaluation Criteria</u></h1></center>
+
+<center><b>Updated 7/31/2000</b></center>
+
+<p><br>
+<h2>
+Introduction</h2>
+
+<blockquote>This document describes the questions and the evaluation criteria
+that were used to rate the participants in KDD Cup 2000.
+<br>Over 170 NDAs were received.&nbsp; 31 entries were submitted (called
+participants below).
+<br>A single winner was declared for each of the five questions.&nbsp;
+One of the participants won two questions.
+<br>Honorable mentions were given to other participants that were judged
+as significant or very close to the winner.
+<br>Questions one and two had one honorable mention each;&nbsp; Question
+3 had two honorable mentions; Question 4 had three honorable mentions;
+and Question 5 had no honorable mention.
+<br>&nbsp;
+<li>
+For questions 3,4,5, for which no simple objective measure exists, we talked
+to retail experts at Gazelle and at Blue Martini about the submissions.
+We then formalized the evaluations by collecting all of the significant
+insights, weighting them, and creating a score based on a linear combination
+of: the observations, the correctness of the submission, and the presentation.&nbsp;
+The weights were as follows:</li>
+
+<ul>
+<li>
+<b>Presentation (0-10), weight 3: </b>How readable and easy to understand
+is the presentation?&nbsp; Are there graphs, tables, and figures that business
+people can understand?&nbsp; Was there an effort to distill the important
+information, or are 37 graphs presented (one for each column with some
+relationship), letting the business user figure things out?</li>
+
+<li>
+<b>Correctness (0-10), weight 3: </b>Are the claims correct (see <a href="#statsOnClipped">below</a>
+for incorrect statistics when using clipped data)?&nbsp; Is the support
+(number of matches) mentioned (see above for low support of purchases from
+shopnow.com referrals)?</li>
+
+<li>
+<b>Bonus (0-10), weight 1:</b> Extra insight or observations that were
+very interesting (but not necessarily an observation about the question).&nbsp;
+We rarely awarded bonus points here and most participants got zero for
+this factor.</li>
+
+<li>
+<b>Insights (0-2), varying weights:</b> As described below for each question,
+there were many insight factors that were created as the union of all insights
+from participants (e.g., over 30 for questions 3 and 4).&nbsp; Each participant
+was ranked 0-2 on identifying each factor.</li>
+</ul>
+
+<p><br>Many observations were given low weight (sometimes zero) because
+they simply correlate with other more fundamental ones.
+<br>For example, it is true (and not well known hence interesting) that
+your palm size correlates with your life expectancy: the <b>larger your
+palm</b>, the <b>less you will live, on average</b>.&nbsp; While this is
+very interesting at first, once you factor the fact that females have smaller
+palms (females live about 6 years longer than males in the U.S.), the effect
+of palm size in the two populations disappears and the insight itself seems
+much less interesting.
+<br>A similar observation is that shoe size correlates with reading ability,
+yet this is obvious once you factor in age: small children do not read
+as well as teenagers.
+<p>In our web mining data, many seemingly interesting observations are
+obvious once you discover the underlying cause, usually time or session
+length.&nbsp; Peeling the onion to find the underlying cause of many observations
+is something many participants have failed to do.&nbsp; We spent significant
+time peeling the onion ourselves on some of the "interesting observations,"
+only to find out there was nothing left once you took time or session length
+into account.&nbsp; Some examples
+<ul>
+<li>
+SendEmail indicates is a registration form question where users are asked
+whether they would like Gazelle to send them e-mail.</li>
+
+<br>Many participants noted the correlation between this and other factors,
+such as being a "heavy" spender (question 3).&nbsp; However, few participants
+plotted the response to this question over time to discover that it varied
+dramatically in time.&nbsp; We asked Gazelle about this and they mentioned
+that the default was changed from yes to no around early March (looks like
+2/29) and that it was changed again afterwards.&nbsp; This is a great example
+of something that was not conveyed to us (and therefore the participants)
+early, yet some participants discovered it. <a href="sendEmail1.gif">click
+to see</a>
+<li>
+Several other attributes from the initial registration form that were not
+used in the second registration form are also simply predictors of time.</li>
+
+<li>
+Only a few participants noted that Donna Karan wasn't available on the
+site prior to 2/26! <a href="brandViews1.gif">click to see</a></li>
+
+<li>
+Many participants noticed that referrers had significant effects, but referrers
+are unstable over time. Some referrers lasted for very short periods (e.g.,
+mycoupons) and some started late (winnie-cooper) <a href="referrers1.gif">click
+to see.</a></li>
+
+<li>
+Some participants forgot that high percentage is meaningless if the support
+is small.&nbsp; For example, some participants mentioned that all (100%)
+of customers referred by FashionMall.com and ShopNow.com were "heavy spenders"
+for question 3, but did not realize that the actual number of purchases
+was extremely small: 17 and 6.</li>
+
+<br><a NAME="conversionTable"></a></ul>
+
+<center><table BORDER=3 CELLSPACING=3 CELLPADDING=3 >
+<tr>
+<td>Referrer</td>
+
+<td>Sessions</td>
+
+<td>% of sessions</td>
+
+<td>Purchased</td>
+
+<td>Conv-rate&nbsp;</td>
+</tr>
+
+<tr>
+<td>http://www.fashionmall.com</td>
+
+<td>
+<div align=right>19,685</div>
+</td>
+
+<td>
+<div align=right>&nbsp;8.38%</div>
+</td>
+
+<td>
+<div align=right>17</div>
+</td>
+
+<td>0.09%</td>
+</tr>
+
+<tr>
+<td>http://stores.shopnow.com</td>
+
+<td>
+<div align=right>16,178</div>
+</td>
+
+<td>&nbsp;6.89%</td>
+
+<td>
+<div align=right>6</div>
+</td>
+
+<td>0.04%</td>
+</tr>
+
+<tr>
+<td>http://www.winnie-cooper.com</td>
+
+<td>
+<div align=right>8,737</div>
+</td>
+
+<td>&nbsp;3.72%</td>
+
+<td>
+<div align=right>0</div>
+</td>
+
+<td>0.00%</td>
+</tr>
+
+<tr>
+<td>http://www.mycoupons.com</td>
+
+<td>
+<div align=right>2,052</div>
+</td>
+
+<td>&nbsp;0.87%</td>
+
+<td>
+<div align=right>170</div>
+</td>
+
+<td>8.28%&nbsp;</td>
+</tr>
+</table></center>
+
+<blockquote>An interesting point is how the conversion rates differ (we
+ignore <a href="winnie.jpg">winnie-cooper visitors</a> who may be looking
+for pictures more than actual items to purchase).&nbsp; The ratio of conversion
+rates between mycoupons.com and shopnow.com is 207!&nbsp; Of course (as
+seen below in question 3), the buyers from mycoupons are usually low spenders,
+but their contribution over time needs to be assessed.&nbsp; Acquisition
+costs could go as high as $200 per customer, so spending $10 on a promotion
+might certainly be useful if the person might come back later and spend
+more money without the coupon.</blockquote>
+<a NAME="statsOnClipped"></a>The most common mistake for questions 4 and
+5 was reporting statistics based on the aggregated training data without
+filtering out the clipped sessions.&nbsp; Because the data consists of
+two populations, one of which (the continue label) is clipped (or right
+censored in statistics terminology), computations that depend on the sessions
+being complete are incorrect.&nbsp; Participants should have filtered out
+the continue/clipped sessions that are marked and generated statistics
+from the rest of the data, which represents the actual distributions.&nbsp;
+The best example is the probability of exiting after k pages, which Jorge
+from e-steam highlighted.&nbsp; Participants that computed the statistics
+based on the training set (ratio of continue to leave) had dramatically
+<b>wrong</b>
+statistics.&nbsp; For example, several reported 87.33% for exiting at the
+first page while the true number is 61.35%.&nbsp; Furthermore, the whole
+trend for abandonment is incorrect: based on the training data label, it
+seems that the probability of leaving the site increases initially but
+the real calculation shows that it is decreasing.&nbsp; <a href="abandonment1.gif">Click
+to see.</a>
+<br>A related mistake was to count visitors using the training set in question
+3.&nbsp; These are only visitors that purchased something.</blockquote>
+
+<h2>
+Questions and Evaluation Criteria</h2>
+
+<blockquote><font color="#000099"><font size=+1>Questions 1: Given a set
+of page views, will the visitor view another page on the site or will the
+visitor leave?</font></font>
+<blockquote><b>Motivation: </b>the ability to predict whether a visitor
+will leave can help determine the best page to display (e.g., there may
+be three alternative pages a site can display in response to a given link
+and each can be evaluated on the likelihood that it will cause the user
+to leave) or action can be taken to encourage the visitor to stay (e.g.,
+special promotion).
+<p><b>Evaluation criteria: </b>the ratio of correct predictions on the
+test set (0-1 loss).
+<br>The winner was the participant with the highest accuracy.
+<br>We looked at the accuracy on non-trivial sessions (5 or more clicks)
+and awarded an honorable mention to the participant with the highest accuracy,
+who happened to have the second highest accuracy for all sessions.
+<br>&nbsp;</blockquote>
+<font color="#000099"><font size=+1>Questions 2: Given a set of page views,
+which product brand (Hanes, Donna Karan, American Essentials, on none)
+will the visitor view in the remainder of the session?</font></font>
+<blockquote><b>Motivation: </b>If you could put a single dynamic link (e.g.,
+picture and URL) on the current page, pointing to a brand, which brand
+would you choose?&nbsp; To make the problem manageable, we are asking you
+to predict one of three common brands, or other.</blockquote>
+
+<blockquote><b>Evaluation criteria:&nbsp;</b> score on the test set determined
+as follows: 2 units if the session visited the predicted brand, 1 unit
+if the session did not visit any of the three brands and the prediction
+was none; 0 otherwise.
+<br>The winner was the participant with the highest score and the second
+highest score for non-trivial sessions (5 or more clicks).
+<br>The honorable mention went to the participant with the second highest
+score who had the highest score on the non-trivial sessions.</blockquote>
+<font color="#000099"><font size=+1>Question 3: Given a set of purchases
+over a period of time, characterize visitors who spend more than $12 (order
+amount) on an average order at the site.</font></font>
+<blockquote><b>Submission requirement: </b>text and graphs that a business
+user will understand and will believe are useful.
+<br>The text is limited to 1,000 words, and up to 10 graphs with captions
+not exceeding 3 lines each.
+<p><b>Motivation: </b>insight can be valuable for determining the business
+directions, marketing decisions, etc.
+<p><b>Insights:</b>
+<ol>
+<li>
+<b>Weight=9:&nbsp; </b>Identification of factors related to time (e.g.,
+account creation or order line date) and noting that the site had significant
+activity starting Feb 29 with the TV ad and the Friends promotion driving
+significant traffic.&nbsp; The initial period until Feb 29 is usually called
+soft-launch where friends and family are asked to visit the site but and
+limited marketing activities happen.&nbsp; On Feb 29 (note the interesting
+Y2K leap year date :-)&nbsp; the real traffic started.</li>
+
+<li>
+<b>Weight=8: </b>Attributes changed in the two registration forms (we said
+this in the intro document but it was ignored by many participants who
+found attributes that were simply surrogates for time).&nbsp; The <a href="sendEmail1.gif">send
+e-mail attribute had a very different distribution during Feb 28 to March
+15</a>.</li>
+
+<li>
+<b>Weight=6: </b>How did you hear about us: Friend and family was low/cheap</li>
+
+<center><table BORDER=3 CELLSPACING=3 CELLPADDING=3 >
+<tr>
+<td>How did you hear</td>
+
+<td>HeavySpenders</td>
+
+<td>Customers</td>
+
+<td>% Heavy Spenders</td>
+</tr>
+
+<tr>
+<td>NULL</td>
+
+<td>92</td>
+
+<td>98</td>
+
+<td>93.88</td>
+</tr>
+
+<tr>
+<td>print ad</td>
+
+<td>30</td>
+
+<td>51</td>
+
+<td>58.82</td>
+</tr>
+
+<tr>
+<td>in the news</td>
+
+<td>13</td>
+
+<td>26</td>
+
+<td>50.00</td>
+</tr>
+
+<tr>
+<td>BASELINE</td>
+
+<td>*</td>
+
+<td>*</td>
+
+<td>24.00</td>
+</tr>
+
+<tr>
+<td>other</td>
+
+<td>122</td>
+
+<td>536</td>
+
+<td>22.76</td>
+</tr>
+
+<tr>
+<td>0</td>
+
+<td>45</td>
+
+<td>204</td>
+
+<td>22.06</td>
+</tr>
+
+<tr>
+<td>direct mail</td>
+
+<td>4</td>
+
+<td>20</td>
+
+<td>20.00</td>
+</tr>
+
+<tr>
+<td>email</td>
+
+<td>43</td>
+
+<td>283</td>
+
+<td>15.19</td>
+</tr>
+
+<tr>
+<td>friend or family</td>
+
+<td>75</td>
+
+<td>613</td>
+
+<td>12.23</td>
+</tr>
+</table></center>
+
+<ol>
+<li>
+33.48% hear from friend / family; avg. order amt. $8.80 (lowest)</li>
+
+<li>
+2.79% heard from print ad; avg. order amt. $36.82 (highest)</li>
+
+<li>
+29.27% heared from other; avg. order amt. $32.19 (2nd highest)</li>
+</ol>
+Note that NULL is simply a surrogate for time again.
+<li>
+<b>Weight=5:</b> High home market values correlated with heavy spenders.</li>
+
+<li>
+<b>Weight=6</b>: Which do you wear most frequently- athletic and casual
+socks implied low spenders.</li>
+
+<li>
+<b>Weight=9: </b>Friend promotion attracted many low spenders.&nbsp; More
+generally, customers that used discounts were low spenders even ignoring
+the discount itself.</li>
+
+<li>
+<b>Weight=4:</b> Registration form questions: Send e-mail, number of children
+imply heavy (indirectly indicate time but they didn't notice observation
+#2 above).</li>
+
+<li>
+<b>Weight=6</b>: Geography was a factor.&nbsp; Northeast U.S. states had
+more heavy spenders.</li>
+
+<li>
+<b>Weight=5:</b> Work dress (in questionnaire) is business casual or business
+dress implies heavy spender.</li>
+
+<br>Note this attribute was non-null starting Feb 26.&nbsp; Heavy spenders
+are 18% after Feb 29, but those who dress business are 25.6% of the heavy
+spenders.
+<li>
+<b>Weight=7: </b>Referrals from Mycoupons (170) are very low spenders;
+shopnow (6) or fashionmall (17) are heavy spenders 100% of the time (note
+the low support for shopnow).&nbsp; See table <a href="#conversionTable">above</a>.</li>
+
+<li>
+<b>Weight=0:</b> Purchases of black products imply heavy spenders.</li>
+
+<br>Although our retail experts were able to explain that black is fashionable,
+sophisticated, upscale, we were unable to verify this.&nbsp; There are
+two attributes that mention black.&nbsp; The one that does have correlation
+with spending was not used after 2/25, so this is simply a correlation
+with time.
+<li>
+<b>Weight =0: </b>Registration form "Buy for others" implies heavy spender
+(93%).</li>
+
+<br>Similarly, how many pairs do you purchase and who makes purchases for
+you, etc.
+<br>These are simply identifying purchasers before 2/25.&nbsp; Exactly
+93% of them are heavy purchasers (80/86), but they are not predictive attribute
+for the future.
+<li>
+<b>Weight=6:</b> Vehicle lifestyle of luxury implies heavy spender, truck
+implies low spender.</li>
+
+<li>
+<b>Weight=3:</b> Product views such as Donna Karan imply heavy spender.&nbsp;
+Views of American Essentials imply low spender.</li>
+
+<li>
+<b>Weight=6</b>: Very High income and very low income imply high spenders</li>
+
+<li>
+<b>Weight=6: </b>Year of birth - older implies heavier spenders (age)</li>
+
+<li>
+<b>Weight=3:</b> Legware of one size implies low spender.</li>
+
+<br>This decreases the heavy spenders from 24% to 14% with very high support.
+<li>
+<b>Weight=4:</b> Pantyhose are preferred by high spenders, socks by low
+spenders</li>
+
+<br>(this may be simply explained by the fact that pantyhose are more expensive).
+<li>
+<b>voided insight.</b></li>
+
+<li>
+<b><font color="#000000">Weight=8: </font></b>home vendor is generating
+heavy spender purchases</li>
+
+<ol>
+<li>
+lifestyle assortments has 47% with 25 people</li>
+
+<li>
+assortment->detail leg wear has 35% with 180 people</li>
+
+<li>
+free gift generates cheap orders</li>
+</ol>
+
+<li>
+<b>Weight=8: </b>Similar to #10, but with additional referrers such as
+freedeals, flamingo (can't get #10 in this case).</li>
+
+<li>
+<b>Weight=2:</b> Children in house imply heavier spender</li>
+
+<br>There are two columns indicating children.&nbsp; 'numberofchildren'
+is from the gazelle registration form and 'presence_of_children' is from
+Acxiom.&nbsp; Interestingly, they have opposite correlations with heavy
+spenders.
+<br>The registration 'numberofchildern' being non-NULL is a strong indication
+of heavy spenders but it is just a surrogate for having an early order
+date.&nbsp; Of the orderlines with a non-NULL value for numberofchildern,
+196 are before 2/28 and only 51 are after it.&nbsp;&nbsp; The support for
+these, however, is very slim in most cases.
+<ol>
+<li>
+0 children imply heavy spender with 93.22% (55/59)</li>
+
+<li>
+1 child imply heavy spender with 100.00%&nbsp;&nbsp; (6/6)</li>
+
+<li>
+2 children imply heavy spender with 92.86% (13/14)</li>
+
+<li>
+3 children imply heavy spender with 100% (1/1)</li>
+
+<li>
+4 or more children imply heavy spender with 50% (1/2)</li>
+
+<li>
+NULL implies heavy spender with 19.90% (348/1749) (baseline is 24%)</li>
+</ol>
+The Acxiom 'presence_of_children' value being true is a reasonable indication
+of non-heavy spenders (brings 24% heavy spenders down to 13%).&nbsp; Both
+false and NULL values increase the likelihood of heavy spenders to about
+30%, whereas true implies heavy spender with 12.9%.
+<li>
+<b>Weight=6: </b>legcare implies high spender (not legware).</li>
+
+<li>
+<b>Weight=4</b>: Dressing room for heavy spenders</li>
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if null correlates with time: heavy
+24% to 67% (199 customers)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; true increases from 24% to 31% (329
+customers)
+<li>
+<b>Weight=4:</b> Waist control CT versus Null.&nbsp; CT and STW imply heavy.
+Similarly Sheer implies heavy.</li>
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waist control increases from 24% to
+43% covers 409
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sheer is similar 24% to 44% and covers
+380
+<li>
+<b>Weight=7: </b>AOL users spend less</li>
+
+<br>Note that Gazelle explained this by saying that their site was not
+tested on AOL browsers and did not work very well.&nbsp; For example, some
+buttons were outside the AOL default frame size.
+<li>
+<b>Weight=4: </b>Marital status.&nbsp; Married implies low spender.</li>
+
+<li>
+<b>Weight=7: </b>50% of customers who visited 4 times are heavy spenders</li>
+
+<li>
+<b>Weight=5: </b>Monday is heavy spenders day.</li>
+
+<br>Wednesday has peak traffic.
+<li>
+<b>Weight=7:</b> Ignoring discount, they're still cheap if they use promotions</li>
+
+<li>
+<b>Weight=4:</b> Big cities imply heavy spenders (where big cities are
+defined by the number of visits from each city).</li>
+
+<br>Mostly true, but note that LA and Arlington have a rate less than the
+default.
+<br>&nbsp;
+<center><table BORDER=3 CELLSPACING=3 CELLPADDING=3 >
+<tr>
+<td>City</td>
+
+<td>Number of heavy spenders</td>
+
+<td>Number of customers</td>
+
+<td>% heavy</td>
+</tr>
+
+<tr>
+<td>San Francisco</td>
+
+<td>35</td>
+
+<td>38</td>
+
+<td>92.11</td>
+</tr>
+
+<tr>
+<td>Chicago</td>
+
+<td>9</td>
+
+<td>15</td>
+
+<td>60.00</td>
+</tr>
+
+<tr>
+<td>New York</td>
+
+<td>32</td>
+
+<td>69</td>
+
+<td>46.38</td>
+</tr>
+
+<tr>
+<td>Brooklyn</td>
+
+<td>6</td>
+
+<td>18</td>
+
+<td>33.33</td>
+</tr>
+
+<tr>
+<td>Seattle</td>
+
+<td>4</td>
+
+<td>12</td>
+
+<td>33.33</td>
+</tr>
+
+<tr>
+<td>Houston</td>
+
+<td>3</td>
+
+<td>12</td>
+
+<td>25.00</td>
+</tr>
+
+<tr>
+<td>Los Angeles</td>
+
+<td>3</td>
+
+<td>13</td>
+
+<td>23.08</td>
+</tr>
+
+<tr>
+<td>Arlington</td>
+
+<td>1</td>
+
+<td>13</td>
+
+<td>7.69</td>
+</tr>
+</table></center>
+</ol>
+</blockquote>
+<font color="#000099"><font size=+1>Question 4: Same as Question 1 but
+for insight.</font></font>
+<blockquote><b>Submission requirement: </b>text and graphs that a business
+user will understand and will believe is useful.
+<br>The text is limited to 1,000 words, and up to 10 graphs with captions
+not exceeding 3 lines each.
+<p><b>Insights:</b></blockquote>
+
+<blockquote>
+<ol>
+<li>
+<font color="#000000"><b>Weight=0:</b> unused</font></li>
+
+<li>
+<font color="#000000"><b>Weight=7:</b>&nbsp;<a NAME="bots"></a>Browser
+types like netscape 3.01, nitro, IE 4.40.426, always leave immediately.&nbsp;
+Although several participants found this, few actually understood that
+these are really bots/crawlers.&nbsp; Here is a list of user agents that
+are likely to be bots.&nbsp; They account for 16% of the sessions and not
+for users with above 99% probability.</font></li>
+
+<br><font color="#000000">Many are slight variations on real user agents.&nbsp;
+Many of these crawl the site slowly or using multiple machines and thus
+create many sessions.</font>
+<ol>
+<li>
+<font color="#000000">LWP::Simple/5.21</font></li>
+
+<li>
+<font color="#000000">DIIbot/1.0</font></li>
+
+<li>
+<font color="#000000">Lotus-Notes/4.5 ( Windows-NT )</font></li>
+
+<li>
+<font color="#000000">Mozilla/3.01 [en] (Win95; I)</font></li>
+
+<li>
+<font color="#000000">Mozilla/3.01 (compatible;)</font></li>
+
+<li>
+<font color="#000000">Teleport Pro/1.29 via NetCache version 3.1.2d-Solaris</font></li>
+
+<li>
+<font color="#000000">Offline Explorer/1.3</font></li>
+
+<li>
+<font color="#000000">Mozilla/4.0 (compatible; MSIE 5.01; MSN 2.6; Windows
+98; MSIECrawler)</font></li>
+
+<li>
+<font color="#000000">NetMechanic V2.0</font></li>
+
+<li>
+<font color="#000000">Cute MP3 and File Finder (CuteFTP)</font></li>
+
+<li>
+<font color="#000000">Mozilla/3.0 (compatible; PerMan Surfer 3.0; Win95)</font></li>
+
+<li>
+<font color="#000000">WebTrends/3.0 (WinNT)</font></li>
+
+<li>
+<font color="#000000">Lesszilla/0.01 [en] (platform independent)</font></li>
+
+<li>
+<font color="#000000">Mozilla/3.Mozilla/2.01 (Win95; I)</font></li>
+
+<li>
+<font color="#000000">Lesszilla/0.02 (Database Link Validator)</font></li>
+
+<li>
+<font color="#000000">xyro</font></li>
+
+<li>
+<font color="#000000">Microsoft Internet Explorer/4.40.426 (Windows 95)</font></li>
+
+<li>
+<font color="#000000">Offline Explorer/1.2</font></li>
+
+<li>
+<font color="#000000">xyro_(xcrawler@inria.fr)</font></li>
+
+<li>
+<font color="#000000">Mozilla/5.0 (compatible; MSIE 5.0)</font></li>
+
+<li>
+<font color="#000000">Mozilla/4.0 (compatible; MSIE 5.0; Win32)</font></li>
+
+<li>
+<font color="#000000">Teleport Pro/1.29</font></li>
+
+<li>
+<font color="#000000">Mozilla/4.0</font></li>
+
+<li>
+<font color="#000000">Mozilla/4.0&nbsp; (TuringOS; Turing Machine; 0.0)</font></li>
+
+<li>
+<font color="#000000">unknown</font></li>
+</ol>
+<font color="#000000">Unlike the above bots that execute many sessions
+with one-click each due to timeouts, the following bots have very long
+sessions:</font>
+<br>&nbsp;
+<table BORDER WIDTH="66%" >
+<tr>
+<td><font color="#000000">Session length</font></td>
+
+<td><font color="#000000">UserAgent</font></td>
+</tr>
+
+<tr>
+<td>5487</td>
+
+<td><font color="#000000">Mozilla/4.0 (compatible; MSIE 5.01; WindowsNT
+5.0; MSIECrawler)</font></td>
+</tr>
+
+<tr>
+<td><font color="#000000">3654</font></td>
+
+<td><font color="#000000">Mozilla/4.0 (compatible; MSIE 5.01; WindowsNT
+5.0; MSIECrawler)</font></td>
+</tr>
+
+<tr>
+<td><font color="#000000">800</font></td>
+
+<td><font color="#000000">Mozilla/4.0 (compatible; MSIE 5.0; Windows98;
+DigExt)</font></td>
+</tr>
+
+<tr>
+<td><font color="#000000">695</font></td>
+
+<td><font color="#000000">Mozilla/4.0 (compatible; MSIE 5.0; Windows98;
+CNETHomeBuild051099)</font></td>
+</tr>
+
+<tr>
+<td><font color="#000000">565</font></td>
+
+<td><font color="#000000">Mozilla/4.0 (compatible; MSIE 5.0; Windows98;
+DigExt)&nbsp;</font></td>
+</tr>
+</table>
+
+<li>
+<font color="#000000"><b>Weight=7</b>: Referring sites: mycoupons continue,
+shopnow.com are prone to exit</font></li>
+
+<li>
+<font color="#000000"><b>Weight=0:</b> Entering inner pages like unique
+boutiques and departments increases prob of leaving to 96% and 94%.&nbsp;
+This is explained by the above bots/crawlers.</font></li>
+
+<li>
+<font color="#000000"><b>Weight=6: </b>Returning visitors' probability
+of continuing is double.</font></li>
+
+<li>
+<font color="#000000"><b>Weight=0: </b>Home page is a killer page even
+if not the first page.</font></li>
+
+<ul>
+<li>
+<font color="#000000">Home page exit probability is 50%</font></li>
+
+<li>
+<font color="#000000">Home page not first request implies probability of
+exit is 8%, which is about normal, so this isn't special.</font></li>
+</ul>
+
+<li>
+<font color="#000000"><b>Weight=2: </b>Special pages</font></li>
+
+<br><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp; End of checkout (thank
+out) is a killer page (expected).</font>
+<br><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp; Shopping cart is NOT
+a killer page.</font>
+<li>
+<font color="#000000"><b>Weight=1: </b>View of collections such as Body
+Gleamers, Passion Privee, Colorwash the Nudes, DKNY skin have higher discontinue
+(70%).&nbsp; We were only able to verify Colorwash The Nudes.</font></li>
+
+<br><font color="#000000">Statistics given were off because aggregated
+data was used.</font>
+<li>
+<font color="#000000"><b>Weight=0: </b>Using search twice increases the
+prob that the user will stop browsing</font></li>
+
+<br><font color="#000000">Not true in unaggregated data.</font>
+<li>
+<font color="#000000"><b>Weight=1</b>: Last query is NULL implies leaving
+with high prob (78%)</font></li>
+
+<br><font color="#000000">&nbsp;True.&nbsp; Somewhat explained by the fact
+that users may be going to home page.</font>
+<li>
+<font color="#000000"><b>Weight=0</b>: Sessions > 10 minutes with dressing
+room terminate.</font></li>
+
+<br><font color="#000000">Unconfirmed.</font>
+<br><font color="#000000">There were 105,963 requests after 10 minutes
+of session time.&nbsp; Of these, only 8767 were terminal (last) requests--8.3%.&nbsp;
+There were 7,468 dressing room views after 10 minutes of session time.&nbsp;
+Of these, only 600 were terminal requests--8.0%.&nbsp; It doesn't seem
+that dressing room views make much of a difference in the termination likelihood
+for sessions over 10 minutes.</font>
+<li>
+<font color="#000000"><b>Weight=0:&nbsp;</b> Last page is of a product
+in the same family as one previously viewed</font></li>
+
+<br><font color="#000000">Unconfirmed.&nbsp; Correlated with time.&nbsp;
+No effect after time factor removed.</font>
+<li>
+<font color="#000000"><b>Weight=0: </b>Momentum (large number of product
+view) implies lower abandonment.</font></li>
+
+<br><font color="#000000">Unconfirmed.&nbsp; Correlated with time.</font>
+<li>
+<font color="#000000"><b>Weight=7:</b> <a href="abandonment1.gif">Probability
+of leaving decreases with page views</a>.&nbsp; This explains many of the
+above findings.</font></li>
+
+<br><font color="#000000"><b>Weight=5</b>: processing time > median time
+of previous pages implies high leaving ratio.&nbsp; Alternatively, average
+processing time > 12 seconds implies high abandonment.</font>
+<br><font color="#000000">Average session length when processing time >12
+seconds: 1.80</font>
+<br><font color="#000000">Average session length when processing time &lt;=
+12 seconds: 3.33</font>
+<br><font color="#000000">When ignore sessions of length 1, we have:</font>
+<br><font color="#000000">Average session length when processing time >12
+seconds: 4.91</font>
+<br><font color="#000000">Average session length when processing time &lt;=
+12 seconds 7.00</font>
+<li>
+<font color="#000000"><b>Weight=5</b>: 66% leave when they do not see any
+product in the last three pages.</font></li>
+
+<br><font color="#000000">Only 3% leave if they have seen product details
+in each of the last three views.</font>
+<br><font color="#000000">Unable to confirm with these high numbers, but
+the trend is correct.&nbsp; We had 15.7% and 8.6%, but small support.</font>
+<li>
+<font color="#000000"><b>Weight=0:</b> For registered users, number of
+customer service template views correlates with abandonment.</font></li>
+
+<br><font color="#000000">Support is too low to support the trend, which
+starts at three customer service templates (only four sessions).</font>
+<li>
+<font color="#000000"><b>Weight=5</b>: Certain pages cause visitors to
+leave</font></li>
+
+<ul>
+<li>
+<font color="#000000">articles/dept_ref leave 37%</font></li>
+
+<li>
+<font color="#000000">dpt_terms.jhtml at end implies leaving 64%</font></li>
+
+<li>
+<font color="#000000">dpt_faqs.jhtml 61%</font></li>
+
+<li>
+<font color="#000000">customer service and careers: 39% and 39%</font></li>
+
+<li>
+<font color="#000000">main/lifestyle->productdetail_legware 32% (likely
+to continue)</font></li>
+
+<li>
+<font color="#000000">Sessions containing legware are longer</font></li>
+
+<li>
+<font color="#000000">Sessions with legcare die fast</font></li>
+</ul>
+
+<li>
+<b>Weight=5:</b> Users who spend less time on the first few pages (session
+time) tend to have longer session lengths.</li>
+
+<br>Long sessions have shorter average page view time.&nbsp; True, but
+may be affected by multi-page crawlers, such as MS IE crawler.
+<li>
+<b>Weight=6:</b> Average session length decreases at night and&nbsp; percent
+of sessions of length 1 increase at night.</li>
+
+<br>Partly explained by crawlers
+<li>
+<b>Weight=4</b>: Registration implies 22.2 pages on average compared to
+3.3.</li>
+
+<br>Explained by the fact that people register to purchase and registration
+plus checkout require multiple pages.
+<li>
+<b>Weight=0</b>: Assortment path 3 null versus not null affects abandonment.</li>
+
+<br>Explained by crawlers
+<li>
+<b>Weight=0:</b> /content/templates/articles appeared on the first page
+of sessions and 91.5% left</li>
+
+<br>Without crawlers mentioned above, this is down to 60%
+<li>
+<b>Weight=6:</b> freegift and welcome template on first 3 pages encouraged
+visitors to stay at site.&nbsp; Freegift implies avg session length of
+8.&nbsp; Welcome page implies avg session length of 15.&nbsp; Welcome template
+is not a killer page (95% continue)</li>
+
+<li>
+<b>Weight=7</b>: Replenishment pages discourage customers. 32% leave the
+site after viewing it.</li>
+
+<li>
+<b>Weight =0:</b>&nbsp; Assortment level of page matters.</li>
+
+<br>Unconfirmed.&nbsp; Correlates well with length of session, which is
+the main factor.
+<li>
+<b>Weight=0</b>: Two or more requests and less than three different template
+views implies more likely to leave.</li>
+
+<br>Unconfirmed.&nbsp; Support too small and correlates too well with session
+length.
+<li>
+<b>Weight=8</b>: Last page view of specific products cause abandonment.</li>
+
+<br>8% leave on any product view and Oroblue, Levante is higher.
+<li>
+<b>Weight=0:</b> Men/Children/Women have different behavior.&nbsp; Women
+products caused you to stay longer.</li>
+
+<br>Explained by crawlers.&nbsp;&nbsp; <font color="#000000">First request,
+probability to continue (support in parens)</font>
+<ul>
+<li>
+<font color="#000000">Children&nbsp;&nbsp;&nbsp; - 11%&nbsp;&nbsp; (232)</font></li>
+
+<li>
+<font color="#000000">Men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 16%&nbsp;&nbsp; (480)</font></li>
+
+<li>
+<font color="#000000">Women&nbsp;&nbsp;&nbsp;&nbsp; - 31%&nbsp;&nbsp; (2663)</font></li>
+
+<li>
+<font color="#000000">NULL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 39%&nbsp;&nbsp;
+(231,576)</font></li>
+</ul>
+<font color="#000000">Excluding crawlers</font>
+<ul>
+<li>
+<font color="#000000">Children&nbsp;&nbsp; - 65%&nbsp;&nbsp; (37)</font></li>
+
+<li>
+<font color="#000000">Men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 72%&nbsp;&nbsp; (96)</font></li>
+
+<li>
+<font color="#000000">Women&nbsp;&nbsp;&nbsp; - 58%&nbsp;&nbsp; (1207)</font></li>
+
+<li>
+<font color="#000000">NULL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 48%&nbsp;&nbsp;
+(156,104)</font></li>
+</ul>
+
+<li>
+<b>Weight=4</b>: templates affect abandonment.</li>
+
+<ol>
+<li>
+assortment/Main/Departments: average session 9 clicks and without it 2
+clicks.&nbsp; Average ignoring sessions with 1 click is 7.8</li>
+
+<li>
+Assortment/Main/LifeStyles has&nbsp; average session of 10 clicks.</li>
+
+<li>
+maternity/Hotpicks: avg session 29.&nbsp; Support 542 clicks</li>
+</ol>
+
+<li>
+<b>Weight=3:</b> Sessions of length > 5 that&nbsp; didn't view the shopping
+cart (excluding robots like MSIE) tend to have the home page as killer.</li>
+
+<ol>
+<li>
+Exit probability for sessions >5: 10.6%</li>
+
+<li>
+Exit probability of home page: 4.6%</li>
+
+<li>
+Exit if you looked at cart: 3.8%</li>
+
+<li>
+Exit if you didn't look at cart: 7%</li>
+
+<li>
+Exit if Cart drops to 4%</li>
+</ol>
+
+<li>
+<b>Weight=2:</b> Exit probability of leaving increases if they have not
+seen at least two different assortment views in the last three most recent
+viewed pages.&nbsp; Increase seems marginal</li>
+
+<ul>
+<li>
+3&nbsp; pages: 29.6% from 25.5%</li>
+
+<li>
+4&nbsp; pages: 22.4% from 21.8%</li>
+
+<li>
+5 pages: 19.3% from 18.4%</li>
+
+<li>
+20 pages: 10.0% from 8.6%</li>
+</ul>
+</ol>
+</blockquote>
+<font color="#3333FF"><font size=+1>Question 5: Same as Question 2 but
+for insight.</font></font>
+<p><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Submission
+requirement:</b> text and graphs that a business user will understand and
+will believe is useful.</font>
+<br><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The text is limited to 1,000 words, and up to 10 graphs with captions not
+exceeding 3 lines each.</font>
+<p><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Insights:</b></font>
+<br>&nbsp;
+<ol>
+<ol>
+<li>
+<font color="#000000"><b>Weight=2</b>: Session of duration 0 implies they
+don't browse, so they won't view products.</font></li>
+
+<br><font color="#000000">Low weight because these are the bots/crawlers
+and there was no identification of such (<a href="#bots">see above for
+Question 4</a>).</font>
+<li>
+<font color="#000000"><b>Weight=3:</b> Session time > 1 and Assortment
+path 3 last effect product viewed.</font></li>
+
+<br><font color="#000000">Brands/Legwear implies Donna Karan, </font>Socks/men
+-> American essentials, etc.
+<li>
+<b>Weight=2:</b> Hanes implies mid-day views on Mondays.</li>
+
+<br>True, not very interesting.&nbsp; Every product has its day.
+<br>Distributions across days are fairly random: <a href="viewHanesByHourDay.jpg">click
+to see</a>
+<li>
+<b>Weight=7</b>: referrer URLs.&nbsp; Fashionmall.com, winnie-cooper are
+referrers for Hanes and Donna Karan</li>
+
+<br>Shopnow is a referrer for Donna Karan.&nbsp; mycoupons.com, tripod,
+deal-finder is a referrer for American Essentials
+<br>Shopnow unlikely to browse any of the three products.
+<li>
+<b>Weight=4</b>: Hose-style (sheer-to-waist) implies Donna Karan</li>
+
+<br>Since there are multiple products with STW, this is interesting.
+<li>
+<b>Weight=5: </b>Previous views of a product imply later views</li>
+
+<li>
+<b>Weight=3:</b> Search implies Donna Karan and American Essentials.</li>
+
+<br>Somewhat explained by the fact that search entails longer sessions.
+<li>
+<b>Weight=5:</b> Specific user agents imply very short sessions.&nbsp;&nbsp;
+Interestingly, no-one understood that these were bots.&nbsp; The assumption
+was that the site isn't appropriate for those browsers <font color="#000000">(<a href="#bots">see
+above for Question 4</a>).</font></li>
+
+<li>
+<font color="#000000"><b>Weight=3:</b> Last view of brand, dept, legware
+increases probability of top brand view.</font></li>
+
+<br>P_Brands: probability of viewing at 1 top brand after the nth request
+if the nth request&nbsp; is '/Assortments/Main/Brands',
+<br>P_Departments: probability of viewing at 1 top brand after the nth
+request if the nth request&nbsp; is /Assortments/Main/Departments',
+<br>P_Legwear: probability of viewing at 1 top brand after the nth request
+if the nth request&nbsp; is 'products/productDetailLegwear.jhtml',
+<br>P_BaseLine: probability of viewing at least 1 top brand after the nth
+request.
+<center><table BORDER=3 CELLSPACING=3 CELLPADDING=3 >
+<tr>
+<td>n</td>
+
+<td>P_Brands</td>
+
+<td>P_Departments</td>
+
+<td>P_Legwear</td>
+
+<td>P_BaseLine</td>
+</tr>
+
+<tr>
+<td>1</td>
+
+<td>9.3%</td>
+
+<td>4.5%</td>
+
+<td>10.2%</td>
+
+<td>6.6%</td>
+</tr>
+
+<tr>
+<td>2</td>
+
+<td>29.4%</td>
+
+<td>19.5%</td>
+
+<td>28.5%</td>
+
+<td>16.8%</td>
+</tr>
+
+<tr>
+<td>3</td>
+
+<td>24.5%</td>
+
+<td>21.0%</td>
+
+<td>27.9%</td>
+
+<td>17.6%</td>
+</tr>
+</table></center>
+
+<li>
+<font color="#000000"><b>Weight=7:</b> Dressing room implies more Hanes
+views.</font></li>
+
+<br><font color="#000000">True and interesting because many product have
+dressing room feature.</font>
+<li>
+<b>Weight=7:</b> <a href="brandViews1.gif">Dana Karan started Feb 26</a></li>
+
+<br>American Essentials has a big increase March 1st.&nbsp; 93.5% of AE
+orders were discounted.</ol>
+The END</ol>
+</blockquote>
+
+</body>
+</html>

@@ -1,0 +1,240 @@
+| The content of this file and the matching data file are confidential
+| to Blue Martini Software and Gazelle.com
+| Right to use is restricted by the NDA agreement for the KDD-CUP 2000
+| For questions, e-mail kddcup2000@bluemartini.com
+|
+| C5.0 names file 
+|
+Spend Over $12 Per Order On Average. | target column
+Order Line Session ID: continuous.
+Order Line Date: date.
+Order Line Date_Time: time.
+Order Line Unit List Price: continuous.
+Order Line Assortment ID: ignore.
+Order Line Subassortment ID: continuous.
+Order Line ID: continuous.
+Order Line Quantity: continuous.
+Order Line Unit Sale Price: continuous.
+Order Line Status: New,Shipped,Submitted,In process,Returned.
+Order Line Tax Amount: continuous.
+Order Line Amount: continuous.
+Order Line Day of Week: [ordered] Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+Order Line Hour of Day: continuous.
+WhichDoYouWearMostFrequent: trouser socks,hosiery,casual socks,athletic socks.
+YourFavoriteLegcareBrand: Lucky Chick,eShave,VeinGard,Tweezerman,Swiss Balance,Ovacion,Covermark,Ya Babi,Medea,Dr\. Perricone,TendSkin,IColoniali,Dr\. Schon,Nature Made,Bio Depiless,Conair,Natural Line,Kleb Sole,Living Earth,Cellasene,DailyHerbs,Kneipp,Juvena,Epilady.
+Registration Gender: Female,Male.
+NumberOfChildren: [ordered] 0, 1, 2, 3, 4 or more.
+DoYouPurchaseForOthers: NULL,False.
+HowDoYouDressForWork: business dress,business casual,comfortable / athletic,very casual.
+HowManyPairsDoYouPurchase: [ordered] 1 to 5, 6 to 10, 11 to 15, 15 or more.
+YourFavoriteLegwearBrand: Ellen Tracy,Oroblu,Belly Basics,American Essentials,Danskin,Hot Sox,Donna Karan,Evan Picone,Givenchy,Greg Norman,DKNY,Hanes,Round the Clock,Falke,Berkshire.
+WhoMakesPurchasesForYou: parent,spouse,siblings,friend.
+NumberOfAdults: [ordered] 0, 1, 2, 3 or more.
+HowDidYouHearAboutUs: in the news,e-mail,print ad,direct mail,other,friend / family.
+Company: COMPANY 2605,COMPANY 416,COMPANY 2975,COMPANY 3051,COMPANY 780,COMPANY 3055,COMPANY 1608,COMPANY 3059,COMPANY 2575,COMPANY 2330,COMPANY 1169,COMPANY 1207,COMPANY 1209,COMPANY 427,COMPANY 2982,COMPANY 1571,COMPANY 1733,COMPANY 1737,COMPANY 1455,COMPANY 796,COMPANY 673,COMPANY 713,COMPANY 395,COMPANY 2183,COMPANY 2870,COMPANY 3070,COMPANY 1587,COMPANY 1626,COMPANY 842,COMPANY 2479,COMPANY 445,COMPANY 2235,COMPANY 2882,COMPANY 2922,COMPANY 3089,COMPANY 613,COMPANY 452,COMPANY 615,COMPANY 617,COMPANY 1085,COMPANY 1086,COMPANY 2092,COMPANY 503,COMPANY 1932,COMPANY 2258,COMPANY 1935,COMPANY 1658,COMPANY 593,COMPANY 594,COMPANY 2383,COMPANY 1258,COMPANY 1099,COMPANY 2262,COMPANY 2427,COMPANY 1944,COMPANY 519,COMPANY 920,COMPANY 3032,COMPANY 3036,COMPANY 2678,COMPANY 482,COMPANY 2395,COMPANY 2397,COMPANY 2273,COMPANY 1792,COMPANY 402,COMPANY 409,NULL,COMPANY 2963,COMPANY 2682,COMPANY 1273,COMPANY 933.
+SendEmail: NULL,True,False.
+HowOftenDoYouPurchase: [ordered] once a year, every 6 months, each week.
+HowDidYouFindUs: Web/Banner Ad,News Story,Search Engine,Friend/Co-worker,Magazine Ad,Other.
+City: ignore.
+Country: United States,NULL.
+US State: IA,ID,IL,IN,AK,AL,AR,RI,AZ,SC,CA,KS,CO,KY,CT,LA,TN,DC,DE,TX,MA,MD,ME,MI,UT,MN,MO,MS,MT,VA,NC,ND,NE,NH,NJ,VT,NM,FL,NV,WA,NY,WI,OH,GA,OK,WV,WY,OR,PA,HI.
+Account Creation Date: date.
+Account Creation Date_Time: time.
+Year of Birth: continuous.
+Email: NET,GOV,COM,EDU,ORG,Gazelle,Other,NULL.
+Login Failure Count: continuous.
+Account Status: Locked Out,Active.
+Customer ID: continuous.
+Acxiom ID: continuous.
+Truck Owner: NULL,True,False.
+RV Owner: NULL,True,False.
+Motorcycle Owner: NULL,True,False.
+Value Of All Vehicles: continuous.
+Age: continuous.
+Other Indiv\. Age: continuous.
+Marital Status: Inferred Married,Single,Inferred Single,Married,NULL.
+Working Woman: NULL,True,False.
+Mail Responder: NULL,True,False.
+Bank Card Holder: NULL,True,False.
+Gas Card Holder: NULL,True,False.
+Upscale Card Holder: NULL,True,False.
+Unknown Card Type: NULL,True,False.
+TE Card Holder: NULL,True,False.
+Premium Card Holder: NULL,True,False.
+Presence Of Children: NULL,True,False.
+Number Of Adults: continuous.
+Estimated Income Code: [ordered] Under $15;000, $15;000-$19;999, $20;000-$29;999, $30;000-$39;999, $40;000-$49;999, $50;000-$74;999, $75;000-$99;999, $100;000-$124;999, $125;000 OR MORE.
+Home Market Value: [ordered] $1;000-$24;999, $25;000-$49;999, $50;000-$74;999, $75;000-$99;999, $100;000-$124;999, $125;000-$149;999, $150;000-$174;999, $175;000-$199;999, $200;000-$224;999, $225;000-$249;999, $250;000-$274;999, $275;000-$299;999, $300;000-$349;999, $350;000-$399;999, $400;000-$449;999, $450;000-$499;999, $500;000-$774;999, $775;000-$999;999, $1;000;000+.
+New Car Buyer: NULL,True.
+Vehicle Lifestyle: FULL SIZE (STANDARD/LUXURY),IMPORT (STANDARD/ECONOMY),SPECIALTY (MIDSIZE/SMALL),PERSONAL LUXURY CAR,STATION WAGON,REGULAR (MIDSIZE/SMALL),TRUCK OR UTILITY VEHICLE,NULL.
+Property Type: apartment(5+ units),2-4 unit(duplex;triplex;quad),mobile_home,misc\. residential (condo store/flat),single family dwelling,NULL,condo.
+Loan To Value Percent: [ordered] 0% (NO LOANS), 01-49%, 50-59%, 60-69%, 70-74%, 75-79%, 80-84%, 85-89%, 90-94%, 95-99%, 100-99%.
+Presence Of Pool: NULL,True,False.
+Year House Was Built: continuous.
+Own Or Rent Home: Owner,NULL,Renter.
+Length Of Residence: continuous.
+Mail Order Buyer: NULL,True,False.
+Year Home Was Bought: continuous.
+Home Purchase Date: continuous.
+Number Of Vehicles: continuous.
+DMA No Mail Solicitation Flag: NULL,True.
+DMA No Phone Solicitation Flag: NULL,True.
+CRA Income Classification: continuous.
+New Bank Card: NULL,True,False.
+Number Of Credit Lines: continuous.
+Speciality Store Retail: NULL,True,False.
+Oil Retail Activity: NULL,True,False.
+Bank Retail Activity: NULL,True,False.
+Finance Retail Activity: NULL,True,False.
+Miscellaneous Retail Activity: NULL,True,False.
+Upscale Retail: NULL,True,False.
+Upscale Speciality Retail: NULL,True,False.
+Retail Activity: NULL,True,False.
+Last Retail Date: date.
+Last Retail Date_Time: time.
+Dwelling Size: [ordered] SINGLE HOUSEHOLD, 2 HOUSEHOLDS, 3 HOUSEHOLDS, 4 HOUSEHOLDS, 5 HOUSEHOLDS, 6 HOUSEHOLDS, 7 HOUSEHOLDS, 8 HOUSEHOLDS, 9 HOUSEHOLDS, 10-19 HOUSEHOLDS, 20-29 HOUSEHOLDS, 30-39 HOUSEHOLDS, 40-49 HOUSEHOLDS, 50-99 HOUSEHOLDS, 100+ HOUSEHOLDS.
+Dataquick Market Code: continuous.
+Lendable Home Equity: [ordered] EQUITY LESS THAN OR EQUAL $0, EQUITY $1-$4;999, EQUITY $5;000-$9;999, EQUITY $10;000-$19;9999, EQUITY $20;000-$29;000, EQUITY $30;000-$49;000, EQUITY $50;000-$74;000, EQUITY $75;000-$99;999, EQUITY $100;000-$149;999, EQUITY $150;000-$199;999, EQUITY $200;000-$249;999, EQUITY $250;000-$299;999, EQUITY $300;000-$349;999, EQUITY $350;000-$399;999, EQUITY $400;000-$499;999, EQUITY $500;000-$749;999, EQUITY $750;000-$999;999, EQUITY $1;000;000-1;999;999, EQUITY GREATER THAN OR EQUAL $2;000;000.
+Home Size Range: [ordered] LESS THAN 750 FT, 750-999 FT, 1;000-1;249 FT, 1;250-1;499 FT, 1;500-1;749 FT, 1;750-1;999 FT, 2;000-2;499 FT, 2;500-2;999 FT, 3;000-3;499 FT, 3;500-3;999 FT, 4;000-4;999 FT, 5;000-5;999 FT, 6;000-6;999 FT, 7;000 FT AND OVER.
+Lot Size Range: [ordered] 1 ACRE OR LESS, GREATER THAN 1 ACRE.
+Insurance Expiry Month: continuous.
+Dwelling Unit Size: SINGLE FAMILY DWELLING UNIT,MULTI FAMILY DWELLING UNIT,NULL.
+Month Home Was Bought: continuous.
+Household Status: NAME APPEARING ON INPUT IS INDIVIDUAL 1,NAME APPEARING ON INPUT IS INDIVIDUAL 2,NULL.
+Available Home Equity: [ordered] EQUITY $1-$4;999, EQUITY $5;000-$9;999, EQUITY $10;000-$19;9999, EQUITY $20;000-$29;000, EQUITY $30;000-$49;000, EQUITY $50;000-$74;000, EQUITY $75;000-$99;999, EQUITY $100;000-$149;999, EQUITY $150;000-$199;999, EQUITY $200;000-$249;999, EQUITY $250;000-$499;999, EQUITY $500;000-$749;999, EQUITY $750;000-$999;999, EQUITY $1;000;000-1;999;999, EQUITY $2;000;000 AND OVER.
+Minority Census Tract: NULL,True,False.
+Verification Date: date.
+Verification Date_Time: ignore.
+Year Of Structure: continuous.
+Gender: Female,Male,NULL.
+Occupation: SALES/SERVICE,PROFESSIONAL/TECHNICAL,SELF EMPLOYED MANAGEMENT,MILITARY,HOUSEWIFE,CRAFTSMAN/BLUE COLLAR,STUDENT,ADMINISTRATIVE/MANAGERIAL,SELF EMPLOYED PROF/TECH,RETIRED,SELF EMPLOYED SALES/MARKETING,SELF EMPLOYED,OTHER,SELF EMPLOYED BLUE COLLAR,NULL,SELF EMPLOYED CLERICAL,SELF EMPLOYED HOMEMAKER,CLERICAL/WHITE COLLAR.
+Other Indiv\. Gender: Female,Male,NULL.
+Other Indiv\. Occupation: SALES/SERVICE,PROFESSIONAL/TECHNICAL,SELF EMPLOYED MANAGEMENT,SELF EMPLOYED RETIRED,HOUSEWIFE,CRAFTSMAN/BLUE COLLAR,STUDENT,ADMINISTRATIVE/MANAGERIAL,SELF EMPLOYED PROF/TECH,RETIRED,SELF EMPLOYED,SELF EMPLOYED SALES/MARKETING,SELF EMPLOYED BLUE COLLAR,NULL,CLERICAL/WHITE COLLAR.
+Last Update Date: date.
+Last Update Date_Time: time.
+Order Date: date.
+Order Date_Time: time.
+Order Customer ID: continuous.
+Order Discount Amount: continuous.
+Order Modification Date: date.
+Order Modification Date_Time: time.
+Order System Name: ignore.
+Order System Number: ignore.
+Order ID: continuous.
+Order Session ID: continuous.
+Order Promotion Code: SPA050,SPA051,SPA052,MARCH 1,SPA054,SPA055,SPA056,SPA057,SPA059,MARCH1,SPA060,SPA064,SPA101,SPA067,SPA103,alloy,SPA108,ALLOY,SPRING,SPECIAL10,FRIEND,SPA072,SPA075,SPA112,SPA077,SPA081,SPA083,SPA084,SPA088,SPA089,SPA002,SOCIAL,SPA007,SPA008,4128003160593466,ALIST,FREEBAG,SPA090,FREE,SPA092,SPA095,SPA096,SPA097,SPA098,SPA099,SPA015,SPA017,FRIENDS,SPA026,SPA027,"FRIEND",LAUNCH2000,SPA031,SPA033,SPA034,SPA 105,launch2000,GYMBAG,SPA040,friend,SPA043,SPA046,Launch2000,SPA048,SPA049,NULL.
+Order Promotion ID: continuous.
+Order Source: TeleConnect,REP,Webstore.
+Order Status: Partial shipment,Submitted,Complete,In process.
+Order Amount: continuous.
+Order Shipping Amount: continuous.
+Order Tax Amount: continuous.
+Order Shipment Method ID: ignore.
+Order Num Payments: continuous.
+Order Credit Card Payment Amount: continuous.
+Order Visa Payment Amount: continuous.
+Order Master Card Payment Amount: continuous.
+Order Amex Payment Amount: continuous.
+Order Credit Card Brand: VISA,AMEX,MC,DISC,NULL.
+Order Day of Week: [ordered] Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+Order Hour of Day: continuous.
+Product Hierarchy Level: continuous.
+SizeUOM: fl oz,ml,bags,oz,NULL.
+BrandName: ANNK,DON,HPK,BB,Silk Reflections,DAN,BER,ELT,Absolutely Ultra Sheer,ORO,AME,GIV,DKNY,Hanes Too,EVP,NM,Round the Clock,HUE,Alive,HOSO,FAL,NULL,Smooth Illusions.
+UnitsPerInnerBox: continuous.
+PrimaryPackage: Spray,Box,Tube,Jar,Bottle.
+Depth: continuous.
+VendorMinREOrderDollars: continuous.
+MylegsColorRef: black,gray,white,pink,neutral,brown,blue,navy,pink/yellow/green,khaki,metallic,cream,off white,red,tan,beige,nude.
+Cat1Sub2: Energizers,Appliances & Tools,Energizers & Relaxers,Tools & Implements,Firming,Exfoliators,Gift Sets & Special Items,Deodorizer,NULL.
+Height: continuous.
+UnitsPerOuterBox: continuous.
+StockType: Replenishment,Seasonal 1*,Seasonal 1,Seasonal 2,Replenishable,Fashion 1,NULL.
+Pack: continuous.
+ProductForm: Capsule,Lotion,gel,Cream,Liquid.
+Look: Opaque,Sheer,Ultra Sheer.
+BasicOrFashion: Fashion,NULL,Basic.
+MyLegsColorRefNo1: Beige,Navy,Black,Green,Grey,White,Red,Metallic,Tan,Natural,Brown,Pink/Yellow/Green,Khaki,Nude,Gray,Taupe,Cream,Pink,NULL,Blue,Silver,Off White.
+MfgStyleCode: ignore.
+SaleOrNonSale: NSALE,NULL.
+Length: continuous.
+Cat1Sub3: Cellulite,Moisturizers,Gift Sets & Special Items,Massage/Relaxers,NULL.
+ColorOrScentDropdown: Yes,NULL.
+DisContinuedInd: A,NULL.
+Socktype2: KS,TS,ML,OC,PA,NULL.
+MinQty: 12,18,0,3,5,6,24,36,144,60,NULL.
+LeadTime: continuous.
+Terms: COD,NULL.
+Weight: continuous.
+Socktype1: KS,TS,ML,OC,PA,NULL.
+InOrOutofStock: IS,NULL.
+Legwear_size: 3x-4x,Q-Petite,1/2,AB,5x-6x,1,2,2+,3,4,5,1P,1X,A,B,C,D,E,F,I,L,M,P,S,T,S/M,2P,CD,2X,L/XL,3P,C/D,3X,3/4,EF,6-8 1/2,4X,MAXI,9-11,P1,1x-2x,P2,P3,M/L,One Size,XL,XT,5-6 1/2,PP,A/B.
+HasDressingRoom: NULL,True,False.
+ColorOrScent: Scent,NULL.
+Width: continuous.
+Texture: Flat,Textured,NULL.
+WeightUOM: lb,oz,NULL,oz\..
+Manufacturer: eShave,N\.V\. Perricone; MD,Tweezerman,Juvena of Switzerland,Belly Basics,Ya Babi,Ridgeview,Easton International; Inc\.,American Essentials,Kayser-Roth Corp\.,BCM-Care AG (TMG),Tend Skin,HAN,Forever New,Sundown,Happy Lady,Conair,Creations by Allen Stuart,ORO,Club Delle Terme,Peneco,Groupe Villandry,Paul Lavitt Mills Inc\.,Kneipp,Stephanie Lyn; Inc\.,Jean Klebert,HOSO,High Point Knitting Inc\.,Natural Care,Donna Karan Company,Beauty Concept Dev\.,Berkshire.
+ProductCode: ignore.
+DimUOM: in,inches,NULL.
+ToeFeature: RT,SF.
+Category2: Health Supplements,Gift Sets & Special Items,Cellulite & Other Treatments,Footcare,NULL.
+Material: Luxury,Nylon,Silk,Opaque,Rayon,Cotton,Coolmax,Lycra,NULL.
+CategoryCode: MAS,BKS,BDCS,MCS,KP,TH,LG,MDS,TT,WAS,WDCS,FO,LEO,GDCS,PH,NULL.
+Cat1Sub1: Razors & Shaving Treatments,Energizers,Cellulite,Spa Wear & Gear,Varicose/Spider Veins,Appliances & Tools,Leg Veins & Circulation,Energizers & Relaxers,Tools & Implements,Suncare,Waxing,Moisturizers,Gift Sets & Special Items,Massage/Relaxers,Inhibitors,NULL.
+UnitIncrement: continuous.
+WaistControl: CT,STW.
+Collection: Pokemon,Oroblu Italian Hosiery,Specialty Items,Sheer Satin Hosiery,Childrens Dance,Comfort Toners,Signature,The New Classics,Oroblu Fashion Line,New Micro Magic Knee High,Wonder Shaper,Men's City Dress,Conversationals,DKNY Tanga,DKNY Skin,Luxury Collection,Hanes Plus Collection,Essential Women's Dress Basics,Conversational Classics,Body Smoothers,Essential Women's Casual Basics,Basic Socks-Multiples,Just Sheer Hosiery,Athletics,Icon Collection,Essential Women's Sport Basics,Men's Essential Sport,Wovens,Womens Plus Dance,Men's Solids,Colorwash-The Nudes,Seidenglatt 15 Stay Up,Essential Toners,Body Gleamers,Lusters,Women's Fresh Air Collection,Essential Women's Novelty Dress,Passion Privee,Sheer Confidence,Girdle at the Top,Action Pack 3-Pair,Better Than Bare - Queen,Just Sheer Knee Highs,Men's Country Casual,DKNY Basic Tailored Casual Socks,Womens Dance,Occasions Collection,Pregnancy Survival Kit,Better Than Bare,Hello Kitty,Sport Basics-Multiples,DKNY Basic Trouser Socks,DKNY,Sheer Collection,Celebrate,Men's Patterns and Textures,Beyond Bare Collection,Colorwash The Nudes,Silky - Queen,Business Sheers,Barbie,Fond de Poudre,Spring/Summer 2000,Body Gleamers Plus,Fashion First,DKNY Toner,Teddy Hose,NULL,Trim Without the Gym,Pregancy Survival Kit,DKNY Anklet,DKNY Socks.
+BodyFeature: UBC,MBC,BS,LBC,NULL.
+Product Web Template: productDetailLegcare\.jhtml,productDetailLegwear\.jhtml,NULL.
+Audience: Men,Children,Women,NULL.
+Category1: Skincare,Hair Removal,Health Supplements,Gift Sets & Special Items,Cellulite & Other Treatments,Footcare,NULL.
+Freight: FOB,NULL.
+Product: Kit-Firming Cream/Slimming Cream/Shorts,Massage Oil - Orchards & Groves,Sun Shower Foam,Epishave Wet/Dry,No Nix Shaver for Teens - Purple,Pedicure Kit - 7 items,Coconut Fiber Foot Scrub Brush,8 Sparkling Herb Bath Sac,Deluxe Massaging Foot Spa,Body Benefits Heated Foot Massager Deluxe,Callus Rasp - 2 sided - Removable rasps,Hair Diet Spray,Herbal Foot Soak,Shower & Care,Discrette Plus,Curved Handle Cellulite Massager,Body Lotion - Orchards & Groves,Ingrown Toenail File - Stainless,Foot Cream,Massage Oil - Island Spices,Homeopathic Capsules,Body Lotion - Island Spices,Roll-On Waxer,Herbal Cream,Massage Oil - Oceanic Minerals,Herbal Bodyskin Conditioner-Evening Primrose,Foot Shaped Nailbrush,Massage Sandals,Hosiery Care Wash,Herbal Foot Balm,Body Silk,Body Lotion - Oceanic Minerals,Replacement Kit - Large Roller,Body Slimming Cream,Cellulite Trimming Gel,Body Toning Lotion,Slim Sun - SPF 4,Herbal Tea-Hawthorn-16 bags,Body Lotion,Magnifying Callus Shaver with one blade,Herbal Lotion,Dietary Supplement,Shave Cream - Almond,Ingrown Hair Lotion,Massage Oil - Woodland Valleys,Leg Gel,Toe Separators,Herbal Foot Spray,Pumice Stone with Brush,Sole Survivor Foot Kit,NULL,Leg Therapy Cream,Power Toenail Clipper,Body Lotion - Woodland Valleys.
+Cat2Sub1: Cellulite,Leg Veins & Circulation,Firming,Moisturizers,NULL.
+ActionCode: A,NULL.
+Pattern: Herringbone,Stripe,Plaid,Conversational,Solid,Pique,Floral.
+Product Object ID: continuous.
+Product Object Status: A,D.
+Product Creation Date: date.
+Product Creation Date_Time: time.
+Product Modification Date: date.
+Product Modification Date_Time: time.
+Product Family ID: continuous.
+Product Family Status: Active,NULL.
+Product ID: continuous.
+Product Status: Inactive,Active,NULL.
+SKU ID: continuous.
+Product Level 1 Path: /Products/Promotions,/Products/Legwear,/Products/LegCare,NULL.
+Product Level 2 Path: /Products/LegCare/Cellasene,/Products/LegCare/SwissBalance,/Products/Legwear/Danskin,/Products/LegCare/Tweezerman,/Products/Legwear/Givenchy,/Products/LegCare/Medea,/Products/LegCare/VeinGard,/Products/Legwear/AnneKlein,/Products/Legwear/EllenTracy,/Products/LegCare/Epilady,/Products/LegCare/KlebSole,/Products/Legwear/Oroblu,/Products/LegCare/DrSchon,/Products/Legwear/NicoleMiller,/Products/LegCare/YaBabi,/Products/Legwear/DKNY,/Products/Promotions/GYMBAG2000,/Products/Legwear/HighPointKnitting,/Products/Legwear/HotSox,/Products/Legwear/DonnaKaran,/Products/LegCare/NaturalLine,/Products/Legwear/Hanes,/Products/LegCare/LuckyChick,/Products/Legwear/BellyBasics,/Products/Legwear/AmericanEssentials,/Products/Legwear/RoundTheClock,/Products/LegCare/Kneipp,/Products/LegCare/BioDepiless,/Products/Legwear/Berkshire,/Products/Legwear/EvanPicone,/Products/LegCare/Juvena,/Products/Legwear/HUE,/Products/LegCare/Conair,/Products/LegCare/TendSkin,/Products/LegCare/DrPerricone,/Products/Legwear/Falke,/Products/LegCare/LivingEarth,NULL,/Products/LegCare/eShave,/Products/LegCare/Ovacion.
+Product Level 3 Path: ignore.
+Assortment Type: SUB_ASSORTMENT,NULL.
+Assortment ID: continuous.
+Assortment Status: A,NULL.
+Assortment End Date: ignore.
+Assortment End Date_Time: ignore.
+Assortment Creation Date: date.
+Assortment Creation Date_Time: time.
+Assortment Modification Date: date.
+Assortment Modification Date_Time: time.
+Assortment Level: continuous.
+VendorPageColor: FFFFFF,NULL.
+Assortment Level 1 Path: /Assortments/Main,NULL.
+Assortment Level 2 Path: /Assortments/Main/UniqueBoutiques,/Assortments/Main/Brands,/Assortments/Main/SaleAssortments,/Assortments/Main/Welcome,/Assortments/Main/Departments,/Assortments/Main/LifeStyles,NULL.
+Promotion Object Type: PROMOTION,NULL.
+Promotion Object ID: ignore.
+Promotion Object Status: A,NULL.
+Promotion Object Creation Date: ignore.
+Promotion Object Creation Date_Time: ignore.
+Promotion Object Modification Date: ignore.
+Promotion Object Modification Date_Time: ignore.
+Promotion Folder ID: ignore.
+Promotion Folder Status: Active,NULL.
+Promotion ID: ignore.
+Promotion Name: freebag,NULL.
+Promotion Status: Active,NULL.
+Promotion Use: Unlimited Use,NULL.
+Promotion Object Level: ignore.
+Promotion Level 1 Path: /Promotions/Free Gifts,NULL.
+Promotion Level 2 Path: /Promotions/Free Gifts/freebag,NULL.
+Spend Over $12 Per Order On Average: True,False.
